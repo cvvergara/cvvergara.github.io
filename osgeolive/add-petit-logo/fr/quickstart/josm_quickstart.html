@@ -94,245 +94,240 @@
             
   <div class="section" id="josm-quickstart">
 <h1><a class="toc-backref" href="#id1">JOSM Quickstart</a><a class="headerlink" href="#josm-quickstart" title="Permalink to this headline">¶</a></h1>
-<p>This quickstart covers basic usage of the Java OpenStreetMap editor.</p>
+<p>Ce guide de démarrage rapide couvre les usages de base de l&#8217;éditeur Java d&#8217;OpenStreetMap.</p>
 <div class="contents topic" id="contents">
 <p class="topic-title first">Contents</p>
 <ul class="simple">
 <li><a class="reference internal" href="#josm-quickstart" id="id1">JOSM Quickstart</a><ul>
-<li><a class="reference internal" href="#josm-preferences" id="id2">JOSM Preferences</a></li>
-<li><a class="reference internal" href="#learn-basic-drawing-with-josm" id="id3">Learn Basic Drawing with JOSM</a><ul>
-<li><a class="reference internal" href="#basic-operations" id="id4">Basic Operations</a></li>
-<li><a class="reference internal" href="#points-lines-and-shapes" id="id5">Points, Lines, and Shapes</a></li>
-<li><a class="reference internal" href="#changing-objects" id="id6">Changing Objects</a></li>
-<li><a class="reference internal" href="#drawing" id="id7">Drawing</a></li>
-<li><a class="reference internal" href="#add-presets" id="id8">Add Presets</a></li>
+<li><a class="reference internal" href="#preferences-de-josm" id="id2">Préférences de JOSM</a></li>
+<li><a class="reference internal" href="#apprendre-les-techniques-de-base-de-dessin-avec-josm" id="id3">Apprendre les techniques de base de dessin avec JOSM</a><ul>
+<li><a class="reference internal" href="#operations-basiques" id="id4">Opérations basiques</a></li>
+<li><a class="reference internal" href="#points-lignes-et-polygones" id="id5">Points, lignes et polygones</a></li>
+<li><a class="reference internal" href="#modifier-les-objets" id="id6">Modifier les objets</a></li>
+<li><a class="reference internal" href="#tracer" id="id7">Tracer</a></li>
+<li><a class="reference internal" href="#utiliser-les-modeles-d-attributs" id="id8">Utiliser les modèles d&#8217;attributs</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#draw-your-own-map" id="id9">Draw Your Own Map</a></li>
-<li><a class="reference internal" href="#remove-the-sample-layer" id="id10">Remove the sample layer</a></li>
-<li><a class="reference internal" href="#what-next" id="id11">What Next?</a></li>
+<li><a class="reference internal" href="#tracer-votre-carte" id="id9">Tracer votre carte</a></li>
+<li><a class="reference internal" href="#supprimer-la-couche-d-exemple" id="id10">Supprimer la couche d&#8217;exemple</a></li>
+<li><a class="reference internal" href="#et-ensuite" id="id11">Et ensuite ?</a></li>
 </ul>
 </li>
 </ul>
 </div>
 <ul class="simple">
-<li>When JOSM starts, it will look something like this:</li>
+<li>Quand JOSM démarre, cela devrait ressembler à cela:</li>
 </ul>
-<img alt="JOSM splash page" src="../../_images/josm-splash-page.png" />
-<div class="section" id="josm-preferences">
-<h2><a class="toc-backref" href="#id2">JOSM Preferences</a><a class="headerlink" href="#josm-preferences" title="Permalink to this headline">¶</a></h2>
-<p>There are many different settings that you can customize in JOSM. One
-setting that you may want to adjust is the language. JOSM has been
-translated into numerous languages, and you may prefer to work in a
-different one.</p>
+<img alt="écran de chargement de JOSM" src="../../_images/josm-splash-page.png" />
+<div class="section" id="preferences-de-josm">
+<h2><a class="toc-backref" href="#id2">Préférences de JOSM</a><a class="headerlink" href="#preferences-de-josm" title="Permalink to this headline">¶</a></h2>
+<p>Il y a plusieurs paraamètres que vous pouvez modifier dans JOSM. Un
+paramètre que vous pouvez vouloir changer est la langue. JOSM a été
+traduit dans de nombreuses langues, et vous pouvez préférer travailler dans
+une langue différente.</p>
 <ul class="simple">
-<li>To access the Preferences window, click Edit -&gt; Preferences.</li>
+<li>Pour accèder à la fenêtre des Préférences, cliquez sur Edit -&gt; Preferences.</li>
 </ul>
-<img alt="Preferences window" src="../../_images/josm_preferences.png" />
+<img alt="Fenêtre des Préférences" src="../../_images/josm_preferences.png" />
 <ul class="simple">
-<li>On the left side, click the icon that looks like a paint can and
-paint brush.</li>
-<li>At the top of the window, click the tab that says “Look and Feel”.</li>
-<li>Choose your language in the dropdown box next to the word “Language”.</li>
+<li>Sur le côté gauche, cliquez sur l&#8217;icône qui ressemble à un pot de peinture et
+un pinceau.</li>
+<li>En haut de la fenêtre, cliquez sur l&#8217;onglet intitulé “Look and Feel”.</li>
+<li>Choisissez votre langue dans le menu déroulant à côté du mot “Language”.</li>
 </ul>
-<img alt="Look and feel" src="../../_images/josm_look-and-feel.png" />
+<img alt="Onglet Look and feel" src="../../_images/josm_look-and-feel.png" />
 <ul class="simple">
-<li>Click OK.</li>
-<li>You need to restart JOSM to save your settings. Click “File” in the
-upper left corner, and Click “Restart” near the bottom of the menu.</li>
+<li>Cliquez sur OK.</li>
+<li>Vous devez redémarrer JOSM pour sauvegarder le paramètrage. Cliquez “File” dans le
+coin supérieur gauche, et cliquez sur “Restart” en bas du menu.</li>
 </ul>
 </div>
-<div class="section" id="learn-basic-drawing-with-josm">
-<h2><a class="toc-backref" href="#id3">Learn Basic Drawing with JOSM</a><a class="headerlink" href="#learn-basic-drawing-with-josm" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="apprendre-les-techniques-de-base-de-dessin-avec-josm">
+<h2><a class="toc-backref" href="#id3">Apprendre les techniques de base de dessin avec JOSM</a><a class="headerlink" href="#apprendre-les-techniques-de-base-de-dessin-avec-josm" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Now let’s open up a sample OSM file which we will use to learn the
-basic ways to draw maps with JOSM. Note that this map is not real, in
-that it is not a real map of a real place, so we will not save it on
-OpenStreetMap.</li>
-<li>Download the file here: <a class="reference external" href="http://learnosm.org/files/sample.osm">sample.osm</a></li>
-<li>Now let’s open the sample map file in JOSM. Click the “Open” button
-in the upper left.</li>
+<li>Maintenant ouvrons un fichier OSM que  nous utiliserons pour apprendre les
+méthodes basiques pour dessiner des cartes avec JOSM. Notez que cette carte n&#8217;est pas réelle,
+que ce n&#8217;est pas une carte réelle d&#8217;un endroit réel, donc nous n&#8217;aurons pas besoin de sauvegarder nos changements
+sur OpenStreetMap.</li>
+<li>Téléchargez le fichier ici: <a class="reference external" href="http://learnosm.org/files/sample.osm">sample.osm</a></li>
+<li>Maintenant ouvrons-le dans JOSM. Cliquez sur le bouton “Open”
+en haut à gauche.</li>
 </ul>
-<img alt="Open file" src="../../_images/josm_open-file.png" />
+<img alt="Ouvrir un fichier" src="../../_images/josm_open-file.png" />
 <ul class="simple">
-<li>Find the file <strong>sample.osm</strong>. It is probably in your Downloads
-folder, unless you saved it somewhere else. Click on it, and then
-click “Open”.</li>
-<li>You should now see a sample map that looks like this:</li>
+<li>Trouvez le fichier <strong>sample.osm</strong>. Il est probablement dans votre dossier Téléchargements,
+à moins que vous l&#8217;ayez sauvegardé ailleurs. Cliquez dessus, puis
+cliquez sur “Open”.</li>
+<li>Vous devriez voir un exemple de carte qui ressemble à ça:</li>
 </ul>
-<img alt="Sample file" src="../../_images/josm_sample-file.png" />
+<img alt="fichier exemple" src="../../_images/josm_sample-file.png" />
 <ul class="simple">
-<li>You will use these data in order to try various editing techniques.
-<em>You must however never upload these fictitious data to the
-database.</em></li>
+<li>Vous utiliserez ces données dans le but d&#8217;essayer différentes techniques d&#8217;édition.
+<em>Vous ne devez jamais charger dans la base de données ces données fictives.</em></li>
 </ul>
-<div class="section" id="basic-operations">
-<h3><a class="toc-backref" href="#id4">Basic Operations</a><a class="headerlink" href="#basic-operations" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="operations-basiques">
+<h3><a class="toc-backref" href="#id4">Opérations basiques</a><a class="headerlink" href="#operations-basiques" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li>To move the map left or right, up or down, hold your right mouse
-button down, and move your mouse.</li>
-<li>There are several ways to zoom in and out of the map. If you have a
-mouse, you can use your scroll wheel to zoom in and out. If you are
-using a laptop and don’t have a mouse, you can zoom in and out using
-the scale bar in the upper left of the map window. Drag the bar left
-and right by holding your left mouse down and moving the bar left or
-right with your mouse.</li>
+<li>Pour déplacer la carte de droite à gauche ou de haut en bas, utilisez le bouton
+droit de votre souris, que vous devez laissez appuyé tout en déplaçant votre souris.</li>
+<li>Il y a plusieurs façons de zoomer ou dézoomer la carte. Si vous avez une molette
+sur votre souris, vous pouvez l’utiliser. Sinon, vous pouvez utiliser le curseur
+dans le coin en haut à gauche de la carte. Déplacer la barre vers la gauche ou
+vers la droite avec votre souris pour zoomer ou dézoomer.</li>
 </ul>
-<img alt="Scale bar" src="../../_images/josm_scale-bar.png" />
+<img alt="Barre d'échelle" src="../../_images/josm_scale-bar.png" />
 <ul class="simple">
-<li>Look at the sample map. There a few different types of objects here.
-There is a river, a forest, some buildings, several roads, and a
-couple of shops. To select an object, click on it with your left
-mouse button.</li>
+<li>Regardez la carte d&#8217;exemple. Il y a plusieurs types d&#8217;objets.
+Il y a une rivière, une forêt, quelques bâtiments, plusieurs routes et une
+paire de magasins. Pour sélectionner un objet, cliquez dessus avec le
+bouton gauche de la souris.</li>
 </ul>
 </div>
-<div class="section" id="points-lines-and-shapes">
-<h3><a class="toc-backref" href="#id5">Points, Lines, and Shapes</a><a class="headerlink" href="#points-lines-and-shapes" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="points-lignes-et-polygones">
+<h3><a class="toc-backref" href="#id5">Points, lignes et polygones</a><a class="headerlink" href="#points-lignes-et-polygones" title="Permalink to this headline">¶</a></h3>
 <ul>
-<li><p class="first">As you click different objects on the sample map, notice that there
-are three different types of objects on the map. There are points,
-lines, and shapes.</p>
+<li><p class="first">En cliquant sur différents objets de la carte, vous pouvez remarquer qu&#8217;il
+y a trois types différents d&#8217;objets sur la carte. Il y a les points,
+lignes et les polygones.</p>
 </li>
-<li><p class="first">Points are a single location, represented by symbols. On this sample
-map, there are two points, a shoe shop and a supermarket. The shoe
-shop is represented by a shoe symbol, and the market is represented
-by a shopping cart.</p>
-</li>
-<li><p class="first">There are several lines on the map as well, which represent roads. If
-you look closely you will see that within the lines, there are points
-as well. These points don’t have any symbols or other information
-associated with them, but they help to define where the line is
-located.</p>
-</li>
-<li><p class="first">Lastly, there are numerous shapes on the sample map, representing
-different places - a forest, a river, a park, and buildings. A shape
-is used to represent an area, like a field or a building. A shape is
-exactly like a line - the only difference is that the line begins at
-the same point where it ends.</p>
+<li><p class="first">Les points sont des lieux simples, représentés par des symboles.
+Dans notre carte d’exemple, nous avons deux points: une boutique de vêtements
+et un marché. La boutique de vêtements est représentée par une image de maillot</p>
 <blockquote>
-<div><p>It&#8217;s easy to think of a map as containing these three basic types of
-objects - points, lines, and shapes. In OpenStreetMap there is
-special terminology which you will come to learn as you progress. In
-OSM, points are actually called <strong>nodes</strong>, and lines are called
-<strong>ways</strong>. A shape is called a <strong>closed way</strong> because it is just a
-line that ends at the same point where it begins.</p>
+<div><p>et le marché, par un panier de courses.</p>
 </div></blockquote>
 </li>
-<li><p class="first">You may notice that when you select an object, a list appears to the
-right of the map in a window called “Properties”. These are known as
-tags. Tags are information that is tied to a point, line or shape
-that describes what it is. We’ll learn more about tags in a later
-chapter. For now all you need to know is that this information helps
-describe whether our object is a forest, a river, a building, or
-something else.</p>
+<li><p class="first">Il y a aussi des lignes sur la carte, qui représentent des routes. Si vous regardez
+attentivement vous remarquerez que les lignes contiennent des points. Aucune
+information et aucun symbole n’est associé avec ces points: leur rôle est de
+déterminer le tracé de la ligne.</p>
 </li>
-<li><p class="first">Think about drawing a map by hand, and how you are also drawing
-points, lines, and shapes. What other places are best represented by
-points? Lines? Shapes?</p>
+<li><p class="first">Enfin, il y a différents polygones, qui représentent plusieurs lieux: une forêt,
+une rivière, et des bâtiments. Un polygone représente généralement une aire,
+par exemple un champ ou un bâtiment. Le polygone est en fait une ligne avec une
+caractéristique notable: dans le cas d’un polygone, la ligne commence et finit
+sur le même point.</p>
+<blockquote>
+<div><p>Il est facile de penser une carte comme contenant ces trois types d&#8217;objets
+de base - points, linges et formes. Dans OpenStreetMap il y a
+une terminologie spéciale que vous apprendrez en progressant. Dans
+OSM, les points sont appelés <strong>nodes</strong> (noeuds), les linges sont appelées
+<strong>ways</strong> (voies). Une forme est appelée <strong>closed way</strong> (voie fermée) car c&#8217;est
+seulement une ligne qui se termine sur le point où elle commence.</p>
+</div></blockquote>
+</li>
+<li><p class="first">Vous avez peut-être remarqué la fenêtre «Attributs» qui apparaît sur la droite
+quand vous sélectionnez un objet. Celle-ci liste ce qu’on appelle les tags.
+Les tags sont associés un point, une ligne ou un polygone, et permettent de les
+définir. Nous en apprendrons un peu plus sur les tags dans le chapitre 7,
+«Édition avancée avec JOSM». Pour le moment, retenez que les tags servent à déterminer
+si un objet est une forêt, une rivière, un bâtiment, ou autre chose.</p>
+</li>
+<li><p class="first">Pensez au cartes dessinées à la main, est-ce qu’on utilise pas là aussi des points,
+des lignes et des polygones ? Quels lieux peuvent être représentés par des
+points ? par des lignes ? par des polygones ?</p>
 </li>
 </ul>
 </div>
-<div class="section" id="changing-objects">
-<h3><a class="toc-backref" href="#id6">Changing Objects</a><a class="headerlink" href="#changing-objects" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="modifier-les-objets">
+<h3><a class="toc-backref" href="#id6">Modifier les objets</a><a class="headerlink" href="#modifier-les-objets" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li>Select the forest on the left side of the map. Be sure to click on
-the line around the forest, not one of the points on the line. Now
-hold your left mouse button down and drag your mouse. You should be
-able to move the forest to a new location on the map.</li>
-<li>Click on one of the points on the line around the forest. Hold your
-left mouse button down and drag your mouse. You should be able to
-move the point. This is how you can change the shape of an object, or
-move a point.</li>
+<li>Sélectionnez la forêt qui est sur la gauche de la carte. Faites bien attention
+de cliquer sur la ligne qui entoure la forêt, et pas sur un des points qui la
+constituent. En maintenant votre clic droit enfoncé et en déplaçant votre souris,
+vous devriez être capable de changer la forêt de position.</li>
+<li>Cliquez maintenant sur un des points constituant le polygone de la forêt.
+À l’aide de votre souris, en maintenant le clic gauche enfoncé, vous devriez
+pouvoir déplacer ce point. C’est la façon de faire si vous avez besoin de
+changer la forme d’un polygone, ou tout simplement pour changer la position d’un point.</li>
 </ul>
 </div>
-<div class="section" id="drawing">
-<h3><a class="toc-backref" href="#id7">Drawing</a><a class="headerlink" href="#drawing" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="tracer">
+<h3><a class="toc-backref" href="#id7">Tracer</a><a class="headerlink" href="#tracer" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li>On the left side of JOSM is a column of buttons. Many of these
-buttons open new windows on the right side that provide more
-information about the map. The most important buttons, however, are
-at the top of these column. These buttons change what you can do with
-your mouse.</li>
-<li>The top buttons in this column are the ones you will use the most.
-They are used for selecting objects and for drawing new ones.</li>
-<li>Until now, you have been using the Select tool, which looks like
-this:</li>
+<li>Tout à gauche de la fenêtre de JOSM, il y a une barre d’outils. Une partie de
+ces boutons permettent d’ouvrir des fenêtres à droite qui affichent des informations
+supplémentaires sur la carte. Mais les boutons qui nous intéressent pour le moment
+sont en haut de cette barre d’outils. Ces boutons permettent de définir ce que
+vous pouvez faire avec votre souris.</li>
+<li>Les quatre boutons du haut sont les plus importants.
+Ils sont utilisés pour sélectionner les objets et en dessiner de nouveaux.</li>
+<li>Jusqu’à présent, vous avez utilisé l’outil de sélection, qui ressemble à
+ceci:</li>
 </ul>
-<img alt="Select tool" src="../../_images/josm_select-tool.png" />
+<img alt="Outil de sélection" src="../../_images/josm_select-tool.png" />
 <ul class="simple">
-<li>Before you draw, you need to make sure that nothing is selected.
-Click in the black space on the map, where it is empty, to make sure
-nothing is selected.</li>
-<li>Click on the second button, the Draw tool.</li>
+<li>Avant de commencer à tracer, assurez-vous que rien n’est sélectionné. Pour cela,
+toujours avec l’outil de sélection, cliquez dans une zone vide de la carte.</li>
+<li>Vous pouvez maintenant cliquer sur le deuxième bouton, celui pour tracer.</li>
 </ul>
-<img alt="Draw tool" src="../../_images/josm_draw-tool.png" />
+<img alt="Outil de traçage" src="../../_images/josm_draw-tool.png" />
 <ul class="simple">
-<li>Find an empty area on the map, and double-click with your mouse. This
-will draw a single point.</li>
-<li>To draw a line, single-click with your mouse. Move your mouse and
-click again. Continue until you are happy with your line. To end the
-line, double-click your mouse.</li>
-<li>Draw a shape the same way that you draw a line, but finish the shape
-by double-clicking on the point where you started the line.</li>
-</ul>
-</div>
-<div class="section" id="add-presets">
-<h3><a class="toc-backref" href="#id8">Add Presets</a><a class="headerlink" href="#add-presets" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li>Now we know how to draw points, lines and shapes, but we still
-haven’t defined what they represent. We want to be able to say that
-our points are shops, schools, or something else, and whether our
-shapes are fields, buildings, or something else.</li>
-<li>Click on the Select tool, in the column of buttons on the left.</li>
-</ul>
-<img alt="Select tool" src="../../_images/josm_select-tool.png" />
-<ul class="simple">
-<li>Select one of the objects that you drew with the Draw tool. On the
-top menu, click “Presets”. Move your mouse through the sub-menu to
-the type of location you would like to define.</li>
-<li>When you click on a preset, a form will pop up asking you for more
-information. You do not have to fill in every field, but you may wish
-to add some of the important fields, such as the name of the object.</li>
-<li>When you are finished entering the information, click “Apply Preset”.
-If everything went well, your point, line, or shape should change
-colors or show a symbol. This is because you have defined what it is.</li>
+<li>Dans une zone vide de la carte, double-cliquez avec le bouton gauche de votre
+souris. Vous venez de créer un point.</li>
+<li>Pour tracer une ligne, faites un simple clic avec votre souris. Déplacez votre
+souris et cliquez de nouveau. Continuez jusqu’à que vous ayez obtenu le résultat
+souhaité. Pour finir la ligne, double-cliquez avec votre souris.</li>
+<li>Le procédé est le même pour tracer un polygone, mais vous devez finir le polygone
+en double-cliquant sur le premier point de la ligne.</li>
 </ul>
 </div>
-</div>
-<div class="section" id="draw-your-own-map">
-<h2><a class="toc-backref" href="#id9">Draw Your Own Map</a><a class="headerlink" href="#draw-your-own-map" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="utiliser-les-modeles-d-attributs">
+<h3><a class="toc-backref" href="#id8">Utiliser les modèles d&#8217;attributs</a><a class="headerlink" href="#utiliser-les-modeles-d-attributs" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li>Now let’s draw a map in order to practice the techniques you have
-learned. You may wish to redraw the map that you drew on paper
-previously.</li>
-<li>Drag the map away from the sample map. Hold the right mouse button
-and drag your mouse, until you have a nice empty area to draw on.</li>
-<li>Use the Draw tool to create points, lines, and shapes. Describe what
-your objects are by selecting from the Presets menu.</li>
-<li>When you are finished, you should have your own map, similar to the
-sample map that we opened in sample.osm.</li>
+<li>Nous savons désormais comment tracer des points, des lignes et des polygones,
+mais pour l’instant nous n’avons pas défini ce qu’ils représentent. Nous voulons
+être capable de dire qu’un point est une boutique, une école, ou autre chose,
+et de même si nos polygones sont des champs, des bâtiments, ou autre chose.</li>
+<li>Dans la barre d’outils à gauche, cliquez de nouveau sur l’outil de sélection.</li>
+</ul>
+<img alt="Outil de sélection" src="../../_images/josm_select-tool.png" />
+<ul class="simple">
+<li>Sélectionnez un des objets que vous venez de tracer. Dans le menu du haut,
+cliquez sur «Attributs». Déplacer votre souris dans les sous-menus jusqu’à trouver
+le type de lieu que vous souhaitez.</li>
+<li>Après avoir sélectionné un modèle d’attributs, une fenêtre devrait s’ouvrir pour
+vous permettre d’ajouter des informations. Tous les champs ne sont pas obligatoires,
+mais vous voudrez certainement ajouter les plus importants, par exemple le nom de votre lieu.</li>
+<li>Quand vous avez renseigné toutes les informations voulues, appuyer sur «Appliquer
+les attributs». Si tout s’est bien passé, votre point, ligne ou polygone devrait
+changer de couleur ou afficher un symbole. C’est parce que vous avez maintenant
+défini de quoi il s’agit.</li>
 </ul>
 </div>
-<div class="section" id="remove-the-sample-layer">
-<h2><a class="toc-backref" href="#id10">Remove the sample layer</a><a class="headerlink" href="#remove-the-sample-layer" title="Permalink to this headline">¶</a></h2>
-<p>Once you feel comfortable with these basic editing techniques you might
-want to turn your attention to mapping real features.</p>
-<p><em>It is very important that you first remove the layer with the sample
-data. These data are fictitious and must not be uploaded to the
-OpenStreetMap database (newer JOSM releases automatically prevent
-this).</em></p>
-<p>In the Layers window on the upper right of the screen select the
-sample.osm layer. Then click on the trash can icon in the lower right
-corner of that window. Alternatively you can choose delete from the
-context menu of the layer.</p>
 </div>
-<div class="section" id="what-next">
-<h2><a class="toc-backref" href="#id11">What Next?</a><a class="headerlink" href="#what-next" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="tracer-votre-carte">
+<h2><a class="toc-backref" href="#id9">Tracer votre carte</a><a class="headerlink" href="#tracer-votre-carte" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
-<li>Try the LearnOSM documentation, from which this quickstart was derived:
-<a class="reference external" href="http://learnosm.org/en/josm/start-josm/">http://learnosm.org/en/josm/start-josm/</a></li>
-<li>In order to continue editing you first need to download real data.
-This is explained in the next chapter:
+<li>C’est le moment de tracer une carte pour mettre en pratique ce que l’on vient
+d’apprendre. Vous pouvez par exemple tracer la carte que vous aviez dessiné précedemment.</li>
+<li>À l’aide du bouton droit de votre souris, déplacez-vous dans une zone de la carte totalement vide.</li>
+<li>Utilisez l’outil de tracé pour créer des points, des lignes et des polygones.
+N’oubliez pas de définir les objets en utilisant le menu «Attributs».</li>
+<li>Quand vous aurez fini, vous devriez avoir une carte similaire à celle que nous
+avons chargée avec le fichier «sample.osm».</li>
+</ul>
+</div>
+<div class="section" id="supprimer-la-couche-d-exemple">
+<h2><a class="toc-backref" href="#id10">Supprimer la couche d&#8217;exemple</a><a class="headerlink" href="#supprimer-la-couche-d-exemple" title="Permalink to this headline">¶</a></h2>
+<p>Une fois que vous êtes à l&#8217;aise avec les tehniques de tracé, you souhaitez probablement
+vous tourner vers des entités réelles.</p>
+<p><em>Il est très important que vous supprimiez la couches avec les données
+d&#8217;exemple. Ces données sont fictives et ne doivent pas être chargées dans
+la base de données OpenStreetMap (les versions les plus récentes de JOSM prévienne cela
+automatiquement).</em></p>
+<p>Dans la fenêtre Couches dans le coin en haut à droite de l&#8217;écran, sélectionnez
+la couche sample.osm. Puis cliquez sur la corbeille en bas à droite
+de cette fenêtre. Vous pouvez aussi supprimer cette couche à l&#8217;aide du
+menu contextuel.</p>
+</div>
+<div class="section" id="et-ensuite">
+<h2><a class="toc-backref" href="#id11">Et ensuite ?</a><a class="headerlink" href="#et-ensuite" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Essayez la documentation de LearnOSM, dont ce guide est dérivé:
+<a class="reference external" href="http://learnosm.org/fr/josm/start-josm/">http://learnosm.org/fr/josm/start-josm/</a></li>
+<li>Pour pouvoir continuer à éditer vous devez préalablement télécharger des données réelles.
+Ceci est expliqué dans le chapitre suivant:
 <a class="reference external" href="http://learnosm.org/en/josm/more-about-josm/">http://learnosm.org/en/josm/more-about-josm/</a></li>
 </ul>
 </div>
