@@ -1,0 +1,232 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>GeoMoose Quickstart &#8212; OSGeoLive 11.0.0.-dev Documentation</title>
+    <link rel="stylesheet" href="../_static/overview.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '11.0.0.-dev',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/translations.js"></script>
+    <link rel="shortcut icon" href="../_static/favicon.ico"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Recherche" href="../search.html" />
+    <link rel="copyright" title="Copyright" href="../copyright.html" />
+    <link rel="next" title="GeoNetwork Quickstart" href="geonetwork_quickstart.html" />
+    <link rel="prev" title="Geomajas Quickstart" href="geomajas_quickstart.html" /> 
+	<script type="text/javascript" src="../_static/osgeolive.js"></script>
+
+  </head>
+  <body>
+
+    
+    
+    <div class="header">
+	<div class="banner"><a href="http://live.osgeo.org/"><img src="../_static/banner.png"></a></div>
+        <div class="nowrap">
+            <ul id="top-nav">
+              <li><a href="../index.html">Home</a></li>
+              <li><a href="../overview/overview.html">Contents</a></li>
+              <li><a href="../download.html">Download</a></li>
+              <li><a href="../metrics.html">Metrics</a></li>
+              <li><a href="../sponsors.html">Sponsors</a></li>
+              <li><a href="../contact.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+    </div> 
+
+
+    
+    <div class="related">
+	<font size="-2">
+		<div id="translations">
+		<!-- alphabetical order -->
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+		</div>
+	</font>
+    </div>
+
+
+    <div class="document">
+      <div class="documentwrapper">
+          <div class="body" role="main">
+            
+  <a class="reference external image-reference" href="http://www.geomoose.org/"><img alt="../_images/logo_geomoose.png" class="align-right" src="../_images/logo_geomoose.png" /></a>
+<a class="reference external image-reference" href="target:http://www.osgeo.org"><img alt="../_images/OSGeo_project.png" class="align-right" src="../_images/OSGeo_project.png" /></a>
+<div class="section" id="geomoose-quickstart">
+<h1><a class="toc-backref" href="#id1">GeoMoose Quickstart</a><a class="headerlink" href="#geomoose-quickstart" title="Lien permanent vers ce titre">¶</a></h1>
+<p>GeoMoose is a browser based mapping framework for displaying distributed cartographic data. It is particularly useful for managing spatial and non-spatial data within county, city and municipal offices (from which GeoMoose originated).</p>
+<div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#geomoose-quickstart" id="id1">GeoMoose Quickstart</a><ul>
+<li><a class="reference internal" href="#getting-started" id="id2">Getting Started</a></li>
+<li><a class="reference internal" href="#identifying-a-location-in-geomoose" id="id3">Identifying a location in GeoMoose</a></li>
+<li><a class="reference internal" href="#measuring-in-geomoose" id="id4">Measuring in GeoMoose</a></li>
+<li><a class="reference internal" href="#selecting-features" id="id5">Selecting Features</a></li>
+<li><a class="reference internal" href="#searching" id="id6">Searching</a></li>
+<li><a class="reference internal" href="#layer-tools" id="id7">Layer Tools</a></li>
+<li><a class="reference internal" href="#printing" id="id8">Printing</a></li>
+<li><a class="reference internal" href="#other-services" id="id9">Other Services</a></li>
+<li><a class="reference internal" href="#what-next" id="id10">What Next?</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="getting-started">
+<h2><a class="toc-backref" href="#id2">Getting Started</a><a class="headerlink" href="#getting-started" title="Lien permanent vers ce titre">¶</a></h2>
+<p>GeoMoose is a GIS data portal management framework. The installed version of GeoMoose on the Live DVD is an example configuration that displays an example set of layers.</p>
+<ul>
+<li><p class="first">Go to the «&nbsp;Browser Clients&nbsp;» folder on the desktop.</p>
+</li>
+<li><p class="first">Click on the desktop icon «&nbsp;Start GeoMoose&nbsp;». This will launch the default browser which will navigate to the correct location automatically.</p>
+</li>
+<li><p class="first">You will be presented with a web page displaying a demo interface of a GeoMoose instance.</p>
+<img alt="GeoMoose Screenshot" class="align-right" src="../_images/geomoose_screenshot.png" />
+</li>
+</ul>
+<p>The Interfaces presented above shows:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li>A banner bar</li>
+<li>A tool bar</li>
+<li>A map window with<ul>
+<li>A navigation and zoom controls</li>
+</ul>
+</li>
+<li>A side menu with:<ul>
+<li>A «&nbsp;Jump to&nbsp;» location pull down list</li>
+<li>Control tabs starting with «&nbsp;Catalog&nbsp;», for displaying the layer list.  As needed, additional tabs will appear: an «&nbsp;Information&nbsp;» readout, a «&nbsp;Custom&nbsp;» output tab, and others.</li>
+</ul>
+</li>
+<li>A Footer bar with:<ul>
+<li>Multiple coordinate readouts, one each for: X,Y (local dataset coordinates), LAT/LON (Decimal) and United States National Grid (USNG)</li>
+<li>A editable pull down list for a view scales to choose from or define.</li>
+</ul>
+</li>
+</ol>
+</div></blockquote>
+</div>
+<div class="section" id="identifying-a-location-in-geomoose">
+<h2><a class="toc-backref" href="#id3">Identifying a location in GeoMoose</a><a class="headerlink" href="#identifying-a-location-in-geomoose" title="Lien permanent vers ce titre">¶</a></h2>
+<p>You can identify a location in the interface by clicking on the «&nbsp;identify&nbsp;», («&nbsp;i&nbsp;» in a blue circle icon) button in the top toolbar, and then clicking a point on the map to identify.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot002.png" src="../_images/geomoose-2_9-screenshot002.png" />
+</div></blockquote>
+<p>The menu along the left side of the Map view will display a report related to the point that you clicked in the map.   This is a service in the GeoMoose Demo package that has been configured to respond to quereies for the «&nbsp;Parcel&nbsp;» layer when a point is clicked.</p>
+</div>
+<div class="section" id="measuring-in-geomoose">
+<h2><a class="toc-backref" href="#id4">Measuring in GeoMoose</a><a class="headerlink" href="#measuring-in-geomoose" title="Lien permanent vers ce titre">¶</a></h2>
+<p>GeoMoose has two measuring tools installed and activated by default. Clicking the straight ruler icon in the top toolbar, will start the linear measuring tool.  You can click as many points as you like in the map window and a trailing polyline will be drawn.  When you get to your last point, just double click to stop.  The total distance of all lines drawn will be used to generate the «&nbsp;Total Length&nbsp;» in the units of your choice in the side menu. Clicking the other ruler icon in the top toolbar, will allow you measure areas.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot004.png" src="../_images/geomoose-2_9-screenshot004.png" />
+</div></blockquote>
+<p>These user tools are considered services by the GeoMoose interface and can be added to via GeoMoose’s MAPBOOK control file.</p>
+</div>
+<div class="section" id="selecting-features">
+<h2><a class="toc-backref" href="#id5">Selecting Features</a><a class="headerlink" href="#selecting-features" title="Lien permanent vers ce titre">¶</a></h2>
+<p>You can select features from a Point, Line, polygon, or a Box.  To start, click on the «&nbsp;Select Features&nbsp;» icon (polygon with pencil), and start drawing a selection polygon in the map. You can double click the last point to finish the drawing process.  This screenshot shows the drawing process on the map.  the left menu is displaying the input form for the criteria of the selection, in this case a Polygon against the «&nbsp;Parcels&nbsp;» layers. You also have the option to select features based on a buffer which is a «&nbsp;0&nbsp;» value by default. This is a service in the GeoMoose Demo package that has been configured to respond to quereies for the «&nbsp;Parcel&nbsp;» layer.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot005.png" src="../_images/geomoose-2_9-screenshot005.png" />
+</div></blockquote>
+<p>The above screenshot is showing the «&nbsp;PARCEL&nbsp;» layer for selects and also using the «&nbsp;Parcels&nbsp;» layer as the attributes to report back on.  Two different layers can be used in a double pass query, one for the selection, and one for retrieving the attributes from for reporting.  The sceenshot below takes the selection process further by adding in a buffering distance of 100ft.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot006.png" src="../_images/geomoose-2_9-screenshot006.png" />
+</div></blockquote>
+<p>Clicking the «&nbsp;Go!&nbsp;» button in the side menu in the above screenshot will generate a report and display it in the side menu.  NOTE: The output can also be configured to be sent to a new window as well.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot007.png" src="../_images/geomoose-2_9-screenshot007.png" />
+</div></blockquote>
+<p>The results above demonstrate the service response to the buffered query by displaying the result in the map via a selection overlay that highlights the original selection area polygon (purple), the crossing and within parcels at a 100ft buffer (orange) and the parcels crossing and within the buffered polygon (yellow).  The side menu now displays the reported results of the query process with options for outputting in other formats for mailing labels.</p>
+</div>
+<div class="section" id="searching">
+<h2><a class="toc-backref" href="#id6">Searching</a><a class="headerlink" href="#searching" title="Lien permanent vers ce titre">¶</a></h2>
+<p>You can also search for features by attribute.  To start click on the «&nbsp;Search Parcels&nbsp;» icon and enter your search parameters on the search menu then pressing the «&nbsp;Go!&nbsp;» button. The following screenshot demostrates a search of all parcel owners containing the name «&nbsp;frank&nbsp;».</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot011a.png" src="../_images/geomoose-2_9-screenshot011a.png" />
+</div></blockquote>
+<p>Three results appear in the list and are highlighted on the map.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot011.png" src="../_images/geomoose-2_9-screenshot011.png" />
+</div></blockquote>
+<p>Clicking the binocular icon/parcel number in blue will zoom you to the specific parcel as illustrated in the following screenshot.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot012.png" src="../_images/geomoose-2_9-screenshot012.png" />
+</div></blockquote>
+</div>
+<div class="section" id="layer-tools">
+<h2><a class="toc-backref" href="#id7">Layer Tools</a><a class="headerlink" href="#layer-tools" title="Lien permanent vers ce titre">¶</a></h2>
+<p>GeoMoose lets you edit layers graphically. Setting up a layer for editing is discussed elsewhere on the GeoMoose website. The demo is setup for you to edit a sketch layer as illustrated in the following screenshot.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot013.png" src="../_images/geomoose-2_9-screenshot013.png" />
+</div></blockquote>
+</div>
+<div class="section" id="printing">
+<h2><a class="toc-backref" href="#id8">Printing</a><a class="headerlink" href="#printing" title="Lien permanent vers ce titre">¶</a></h2>
+<p>This next screenshot shows what the Print Map service looks as provided with demo for GeoMoose.  The side menu in the following view, shows the options available for printing the current mapview. Sheet size, orientation, resolution for both raster image backgrounds and for overall output are also available.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot008.png" src="../_images/geomoose-2_9-screenshot008.png" />
+</div></blockquote>
+<p>The next menu displays the choices available for output, by default GeoMoose allows a composite Raster Image, a HTML file, or a PDF.  Clicking on a PDF output option will present you with a dialog similar to:</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot009.png" src="../_images/geomoose-2_9-screenshot009.png" />
+</div></blockquote>
+<p>The following screenshot shows an example of a PDF output in landscape mode.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot010.png" src="../_images/geomoose-2_9-screenshot010.png" />
+</div></blockquote>
+</div>
+<div class="section" id="other-services">
+<h2><a class="toc-backref" href="#id9">Other Services</a><a class="headerlink" href="#other-services" title="Lien permanent vers ce titre">¶</a></h2>
+<p>GeoMoose can also link to other on-line services such as birds eye view from BING, StreetView from Google and Geocoding from Google. Always remember to review license requirements for any external services to ensure compliance.</p>
+<blockquote>
+<div><img alt="../_images/geomoose-2_9-screenshot014.png" src="../_images/geomoose-2_9-screenshot014.png" />
+</div></blockquote>
+</div>
+<div class="section" id="what-next">
+<h2><a class="toc-backref" href="#id10">What Next?</a><a class="headerlink" href="#what-next" title="Lien permanent vers ce titre">¶</a></h2>
+<p>This is only the first step on the road to using GeoMoose. There is
+a lot more functionality you can try.</p>
+<p>GeoMoose Project home</p>
+<blockquote>
+<div><a class="reference external" href="http://www.geomoose.org/">http://www.geomoose.org/</a></div></blockquote>
+<p>GeoMoose Tutorial</p>
+<blockquote>
+<div><a class="reference external" href="https://docs.geomoose.org/2.9/getting_started.html">https://docs.geomoose.org/2.9/getting_started.html</a></div></blockquote>
+</div>
+</div>
+
+
+          </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    
+    <div class="related">
+	<font size="-2">
+		<div id="translations">
+		<!-- alphabetical order -->
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+		</div>
+	</font>
+    </div>
+
+<span style="font-size:85%;"><i><a href="../copyright.html">Copyright & Disclaimer</a></i></span>
+
+  </body>
+</html>
