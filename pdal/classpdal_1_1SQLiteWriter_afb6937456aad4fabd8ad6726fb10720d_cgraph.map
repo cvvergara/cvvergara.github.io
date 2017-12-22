@@ -1,0 +1,11 @@
+<map id="pdal::SQLiteWriter::addArgs" name="pdal::SQLiteWriter::addArgs">
+<area shape="rect" id="node2" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="821,60,980,86"/>
+<area shape="rect" id="node5" href="$classpdal_1_1ProgramArgs.html#a09463890426136f4ff1264d28ec1c30a" title="pdal::ProgramArgs::\laddSynonym" alt="" coords="203,44,341,86"/>
+<area shape="rect" id="node7" href="$classpdal_1_1DbWriter.html#ab0ff1d41c348640c642332d83f952719" title="pdal::DbWriter::doAddArgs" alt="" coords="183,110,361,137"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="193,161,351,188"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="1028,34,1215,61"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="1043,85,1199,112"/>
+<area shape="rect" id="node6" href="$classpdal_1_1arg__error.html#a9c69d74938ebdf04e76cad0724f87d51" title="pdal::arg_error::arg\l_error" alt="" coords="425,44,556,86"/>
+<area shape="rect" id="node8" href="$classpdal_1_1DbWriter.html#a94b34d19b7b61588c8fa864a02965bfa" title="pdal::DbWriter::addArgs" alt="" coords="409,110,572,137"/>
+<area shape="rect" id="node9" href="$classpdal_1_1Scaling.html#a68d279f7d924ccef73c065a1c144ae8c" title="pdal::Scaling::addArgs" alt="" coords="620,110,773,137"/>
+</map>

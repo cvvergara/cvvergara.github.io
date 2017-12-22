@@ -1,0 +1,5 @@
+<map id="pdal::ExtraBytesIf::lasType" name="pdal::ExtraBytesIf::lasType">
+<area shape="rect" id="node2" href="$classpdal_1_1ExtraBytesIf.html#a002a974b053c1aa71335a77d1556abd2" title="pdal::ExtraBytesIf\l::appendTo" alt="" coords="180,5,307,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#a27652d39c59f2b21099e787f1dce7686" title="pdal::LasWriter::addExtra\lBytesVlr" alt="" coords="355,5,525,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a2e5b4f04008d3784799d9e4ad029352a" title="pdal::LasWriter::readyTable" alt="" coords="573,13,756,39"/>
+</map>

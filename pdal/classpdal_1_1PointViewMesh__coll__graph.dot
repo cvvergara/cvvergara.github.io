@@ -1,0 +1,23 @@
+digraph "pdal::PointViewMesh"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal::PointViewMesh",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Kazhdan::Mesh",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_view" ,fontname="Helvetica"];
+  Node3 [label="pdal::PointView",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointView.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PointContainer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointContainer.html"];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_spatialReference" ,fontname="Helvetica"];
+  Node5 [label="pdal::SpatialReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SpatialReference.html"];
+  Node6 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_pointTable" ,fontname="Helvetica"];
+  Node6 [label="pdal::BasePointTable",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BasePointTable.html"];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_layoutRef" ,fontname="Helvetica"];
+  Node7 [label="pdal::PointLayout",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointLayout.html"];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_mesh" ,fontname="Helvetica"];
+  Node8 [label="pdal::TriangularMesh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TriangularMesh.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Mesh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Mesh.html"];
+}

@@ -1,0 +1,15 @@
+<map id="pdal::TextReader::read" name="pdal::TextReader::read">
+<area shape="rect" id="node2" href="$classpdal_1_1TextReader.html#a55dcdf19c947158592db12930696b0a0" title="pdal::TextReader::processOne" alt="" coords="208,120,408,147"/>
+<area shape="rect" id="node14" href="$classpdal_1_1PointRef.html#af2252f383598b06c0756a6f0e9bad258" title="pdal::PointRef::setPointId" alt="" coords="222,171,394,197"/>
+<area shape="rect" id="node3" href="$classpdal_1_1TextReader.html#ad84d96b6633d11d99204a0f12050ec7d" title="pdal::TextReader::fillFields" alt="" coords="456,95,635,121"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="707,5,821,32"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="471,145,620,172"/>
+<area shape="rect" id="node9" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="466,208,625,235"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#ad875f14218020d7d4d10803f5a115bdb" title="pdal::Utils::remove" alt="" coords="698,56,830,83"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a7c0bdff1817c4b21e6f5b37dc8fabff5" title="pdal::Utils::split" alt="" coords="707,107,821,133"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a6ae33c6d7b4eb4bcae6ec17fb8cc04fc" title="pdal::Utils::split2" alt="" coords="704,157,824,184"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="683,208,845,235"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="689,259,839,285"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="895,208,1023,235"/>
+<area shape="rect" id="node13" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="893,259,1024,285"/>
+</map>

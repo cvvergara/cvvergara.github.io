@@ -1,0 +1,5 @@
+<map id="pdal::TEST" name="pdal::TEST">
+<area shape="rect" id="node2" href="$classpdal_1_1BasePointTable.html#a7e3a12a1f29e6cd10d8669ed3d07eb94" title="pdal::BasePointTable\l::layout" alt="" coords="141,5,288,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="149,71,280,112"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="336,78,528,105"/>
+</map>

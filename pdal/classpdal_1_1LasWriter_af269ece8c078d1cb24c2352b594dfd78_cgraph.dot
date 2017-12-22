@@ -1,0 +1,45 @@
+digraph "pdal::LasWriter::readyCompression"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::LasWriter::readyCompression",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::LasWriter::deleteVlr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#ae96d321ebe01ebef6e6432e5513e7e85"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Utils::remove_if",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#ac6b599972dcd3fe440ef5c476961081a"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::LasWriter::readyLas\lZipCompression",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#afd11eedcfe5ccf00fb49d58a51e9240f"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::LasWriter::handleLaszip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a37ad073f141dcf074c5dcced687feaea"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Stage::throwError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Stage::getName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750"];
+  Node4 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::LasHeader::pointFormat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#a6fd77c7bd324ad8ea97eb427baa7b0e1",tooltip="Get identifier of point data (record) format. "];
+  Node4 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::LasHeader::pointLen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#ac0f903b35cbf225179de41a170a644b0"];
+  Node4 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::Dimension::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::Utils::toNative",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::Dimension::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::Utils::tolower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2"];
+  Node4 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::LasWriter::addVlr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece"];
+  Node14 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pdal::LasHeader::version\lAtLeast",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f"];
+  Node1 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="pdal::LasWriter::readyLaz\lPerfCompression",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a44e5d4d914f396329c6eb19b5dc40d48"];
+  Node16 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="pdal::LasHeader::hasTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#a3ad638058d53aca409dadb2b201c23d2"];
+  Node16 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="pdal::LasHeader::hasColor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#a6d71059a21e0f08aed6088e92d695739"];
+  Node16 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

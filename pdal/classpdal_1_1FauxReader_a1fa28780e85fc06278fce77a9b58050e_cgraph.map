@@ -1,0 +1,11 @@
+<map id="pdal::FauxReader::read" name="pdal::FauxReader::read">
+<area shape="rect" id="node2" href="$classpdal_1_1FauxReader.html#abd72fdab8e142780493ad29299750b1a" title="pdal::FauxReader::processOne" alt="" coords="212,81,415,108"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a811546a69a0e444b3060f63ae4a797c7" title="pdal::Utils::normal" alt="" coords="478,5,606,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#ae307965bf4f08edcc45fbe8599c0eddc" title="pdal::Utils::random" alt="" coords="476,56,608,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="463,107,621,133"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#ae21c6270b839374408725a65e3dcd4b1" title="pdal::Utils::uniform" alt="" coords="476,157,608,184"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="676,81,825,108"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="669,132,832,159"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="880,81,1011,108"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="881,132,1009,159"/>
+</map>

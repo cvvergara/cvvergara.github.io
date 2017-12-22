@@ -1,0 +1,27 @@
+digraph "pdal::MetadataNode::clone"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::MetadataNode\l::clone",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::InfoKernel::dump",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::InfoKernel::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::InfoKernel::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::InfoKernel::dumpPoints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#ae3390441d7172ddfee191dddef7c2fce"];
+  Node5 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::PipelineExecutor\l::getMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PipelineExecutor.html#a866c8b7df2dbd37c969d5ad4f964e256"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::PipelineExecutor\l::getSchema",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PipelineExecutor.html#a9e29a5c7ed214f566efd7524b11d2ade"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::mlang::Script\l::setMatlabStruct",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1mlang_1_1Script.html#afbb1ef33651f4742aad98f4acc51a572"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::MatlabFilter::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MatlabFilter.html#a8936067bb62fb503d654703fb4dbb45a"];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::MatlabWriter\l::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MatlabWriter.html#a96ed356ff0f2ae0276cbdbb050be13b6"];
+}

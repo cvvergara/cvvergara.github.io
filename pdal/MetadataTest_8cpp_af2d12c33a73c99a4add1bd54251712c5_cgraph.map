@@ -1,0 +1,8 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2" title="pdal::MetadataNode::add" alt="" coords="109,5,277,32"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="329,56,478,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html#ab5c86ccff7ced090522b31cdc6c772b6" title="pdal::MetadataNode\l::value" alt="" coords="124,107,263,149"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#aab74b31905c5d41eaca70a73675bf407" title="pdal::Utils::base64\l_decode" alt="" coords="338,107,469,149"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="325,173,481,200"/>
+<area shape="rect" id="node6" href="$namespacepdal.html#a4d7dbf8f97121c52d3b891ad9e944094" title="pdal::is_base64" alt="" coords="529,115,643,141"/>
+</map>

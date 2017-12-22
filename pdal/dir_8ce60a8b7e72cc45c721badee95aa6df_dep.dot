@@ -1,0 +1,15 @@
+digraph "pdal/java" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a542be5b8e919f24a4504a2b5a97aa0f {
+    graph [ bgcolor="#ddddee", pencolor="black", label="pdal" fontname="Helvetica", fontsize="10", URL="dir_a542be5b8e919f24a4504a2b5a97aa0f.html"]
+  subgraph clusterdir_8ce60a8b7e72cc45c721badee95aa6df {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_8ce60a8b7e72cc45c721badee95aa6df.html"];
+    dir_8ce60a8b7e72cc45c721badee95aa6df [shape=plaintext label="java"];
+    dir_ebbaec83b521137b316dabad9f9a9d87 [shape=box label="native" color="red" fillcolor="white" style="filled" URL="dir_ebbaec83b521137b316dabad9f9a9d87.html"];
+  }
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_ebbaec83b521137b316dabad9f9a9d87->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="4", labeldistance=1.5 headhref="dir_000046_000050.html"];
+}

@@ -1,0 +1,10 @@
+<map id="pdal::PgReader::addDimensions" name="pdal::PgReader::addDimensions">
+<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a4f1e3798a7eb13bf27795345940f021a" title="pdal::PgReader::fetchPcid" alt="" coords="273,56,448,83"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="527,5,640,32"/>
+<area shape="rect" id="node6" href="$namespacepdal.html#ad69ac66aae29c213befad05eaa269bf1" title="pdal::pg_query_once" alt="" coords="512,107,655,133"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="505,157,661,184"/>
+<area shape="rect" id="node9" href="$classpdal_1_1DbReader.html#a89d83257312da2a4490121f4295c52c9" title="pdal::DbReader::loadSchema" alt="" coords="264,208,457,235"/>
+<area shape="rect" id="node4" href="$namespacepdal.html#a1541e562c3049473a2c247a70e2221ce" title="pdal::pg_quote_literal" alt="" coords="511,56,656,83"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="711,56,857,83"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="709,157,859,184"/>
+</map>

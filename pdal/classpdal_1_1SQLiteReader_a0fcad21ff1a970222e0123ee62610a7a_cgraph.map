@@ -1,0 +1,8 @@
+<map id="pdal::SQLiteReader::initialize" name="pdal::SQLiteReader::initialize">
+<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="219,5,374,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1SQLiteReader.html#af306bffd66f1afe9c09b55f61471b2a1" title="pdal::SQLiteReader\l::fetchSpatialReference" alt="" coords="217,71,376,112"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="470,107,583,134"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#af31ff3a4038bceeb17847b567d984ed7" title="pdal::Stage::setSpatialReference" alt="" coords="189,187,404,214"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="219,238,375,265"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="452,238,601,265"/>
+</map>

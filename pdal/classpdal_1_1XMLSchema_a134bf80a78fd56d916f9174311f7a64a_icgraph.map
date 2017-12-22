@@ -1,0 +1,7 @@
+<map id="pdal::XMLSchema::xmlDims" name="pdal::XMLSchema::xmlDims">
+<area shape="rect" id="node2" href="$classpdal_1_1DbReader.html#a7903aac3db132794190b0d9e24261c8c" title="pdal::DbReader::loadSchema" alt="" coords="250,5,443,32"/>
+<area shape="rect" id="node3" href="$XMLSchemaTest_8cpp.html#a8d92729a6dec8a78f72d3bb63a68cd83" title="TEST" alt="" coords="319,56,375,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1DbReader.html#aae2016e35e785ac4cbeb5d6e513c1831" title="pdal::DbReader::updateSchema" alt="" coords="243,107,451,133"/>
+<area shape="rect" id="node5" href="$classpdal_1_1OciReader.html#a037e27a09676d06f791f4b39945d7d8e" title="pdal::OciReader::readOci" alt="" coords="499,107,668,133"/>
+<area shape="rect" id="node6" href="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b" title="pdal::OciReader::read" alt="" coords="716,107,865,133"/>
+</map>

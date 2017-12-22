@@ -1,0 +1,24 @@
+<map id="getHandleField" name="getHandleField">
+<area shape="rect" id="node2" href="$Accessors_8hpp.html#a53913c5613977490186b0a53839ec89c" title="getHandle" alt="" coords="163,44,244,71"/>
+<area shape="rect" id="node3" href="$Accessors_8hpp.html#a0096ef2a758f9041ca6424e09c2df937" title="setHandle" alt="" coords="163,95,244,122"/>
+<area shape="rect" id="node4" href="$io__pdal__Pipeline_8cpp.html#ad7b0833a8c4a23a66bf49021695854ee" title="Java_io_pdal_Pipeline\l_initialise" alt="" coords="2332,25,2483,66"/>
+<area shape="rect" id="node5" href="$io__pdal__Pipeline_8cpp.html#a6d1c246b35dfbc9b84fceb5f08761a6b" title="Java_io_pdal_Pipeline\l_getPointViews" alt="" coords="335,54,486,96"/>
+<area shape="rect" id="node14" href="$io__pdal__PointView_8cpp.html#a264939bfd8d642a33f06ce16b95b37cc" title="Java_io_pdal_PointView\l_layout" alt="" coords="329,120,493,161"/>
+<area shape="rect" id="node22" href="$io__pdal__PointViewIterator_8cpp.html#a26b6ccdea59cf075a0e3d8464cf57e47" title="Java_io_pdal_PointViewIterator_next" alt="" coords="292,215,529,242"/>
+<area shape="rect" id="node6" href="$io__pdal__Pipeline_8cpp.html#a5f3246e321662c6fef50671c277ee500" title="Java_io_pdal_Pipeline\l_getLog" alt="" coords="605,54,755,96"/>
+<area shape="rect" id="node7" href="$io__pdal__Pipeline_8cpp.html#a36f7aae14c7ecd91b257653ad04c1f04" title="Java_io_pdal_Pipeline\l_getLogLevel" alt="" coords="837,54,988,96"/>
+<area shape="rect" id="node8" href="$io__pdal__Pipeline_8cpp.html#a082bb922d20e2a275aa41432e8e4b125" title="Java_io_pdal_Pipeline\l_setLogLevel" alt="" coords="1049,54,1200,96"/>
+<area shape="rect" id="node9" href="$io__pdal__Pipeline_8cpp.html#a8a69b7f4a488cb8f6e3daf06565454a9" title="Java_io_pdal_Pipeline\l_validate" alt="" coords="1261,54,1412,96"/>
+<area shape="rect" id="node10" href="$io__pdal__Pipeline_8cpp.html#ae6caeca72780b5e3ad792cd5c00df87c" title="Java_io_pdal_Pipeline\l_getSchema" alt="" coords="1473,54,1624,96"/>
+<area shape="rect" id="node11" href="$io__pdal__Pipeline_8cpp.html#a66a0073f40bd33fe176e2e8bacc57d7d" title="Java_io_pdal_Pipeline\l_getMetadata" alt="" coords="1685,54,1836,96"/>
+<area shape="rect" id="node12" href="$io__pdal__Pipeline_8cpp.html#a12a870b2859adaaa0556bf0a18f4d13c" title="Java_io_pdal_Pipeline\l_execute" alt="" coords="1913,54,2063,96"/>
+<area shape="rect" id="node13" href="$io__pdal__Pipeline_8cpp.html#a8238e4e6616b338d76b4ed68e533305c" title="Java_io_pdal_Pipeline\l_dispose" alt="" coords="2133,54,2284,96"/>
+<area shape="rect" id="node15" href="$io__pdal__PointView_8cpp.html#ab2efacf1f7c016ec40f3ea316d0a7562" title="appendPackedPoint" alt="" coords="611,127,749,154"/>
+<area shape="rect" id="node16" href="$io__pdal__PointView_8cpp.html#a5cd11ffe3330df455cd4981e1d46123b" title="Java_io_pdal_PointView\l_getPackedPoints" alt="" coords="831,120,995,161"/>
+<area shape="rect" id="node17" href="$io__pdal__PointView_8cpp.html#ae26ebc1bcf0b9ddd66beccd20c3356ca" title="Java_io_pdal_PointView\l_getPackedPoint" alt="" coords="1043,120,1207,161"/>
+<area shape="rect" id="node18" href="$io__pdal__PointView_8cpp.html#a7a0b3bc6dda2240ab6aafe726915d7ee" title="Java_io_pdal_PointView\l_getCrsWKT" alt="" coords="1255,120,1419,161"/>
+<area shape="rect" id="node19" href="$io__pdal__PointView_8cpp.html#a3910b5e0e6e01b04a6e539c8fefe5ef3" title="Java_io_pdal_PointView\l_getCrsProj4" alt="" coords="1467,120,1631,161"/>
+<area shape="rect" id="node20" href="$io__pdal__PointView_8cpp.html#ad170804ca04c7efdc2b6f18257b452ab" title="Java_io_pdal_PointView\l_empty" alt="" coords="1679,120,1843,161"/>
+<area shape="rect" id="node21" href="$io__pdal__PointView_8cpp.html#a7682d1efe22046b78d15cd78e6f54641" title="Java_io_pdal_PointView_size" alt="" coords="1891,156,2085,183"/>
+<area shape="rect" id="node23" href="$io__pdal__PointViewIterator_8cpp.html#addcc79053739890bd422d8066a23d285" title="Java_io_pdal_PointViewIterator\l_hasNext" alt="" coords="577,237,783,278"/>
+</map>

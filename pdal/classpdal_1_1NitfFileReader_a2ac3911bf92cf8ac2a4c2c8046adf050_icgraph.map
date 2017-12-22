@@ -1,0 +1,5 @@
+<map id="pdal::NitfFileReader::open" name="pdal::NitfFileReader::open">
+<area shape="rect" id="node2" href="$classpdal_1_1NitfReader.html#aff135fa0b6888020a5de9eb33e2d7fea" title="pdal::NitfReader::initialize" alt="" coords="192,5,364,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1nitfwrap_1_1NitfWrap.html#a427c1cc359051aed8f90ec5ba317de89" title="pdal::nitfwrap::NitfWrap\l::unwrap" alt="" coords="198,57,358,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1nitfwrap_1_1NitfWrap.html#a507defc6c08af645c161ee875c58374a" title="pdal::nitfwrap::NitfWrap\l::NitfWrap" alt="" coords="412,57,572,98"/>
+</map>

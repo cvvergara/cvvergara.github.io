@@ -1,0 +1,8 @@
+<map id="pdal::OciWriter::updatePCExtent" name="pdal::OciWriter::updatePCExtent">
+<area shape="rect" id="node2" href="$classpdal_1_1OciWriter.html#a2af1be6c833d64138549d164da2baa3a" title="pdal::OciWriter::createPCElemInfo" alt="" coords="267,5,491,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1BOX3D.html#ab1150f00df7ce85599138b2c0d45d4dc" title="pdal::BOX3D::empty" alt="" coords="307,56,450,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="301,107,457,133"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a19dbb0a5ce84b6f60fea55cd54e674cf" title="pdal::Utils::toString" alt="" coords="311,157,446,184"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BOX2D.html#aec5fae5f73a34a1d4248d596cad77755" title="pdal::BOX2D::empty" alt="" coords="542,56,685,83"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="539,107,688,133"/>
+</map>

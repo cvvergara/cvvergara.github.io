@@ -1,0 +1,8 @@
+<map id="pdal::Options::add" name="pdal::Options::add">
+<area shape="rect" id="node2" href="$classpdal_1_1Option.html#ad2b7a736742fb343e421fa326ef45c23" title="pdal::Option::getName" alt="" coords="185,5,339,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Option.html#aef4422b88464a9cad83b3c11bf1f8cdd" title="pdal::Option::nameValid" alt="" coords="181,56,343,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Option.html#a978a36cf9180d3636ea770988961952b" title="pdal::Option::parse" alt="" coords="396,31,528,57"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#ada321695f57c876ef51227bdf5b84f7a" title="pdal::Utils::printError" alt="" coords="391,81,533,108"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="595,5,724,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="581,56,737,83"/>
+</map>

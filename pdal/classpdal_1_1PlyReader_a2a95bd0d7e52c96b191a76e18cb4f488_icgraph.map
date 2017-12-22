@@ -1,0 +1,9 @@
+<map id="pdal::PlyReader::readLine" name="pdal::PlyReader::readLine">
+<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#a86c91fd3c850c095dc537b627f92c426" title="pdal::PlyReader::extract\lElement" alt="" coords="448,23,611,65"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PlyReader.html#aec1ef06026968ef08b98538d2f868f13" title="pdal::PlyReader::extractEnd" alt="" coords="436,89,623,116"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PlyReader.html#a2ce78f148be470e4d613ae7f0ab9616f" title="pdal::PlyReader::extract\lFormat" alt="" coords="448,141,611,182"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PlyReader.html#abf004e430f1c5f6ad2a89746e54316ca" title="pdal::PlyReader::extract\lMagic" alt="" coords="225,199,388,241"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PlyReader.html#ae3efcc96eca62b8d710e725b3358e88c" title="pdal::PlyReader::extract\lProperties" alt="" coords="225,31,388,73"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PlyReader.html#a9b0179c012f82bcb1878e1197d2e4040" title="pdal::PlyReader::extract\lHeader" alt="" coords="671,111,833,153"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PlyReader.html#a1502df4ba555d39c66aebabc40b61342" title="pdal::PlyReader::initialize" alt="" coords="881,119,1052,145"/>
+</map>

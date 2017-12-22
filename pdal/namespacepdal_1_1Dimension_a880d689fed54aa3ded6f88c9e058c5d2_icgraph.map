@@ -1,0 +1,51 @@
+<map id="pdal::Dimension::type" name="pdal::Dimension::type">
+<area shape="rect" id="node2" href="$classpdal_1_1GreyhoundReader.html#a8e91ad9eaf4bcaefa3b47f43f7121ec5" title="pdal::GreyhoundReader\l::addDimensions" alt="" coords="477,27,635,68"/>
+<area shape="rect" id="node3" href="$classpdal_1_1BpfReader.html#ae414937251ec7ed9c16f73830f043785" title="pdal::BpfReader::addDimensions" alt="" coords="203,116,417,142"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasReader.html#a75e74d4d4b28c02a2be5eb21ec64d0ce" title="pdal::LasReader::addDimensions" alt="" coords="203,166,417,193"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1plang.html#a347812e81fc1e69ef7780226acdc8a7a" title="pdal::plang::addMetadata" alt="" coords="472,113,640,140"/>
+<area shape="rect" id="node7" href="$classpdal_1_1MetadataNode.html#a198cc59ea0083b8758eb80a3025d1937" title="pdal::MetadataNode\l::addWithType" alt="" coords="241,268,379,310"/>
+<area shape="rect" id="node12" href="$classpdal_1_1LasHeader.html#a8c75a676412257844f13d6e355ebc444" title="pdal::LasHeader::basePointLen" alt="" coords="208,334,412,361"/>
+<area shape="rect" id="node13" href="$io__pdal__PointView_8cpp.html#ad0eb885be2fafdfed53c74d8c125b9a1" title="convertDimTypeJavaArrayTo\lVector" alt="" coords="214,386,406,427"/>
+<area shape="rect" id="node16" href="$structpdal_1_1Ilvis2MetadataReader_1_1error.html#a74ad9ea99c3a3001c65934319d78c54a" title="pdal::Ilvis2MetadataReader\l::error::error" alt="" coords="219,451,401,492"/>
+<area shape="rect" id="node17" href="$classpdal_1_1DimBuilder.html#a51bc21469f4546a9d5152f725ae41345" title="pdal::DimBuilder::extractDim" alt="" coords="215,517,405,544"/>
+<area shape="rect" id="node19" href="$classpdal_1_1PlyReader.html#a4e99f726dfafb257dd9acbca102cd633" title="pdal::PlyReader::extract\lProperty" alt="" coords="229,568,391,610"/>
+<area shape="rect" id="node21" href="$classpdal_1_1PipelineReaderJSON.html#a27915d5192ad17fa25791e12a8d0df85" title="pdal::PipelineReaderJSON\l::extractType" alt="" coords="221,686,399,727"/>
+<area shape="rect" id="node22" href="$classpdal_1_1PipelineReaderJSON.html#a648ae28bf1b1fc54a9aa92b5d880c434" title="pdal::PipelineReaderJSON\l::parsePipeline" alt="" coords="467,660,645,702"/>
+<area shape="rect" id="node23" href="$classpdal_1_1PointLayout.html#a41955b0c316d4ae4d34eca8768be2ef9" title="pdal::PointLayout::\lfinalized" alt="" coords="245,751,375,792"/>
+<area shape="rect" id="node24" href="$namespacepdal_1_1plang.html#aadb0654c8e74d07ceb868c94f430f94a" title="pdal::plang::fromMetadata" alt="" coords="223,817,397,844"/>
+<area shape="rect" id="node26" href="$classpdal_1_1GeotiffTags.html#a458f5102ba4629d26231540764fb5c89" title="pdal::GeotiffTags::\lGeotiffTags" alt="" coords="245,868,375,910"/>
+<area shape="rect" id="node27" href="$classpdal_1_1PointRef.html#a4038a597d11918978943e286d58cd4c5" title="pdal::PointRef::getFieldAs" alt="" coords="223,934,397,961"/>
+<area shape="rect" id="node33" href="$namespacepdal_1_1plang.html#a6204cabd4bae7a037b9cc90fa1ef90f1" title="pdal::plang::getTraceback" alt="" coords="224,1036,396,1062"/>
+<area shape="rect" id="node34" href="$classpdal_1_1PluginManager.html#a4b104d8173aec62bcd3745ddee7aa3d5" title="pdal::PluginManager\l::guessLoadByPath" alt="" coords="240,1087,380,1128"/>
+<area shape="rect" id="node35" href="$classpdal_1_1LasWriter.html#ade04e04a657bb03720151c59a8c86b45" title="pdal::LasWriter::handleHeader\lForward" alt="" coords="211,1152,409,1194"/>
+<area shape="rect" id="node36" href="$io__pdal__PointLayout_8cpp.html#af8f3a3de6a0ef392cba87a2b07e47432" title="Java_io_pdal_PointLayout\l_dimTypes" alt="" coords="469,1240,643,1282"/>
+<area shape="rect" id="node37" href="$io__pdal__PointLayout_8cpp.html#a22262f107c6949fdacc3af0a35f1e07c" title="Java_io_pdal_PointLayout\l_findDimType" alt="" coords="223,1270,397,1311"/>
+<area shape="rect" id="node38" href="$classpdal_1_1PluginManager.html#a15e7ad2b6a2960400decd9845b382c40" title="pdal::PluginManager\l::l_loadPlugin" alt="" coords="240,1335,380,1376"/>
+<area shape="rect" id="node39" href="$classpdal_1_1XMLSchema.html#a8d8bec5759963e5226704a4fcc98e232" title="pdal::XMLSchema::load" alt="" coords="229,1401,391,1428"/>
+<area shape="rect" id="node40" href="$classpdal_1_1gdal_1_1Raster.html#aecd184cbda37b4dd0c84f58f1086f55f" title="pdal::gdal::Raster\l::open" alt="" coords="247,1452,373,1494"/>
+<area shape="rect" id="node41" href="$namespacepdal_1_1Dimension.html#a29c6d3bc031ca651c00ea5fc52fdbac1" title="pdal::Dimension::operator\&gt;\&gt;" alt="" coords="217,1518,403,1545"/>
+<area shape="rect" id="node42" href="$namespacepdal_1_1LasUtils.html#aa78ca118dc2638ab806bec5afb12b224" title="pdal::LasUtils::parse" alt="" coords="239,1569,381,1596"/>
+<area shape="rect" id="node43" href="$namespacepdal_1_1pclsupport.html#a6b2c6f96f8219e030d2ec6c9c1ec2697" title="Convert PCD point cloud to PDAL. " alt="" coords="211,1620,409,1646"/>
+<area shape="rect" id="node44" href="$namespacepdal_1_1pclsupport.html#ade7f04ae01cc02b8a30eb4beb48f9d75" title="Convert PDAL point cloud to PCD. " alt="" coords="211,1670,409,1697"/>
+<area shape="rect" id="node45" href="$classpdal_1_1PointView.html#a8a70be04f4a4cc38c6f21a03364b3e52" title="pdal::PointView::point" alt="" coords="235,985,385,1012"/>
+<area shape="rect" id="node46" href="$classpdal_1_1PointRef.html#ae6ca67ab4acd1fd5bd330bc3eaeec971" title="pdal::PointRef::pointId" alt="" coords="234,1721,386,1748"/>
+<area shape="rect" id="node47" href="$classpdal_1_1ExtraBytesIf.html#a7988b9509f89bc822dc981700ad50c5b" title="pdal::ExtraBytesIf\l::readFrom" alt="" coords="247,1772,373,1814"/>
+<area shape="rect" id="node48" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="231,1838,389,1865"/>
+<area shape="rect" id="node49" href="$classpdal_1_1PipelineManager.html#a0572034db4bf50f45ced28dc5af478bb" title="pdal::PipelineManager\l::setProgressFd" alt="" coords="235,1890,385,1931"/>
+<area shape="rect" id="node50" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="241,65,379,92"/>
+<area shape="rect" id="node6" href="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8" title="pdal::plang::Invocation::end" alt="" coords="695,113,877,140"/>
+<area shape="rect" id="node8" href="$classpdal_1_1LasReader.html#ae37da23f5ec384cb4b43be8c9676805a" title="pdal::LasReader::extract\lHeaderMetadata" alt="" coords="473,164,639,206"/>
+<area shape="rect" id="node9" href="$classpdal_1_1StatsFilter.html#a374631f225f1fba0918b159c1353142e" title="pdal::StatsFilter::\lextractMetadata" alt="" coords="495,230,617,271"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Option.html#a9e7c5414e5a1bf5538daf44ed26aa24c" title="pdal::Option::toMetadata" alt="" coords="473,296,639,322"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Options.html#a80b214f5c77242292e8f123b75e33bbc" title="pdal::Options::toMetadata" alt="" coords="470,346,642,373"/>
+<area shape="rect" id="node14" href="$io__pdal__PointView_8cpp.html#ae26ebc1bcf0b9ddd66beccd20c3356ca" title="Java_io_pdal_PointView\l_getPackedPoint" alt="" coords="704,419,868,460"/>
+<area shape="rect" id="node15" href="$io__pdal__PointView_8cpp.html#a5cd11ffe3330df455cd4981e1d46123b" title="Java_io_pdal_PointView\l_getPackedPoints" alt="" coords="474,448,638,490"/>
+<area shape="rect" id="node18" href="$classpdal_1_1DimBuilder.html#a80dc37c7ba907d37af6ce04620364855" title="pdal::DimBuilder::execute" alt="" coords="470,517,642,544"/>
+<area shape="rect" id="node20" href="$classpdal_1_1PlyReader.html#ae3efcc96eca62b8d710e725b3358e88c" title="pdal::PlyReader::extract\lProperties" alt="" coords="475,568,637,610"/>
+<area shape="rect" id="node25" href="$classpdal_1_1plang_1_1Invocation.html#adfe14b064df9a0d4dcf2d1da8a7cb1d8" title="pdal::plang::Invocation\l::begin" alt="" coords="479,767,633,808"/>
+<area shape="rect" id="node28" href="$classpdal_1_1Polygon.html#aa4fd8878774f007838019b35ebf882f2" title="pdal::Polygon::covers" alt="" coords="482,833,630,860"/>
+<area shape="rect" id="node29" href="$classpdal_1_1CropFilter.html#afb4d4b9e875f6d07b552194eadb1ea84" title="pdal::CropFilter::crop" alt="" coords="484,884,628,910"/>
+<area shape="rect" id="node30" href="$classpdal_1_1LasWriter.html#a1f2739e7ca9aec5d5cf06255fc5576e8" title="pdal::LasWriter::fillPointBuf" alt="" coords="465,934,647,961"/>
+<area shape="rect" id="node31" href="$classpdal_1_1HAGFilter.html#af2b63a5eed2c9b3d27bc5b37851b5c71" title="pdal::HAGFilter::filter" alt="" coords="483,985,629,1012"/>
+<area shape="rect" id="node32" href="$classpdal_1_1NormalFilter.html#a8bf36602629c8ff4ba8d7563b444aa2d" title="pdal::NormalFilter\l::filter" alt="" coords="493,1036,619,1078"/>
+</map>

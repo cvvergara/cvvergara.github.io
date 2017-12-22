@@ -1,0 +1,35 @@
+digraph "pdal::PlyReader::extractProperties"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PlyReader::extract\lProperties",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PlyReader::extract\lProperty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a4e99f726dfafb257dd9acbca102cd633"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PlyReader::nextWord",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#aa62e075130f0a99301f45f848b0a4c85"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Utils::extractSpaces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a9bda8c5dbe5ef7cf66e99ba022184934"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::Utils::extract",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Dimension::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Utils::tolower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::PlyReader::getType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#af687933c7ab3d57e3fdfcbfce6d0e6f9"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Dimension::name",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718"];
+  Node2 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::Stage::throwError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::Stage::getName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::PlyReader::pushLine",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a8b379a87661973d414966252e17ce400"];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::PlyReader::readLine",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a2a95bd0d7e52c96b191a76e18cb4f488"];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::Utils::trimTrailing",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#afed0ad4146baafd1973c85e1508ade73"];
+  Node13 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

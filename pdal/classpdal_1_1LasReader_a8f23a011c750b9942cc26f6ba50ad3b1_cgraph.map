@@ -1,0 +1,6 @@
+<map id="pdal::LasReader::extractVlrMetadata" name="pdal::LasReader::extractVlrMetadata">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2" title="pdal::MetadataNode::add" alt="" coords="423,5,591,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1MetadataNode.html#a5f0ad468dcce89e60406eb00e4b0b543" title="pdal::MetadataNode\l::addEncoded" alt="" coords="227,57,366,98"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="219,123,375,149"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#ab908ea72a2a7d385cbbab68939d1c1a2" title="pdal::Utils::base64\l_encode" alt="" coords="441,57,572,98"/>
+</map>

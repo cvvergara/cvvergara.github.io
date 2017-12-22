@@ -1,0 +1,12 @@
+digraph "pdal::nitfwrap::NitfWrap"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal::nitfwrap::NitfWrap",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_nitfWriter" ,fontname="Helvetica"];
+  Node2 [label="pdal::NitfFileWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1NitfFileWriter.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_bounds" ,fontname="Helvetica"];
+  Node3 [label="pdal::BOX3D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BOX3D.html"];
+  Node4 -> Node3 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::BOX2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BOX2D.html"];
+}

@@ -1,0 +1,19 @@
+<map id="pdal/pdal/PointLayout.hpp" name="pdal/pdal/PointLayout.hpp">
+<area shape="rect" id="node6" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="1077,80,1210,107"/>
+<area shape="rect" id="node32" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="925,80,1053,107"/>
+<area shape="rect" id="node33" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="1543,80,1672,107"/>
+<area shape="rect" id="node7" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="984,155,1121,181"/>
+<area shape="rect" id="node8" href="$DimUtil_8hpp.html" title="pdal/DimUtil.hpp" alt="" coords="993,229,1112,256"/>
+<area shape="rect" id="node9" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1041,304,1163,331"/>
+<area shape="rect" id="node29" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="830,229,969,256"/>
+<area shape="rect" id="node26" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="405,379,527,405"/>
+<area shape="rect" id="node28" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1930,379,2069,405"/>
+<area shape="rect" id="node34" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="2081,155,2229,181"/>
+<area shape="rect" id="node37" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="1696,304,1836,331"/>
+<area shape="rect" id="node38" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="1838,229,1961,256"/>
+<area shape="rect" id="node35" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="2193,229,2336,256"/>
+<area shape="rect" id="node36" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="2201,304,2336,331"/>
+<area shape="rect" id="node39" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="1962,304,2053,331"/>
+<area shape="rect" id="node41" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="2077,304,2177,331"/>
+<area shape="rect" id="node40" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="2093,379,2231,405"/>
+</map>

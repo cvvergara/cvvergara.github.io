@@ -1,0 +1,5 @@
+<map id="pdal::SpatialReference::getUTMZone" name="pdal::SpatialReference::getUTMZone">
+<area shape="rect" id="node2" href="$BPFTest_8cpp.html#a30071d5dd68251f1768dbe4e3623c615" title="TEST" alt="" coords="279,5,335,32"/>
+<area shape="rect" id="node3" href="$structpdal_1_1BpfHeader.html#a33e1ec7609b7e8433ca8c08f3f8118c7" title="pdal::BpfHeader::trySetSpatial\lReference" alt="" coords="208,57,407,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BpfWriter.html#a4d02d7d6a8639c21605d5548bb463d71" title="pdal::BpfWriter::readyFile" alt="" coords="455,64,625,91"/>
+</map>

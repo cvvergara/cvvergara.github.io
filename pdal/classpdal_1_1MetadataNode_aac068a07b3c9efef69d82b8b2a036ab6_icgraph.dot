@@ -1,0 +1,14 @@
+digraph "pdal::MetadataNode::find"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::MetadataNode\l::find",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::MetadataNode\l::findChild",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#aa2773bcdbe5c5b7a1658d77a5ba76216"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::LasWriter::findVlr\lMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a0abd8808cc1faf5296783ab279adb527"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$StatsFilterTest_8cpp.html#a5ee4039c1286ed8c5cddca48c85265b2"];
+}

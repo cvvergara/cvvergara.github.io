@@ -1,0 +1,33 @@
+<map id="pdal::MatlabFilter::run" name="pdal::MatlabFilter::run">
+<area shape="rect" id="node2" href="$classpdal_1_1mlang_1_1Environment.html#a5118cede3c5ef823a96b12716a20957d" title="pdal::mlang::Environment::get" alt="" coords="201,43,397,70"/>
+<area shape="rect" id="node4" href="$classpdal_1_1mlang_1_1Script.html#aa287acdcb0cb71066737721c8f71c700" title="pdal::mlang::Script\l::getLogicalMask" alt="" coords="234,149,365,191"/>
+<area shape="rect" id="node6" href="$classpdal_1_1mlang_1_1Script.html#a345003263632304e59f73c3a82ed5091" title="pdal::mlang::Script\l::getMatlabStruct" alt="" coords="234,389,365,431"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="243,455,356,482"/>
+<area shape="rect" id="node9" href="$classpdal_1_1mlang_1_1Script.html#afbb1ef33651f4742aad98f4acc51a572" title="pdal::mlang::Script\l::setMatlabStruct" alt="" coords="234,324,365,365"/>
+<area shape="rect" id="node31" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="221,575,377,602"/>
+<area shape="rect" id="node3" href="$classpdal_1_1mlang_1_1Environment.html#a069183744a1036eeaf23ac6f9eb1ab59" title="pdal::mlang::Environment\l::Environment" alt="" coords="445,5,616,47"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="667,130,823,157"/>
+<area shape="rect" id="node7" href="$classpdal_1_1mlang_1_1Script.html#a3c68fb736943b29d21c91bee7464047b" title="pdal::mlang::Script\l::getPDALDataType" alt="" coords="461,604,601,645"/>
+<area shape="rect" id="node10" href="$classpdal_1_1mlang_1_1Script.html#ada6c96ed7afdebd6d98504ac493a567a" title="pdal::mlang::Script\l::getMatlabDataType" alt="" coords="459,240,603,281"/>
+<area shape="rect" id="node11" href="$namespacepdal.html#ab387fd54978ba0ced5eb868065f2117e" title="pdal::convert" alt="" coords="482,306,579,333"/>
+<area shape="rect" id="node13" href="$classpdal_1_1MetadataNode.html#af47954f1958aa8a9937eac6da614a073" title="pdal::MetadataNode\l::clone" alt="" coords="461,123,600,164"/>
+<area shape="rect" id="node14" href="$namespacepdal_1_1Utils.html#ae34d4c6244b0915b7ff635d74c5315cc" title="pdal::Utils::toJSON" alt="" coords="463,357,599,383"/>
+<area shape="rect" id="node27" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="453,473,608,515"/>
+<area shape="rect" id="node28" href="$classpdal_1_1SpatialReference.html#af61fead43c6e7002f4a4ced9d02a3fac" title="pdal::SpatialReference\l::getHorizontal" alt="" coords="453,539,608,580"/>
+<area shape="rect" id="node30" href="$classpdal_1_1SpatialReference.html#a25aae5c81feaad7f5db81ba928972c6c" title="pdal::SpatialReference\l::getVertical" alt="" coords="453,408,608,449"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="671,306,820,333"/>
+<area shape="rect" id="node15" href="$namespacepdal_1_1Utils.html#a90c7b124d5407ee4d7120e4c42b40b02" title="pdal::Utils::toJSON" alt="" coords="677,357,813,383"/>
+<area shape="rect" id="node16" href="$classpdal_1_1MetadataNode.html#a645aadd856fb1a4ae4a12247fda3e618" title="pdal::MetadataNode\l::name" alt="" coords="1194,172,1333,213"/>
+<area shape="rect" id="node17" href="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#a9836ab34bb1a9ec78acdf0da8134082d" title="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::subnodesToJSON" alt="" coords="875,349,1111,391"/>
+<area shape="rect" id="node19" href="$classpdal_1_1MetadataNode.html#ab86b0ccbf27f9eee29cbb5252e9431b7" title="pdal::MetadataNode\l::children" alt="" coords="1194,237,1333,279"/>
+<area shape="rect" id="node20" href="$classpdal_1_1MetadataNode.html#a66863365a08eb3ee538ebeb4ce788a39" title="pdal::MetadataNode\l::kind" alt="" coords="1194,420,1333,461"/>
+<area shape="rect" id="node21" href="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#a24e6b833ca779a04307fb80c249cdf19" title="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::arrayToJSON" alt="" coords="1159,485,1368,527"/>
+<area shape="rect" id="node18" href="$classpdal_1_1MetadataNode.html#ae9794860b91201dce86f162799d902b1" title="pdal::MetadataNode\l::childNames" alt="" coords="1194,303,1333,344"/>
+<area shape="rect" id="node22" href="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#ac00099447614a63b2acd68d05ee3a5c1" title="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::arrayEltToJSON" alt="" coords="1416,424,1641,465"/>
+<area shape="rect" id="node23" href="$classpdal_1_1MetadataNode.html#ac936d257e7eaa30e130ad9de526b2087" title="pdal::MetadataNode\l::jsonValue" alt="" coords="1689,391,1828,432"/>
+<area shape="rect" id="node26" href="$classpdal_1_1MetadataNode.html#ada667c2ca1eab9957ae5c7a98fea5d02" title="pdal::MetadataNode\l::hasChildren" alt="" coords="1689,456,1828,497"/>
+<area shape="rect" id="node24" href="$namespacepdal_1_1Utils.html#aabcd6b5abf9f2cd30b485fc100656663" title="pdal::Utils::escapeJSON" alt="" coords="1876,398,2043,425"/>
+<area shape="rect" id="node25" href="$namespacepdal_1_1Utils.html#ac6b599972dcd3fe440ef5c476961081a" title="pdal::Utils::remove_if" alt="" coords="2091,398,2237,425"/>
+<area shape="rect" id="node29" href="$namespaceanonymous__namespace_02SpatialReference_8cpp_03.html#a7ce6a6a24c679904f24950377a0bb8bb" title="anonymous_namespace\l\{SpatialReference::cpp\}\l::ogrCreateSrs" alt="" coords="664,469,827,525"/>
+<area shape="rect" id="node32" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="456,670,605,697"/>
+</map>

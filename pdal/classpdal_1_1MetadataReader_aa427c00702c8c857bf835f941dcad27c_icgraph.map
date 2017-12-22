@@ -1,0 +1,5 @@
+<map id="pdal::MetadataReader::doFileHeader" name="pdal::MetadataReader::doFileHeader">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataReader.html#a4ba8aff3bffdb406ab88b9ea20b03084" title="pdal::MetadataReader\l::read" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1NitfFileReader.html#a340a9c74ed7446f67806a9072a3656aa" title="pdal::NitfFileReader\l::extractMetadata" alt="" coords="403,5,541,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1NitfReader.html#aff135fa0b6888020a5de9eb33e2d7fea" title="pdal::NitfReader::initialize" alt="" coords="589,13,761,39"/>
+</map>

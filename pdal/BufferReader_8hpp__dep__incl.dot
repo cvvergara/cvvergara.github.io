@@ -1,0 +1,30 @@
+digraph "pdal/io/BufferReader.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal/io/BufferReader.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal/examples/writing\l/tutorial.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tutorial_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal/filters/MongusFilter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$MongusFilter_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal/kernels/SplitKernel.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SplitKernel_8cpp.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal/plugins/nitf/test\l/NitfWriterTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$NitfWriterTest_8cpp.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal/plugins/pcl/kernel\l/PCLKernel.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$PCLKernel_8cpp.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal/plugins/pcl/kernel\l/SmoothKernel.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SmoothKernel_8cpp.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal/test/unit/filters\l/ComputeRangeFilterTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ComputeRangeFilterTest_8cpp.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal/test/unit/filters\l/CropFilterTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$CropFilterTest_8cpp.html"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal/test/unit/io/BPFTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BPFTest_8cpp.html"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal/test/unit/io/Buffer\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BufferTest_8cpp.html"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal/test/unit/io/LasWriter\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$LasWriterTest_8cpp.html"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal/test/unit/io/PlyWriter\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$PlyWriterTest_8cpp.html"];
+}

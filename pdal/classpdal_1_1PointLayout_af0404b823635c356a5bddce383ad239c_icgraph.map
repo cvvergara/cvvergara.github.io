@@ -1,0 +1,16 @@
+<map id="pdal::PointLayout::registerDims" name="pdal::PointLayout::registerDims">
+<area shape="rect" id="node2" href="$classpdal_1_1PcdReader.html#a147f678612b1cfe42c405296b1b1a15e" title="pdal::PcdReader::addDimensions" alt="" coords="187,5,404,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1GeoWaveReader.html#aa38f9a477c2998e39121e50a8e992e19" title="pdal::GeoWaveReader\l::addDimensions" alt="" coords="218,57,373,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PoissonFilter.html#aebbe2f92e3b8ae9a26ac2b6d74dfeb42" title="pdal::PoissonFilter\l::addDimensions" alt="" coords="230,122,361,163"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SbetReader.html#ad8bad3e629402d0f9880703df65fa649" title="pdal::SbetReader::addDimensions" alt="" coords="185,188,406,215"/>
+<area shape="rect" id="node6" href="$classpdal_1_1IcebridgeReader.html#a45bf701a58df60a3bfe59de4d83a4b7d" title="pdal::IcebridgeReader\l::addDimensions" alt="" coords="221,239,370,281"/>
+<area shape="rect" id="node7" href="$classpdal_1_1OptechReader.html#a96afc4e31721fa69b549412e479b775b" title="pdal::OptechReader\l::addDimensions" alt="" coords="226,305,365,346"/>
+<area shape="rect" id="node8" href="$classpdal_1_1NormalFilter.html#a79f5cfe12251146295864aea7524ddb9" title="pdal::NormalFilter\l::addDimensions" alt="" coords="233,370,358,411"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MbReader.html#a794279f21e0b166c7f8ee66c530132ee" title="pdal::MbReader::addDimensions" alt="" coords="189,436,401,463"/>
+<area shape="rect" id="node11" href="$classpdal_1_1ColorinterpFilter.html#a6ed6d58ce27739158a53b3b683b3b867" title="pdal::ColorinterpFilter\l::addDimensions" alt="" coords="222,487,369,529"/>
+<area shape="rect" id="node12" href="$classpdal_1_1RxpReader.html#ac04c8d6d251eb195e9c61dc5088a058d" title="pdal::RxpReader::addDimensions" alt="" coords="186,553,405,580"/>
+<area shape="rect" id="node13" href="$classpdal_1_1FauxReader.html#a2832e601c410f0e9fb1e89c305cc8a87" title="pdal::FauxReader::addDimensions" alt="" coords="184,604,407,631"/>
+<area shape="rect" id="node14" href="$classpdal_1_1GreedyProjection.html#ae288ed006a771ce7eb1b24d59c243629" title="pdal::GreedyProjection\l::addDimensions" alt="" coords="218,655,373,697"/>
+<area shape="rect" id="node15" href="$classpdal_1_1PointLayout.html#a41955b0c316d4ae4d34eca8768be2ef9" title="pdal::PointLayout::\lfinalized" alt="" coords="230,721,361,762"/>
+<area shape="rect" id="node10" href="$classpdal_1_1MbReader.html#a75e8eecca036350ac916862bb611f58c" title="pdal::MbReader::inspect" alt="" coords="455,436,619,463"/>
+</map>

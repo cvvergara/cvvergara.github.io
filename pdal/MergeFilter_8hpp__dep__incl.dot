@@ -1,0 +1,23 @@
+digraph "pdal/filters/MergeFilter.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal/filters/MergeFilter.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal/filters/MergeFilter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$MergeFilter_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal/io/TIndexReader.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$TIndexReader_8hpp.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal/io/TIndexReader.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$TIndexReader_8cpp.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal/pdal/StageFactory.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$StageFactory_8cpp.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal/kernels/MergeKernel.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$MergeKernel_8cpp.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal/test/unit/filters\l/AdditionalMergeTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AdditionalMergeTest_8cpp.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal/test/unit/SpatialReference\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SpatialReferenceTest_8cpp.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal/test/unit/Streaming\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$StreamingTest_8cpp.html"];
+}

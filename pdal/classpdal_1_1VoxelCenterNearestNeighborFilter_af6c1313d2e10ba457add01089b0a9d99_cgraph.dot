@@ -1,0 +1,15 @@
+digraph "pdal::VoxelCenterNearestNeighborFilter::run"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::VoxelCenterNearest\lNeighborFilter::run",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::KDIndex::build",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Dimension::id",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Utils::toupper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::KD3Index::neighbors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1KD3Index.html#a1c45255c22cb2e2f9341e5524c5410cc"];
+}

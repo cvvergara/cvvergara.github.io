@@ -1,0 +1,14 @@
+<map id="pdal::BpfReader::readDimMajor" name="pdal::BpfReader::readDimMajor">
+<area shape="rect" id="node2" href="$structpdal_1_1BpfMuellerMatrix.html#a3bae8cd517356ffb0aea13a57d930ae7" title="pdal::BpfMuellerMatrix\l::apply" alt="" coords="239,42,391,83"/>
+<area shape="rect" id="node11" href="$classpdal_1_1BpfReader.html#a8474ab61285bb81bc1bcc4d69383bb95" title="pdal::BpfReader::numPoints" alt="" coords="451,112,637,139"/>
+<area shape="rect" id="node12" href="$classpdal_1_1BpfReader.html#a19abf54165696e8548d6baf5bda30fa3" title="pdal::BpfReader::seekDim\lMajor" alt="" coords="227,159,403,201"/>
+<area shape="rect" id="node3" href="$namespacepdal.html#a8af0329eb87f27a8e758e50c36b2a705" title="pdal::operator\&lt;\&lt;" alt="" coords="485,5,603,32"/>
+<area shape="rect" id="node4" href="$namespacepdal.html#ace4187c9d299de84872aa9a04c71dbf3" title="pdal::operator\&gt;\&gt;" alt="" coords="485,56,603,83"/>
+<area shape="rect" id="node5" href="$structpdal_1_1AssignRange.html#add1a82f38c804c85284aa9bed0c4330a" title="pdal::AssignRange::\lparse" alt="" coords="685,49,825,90"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a9bda8c5dbe5ef7cf66e99ba022184934" title="pdal::Utils::extractSpaces" alt="" coords="1113,31,1286,57"/>
+<area shape="rect" id="node8" href="$structpdal_1_1DimRange.html#a6b6b128ffc786bddb749f37ccd9fcf1d" title="pdal::DimRange::subParse" alt="" coords="873,81,1052,108"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="1347,56,1476,83"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Dimension.html#ad7dd00ca79ce099313f3fe405f40cd93" title="pdal::Dimension::extractName" alt="" coords="1100,81,1299,108"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="1121,132,1277,159"/>
+<area shape="rect" id="node13" href="$classpdal_1_1IStream.html#af0ce8ed6fcaea7ead21c0e7c5c054812" title="pdal::IStream::seek" alt="" coords="476,167,612,193"/>
+</map>

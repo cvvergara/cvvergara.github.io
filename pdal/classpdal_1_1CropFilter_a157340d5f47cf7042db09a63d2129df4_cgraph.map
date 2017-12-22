@@ -1,0 +1,8 @@
+<map id="pdal::CropFilter::transform" name="pdal::CropFilter::transform">
+<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="241,5,395,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="241,71,395,112"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1gdal.html#a94727cba0dfb75a0d89f7113a15f521d" title="pdal::gdal::reprojectBounds" alt="" coords="228,137,408,163"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1gdal.html#a21a8a722fc77b7b5f5f57275ad8f17a5" title="pdal::gdal::reprojectPoint" alt="" coords="235,187,401,214"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="240,238,396,265"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="456,238,605,265"/>
+</map>

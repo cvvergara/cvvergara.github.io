@@ -1,0 +1,6 @@
+<map id="pdal::PtsReader::ready" name="pdal::PtsReader::ready">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#ac3322e84f8c5a998a344a5a606c74793" title="pdal::Utils::openFile" alt="" coords="218,5,357,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="209,56,365,83"/>
+<area shape="rect" id="node3" href="$SQLiteTest_8cpp.html#afdd1742979cee35fe1879794bd7ff3a4" title="tempFilename" alt="" coords="436,5,540,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="413,56,563,83"/>
+</map>

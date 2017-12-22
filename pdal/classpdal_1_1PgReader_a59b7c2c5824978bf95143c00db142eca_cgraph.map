@@ -1,0 +1,7 @@
+<map id="pdal::PgReader::getNumPoints" name="pdal::PgReader::getNumPoints">
+<area shape="rect" id="node2" href="$namespacepdal.html#aa40e03c638df615fa62327f57b5b8ec5" title="pdal::pg_query_result" alt="" coords="264,5,411,32"/>
+<area shape="rect" id="node3" href="$namespacepdal.html#ad99ce17aa864ec243dd2c32460009634" title="pdal::pg_quote_identifier" alt="" coords="256,56,419,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="259,107,415,133"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="468,56,615,83"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="467,107,616,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pdal::MetadataNode::addEncoded" name="pdal::MetadataNode::addEncoded">
+<area shape="rect" id="node2" href="$classpdal_1_1LasReader.html#ae37da23f5ec384cb4b43be8c9676805a" title="pdal::LasReader::extract\lHeaderMetadata" alt="" coords="205,5,370,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasReader.html#a8f23a011c750b9942cc26f6ba50ad3b1" title="pdal::LasReader::extract\lVlrMetadata" alt="" coords="205,71,370,112"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BpfReader.html#ad79ce277210a06587dda542c676c322c" title="pdal::BpfReader::readHeader\lExtraData" alt="" coords="192,136,383,177"/>
+<area shape="rect" id="node7" href="$classpdal_1_1BpfReader.html#a8cc4909dafb875bb06b513478a31408d" title="pdal::BpfReader::readUlem\lFiles" alt="" coords="197,201,377,243"/>
+<area shape="rect" id="node8" href="$MetadataTest_8cpp.html#a51418dfaf40922e4a44ca87031aebf4b" title="TEST" alt="" coords="259,267,315,294"/>
+<area shape="rect" id="node5" href="$classpdal_1_1BpfReader.html#ab7dd5387cb7f88c2c5bbbc1d4838be50" title="pdal::BpfReader::initialize" alt="" coords="431,177,601,203"/>
+<area shape="rect" id="node6" href="$classpdal_1_1BpfReader.html#accb0283f384ad927abc5f37881be748c" title="pdal::BpfReader::inspect" alt="" coords="649,177,816,203"/>
+</map>

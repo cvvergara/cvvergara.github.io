@@ -1,0 +1,11 @@
+digraph "pdal/plugins/cpd/filters" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_36f5c05cef57dd1944e400c0ab2825c3 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="cpd" fontname="Helvetica", fontsize="10", URL="dir_36f5c05cef57dd1944e400c0ab2825c3.html"]
+  dir_30da5df6278b814251fbb2199adbcdb2 [shape=box, label="filters", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_30da5df6278b814251fbb2199adbcdb2.html"];
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_30da5df6278b814251fbb2199adbcdb2->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="4", labeldistance=1.5 headhref="dir_000056_000050.html"];
+}

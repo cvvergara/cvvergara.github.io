@@ -1,0 +1,32 @@
+digraph "pcl::Pipeline::setOffsets"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pcl::Pipeline::setOffsets",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pcl::Pipeline::applyApproximate\lProgressiveMorphologicalFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#ae1fe21ede1ce01269195a26023e2e03b",tooltip="Apply approximate progressive morphological filter to input cloud, using parameters specified in prop..."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Utils::extract",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pcl::Pipeline::applyFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#a1c09f8d4aaf4c85c7ea4d1f76ef507ac",tooltip="Filtered results are stored in a separate point cloud. "];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::Utils::iequals",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Utils::toupper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Dimension::name",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pcl::Pipeline::applyGrid\lMinimum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#a89499acb13da1604acb8cbc6a4be4378",tooltip="Apply grid minimum filter to input cloud, using parameters specified in property tree. "];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pcl::Pipeline::applyPass\lThrough",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#ad82ff03b7cc386b44bca0483a8d4620b",tooltip="Apply passthrough filter to input cloud, using parameters specified in property tree. "];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pcl::Pipeline::applyProgressive\lMorphologicalFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#aa9d2bd655bbb8a0c657bcb0906cd430b",tooltip="Apply progressive morphological filter to input cloud, using parameters specified in property tree..."];
+  Node10 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pcl::Pipeline::applyRadius\lOutlierRemoval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#a337f5d488a9a1c747a0fa547f30bcef4",tooltip="Apply radius outlier removal filter to input cloud, using parameters specified in property tree..."];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pcl::Pipeline::applyStatistical\lOutlierRemoval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#a40ae698fd9b608aaf5955030ce93871d",tooltip="Apply statistical outlier removal filter to input cloud, using parameters specified in property tree..."];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pcl::Pipeline::applyVoxelGrid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpcl_1_1Pipeline.html#ad3b0ce0cd1c161d53bcd2d4f9c4e5ef8",tooltip="Apply voxel grid filter to input cloud, using parameters specified in property tree. "];
+}

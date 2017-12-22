@@ -1,0 +1,6 @@
+<map id="pdal::getTimeDimensionId" name="pdal::getTimeDimensionId">
+<area shape="rect" id="node2" href="$RxpReaderTest_8cpp.html#a5fd3b97d869ceab59e968d9d80965d9b" title="checkPoint" alt="" coords="267,5,354,32"/>
+<area shape="rect" id="node3" href="$namespacepdal.html#a01b239a3b6bbc504ec488dad92f01d03" title="pdal::getRxpDimensions" alt="" coords="228,56,393,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1RxpPointcloud.html#afd278585765821a7e6803d095ab43ccf" title="pdal::RxpPointcloud\l::on_echo_transformed" alt="" coords="233,107,388,149"/>
+<area shape="rect" id="node4" href="$classpdal_1_1RxpReader.html#ac04c8d6d251eb195e9c61dc5088a058d" title="pdal::RxpReader::addDimensions" alt="" coords="441,56,660,83"/>
+</map>

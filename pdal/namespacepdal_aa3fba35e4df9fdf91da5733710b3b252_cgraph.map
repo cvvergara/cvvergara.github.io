@@ -1,0 +1,15 @@
+<map id="pdal::TEST" name="pdal::TEST">
+<area shape="rect" id="node2" href="$classSupport.html#a103551165ca7a5a6aeeccafd3e41c128" title="Support::compare_text\l_files" alt="" coords="147,5,302,47"/>
+<area shape="rect" id="node3" href="$classSupport.html#a9bbdf6f202f4f2e45e7a53007dd0a238" title="Support::datapath" alt="" coords="162,122,287,149"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1FileUtils.html#a9147ba0dbb2789edbd17feb104b00532" title="pdal::FileUtils::deleteFile" alt="" coords="141,71,308,98"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Log.html#a55b5c8d21fb25aed225a85a3e655622e" title="pdal::Log::get" alt="" coords="174,274,275,301"/>
+<area shape="rect" id="node13" href="$classpdal_1_1Log.html#a94621638c2c72be59d9a339a7ee88e16" title="pdal::Log::setLevel" alt="" coords="159,223,291,250"/>
+<area shape="rect" id="node14" href="$classSupport.html#a987d7adce1636b5852ff41a1d34d37bd" title="Support::temppath" alt="" coords="160,173,289,199"/>
+<area shape="rect" id="node4" href="$namespaceTestConfig.html#a0e622015f0610c2cfcbb3739b972d877" title="TestConfig::dataPath" alt="" coords="366,147,513,174"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#ad875f14218020d7d4d10803f5a115bdb" title="pdal::Utils::remove" alt="" coords="373,71,505,98"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="370,274,509,301"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Log.html#ac029547787ab61435de09575dbb9dc05" title="pdal::Log::leader" alt="" coords="380,325,499,351"/>
+<area shape="rect" id="node12" href="$classpdal_1_1Log.html#aff64bf3e91a1fc230ec2d4eed98b3dbf" title="pdal::Log::getLevelString" alt="" coords="356,223,523,250"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="571,274,720,301"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="768,274,899,301"/>
+</map>

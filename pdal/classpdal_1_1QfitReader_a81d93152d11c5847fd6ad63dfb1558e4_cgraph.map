@@ -1,0 +1,7 @@
+<map id="pdal::QfitReader::initialize" name="pdal::QfitReader::initialize">
+<area shape="rect" id="node2" href="$classpdal_1_1IStream.html#a38d6a0366530071e8166b9f4d834aa18" title="pdal::IStream::position" alt="" coords="231,5,384,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1IStream.html#af0ce8ed6fcaea7ead21c0e7c5c054812" title="pdal::IStream::seek" alt="" coords="239,56,375,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1ISwitchableStream.html#a88745f8e311a9484010a52b8e881325c" title="pdal::ISwitchableStream\l::switchToBigEndian" alt="" coords="225,107,389,149"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="229,173,385,200"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="437,173,587,200"/>
+</map>

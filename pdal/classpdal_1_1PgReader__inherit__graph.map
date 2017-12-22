@@ -1,0 +1,5 @@
+<map id="pdal::PgReader" name="pdal::PgReader">
+<area shape="rect" id="node2" href="$classpdal_1_1DbReader.html" title="pdal::DbReader" alt="" coords="5,155,119,181"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Reader.html" title="pdal::Reader" alt="" coords="14,80,110,107"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="18,5,106,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pdal::gdal::Raster::open" name="pdal::gdal::Raster::open">
+<area shape="rect" id="node2" href="$classpdal_1_1gdal_1_1Raster.html#a579b7ee19bb782f215ae7ed2bc9227ff" title="pdal::gdal::Raster\l::computePDALDimensionTypes" alt="" coords="179,13,392,54"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1gdal_1_1anonymous__namespace_02GDALUtils_8cpp_03.html#a5cd4d24a0e9cb19eb9dda7d3c3278a3d" title="pdal::gdal::anonymous\l_namespace\{GDALUtils\l::cpp\}::toPdalType" alt="" coords="440,5,603,61"/>
+</map>

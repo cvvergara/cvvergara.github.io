@@ -1,0 +1,9 @@
+digraph "pdal::LasReader::loadPoint"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::LasReader::loadPoint",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::LasReader::readFile\lBlock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasReader.html#aab4af1f2ff33e486a0c6efa784f1fdc9"];
+}

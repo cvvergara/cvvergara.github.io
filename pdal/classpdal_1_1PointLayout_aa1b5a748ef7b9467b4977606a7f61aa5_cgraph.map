@@ -1,0 +1,7 @@
+<map id="pdal::PointLayout::resolveType" name="pdal::PointLayout::resolveType">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#ab9491687b8700d1db27e0aba1fcd7143" title="pdal::Dimension::base" alt="" coords="184,5,336,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="186,56,334,83"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="384,31,523,57"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="571,31,720,57"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="768,31,899,57"/>
+</map>

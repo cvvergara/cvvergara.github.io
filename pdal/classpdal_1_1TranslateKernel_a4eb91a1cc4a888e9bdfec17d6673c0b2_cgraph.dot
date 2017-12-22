@@ -1,0 +1,21 @@
+digraph "pdal::TranslateKernel::makeArgPipeline"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::TranslateKernel\l::makeArgPipeline",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="hag.filter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacehag.html#a39becb5458bcac317093e468da1639be"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="hag.read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacehag.html#acad63bbd5fdda01bf56ff6aae70a0192"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hag.wakeup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacehag.html#aee422d0ebdb1730554711d82498e54c3"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::PipelineManager\l::makeFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PipelineManager.html#a8626f2e57d8d35b4e5379f36a842ccbf"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::PipelineManager\l::makeReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PipelineManager.html#a1ed693ba560749af6f5a20e73474b09b"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::PipelineManager\l::makeWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PipelineManager.html#a5d818c00afd49f76e4284474fc0f4f3f"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::Utils::startsWith",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a28e27948fb8a4c1d958783d8a53bd784"];
+}

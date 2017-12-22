@@ -1,0 +1,10 @@
+<map id="pdal::pg_query_once" name="pdal::pg_query_once">
+<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a6fa8390ac8d95f40ca2779be4b613f43" title="pdal::PgReader::addDimensions" alt="" coords="439,5,649,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PgWriter.html#a4af9d048c68de23b6f7a70d5ac3b063f" title="pdal::PgWriter::CheckTable\lExists" alt="" coords="202,147,385,189"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PgReader.html#a4f1e3798a7eb13bf27795345940f021a" title="pdal::PgReader::fetchPcid" alt="" coords="206,45,381,72"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PgReader.html#a6d1ac1156668e0f5f795f959ab8cd41c" title="pdal::PgReader::fetchSpatial\lReference" alt="" coords="449,78,639,119"/>
+<area shape="rect" id="node9" href="$classpdal_1_1PgWriter.html#a53ebf855ce148dfff8b9d21e8015ee4f" title="pdal::PgWriter::SetupSchema" alt="" coords="196,213,391,240"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PgWriter.html#a533424111db08989e4d3a670e9db884f" title="pdal::PgWriter::writeInit" alt="" coords="465,184,623,211"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PgWriter.html#a75d2fa0130cb17470e69425c0b866635" title="pdal::PgWriter::write" alt="" coords="710,184,851,211"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PgReader.html#aa331a66a5721b67033658624135914d5" title="pdal::PgReader::initialize" alt="" coords="697,85,864,112"/>
+</map>

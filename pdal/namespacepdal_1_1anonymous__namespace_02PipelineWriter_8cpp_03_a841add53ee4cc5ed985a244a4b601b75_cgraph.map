@@ -1,0 +1,7 @@
+<map id="pdal::anonymous_namespace{PipelineWriter::cpp}::generateTags" name="pdal::anonymous_namespace{PipelineWriter::cpp}::generateTags">
+<area shape="rect" id="node2" href="$namespacepdal_1_1anonymous__namespace_02PipelineWriter_8cpp_03.html#a95a67bf93357994331e1aebb2b24ab53" title="pdal::anonymous_namespace\l\{PipelineWriter::cpp\}::\lgenerateTag" alt="" coords="248,41,443,97"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#ae5e297f007d2b4cb380e7f34a6b472cd" title="pdal::Stage::getInputs" alt="" coords="270,121,421,148"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="491,5,640,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="492,56,639,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a613c8e943622340c46806e8a6feefc13" title="pdal::Stage::tag" alt="" coords="508,107,623,133"/>
+</map>

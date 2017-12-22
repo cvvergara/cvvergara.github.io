@@ -1,0 +1,27 @@
+<map id="pdal::MyWriter::MyWriter" name="pdal::MyWriter::MyWriter">
+<area shape="rect" id="node2" href="$classpdal_1_1MyWriter.html#a891a1f7bd8efe957ac4dff3ca8fae1dd" title="pdal::MyWriter::addArgs" alt="" coords="224,56,387,83"/>
+<area shape="rect" id="node7" href="$classpdal_1_1MyWriter.html#a577b17f9f9f755dbd19767c370c13fcc" title="pdal::MyWriter::create" alt="" coords="230,107,381,133"/>
+<area shape="rect" id="node8" href="$classpdal_1_1MyWriter.html#a4d0851297bc6df66a3196122f4ee2fa1" title="pdal::MyWriter::destroy" alt="" coords="226,157,385,184"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MyWriter.html#ada47937cf671a815a62d0dd8c5ca09bc" title="pdal::MyWriter::done" alt="" coords="234,208,377,235"/>
+<area shape="rect" id="node10" href="$classpdal_1_1MyWriter.html#a7c3a68bd5ba8e8b1f2c36c3aa4b3cdf2" title="pdal::MyWriter::getName" alt="" coords="221,259,389,285"/>
+<area shape="rect" id="node11" href="$classpdal_1_1MyWriter.html#a9492c8ffbaee5849212bb6fd3f944374" title="pdal::MyWriter::initialize" alt="" coords="224,309,387,336"/>
+<area shape="rect" id="node15" href="$classpdal_1_1MyWriter.html#a4915f49a23012523d782349f5145946f" title="pdal::MyWriter::ready" alt="" coords="232,360,379,387"/>
+<area shape="rect" id="node26" href="$classpdal_1_1MyWriter.html#ae46e095c5f606ee5eb0fdd1827ab8595" title="pdal::MyWriter::write" alt="" coords="234,411,377,437"/>
+<area shape="rect" id="node3" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="441,31,600,57"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="442,81,599,108"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="671,5,827,32"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="656,56,843,83"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1FileUtils.html#a5d7b6d46e6a7e128e47d6afcae341f0e" title="pdal::FileUtils::createFile" alt="" coords="437,301,604,328"/>
+<area shape="rect" id="node13" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a6a4f8cec1324aa27b45a6e8c1ac44dd6" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdout" alt="" coords="652,297,847,338"/>
+<area shape="rect" id="node14" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="908,333,1040,360"/>
+<area shape="rect" id="node16" href="$classpdal_1_1BasePointTable.html#a7e3a12a1f29e6cd10d8669ed3d07eb94" title="pdal::BasePointTable\l::layout" alt="" coords="447,353,594,394"/>
+<area shape="rect" id="node17" href="$classpdal_1_1PointLayout.html#a5a720db4e74a5412c1420b0d1eaacda7" title="pdal::PointLayout::\lfindDim" alt="" coords="455,418,586,459"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="682,364,817,391"/>
+<area shape="rect" id="node19" href="$classpdal_1_1PointLayout.html#adaef1dfccc620aa7f7f2a57ea2c19d6d" title="pdal::PointLayout::\ldimType" alt="" coords="684,417,815,458"/>
+<area shape="rect" id="node25" href="$classpdal_1_1PointLayout.html#abb03661faa312e6954f49cf8e0e809a3" title="pdal::PointLayout::\lfindProprietaryDim" alt="" coords="684,482,815,523"/>
+<area shape="rect" id="node20" href="$classpdal_1_1PointLayout.html#abcfdf0f917e71d1bd8a96bc64ff1e8a2" title="pdal::PointLayout::\ldimDetail" alt="" coords="909,401,1039,442"/>
+<area shape="rect" id="node24" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="895,466,1053,507"/>
+<area shape="rect" id="node21" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="1101,408,1240,435"/>
+<area shape="rect" id="node22" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1288,408,1437,435"/>
+<area shape="rect" id="node23" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1485,408,1616,435"/>
+</map>

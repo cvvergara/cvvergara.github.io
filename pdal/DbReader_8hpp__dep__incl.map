@@ -1,0 +1,9 @@
+<map id="pdal/pdal/DbReader.hpp" name="pdal/pdal/DbReader.hpp">
+<area shape="rect" id="node2" href="$DbReader_8cpp.html" title="pdal/pdal/DbReader.cpp" alt="" coords="5,87,168,114"/>
+<area shape="rect" id="node3" href="$OciReader_8hpp.html" title="pdal/plugins/oci/io\l/OciReader.hpp" alt="" coords="193,80,319,121"/>
+<area shape="rect" id="node5" href="$PgReader_8hpp.html" title="pdal/plugins/pgpointcloud\l/io/PgReader.hpp" alt="" coords="344,80,512,121"/>
+<area shape="rect" id="node7" href="$SQLiteReader_8hpp.html" title="pdal/plugins/sqlite\l/io/SQLiteReader.hpp" alt="" coords="536,80,683,121"/>
+<area shape="rect" id="node4" href="$OciReader_8cpp.html" title="pdal/plugins/oci/io\l/OciReader.cpp" alt="" coords="193,169,319,211"/>
+<area shape="rect" id="node6" href="$PgReader_8cpp.html" title="pdal/plugins/pgpointcloud\l/io/PgReader.cpp" alt="" coords="344,169,512,211"/>
+<area shape="rect" id="node8" href="$SQLiteReader_8cpp.html" title="pdal/plugins/sqlite\l/io/SQLiteReader.cpp" alt="" coords="536,169,683,211"/>
+</map>

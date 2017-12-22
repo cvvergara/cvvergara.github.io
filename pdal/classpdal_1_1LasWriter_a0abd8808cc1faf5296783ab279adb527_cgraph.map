@@ -1,0 +1,5 @@
+<map id="pdal::LasWriter::findVlrMetadata" name="pdal::LasWriter::findVlrMetadata">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#aac068a07b3c9efef69d82b8b2a036ab6" title="pdal::MetadataNode\l::find" alt="" coords="213,29,352,71"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e27948fb8a4c1d958783d8a53bd784" title="pdal::Utils::startsWith" alt="" coords="208,95,357,122"/>
+<area shape="rect" id="node3" href="$classpdal_1_1MetadataNode.html#a097ca6118bd2432005d1815dc23c6c1f" title="pdal::MetadataNode\l::empty" alt="" coords="405,29,544,71"/>
+</map>

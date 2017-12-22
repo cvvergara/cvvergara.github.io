@@ -1,0 +1,13 @@
+digraph "pdal::Utils::extractDim"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Utils::extractDim",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::LasReader::loadExtraDims",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasReader.html#a05a8d1d6898040a6fa06b4c1cc7ae8a8"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PlyReader::SimpleProperty\l::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1PlyReader_1_1SimpleProperty.html#a1c1a37a9cab4f4d4235fb514a2e74713"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PlyReader::ListProperty\l::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1PlyReader_1_1ListProperty.html#a49167c091a9fbcaaa18564696d24ae89"];
+}

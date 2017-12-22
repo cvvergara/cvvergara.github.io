@@ -1,0 +1,5 @@
+<map id="pdal::Utils::extractDim" name="pdal::Utils::extractDim">
+<area shape="rect" id="node2" href="$classpdal_1_1LasReader.html#a05a8d1d6898040a6fa06b4c1cc7ae8a8" title="pdal::LasReader::loadExtraDims" alt="" coords="207,5,418,32"/>
+<area shape="rect" id="node3" href="$structpdal_1_1PlyReader_1_1SimpleProperty.html#a1c1a37a9cab4f4d4235fb514a2e74713" title="pdal::PlyReader::SimpleProperty\l::read" alt="" coords="207,57,419,98"/>
+<area shape="rect" id="node4" href="$structpdal_1_1PlyReader_1_1ListProperty.html#a49167c091a9fbcaaa18564696d24ae89" title="pdal::PlyReader::ListProperty\l::read" alt="" coords="216,122,409,163"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="pdal::PointLayout::findProprietaryDim" name="pdal::PointLayout::findProprietaryDim">
+<area shape="rect" id="node2" href="$classpdal_1_1PointLayout.html#a41955b0c316d4ae4d34eca8768be2ef9" title="pdal::PointLayout::\lfinalized" alt="" coords="654,35,785,76"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#a5a720db4e74a5412c1420b0d1eaacda7" title="pdal::PointLayout::\lfindDim" alt="" coords="192,647,323,688"/>
+<area shape="rect" id="node33" href="$classpdal_1_1MyReader.html#a57105fe5414522b13e446aead08942a9" title="pdal::MyReader::read" alt="" coords="184,713,331,740"/>
+<area shape="rect" id="node4" href="$classGDALReaderTypeTest.html#a7ccb2f33deda3d1840509c81f3718ca8" title="GDALReaderTypeTest\l::compare" alt="" coords="405,94,560,135"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointLayout.html#ab4aae22c6b219962f56e0d316e7cadf8" title="pdal::PointLayout::\lfindDimType" alt="" coords="417,159,548,200"/>
+<area shape="rect" id="node7" href="$classpdal_1_1BpfWriter.html#a9f5fb35cec2cfa9043a3c89977c78614" title="pdal::BpfWriter::loadBpf\lDimensions" alt="" coords="402,224,563,266"/>
+<area shape="rect" id="node9" href="$classpdal_1_1AssignFilter.html#ac8c6082d05ebfa787e611b836b26c15d" title="pdal::AssignFilter\l::prepared" alt="" coords="421,290,544,331"/>
+<area shape="rect" id="node10" href="$classpdal_1_1MatlabWriter.html#a3d3313fd65d477c292798d86418e5b72" title="pdal::MatlabWriter\l::prepared" alt="" coords="419,355,547,396"/>
+<area shape="rect" id="node11" href="$classpdal_1_1GDALWriter.html#a2366d4db69778dbadad9b61120dcbd90" title="pdal::GDALWriter::prepared" alt="" coords="391,421,574,448"/>
+<area shape="rect" id="node12" href="$classpdal_1_1PlyWriter.html#acab9a311bcabba9a9b8bf4cef5fe6c3e" title="pdal::PlyWriter::prepared" alt="" coords="399,472,566,498"/>
+<area shape="rect" id="node13" href="$classpdal_1_1RangeFilter.html#a8aa4cfed6fe510908d7c9993311e8328" title="pdal::RangeFilter::\lprepared" alt="" coords="418,523,547,564"/>
+<area shape="rect" id="node14" href="$classpdal_1_1FerryFilter.html#a66baa704e52d26052fa36e4fbd7cb71c" title="pdal::FerryFilter::\lprepared" alt="" coords="422,588,543,630"/>
+<area shape="rect" id="node15" href="$classpdal_1_1SMRFilter.html#a8eff8ae7994dad8a7176d2fd2220a178" title="pdal::SMRFilter::prepared" alt="" coords="397,654,568,681"/>
+<area shape="rect" id="node16" href="$classpdal_1_1SortFilter.html#ab91f2f6827c175d33ceaa667bcf872a5" title="pdal::SortFilter::prepared" alt="" coords="400,705,565,732"/>
+<area shape="rect" id="node17" href="$classpdal_1_1OverlayFilter.html#a3b5a11183229595db7f2f7906a9e69f3" title="pdal::OverlayFilter\l::prepared" alt="" coords="419,756,547,798"/>
+<area shape="rect" id="node18" href="$classpdal_1_1LasWriter.html#a12a07c613de24341d69fae93497a4cbc" title="pdal::LasWriter::prepared" alt="" coords="399,822,567,849"/>
+<area shape="rect" id="node19" href="$classpdal_1_1Ilvis2Reader.html#a9a7d3810bb3b4d458435079c4bfd2890" title="pdal::Ilvis2Reader\l::readPoint" alt="" coords="419,874,546,915"/>
+<area shape="rect" id="node22" href="$classpdal_1_1MyWriter.html#a4915f49a23012523d782349f5145946f" title="pdal::MyWriter::ready" alt="" coords="409,940,556,966"/>
+<area shape="rect" id="node24" href="$classpdal_1_1TextWriter.html#ac1d9448dc94fc5272631b7066301e521" title="pdal::TextWriter::ready" alt="" coords="405,990,560,1017"/>
+<area shape="rect" id="node25" href="$FerryFilterTest_8cpp.html#a4cb9bb9f4f943839c8ef28a7effeb31f" title="TEST" alt="" coords="455,1041,511,1068"/>
+<area shape="rect" id="node26" href="$PythonFilterTest_8cpp.html#a4df16eb00252b52a772c4cfa9fc23e53" title="TEST_F" alt="" coords="447,1092,518,1118"/>
+<area shape="rect" id="node27" href="$namespaceanonymous__namespace_02ColorizationFilterTest_8cpp_03.html#a9ecba8dd0dc941d16a50be7a9a264b07" title="anonymous_namespace\l\{ColorizationFilterTest\l::cpp\}::testFile" alt="" coords="401,1142,564,1198"/>
+<area shape="rect" id="node29" href="$namespaceanonymous__namespace_02ColorizationFilterTest_8cpp_03.html#a34ec954a3562386020f65ce3ad8d025e" title="anonymous_namespace\l\{ColorizationFilterTest\l::cpp\}::testFileStreamed" alt="" coords="401,1222,564,1278"/>
+<area shape="rect" id="node30" href="$classpdal_1_1DbReader.html#aae2016e35e785ac4cbeb5d6e513c1831" title="pdal::DbReader::updateSchema" alt="" coords="379,1302,587,1329"/>
+<area shape="rect" id="node6" href="$classpdal_1_1DbWriter.html#a90b983486e91db14751cbbdfbdfdea6e" title="pdal::DbWriter::prepared" alt="" coords="637,166,801,193"/>
+<area shape="rect" id="node8" href="$classpdal_1_1BpfWriter.html#ad2fb4eb626abc606ea21719edfc72134" title="pdal::BpfWriter::prepared" alt="" coords="636,232,803,258"/>
+<area shape="rect" id="node20" href="$classpdal_1_1Ilvis2Reader.html#ac396bea41b06d5528521dc48f2bf3f1b" title="pdal::Ilvis2Reader\l::processOne" alt="" coords="656,874,783,915"/>
+<area shape="rect" id="node21" href="$classpdal_1_1Ilvis2Reader.html#a36ad873f8bdb773ccd87a9b8d3127cde" title="pdal::Ilvis2Reader\l::read" alt="" coords="863,874,990,915"/>
+<area shape="rect" id="node23" href="$classpdal_1_1MyWriter.html#a7a1ec3d8ebe4b4602537edecf4a00e4b" title="pdal::MyWriter::MyWriter" alt="" coords="635,940,803,966"/>
+<area shape="rect" id="node28" href="$ColorizationFilterTest_8cpp.html#aea681c9f5ee6e7fbbb2d7411514ce122" title="TEST" alt="" coords="691,1197,747,1224"/>
+<area shape="rect" id="node31" href="$classpdal_1_1OciReader.html#a037e27a09676d06f791f4b39945d7d8e" title="pdal::OciReader::readOci" alt="" coords="635,1302,804,1329"/>
+<area shape="rect" id="node32" href="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b" title="pdal::OciReader::read" alt="" coords="852,1302,1001,1329"/>
+</map>

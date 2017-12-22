@@ -1,0 +1,6 @@
+<map id="pdal::Stage::removeOptions" name="pdal::Stage::removeOptions">
+<area shape="rect" id="node2" href="$classpdal_1_1PipelineManager.html#a94d8a870db9447df03ffbc4f24fa1d22" title="pdal::PipelineManager\l::setOptions" alt="" coords="237,71,388,112"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PipelineManager.html#aeb5065b985604b7e92096470643c391a" title="pdal::PipelineManager\l::makeFilter" alt="" coords="436,5,587,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#a9b5b93498ef9ce477c9be6125816b97f" title="pdal::PipelineManager\l::makeReader" alt="" coords="436,71,587,112"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PipelineManager.html#a799449dfca11d1961ea0ecd8cdb886a5" title="pdal::PipelineManager\l::makeWriter" alt="" coords="436,136,587,177"/>
+</map>

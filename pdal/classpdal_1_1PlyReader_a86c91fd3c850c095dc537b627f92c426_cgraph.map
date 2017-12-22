@@ -1,0 +1,16 @@
+<map id="pdal::PlyReader::extractElement" name="pdal::PlyReader::extractElement">
+<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#ae3efcc96eca62b8d710e725b3358e88c" title="pdal::PlyReader::extract\lProperties" alt="" coords="216,130,379,171"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PlyReader.html#a2a95bd0d7e52c96b191a76e18cb4f488" title="pdal::PlyReader::readLine" alt="" coords="428,28,600,55"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PlyReader.html#aa62e075130f0a99301f45f848b0a4c85" title="pdal::PlyReader::nextWord" alt="" coords="649,81,828,108"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="661,241,817,268"/>
+<area shape="rect" id="node13" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="661,292,817,319"/>
+<area shape="rect" id="node15" href="$classpdal_1_1PlyReader.html#a8b379a87661973d414966252e17ce400" title="pdal::PlyReader::pushLine" alt="" coords="427,196,601,223"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PlyReader.html#a4e99f726dfafb257dd9acbca102cd633" title="pdal::PlyReader::extract\lProperty" alt="" coords="433,130,595,171"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#afed0ad4146baafd1973c85e1508ade73" title="pdal::Utils::trimTrailing" alt="" coords="662,31,815,57"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="1097,31,1227,57"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="664,133,813,160"/>
+<area shape="rect" id="node11" href="$classpdal_1_1PlyReader.html#af687933c7ab3d57e3fdfcbfce6d0e6f9" title="pdal::PlyReader::getType" alt="" coords="653,184,824,211"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a9bda8c5dbe5ef7cf66e99ba022184934" title="pdal::Utils::extractSpaces" alt="" coords="876,31,1049,57"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="897,133,1028,160"/>
+<area shape="rect" id="node14" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="888,292,1037,319"/>
+</map>

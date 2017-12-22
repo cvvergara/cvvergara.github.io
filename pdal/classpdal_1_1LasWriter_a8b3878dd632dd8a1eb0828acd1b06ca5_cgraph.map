@@ -1,0 +1,20 @@
+<map id="pdal::LasWriter::addMetadataVlr" name="pdal::LasWriter::addMetadataVlr">
+<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="263,69,417,95"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="465,5,632,47"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="283,119,397,146"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#ae34d4c6244b0915b7ff635d74c5315cc" title="pdal::Utils::toJSON" alt="" coords="272,186,408,213"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="471,71,627,98"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="723,57,873,83"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a90c7b124d5407ee4d7120e4c42b40b02" title="pdal::Utils::toJSON" alt="" coords="481,217,617,243"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MetadataNode.html#a645aadd856fb1a4ae4a12247fda3e618" title="pdal::MetadataNode\l::name" alt="" coords="999,64,1138,105"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#a9836ab34bb1a9ec78acdf0da8134082d" title="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::subnodesToJSON" alt="" coords="680,209,916,251"/>
+<area shape="rect" id="node12" href="$classpdal_1_1MetadataNode.html#ab86b0ccbf27f9eee29cbb5252e9431b7" title="pdal::MetadataNode\l::children" alt="" coords="999,129,1138,171"/>
+<area shape="rect" id="node13" href="$classpdal_1_1MetadataNode.html#a66863365a08eb3ee538ebeb4ce788a39" title="pdal::MetadataNode\l::kind" alt="" coords="999,312,1138,353"/>
+<area shape="rect" id="node14" href="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#a24e6b833ca779a04307fb80c249cdf19" title="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::arrayToJSON" alt="" coords="964,377,1173,419"/>
+<area shape="rect" id="node11" href="$classpdal_1_1MetadataNode.html#ae9794860b91201dce86f162799d902b1" title="pdal::MetadataNode\l::childNames" alt="" coords="999,195,1138,236"/>
+<area shape="rect" id="node15" href="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#ac00099447614a63b2acd68d05ee3a5c1" title="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::arrayEltToJSON" alt="" coords="1221,316,1447,357"/>
+<area shape="rect" id="node16" href="$classpdal_1_1MetadataNode.html#ac936d257e7eaa30e130ad9de526b2087" title="pdal::MetadataNode\l::jsonValue" alt="" coords="1495,283,1633,324"/>
+<area shape="rect" id="node19" href="$classpdal_1_1MetadataNode.html#ada667c2ca1eab9957ae5c7a98fea5d02" title="pdal::MetadataNode\l::hasChildren" alt="" coords="1495,348,1633,389"/>
+<area shape="rect" id="node17" href="$namespacepdal_1_1Utils.html#aabcd6b5abf9f2cd30b485fc100656663" title="pdal::Utils::escapeJSON" alt="" coords="1681,290,1848,317"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Utils.html#ac6b599972dcd3fe440ef5c476961081a" title="pdal::Utils::remove_if" alt="" coords="1896,290,2043,317"/>
+</map>

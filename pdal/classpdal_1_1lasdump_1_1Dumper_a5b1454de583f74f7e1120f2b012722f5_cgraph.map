@@ -1,0 +1,10 @@
+<map id="pdal::lasdump::Dumper::readPoints" name="pdal::lasdump::Dumper::readPoints">
+<area shape="rect" id="node2" href="$namespacepdal_1_1lasdump.html#a65aaa17f6d645ce914ff71a947f7198b" title="pdal::lasdump::cksum" alt="" coords="212,5,363,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1IStream.html#a1868ec9fd091d4af1281c2181315521a" title="pdal::IStream::get" alt="" coords="224,56,351,83"/>
+<area shape="rect" id="node8" href="$classpdal_1_1lasdump_1_1Header.html#a3b71b27b49e29ea11823f79eb65d3af0" title="Get total number of point records stored in the LAS file. " alt="" coords="211,107,364,149"/>
+<area shape="rect" id="node9" href="$classpdal_1_1lasdump_1_1Header.html#ad4c6deef304435a91c4936ec1b5b8b10" title="pdal::lasdump::Header\l::pointLen" alt="" coords="211,173,364,214"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="412,56,560,83"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="608,56,747,83"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="795,56,944,83"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="992,56,1123,83"/>
+</map>

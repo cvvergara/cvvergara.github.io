@@ -1,0 +1,13 @@
+digraph "pdal::pg_connect"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::pg_connect",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PgWriter::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgWriter.html#ab63a5594b8c8f995d3a9d35f49e9a2f0"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PgReader::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgReader.html#aa331a66a5721b67033658624135914d5"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PgpointcloudWriterTest\l::SetUp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPgpointcloudWriterTest.html#a90ce6b300088c548a738d2da7121153e"];
+}

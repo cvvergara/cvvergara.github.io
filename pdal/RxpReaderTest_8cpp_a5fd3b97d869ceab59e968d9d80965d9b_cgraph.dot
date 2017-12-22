@@ -1,0 +1,13 @@
+digraph "checkPoint"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="checkPoint",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="checkDimensionClose",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$RxpReaderTest_8cpp.html#a0227aaeceafd2901742386193678b4b5"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="checkDimensionEqual",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$RxpReaderTest_8cpp.html#ae11d8c5a54a48aed9eeb4ef1b78cc0e1"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::getTimeDimensionId",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#ad387c869e85189a7ac3e5083b167c22c"];
+}

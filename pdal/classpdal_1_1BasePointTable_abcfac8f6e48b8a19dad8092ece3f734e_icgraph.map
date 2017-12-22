@@ -1,0 +1,6 @@
+<map id="pdal::BasePointTable::privateMetadata" name="pdal::BasePointTable::privateMetadata">
+<area shape="rect" id="node2" href="$classpdal_1_1LasReader.html#a998510dc0b7d1b59387a5c2686c27f46" title="pdal::LasReader::initialize\lLocal" alt="" coords="205,5,377,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a2e5b4f04008d3784799d9e4ad029352a" title="pdal::LasWriter::readyTable" alt="" coords="200,71,383,98"/>
+<area shape="rect" id="node5" href="$LasWriterTest_8cpp.html#ace6753f5368c81d6c14dcd1043f31e34" title="TEST" alt="" coords="263,122,319,149"/>
+<area shape="rect" id="node3" href="$classpdal_1_1NitfReader.html#aff135fa0b6888020a5de9eb33e2d7fea" title="pdal::NitfReader::initialize" alt="" coords="431,13,603,39"/>
+</map>

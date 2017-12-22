@@ -1,0 +1,5 @@
+<map id="pdal::OGRWriter::readyFile" name="pdal::OGRWriter::readyFile">
+<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="234,5,389,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="233,71,389,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="437,71,587,98"/>
+</map>

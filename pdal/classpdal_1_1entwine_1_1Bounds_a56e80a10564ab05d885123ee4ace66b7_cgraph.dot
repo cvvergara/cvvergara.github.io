@@ -1,0 +1,15 @@
+digraph "pdal::entwine::Bounds::Bounds"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::entwine::Bounds\l::Bounds",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::entwine::Bounds\l::setMid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Bounds.html#abba3dd337b171b5b24b309c184778e6f"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::entwine::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1entwine.html#a0e121edf608aed244a8b7d7e322b05bd"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::entwine::Bounds::max",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Bounds.html#ada24966b1e21a6118dae010ed1e24803"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::entwine::Bounds::min",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Bounds.html#a84002d285e0f6bfeef4ace7f79b783c8"];
+}

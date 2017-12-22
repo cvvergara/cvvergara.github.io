@@ -1,0 +1,27 @@
+digraph "pdal::TEST"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PluginManager\l::initializePlugin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PluginManager.html#ae9e94964092e0fdb6be63484e5e69e9f"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PluginManager\l::l_initializePlugin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PluginManager.html#a8a847508c24b6a254ae8eaba06c0069a"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::DummyPlugin::\linitPlugin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1DummyPlugin.html#ac310487b5dd975c005a74734546c5c9c"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::DummyPlugin::\lcreate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1DummyPlugin.html#ae0928daab10dcbca33da45226babe682"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::DummyPlugin::\ldestroy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1DummyPlugin.html#a6f7943bdc669afebe4968c94e81bf55f"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::PluginManager\l::registerObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PluginManager.html#a2e1fa05ad3273dc942d320f3e7a0c8c4"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::PluginManager\l::l_registerObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PluginManager.html#a6849a33d6f155863a87804d29b0a29a8"];
+  Node4 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::DummyPlugin::\ldummyExitFunc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1DummyPlugin.html#affaf768507934c924ea03f70f20d58c2"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::PluginManager\l::names",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PluginManager.html#a494f92a49079015190f9f8d9e5267779"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::PluginManager\l::l_names",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PluginManager.html#ab1040369e315ab5d6f15033e098e0652"];
+}

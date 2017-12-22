@@ -1,0 +1,6 @@
+<map id="pdal::SbetReader::addDimensions" name="pdal::SbetReader::addDimensions">
+<area shape="rect" id="node2" href="$namespacepdal.html#afacee4f73f9b6c92398427963e9d8a2c" title="pdal::fileDimensions" alt="" coords="275,5,415,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#af0404b823635c356a5bddce383ad239c" title="pdal::PointLayout::\lregisterDims" alt="" coords="279,57,410,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="463,57,593,98"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="641,64,833,91"/>
+</map>

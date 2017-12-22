@@ -1,0 +1,21 @@
+digraph "pdal::PointRef::hasDim"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PointRef::hasDim",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::LasWriter::fillPointBuf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a1f2739e7ca9aec5d5cf06255fc5576e8"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::LasWriter::fillWriteBuf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a2ff257e05cf972506e292bd28649c838"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::LasWriter::writeView",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a91550327b74a35121c29d342c9659578"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::NitfWriter::writeView",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1NitfWriter.html#a09c8b43a263e077f6361e5eaf3f37063"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::LasWriter::processOne",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#aeb809dd4bcae7c20e3d347fcc3309cb5"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::LasWriter::writeLas\lZipBuf",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#a09e01af2b1d409b74bc7bf4797892061"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

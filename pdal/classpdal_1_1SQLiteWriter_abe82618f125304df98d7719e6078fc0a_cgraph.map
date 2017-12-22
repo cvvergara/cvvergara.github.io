@@ -1,0 +1,31 @@
+<map id="pdal::SQLiteWriter::CreateCloud" name="pdal::SQLiteWriter::CreateCloud">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2" title="pdal::MetadataNode::add" alt="" coords="193,5,361,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1DbWriter.html#aa59072aba21063c635bdd5a7bf5e6597" title="pdal::DbWriter::dbDimTypes" alt="" coords="183,56,371,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Metadata.html#a814b102d379464268245c23abbdd4b38" title="pdal::Metadata::getNode" alt="" coords="194,107,359,133"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="1193,204,1327,231"/>
+<area shape="rect" id="node7" href="$classpdal_1_1SQLiteWriter.html#a698025ff93d422b5cd3d9209310b4971" title="pdal::SQLiteWriter\l::loadGeometryWKT" alt="" coords="206,238,347,279"/>
+<area shape="rect" id="node17" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="220,304,333,331"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1406,873,1537,900"/>
+<area shape="rect" id="node19" href="$classpdal_1_1XMLSchema.html#ab65bccb4fea02c913d969ce284f88b68" title="pdal::XMLSchema::xml" alt="" coords="197,477,356,504"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="1405,264,1537,291"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1FileUtils.html#ae2b8f1ddc38b0033b685a0bde6106ba1" title="pdal::FileUtils::fileExists" alt="" coords="951,324,1115,351"/>
+<area shape="rect" id="node10" href="$classpdal_1_1SQLiteWriter.html#a0a81cf1ccdef21f7c1567b0c16cec5a9" title="pdal::SQLiteWriter\l::IsValidGeometryWKT" alt="" coords="434,194,591,235"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="435,260,591,287"/>
+<area shape="rect" id="node13" href="$namespacepdal_1_1FileUtils.html#a183613921413dc5f8fe3efe45763945c" title="pdal::FileUtils::readFile\lIntoString" alt="" coords="435,362,591,403"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a813a530ad72d50f747643f1bb996cacf" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdin" alt="" coords="1163,317,1357,358"/>
+<area shape="rect" id="node12" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="704,260,853,287"/>
+<area shape="rect" id="node14" href="$namespacepdal_1_1FileUtils.html#aeeda62ff11a1e6bcc9175f51f7efe522" title="pdal::FileUtils::openFile" alt="" coords="699,412,858,439"/>
+<area shape="rect" id="node16" href="$namespacepdal_1_1FileUtils.html#a04d2d37c72f0f400f5d5b917b2f2ba05" title="pdal::FileUtils::closeFile" alt="" coords="697,361,860,388"/>
+<area shape="rect" id="node15" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="955,457,1111,484"/>
+<area shape="rect" id="node20" href="$classpdal_1_1XMLSchema.html#a9148f9295b75c3db5f6fed865ccf90f6" title="pdal::XMLSchema::writeXml" alt="" coords="419,615,607,641"/>
+<area shape="rect" id="node21" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="705,848,853,875"/>
+<area shape="rect" id="node24" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="685,513,872,540"/>
+<area shape="rect" id="node25" href="$structpdal_1_1XForm.html#aa8911e8618efef91038c0b4d1e37c331" title="pdal::XForm::nonstandard" alt="" coords="693,564,865,591"/>
+<area shape="rect" id="node26" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="661,615,896,641"/>
+<area shape="rect" id="node27" href="$classpdal_1_1XMLSchema.html#a9b9265cfb89000cbc60013d785f14a89" title="pdal::XMLSchema::orientation" alt="" coords="680,665,877,692"/>
+<area shape="rect" id="node28" href="$classpdal_1_1MetadataNode.html#a097ca6118bd2432005d1815dc23c6c1f" title="pdal::MetadataNode\l::empty" alt="" coords="709,717,848,758"/>
+<area shape="rect" id="node29" href="$namespacepdal_1_1anonymous__namespace_02XMLSchema_8cpp_03.html#a9c3ad98fd8f4f67f2c954bf92591af1d" title="pdal::anonymous_namespace\l\{XMLSchema::cpp\}::addMetadataEntry" alt="" coords="655,782,903,823"/>
+<area shape="rect" id="node22" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="963,848,1102,875"/>
+<area shape="rect" id="node23" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1185,848,1335,875"/>
+<area shape="rect" id="node30" href="$classpdal_1_1MetadataNode.html#ab86b0ccbf27f9eee29cbb5252e9431b7" title="pdal::MetadataNode\l::children" alt="" coords="963,782,1102,823"/>
+</map>

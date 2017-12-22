@@ -1,0 +1,12 @@
+<map id="pdal::Kernel::makeWriter" name="pdal::Kernel::makeWriter">
+<area shape="rect" id="node2" href="$classpdal_1_1MyKernel.html#a2aa834686cb68aab88b9d40df48d6f13" title="pdal::MyKernel::execute" alt="" coords="224,5,387,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PCLKernel.html#aab22ad378b4c29bbe5dd69ad6eb0c6ef" title="pdal::PCLKernel::execute" alt="" coords="220,56,391,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1SmoothKernel.html#a12357e09bb47a0567ed0af7089c3739f" title="pdal::SmoothKernel\l::execute" alt="" coords="237,107,373,149"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SortKernel.html#a35de433cd919ac9fc87a957395323820" title="pdal::SortKernel::execute" alt="" coords="221,173,390,200"/>
+<area shape="rect" id="node6" href="$classpdal_1_1SplitKernel.html#aa93e386ee8d67c65d5c31d39ec7c9971" title="pdal::SplitKernel::\lexecute" alt="" coords="243,225,368,266"/>
+<area shape="rect" id="node7" href="$classpdal_1_1MergeKernel.html#a0f279da4375db6bb051489b6588fa897" title="pdal::MergeKernel::\lexecute" alt="" coords="238,290,373,331"/>
+<area shape="rect" id="node8" href="$classpdal_1_1RandomKernel.html#ae101bc78cfab26709852a1ef31d7a38f" title="pdal::RandomKernel\l::execute" alt="" coords="235,355,375,397"/>
+<area shape="rect" id="node9" href="$classpdal_1_1GroundKernel.html#a652b5f932cd5e982b887917a82f692e2" title="pdal::GroundKernel\l::execute" alt="" coords="239,421,372,462"/>
+<area shape="rect" id="node10" href="$classpdal_1_1TIndexKernel.html#a260c46e9fc8a9e5dddd395c93422dfa6" title="pdal::TIndexKernel\l::mergeFile" alt="" coords="240,486,371,527"/>
+<area shape="rect" id="node11" href="$classpdal_1_1TIndexKernel.html#a607f1463d5518bbaa66662a905b48e51" title="pdal::TIndexKernel\l::execute" alt="" coords="439,486,569,527"/>
+</map>

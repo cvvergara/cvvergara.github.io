@@ -1,0 +1,23 @@
+digraph "pdal::ClusterFilter::filter"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::ClusterFilter\l::filter",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Segmentation\l::extractClusters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Segmentation.html#af0fdd9efba9cd2851ae16063d3976039"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::KDIndex::build",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PointView::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::KD3Index::radius",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1KD3Index.html#ab8cc27541fdc421b06baf67af1ade423"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::PointView::setField",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointView.html#a7931019cfba92e9c3a93592a2fbf4a0f"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Dimension::Detail\l::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::Dimension::name",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718"];
+  Node6 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Dimension::interpretationName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3"];
+}

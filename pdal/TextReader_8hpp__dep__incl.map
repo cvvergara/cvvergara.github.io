@@ -1,0 +1,8 @@
+<map id="pdal/io/TextReader.hpp" name="pdal/io/TextReader.hpp">
+<area shape="rect" id="node2" href="$TextReader_8cpp.html" title="pdal/io/TextReader.cpp" alt="" coords="5,87,163,114"/>
+<area shape="rect" id="node3" href="$StageFactory_8cpp.html" title="pdal/pdal/StageFactory.cpp" alt="" coords="187,87,368,114"/>
+<area shape="rect" id="node4" href="$RangeFilterTest_8cpp.html" title="pdal/test/unit/filters\l/RangeFilterTest.cpp" alt="" coords="392,80,536,121"/>
+<area shape="rect" id="node5" href="$GDALWriterTest_8cpp.html" title="pdal/test/unit/io/GDALWriter\lTest.cpp" alt="" coords="560,80,747,121"/>
+<area shape="rect" id="node6" href="$TextReaderTest_8cpp.html" title="pdal/test/unit/io/TextReader\lTest.cpp" alt="" coords="771,80,954,121"/>
+<area shape="rect" id="node7" href="$TextWriterTest_8cpp.html" title="pdal/test/unit/io/TextWriter\lTest.cpp" alt="" coords="979,80,1155,121"/>
+</map>

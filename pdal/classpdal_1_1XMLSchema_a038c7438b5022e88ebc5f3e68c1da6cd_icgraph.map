@@ -1,0 +1,7 @@
+<map id="pdal::XMLSchema::getMetadata" name="pdal::XMLSchema::getMetadata">
+<area shape="rect" id="node2" href="$classpdal_1_1OciReader.html#a4b1be832c15f90d15eb707f5d280ebaf" title="pdal::OciReader::addDimensions" alt="" coords="263,5,477,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1SQLiteReader.html#a5647aaa7d1f98521743dd1c52bc80c24" title="pdal::SQLiteReader\l::addDimensions" alt="" coords="302,57,438,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OciReader.html#a037e27a09676d06f791f4b39945d7d8e" title="pdal::OciReader::readOci" alt="" coords="285,123,455,149"/>
+<area shape="rect" id="node6" href="$XMLSchemaTest_8cpp.html#a38265aa8cd010b4c47ce0632340adfbd" title="TEST" alt="" coords="342,173,398,200"/>
+<area shape="rect" id="node5" href="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b" title="pdal::OciReader::read" alt="" coords="525,123,675,149"/>
+</map>

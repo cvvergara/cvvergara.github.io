@@ -1,0 +1,27 @@
+<map id="pdal/plugins/openscenegraph/io/OSGReader.cpp" name="pdal/plugins/openscenegraph/io/OSGReader.cpp">
+<area shape="rect" id="node2" href="$OSGReader_8hpp.html" title="OSGReader.hpp" alt="" coords="1770,95,1889,121"/>
+<area shape="rect" id="node35" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="1605,393,1777,420"/>
+<area shape="rect" id="node43" href="$pdal__macros_8hpp.html" title="pdal/pdal_macros.hpp" alt="" coords="2569,319,2719,345"/>
+<area shape="rect" id="node3" href="$PointView_8hpp.html" title="pdal/PointView.hpp" alt="" coords="519,319,654,345"/>
+<area shape="rect" id="node28" href="$Reader_8hpp.html" title="pdal/Reader.hpp" alt="" coords="1645,169,1763,196"/>
+<area shape="rect" id="node37" href="$IStream_8hpp.html" title="pdal/util/IStream.hpp" alt="" coords="886,468,1029,495"/>
+<area shape="rect" id="node4" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="328,617,461,644"/>
+<area shape="rect" id="node5" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="123,617,251,644"/>
+<area shape="rect" id="node6" href="$Mesh_8hpp.html" title="pdal/Mesh.hpp" alt="" coords="43,393,149,420"/>
+<area shape="rect" id="node9" href="$PointContainer_8hpp.html" title="pdal/PointContainer.hpp" alt="" coords="630,468,791,495"/>
+<area shape="rect" id="node10" href="$PointLayout_8hpp.html" title="pdal/PointLayout.hpp" alt="" coords="376,543,520,569"/>
+<area shape="rect" id="node14" href="$PointRef_8hpp.html" title="pdal/PointRef.hpp" alt="" coords="838,393,965,420"/>
+<area shape="rect" id="node24" href="$PointTable_8hpp.html" title="pdal/PointTable.hpp" alt="" coords="625,393,762,420"/>
+<area shape="rect" id="node25" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="1105,468,1245,495"/>
+<area shape="rect" id="node8" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="2414,692,2549,719"/>
+<area shape="rect" id="node15" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1431,468,1553,495"/>
+<area shape="rect" id="node23" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1048,543,1187,569"/>
+<area shape="rect" id="node29" href="$Stage_8hpp.html" title="pdal/Stage.hpp" alt="" coords="1541,244,1651,271"/>
+<area shape="rect" id="node34" href="$Options_8hpp.html" title="pdal/Options.hpp" alt="" coords="1803,393,1923,420"/>
+<area shape="rect" id="node30" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="2407,543,2555,569"/>
+<area shape="rect" id="node32" href="$Log_8hpp.html" title="pdal/Log.hpp" alt="" coords="1628,468,1724,495"/>
+<area shape="rect" id="node31" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="2521,617,2663,644"/>
+<area shape="rect" id="node40" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="635,543,773,569"/>
+<area shape="rect" id="node44" href="$plugin_8hpp.html" title="pdal/plugin.hpp" alt="" coords="2439,468,2548,495"/>
+<area shape="rect" id="node45" href="$PluginManager_8hpp.html" title="pdal/PluginManager.hpp" alt="" coords="2187,393,2349,420"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="pdal::GDALWriter::prepared" name="pdal::GDALWriter::prepared">
+<area shape="rect" id="node2" href="$classpdal_1_1PointLayout.html#a5a720db4e74a5412c1420b0d1eaacda7" title="pdal::PointLayout::\lfindDim" alt="" coords="249,57,379,98"/>
+<area shape="rect" id="node12" href="$classpdal_1_1BasePointTable.html#a7e3a12a1f29e6cd10d8669ed3d07eb94" title="pdal::BasePointTable\l::layout" alt="" coords="241,122,387,163"/>
+<area shape="rect" id="node13" href="$classpdal_1_1Arg.html#a55c1fe32c818a69b4ea9ea95c77b7c64" title="pdal::Arg::set" alt="" coords="264,188,364,215"/>
+<area shape="rect" id="node14" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="236,239,392,265"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="447,5,582,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointLayout.html#adaef1dfccc620aa7f7f2a57ea2c19d6d" title="pdal::PointLayout::\ldimType" alt="" coords="449,57,580,98"/>
+<area shape="rect" id="node11" href="$classpdal_1_1PointLayout.html#abb03661faa312e6954f49cf8e0e809a3" title="pdal::PointLayout::\lfindProprietaryDim" alt="" coords="449,122,580,163"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="651,5,783,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PointLayout.html#abcfdf0f917e71d1bd8a96bc64ff1e8a2" title="pdal::PointLayout::\ldimDetail" alt="" coords="651,57,782,98"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="637,122,796,163"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="844,64,983,91"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1031,64,1180,91"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1228,64,1359,91"/>
+<area shape="rect" id="node15" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="440,239,589,265"/>
+</map>

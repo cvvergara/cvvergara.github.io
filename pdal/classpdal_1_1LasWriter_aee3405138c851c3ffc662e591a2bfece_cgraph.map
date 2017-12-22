@@ -1,0 +1,5 @@
+<map id="pdal::LasWriter::addVlr" name="pdal::LasWriter::addVlr">
+<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="213,5,369,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="208,57,375,98"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="423,5,572,32"/>
+</map>

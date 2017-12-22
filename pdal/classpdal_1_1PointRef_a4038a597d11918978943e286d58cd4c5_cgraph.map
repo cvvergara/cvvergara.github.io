@@ -1,0 +1,9 @@
+<map id="pdal::PointRef::getFieldAs" name="pdal::PointRef::getFieldAs">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="228,5,463,32"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="267,56,423,83"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="264,107,427,133"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a9b5b9ef216d7036c7cb36d219af17925" title="pdal::Utils::toDouble" alt="" coords="275,157,416,184"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="271,208,420,235"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="512,107,640,133"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="511,208,641,235"/>
+</map>

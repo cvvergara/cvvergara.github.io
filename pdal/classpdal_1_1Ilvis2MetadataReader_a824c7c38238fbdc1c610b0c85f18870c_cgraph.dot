@@ -1,0 +1,33 @@
+digraph "pdal::Ilvis2MetadataReader::parseSensor"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Ilvis2MetadataReader\l::parseSensor",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::MetadataNode::add",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::MetadataNode\l::addList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#af9242fea26778fb33e939d38f0dd0dd4"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Ilvis2MetadataReader\l::assertElementIs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#a3c89b35ec6a6c4476776d7906bc14976"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::Ilvis2MetadataReader\l::nodeElementIs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#a5ae3abe877b54ce54f6d3cf16846f397"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Ilvis2MetadataReader\l::assertEndOfElements",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#a38254b9d35690f3d116e1278cd4c6621"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Ilvis2MetadataReader\l::extractString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#a7cfc8c010145345f2c481fa6ba573b33"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::Ilvis2MetadataReader\l::getFirstChildElementNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#a516a2e8badf0443a0458cde94f40cbf8"];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Ilvis2MetadataReader\l::getNextElementNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#a2e6c0418fb4a806ad1c51215975f875b"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::Ilvis2MetadataReader\l::parseSensorCharacteristic",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2MetadataReader.html#aef1bbf879fffbf22c27eb0f2f2bff4e0"];
+  Node10 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

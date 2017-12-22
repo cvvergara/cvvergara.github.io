@@ -1,0 +1,12 @@
+<map id="pdal::DiffKernel::checkPoints" name="pdal::DiffKernel::checkPoints">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2" title="pdal::MetadataNode::add" alt="" coords="259,5,427,32"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="247,56,439,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PointView.html#aa0ea88bef58126dcdfeb11bdc570a918" title="pdal::PointView::dims" alt="" coords="268,107,417,133"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointView.html#a574f9db2265bec1df0ce2144d09e16bc" title="pdal::PointView::getRawField" alt="" coords="245,157,440,184"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="265,208,421,235"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="270,259,415,285"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="269,309,417,336"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="488,309,627,336"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="675,309,824,336"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="872,309,1003,336"/>
+</map>

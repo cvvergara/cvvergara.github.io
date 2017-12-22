@@ -1,0 +1,21 @@
+digraph "pdal::lasdump::Dumper::readCompressedPoints"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::lasdump::Dumper\l::readCompressedPoints",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::lasdump::cksum",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1lasdump.html#a65aaa17f6d645ce914ff71a947f7198b"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::lasdump::anonymous\l_namespace\{Dumper::cpp\}\l::handleLaszip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1lasdump_1_1anonymous__namespace_02Dumper_8cpp_03.html#a70e6c08ede2926fa73bc7987791cae04"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::lasdump::Dumper\l::loadPoint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Dumper.html#a70a599ed7ec04c8fb6ef3c8f22a5dddd"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::lasdump::Header\l::pointFormat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#a98c47063e2e6cd9686415307b8f594cd",tooltip="Get identifier of point data (record) format. "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::lasdump::Header\l::pointCount",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#a3b71b27b49e29ea11823f79eb65d3af0",tooltip="Get total number of point records stored in the LAS file. "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::lasdump::Header\l::pointLen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#ad4c6deef304435a91c4936ec1b5b8b10"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::IStream::stream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1IStream.html#a985d32fbb5a6a01f04c0e2c3e337b3f6"];
+}

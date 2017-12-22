@@ -1,0 +1,10 @@
+<map id="pdal::SimplePointTable::getDimension" name="pdal::SimplePointTable::getDimension">
+<area shape="rect" id="node2" href="$namespaceanonymous__namespace_02ReprojectionFilterTest_8cpp_03.html#a174ed1fffbad99a456e9263e21877754" title="anonymous_namespace\l\{ReprojectionFilterTest\l::cpp\}::getPoint" alt="" coords="209,67,372,123"/>
+<area shape="rect" id="node9" href="$classpdal_1_1Dimension_1_1Detail.html#acfd60ca17fcdc93bd5ec3f4446fd54d6" title="pdal::Dimension::Detail\l::offset" alt="" coords="211,146,370,187"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointView.html#a4c594a6d2a469e594988194ccf125a15" title="pdal::PointView::getFieldAs" alt="" coords="420,81,603,108"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="651,5,885,32"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="690,56,846,83"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="687,107,849,133"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="689,158,847,199"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="933,107,1061,133"/>
+</map>

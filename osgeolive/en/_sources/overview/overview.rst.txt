@@ -23,10 +23,10 @@ General GIS viewing, editing, and analysis on the desktop
     ../quickstart/gvsig_quickstart
     qgis_overview
     ../quickstart/qgis_quickstart
-    openjump_overview
-    ../quickstart/openjump_quickstart
     saga_overview
     ../quickstart/saga_quickstart
+    openjump_overview
+    ../quickstart/openjump_quickstart
     udig_overview
     ../quickstart/udig_quickstart
 
@@ -36,9 +36,9 @@ General GIS viewing, editing, and analysis on the desktop
 
 |OSGeo_project| :doc:`qgis_overview` - [:doc:`Quickstart <../quickstart/qgis_quickstart>`]
 
-|nologo| :doc:`openjump_overview` - [:doc:`Quickstart <../quickstart/openjump_quickstart>`]
-
 |nologo| :doc:`saga_overview` - [:doc:`Quickstart <../quickstart/saga_quickstart>`]
+
+|nologo| :doc:`openjump_overview` - [:doc:`Quickstart <../quickstart/openjump_quickstart>`]
 
 |nologo| :doc:`udig_overview` - [:doc:`Quickstart <../quickstart/udig_quickstart>`]
 
@@ -61,8 +61,6 @@ General GIS viewing, editing and analysis in the browser
     ../quickstart/mapbender_quickstart
     openlayers_overview
     ../quickstart/openlayers_quickstart
-    cesium_overview
-    ../quickstart/cesium_quickstart
     leaflet_overview
     ../quickstart/leaflet_quickstart
 
@@ -75,8 +73,6 @@ General GIS viewing, editing and analysis in the browser
 |OSGeo_project| :doc:`mapbender_overview` - [:doc:`Quickstart <../quickstart/mapbender_quickstart>`] - Geoportal Framework
 
 |OSGeo_project| :doc:`openlayers_overview` - [:doc:`Quickstart <../quickstart/openlayers_quickstart>`] - Browser Mapping Library
-
-|nologo| :doc:`cesium_overview` - [:doc:`Quickstart <../quickstart/cesium_quickstart>`] - 3D globes and 2D maps in a browser
 
 |nologo| :doc:`leaflet_overview` - [:doc:`Quickstart <../quickstart/leaflet_quickstart>`] - Mobile Friendly Interactive Maps
 
@@ -99,22 +95,24 @@ Publishing spatial data to the internet
     ../quickstart/mapserver_quickstart
     pycsw_overview
     ../quickstart/pycsw_quickstart
+    qgis_mapserver_overview
+    ../quickstart/qgis_mapserver_quickstart
+    pywps_overview
+    ../quickstart/pywps_quickstart
     zoo-project_overview
     ../quickstart/zoo-project_quickstart
     istsos_overview
     ../quickstart/istsos_quickstart
-    mapproxy_overview
-    ../quickstart/mapproxy_quickstart
     52nSOS_overview
     ../quickstart/52nSOS_quickstart
     52nWPS_overview
     ../quickstart/52nWPS_quickstart
     eoxserver_overview
     ../quickstart/eoxserver_quickstart
+    mapproxy_overview
+    ../quickstart/mapproxy_quickstart
     ncWMS_overview
     ../quickstart/ncWMS_quickstart
-    qgis_mapserver_overview
-    ../quickstart/qgis_mapserver_quickstart
 
 |OSGeo_project| :doc:`deegree_overview` - [:doc:`Quickstart <../quickstart/deegree_quickstart>`] - OGC Web Services
 
@@ -126,11 +124,13 @@ Publishing spatial data to the internet
 
 |OSGeo_project| :doc:`pycsw_overview` - [:doc:`Quickstart <../quickstart/pycsw_quickstart>`] - Metadata Catalogue
 
+|OSGeo_project| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart <../quickstart/qgis_mapserver_quickstart>`] - Web Map Service
+
+|OSGeo_incubation| :doc:`pywps_overview` - [:doc:`Quickstart <../quickstart/pywps_quickstart>`] - Web Processing Service
+
 |OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`Quickstart <../quickstart/zoo-project_quickstart>`] - Web Processing Service
 
 |OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart <../quickstart/istsos_quickstart>`] - Sensor Observation Service
-
-|OSGeo_community| :doc:`mapproxy_overview` - [:doc:`Quickstart <../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services
 
 |nologo| :doc:`52nSOS_overview` - [:doc:`Quickstart <../quickstart/52nSOS_quickstart>`] - Sensor Observation Service
 
@@ -138,9 +138,9 @@ Publishing spatial data to the internet
 
 |nologo| :doc:`eoxserver_overview` - [:doc:`Quickstart <../quickstart/eoxserver_quickstart>`] - Web Coverage Service
 
-|nologo| :doc:`ncWMS_overview` - [:doc:`Quickstart <../quickstart/ncWMS_quickstart>`] - Web Map Service
+|nologo| :doc:`mapproxy_overview` - [:doc:`Quickstart <../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services
 
-|nologo| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart <../quickstart/qgis_mapserver_quickstart>`] - Web Map Service
+|nologo| :doc:`ncWMS_overview` - [:doc:`Quickstart <../quickstart/ncWMS_quickstart>`] - Web Map Service
 
 
 Data Stores
@@ -260,17 +260,17 @@ Spatial data sets
     :hidden:
 
     naturalearth_overview
+    nc_dataset_overview
     netcdf_dataset_overview
     osm_dataset_overview
-    nc_dataset_overview
 
 |nologo| :doc:`naturalearth_overview`  - Global Data Sets
+
+|nologo| :doc:`nc_dataset_overview` 
 
 |nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and precipitation
 
 |nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap
-
-|nologo| :doc:`nc_dataset_overview` 
 
 
 Geospatial Libraries

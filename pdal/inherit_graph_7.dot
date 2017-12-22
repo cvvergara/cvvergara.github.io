@@ -1,0 +1,27 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Test",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GDALReaderTypeTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classGDALReaderTypeTest.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="GreyhoundReaderTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classGreyhoundReaderTest.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OCITest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classOCITest.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::anonymous_namespace\l\{OptechReaderTest.cpp\}\l::OptechReaderTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1anonymous__namespace_02OptechReaderTest_8cpp_03_1_1OptechReaderTest.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::anonymous_namespace\l\{TerrasolidReaderTest.cpp\}\l::TerrasolidReaderTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1anonymous__namespace_02TerrasolidReaderTest_8cpp_03_1_1TerrasolidReaderTest.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::MatlabWriterTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MatlabWriterTest.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::TransformationFilterTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TransformationFilterTest.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="PgpointcloudWriterTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPgpointcloudWriterTest.html"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="PredicateFilterTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPredicateFilterTest.html"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="PythonFilterTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPythonFilterTest.html"];
+}

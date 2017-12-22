@@ -1,0 +1,5 @@
+<map id="pdal::gdal::ErrorHandler::getGlobalErrorHandler" name="pdal::gdal::ErrorHandler::getGlobalErrorHandler">
+<area shape="rect" id="node2" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a73215504640551589024d36018f81d33" title="pdal::gdal::ErrorHandler\l::ErrorHandler" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a6381c703007e462e66d9906c806ec0a4" title="pdal::gdal::ErrorHandler\l::trampoline" alt="" coords="419,35,577,76"/>
+<area shape="rect" id="node4" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a4d90644b75f1266d089af2bc61bb8de7" title="pdal::gdal::ErrorHandler\l::handle" alt="" coords="625,35,784,76"/>
+</map>

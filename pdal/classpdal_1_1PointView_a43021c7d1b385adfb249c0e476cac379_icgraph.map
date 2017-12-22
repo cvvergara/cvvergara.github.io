@@ -1,0 +1,5 @@
+<map id="pdal::PointView::appendPoint" name="pdal::PointView::appendPoint">
+<area shape="rect" id="node2" href="$classpdal_1_1CropFilter.html#ad3c621912b6cae25da4a1789733d4c65" title="pdal::CropFilter::crop" alt="" coords="249,5,393,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1DecimationFilter.html#a1e130d000d7b87370ea9dec55a8c9d69" title="pdal::DecimationFilter\l::decimate" alt="" coords="247,57,396,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1DecimationFilter.html#a1bc66242e3146f6d924f4573b1e78967" title="pdal::DecimationFilter::run" alt="" coords="444,64,619,91"/>
+</map>

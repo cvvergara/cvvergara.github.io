@@ -1,0 +1,8 @@
+<map id="pdal::ExtraBytesIf::readFrom" name="pdal::ExtraBytesIf::readFrom">
+<area shape="rect" id="node2" href="$classpdal_1_1Extractor.html#a40f045f582d459664cf0f26d32ebe10b" title="pdal::Extractor::get" alt="" coords="180,5,313,32"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="744,31,893,57"/>
+<area shape="rect" id="node7" href="$classpdal_1_1ExtraBytesIf.html#a98ae6d92b1d731b7b9d2f0a1de0c17a4" title="pdal::ExtraBytesIf\l::setType" alt="" coords="183,107,310,149"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="361,5,509,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="557,5,696,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="941,31,1072,57"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "pdal::SbetWriter::done"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::SbetWriter::done",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::MetadataNode\l::addList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#af9242fea26778fb33e939d38f0dd0dd4"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Stage::getMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#a03070b4d2496f6c0993fb0dfe16cc8e0"];
+}

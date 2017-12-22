@@ -1,0 +1,4 @@
+<map id="pdal::georeference::georeferenceWgs84" name="pdal::georeference::georeferenceWgs84">
+<area shape="rect" id="node2" href="$namespacepdal_1_1georeference_1_1anonymous__namespace_02Georeference_8cpp_03.html#a3d97bde05ca277bf07b1e9fc5bb49a3f" title="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::cartesian\lToCurvilinear" alt="" coords="200,5,399,76"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1georeference_1_1anonymous__namespace_02Georeference_8cpp_03.html#ab65d68d7d44f5d44c6d533ec5d7fc06f" title="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::rotate" alt="" coords="210,101,389,157"/>
+</map>

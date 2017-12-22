@@ -1,0 +1,12 @@
+digraph "pdal::UuidHeaderVal"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal::UuidHeaderVal",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::BaseHeaderVal\l\< Uuid \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BaseHeaderVal.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_val\nm_defVal" ,fontname="Helvetica"];
+  Node3 [label="pdal::Uuid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Uuid.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_data" ,fontname="Helvetica"];
+  Node4 [label="pdal::uuid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#structpdal_1_1uuid"];
+}

@@ -1,0 +1,25 @@
+<map id="pdal/tools/nitfwrap/NitfWrap.cpp" name="pdal/tools/nitfwrap/NitfWrap.cpp">
+<area shape="rect" id="node4" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="1239,333,1377,360"/>
+<area shape="rect" id="node22" href="$GDALUtils_8hpp.html" title="pdal/GDALUtils.hpp" alt="" coords="628,177,767,203"/>
+<area shape="rect" id="node35" href="$FileUtils_8hpp.html" title="pdal/util/FileUtils.hpp" alt="" coords="567,483,711,509"/>
+<area shape="rect" id="node37" href="$IStream_8hpp.html" title="pdal/util/IStream.hpp" alt="" coords="1722,483,1865,509"/>
+<area shape="rect" id="node40" href="$BpfHeader_8hpp.html" title="io/BpfHeader.hpp" alt="" coords="1436,177,1559,203"/>
+<area shape="rect" id="node41" href="$LasHeader_8hpp.html" title="io/LasHeader.hpp" alt="" coords="1322,95,1446,121"/>
+<area shape="rect" id="node46" href="$NitfFileReader_8hpp.html" title="plugins/nitf/io/NitfFile\lReader.hpp" alt="" coords="2189,169,2334,211"/>
+<area shape="rect" id="node49" href="$NitfWrap_8hpp.html" title="NitfWrap.hpp" alt="" coords="2303,95,2401,121"/>
+<area shape="rect" id="node5" href="$DimUtil_8hpp.html" title="pdal/DimUtil.hpp" alt="" coords="1369,408,1487,435"/>
+<area shape="rect" id="node6" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1321,483,1444,509"/>
+<area shape="rect" id="node19" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="1155,408,1293,435"/>
+<area shape="rect" id="node18" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="880,557,1019,584"/>
+<area shape="rect" id="node23" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="1453,333,1601,360"/>
+<area shape="rect" id="node24" href="$SpatialReference_8hpp.html" title="pdal/SpatialReference.hpp" alt="" coords="1469,259,1643,285"/>
+<area shape="rect" id="node25" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="301,483,441,509"/>
+<area shape="rect" id="node26" href="$Log_8hpp.html" title="pdal/Log.hpp" alt="" coords="1769,259,1865,285"/>
+<area shape="rect" id="node39" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="1724,557,1863,584"/>
+<area shape="rect" id="node42" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="735,483,857,509"/>
+<area shape="rect" id="node43" href="$pdal__config_8hpp.html" title="pdal/pdal_config.hpp" alt="" coords="1201,259,1343,285"/>
+<area shape="rect" id="node44" href="$gitsha_8h.html" title="pdal/gitsha.h" alt="" coords="1753,177,1849,203"/>
+<area shape="rect" id="node45" href="$LasVLR_8hpp.html" title="LasVLR.hpp" alt="" coords="1634,177,1729,203"/>
+<area shape="rect" id="node47" href="$Options_8hpp.html" title="pdal/Options.hpp" alt="" coords="2201,259,2321,285"/>
+<area shape="rect" id="node50" href="$NitfFileWriter_8hpp.html" title="plugins/nitf/io/NitfFile\lWriter.hpp" alt="" coords="2433,169,2578,211"/>
+</map>

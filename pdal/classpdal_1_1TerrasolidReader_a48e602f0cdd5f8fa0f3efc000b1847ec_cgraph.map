@@ -1,0 +1,11 @@
+<map id="pdal::TerrasolidReader::initialize" name="pdal::TerrasolidReader::initialize">
+<area shape="rect" id="node2" href="$classpdal_1_1IStream.html#a1868ec9fd091d4af1281c2181315521a" title="pdal::IStream::get" alt="" coords="221,5,348,32"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="228,56,341,83"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="207,107,363,133"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a19dbb0a5ce84b6f60fea55cd54e674cf" title="pdal::Utils::toString" alt="" coords="217,157,352,184"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="411,5,559,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="608,5,747,32"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="795,5,944,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="992,5,1123,32"/>
+<area shape="rect" id="node9" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="411,107,560,133"/>
+</map>

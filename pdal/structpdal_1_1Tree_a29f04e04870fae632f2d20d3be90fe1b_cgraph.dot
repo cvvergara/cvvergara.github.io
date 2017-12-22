@@ -1,0 +1,11 @@
+digraph "pdal::Tree::addPoint"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Tree::addPoint",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Point::sqDist",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1Point.html#a5aae192980e5762d423d0f984a4a81e1"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::swap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#ae3e24ec79046b68f1d687b1b66ec9bcc"];
+}

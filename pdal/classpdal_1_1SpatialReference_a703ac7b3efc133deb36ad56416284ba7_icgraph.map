@@ -1,0 +1,6 @@
+<map id="pdal::SpatialReference::set" name="pdal::SpatialReference::set">
+<area shape="rect" id="node2" href="$namespacepdal.html#a15c6c8de1202ba7f8067ad02df603177" title="pdal::operator\&gt;\&gt;" alt="" coords="283,5,401,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#a61632ae01a0cbb279c3b15f4e6878c44" title="pdal::LasHeader::setSrsFromWkt" alt="" coords="233,56,451,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasHeader.html#a940d819d418dcd815466fe98f292dab5" title="pdal::LasHeader::setSrs" alt="" coords="499,56,661,83"/>
+<area shape="rect" id="node5" href="$namespacepdal.html#a96d3d7266c452f1ea279b43b78dd43d1" title="pdal::operator\&gt;\&gt;" alt="" coords="709,56,827,83"/>
+</map>

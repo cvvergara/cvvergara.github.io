@@ -1,0 +1,20 @@
+<map id="pdal/pdal/XMLSchema.hpp" name="pdal/pdal/XMLSchema.hpp">
+<area shape="rect" id="node2" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="258,229,406,256"/>
+<area shape="rect" id="node31" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="1341,229,1478,256"/>
+<area shape="rect" id="node33" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="742,155,871,181"/>
+<area shape="rect" id="node39" href="$PointLayout_8hpp.html" title="pdal/PointLayout.hpp" alt="" coords="1231,80,1375,107"/>
+<area shape="rect" id="node4" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="215,304,358,331"/>
+<area shape="rect" id="node5" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="30,379,165,405"/>
+<area shape="rect" id="node6" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="1140,304,1279,331"/>
+<area shape="rect" id="node13" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1479,379,1601,405"/>
+<area shape="rect" id="node28" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="1575,453,1697,480"/>
+<area shape="rect" id="node30" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="372,453,511,480"/>
+<area shape="rect" id="node32" href="$DimUtil_8hpp.html" title="pdal/DimUtil.hpp" alt="" coords="1469,304,1587,331"/>
+<area shape="rect" id="node34" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="530,379,670,405"/>
+<area shape="rect" id="node35" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="415,304,537,331"/>
+<area shape="rect" id="node36" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="313,379,404,405"/>
+<area shape="rect" id="node38" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="189,379,289,405"/>
+<area shape="rect" id="node37" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="189,453,328,480"/>
+<area shape="rect" id="node41" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="1313,155,1447,181"/>
+<area shape="rect" id="node42" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="1161,155,1289,181"/>
+</map>

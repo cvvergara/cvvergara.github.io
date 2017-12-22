@@ -1,0 +1,14 @@
+digraph "pdal/plugins/pcl/filters" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c3b1d3439b137958b54bdbe7cbde68d6 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="pcl" fontname="Helvetica", fontsize="10", URL="dir_c3b1d3439b137958b54bdbe7cbde68d6.html"]
+  dir_7ba9c4cff0988f78e55ff2036f410889 [shape=box, label="filters", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_7ba9c4cff0988f78e55ff2036f410889.html"];
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_79623c9093a092de4cd2fed3ff0972eb [shape=box label="pipeline" URL="dir_79623c9093a092de4cd2fed3ff0972eb.html"];
+  dir_79623c9093a092de4cd2fed3ff0972eb->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="2", labeldistance=1.5 headhref="dir_000094_000050.html"];
+  dir_7ba9c4cff0988f78e55ff2036f410889->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="17", labeldistance=1.5 headhref="dir_000091_000050.html"];
+  dir_7ba9c4cff0988f78e55ff2036f410889->dir_79623c9093a092de4cd2fed3ff0972eb [headlabel="1", labeldistance=1.5 headhref="dir_000091_000094.html"];
+}

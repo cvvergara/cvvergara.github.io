@@ -1,0 +1,9 @@
+<map id="pdal::LasWriter::addArgs" name="pdal::LasWriter::addArgs">
+<area shape="rect" id="node2" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="235,56,393,83"/>
+<area shape="rect" id="node5" href="$namespacepdal.html#aaca316a45d6db7f2f9296443a089c8f7" title="pdal::GetDefaultSoftwareId" alt="" coords="224,107,404,133"/>
+<area shape="rect" id="node7" href="$classpdal_1_1LasHeader.html#ab5e5701a5e5027be8b8ea6e239dda5f9" title="pdal::LasHeader::getSystem\lIdentifier" alt="" coords="220,158,408,199"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="235,224,393,251"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="471,5,627,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="456,56,643,83"/>
+<area shape="rect" id="node6" href="$namespacepdal.html#acfb8a485cf093e54991b8ba7eef0e08a" title="pdal::GetSHA1" alt="" coords="494,107,605,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pdal::BpfHeader::readDimensions" name="pdal::BpfHeader::readDimensions">
+<area shape="rect" id="node2" href="$structpdal_1_1BpfDimension.html#a11ef635dbc30454fa7b5d94fdb9169bf" title="pdal::BpfDimension\l::read" alt="" coords="272,5,408,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1IStream.html#a1868ec9fd091d4af1281c2181315521a" title="pdal::IStream::get" alt="" coords="456,13,583,39"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="631,13,779,39"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="827,13,965,39"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1013,13,1163,39"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1211,13,1341,39"/>
+</map>

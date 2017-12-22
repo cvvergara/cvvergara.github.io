@@ -1,0 +1,30 @@
+digraph "pdal::KD2Index::radius"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::KD2Index::radius",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::eigen::createMaxMatrix2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#a07e6e0633883fbc9b7c33e7dbaa29b10"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::eigen::centralDiffY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#ab66d3e2ad4a22c909e99668dd0ab6f5d"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::eigen::computeContour",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#a8a54867810b638e4b6b64fd1804f00c8"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$EigenTest_8cpp.html#a117227755b8d6760a72ff7d416bd094f"];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::eigen::computeProfile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#ae3c73acb88d80a9f0428c980b05863d4"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::eigen::computeTangential",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#a28f0bb391554d5ee42aa5b3f100e833d"];
+  Node7 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::eigen::computeAspectFD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#ab53aeec07299f46c551e1cc9e2ab2d8c"];
+  Node8 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::eigen::computeSlopeFD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1eigen.html#a3ae8ec6a3501c7f138dc35aea08da663"];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$KDIndexTest_8cpp.html#a69488860186d7ba04a0e9ad10a1eb8e2"];
+}

@@ -1,0 +1,11 @@
+digraph "pdal::Dimension::Detail::setType"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Dimension::Detail\l::setType",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PointLayout::\lregisterDim",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointLayout.html#ac47cea7ccf03affbe8cd04af43c57ee9"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$PointContextTest_8cpp.html#a209fd92368a0e589ef3f9673ae34cf42"];
+}

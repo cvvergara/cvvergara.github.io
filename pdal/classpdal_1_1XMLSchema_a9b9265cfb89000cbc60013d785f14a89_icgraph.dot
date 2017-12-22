@@ -1,0 +1,45 @@
+digraph "pdal::XMLSchema::orientation"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::XMLSchema::orientation",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::XMLSchema::load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#a8d8bec5759963e5226704a4fcc98e232"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::XMLSchema::XMLSchema",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#a1aabcaa1a2ec462952a940e904d3ee11"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::DbReader::loadSchema",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1DbReader.html#a7903aac3db132794190b0d9e24261c8c"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::DbReader::updateSchema",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1DbReader.html#aae2016e35e785ac4cbeb5d6e513c1831"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::OciReader::readOci",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a037e27a09676d06f791f4b39945d7d8e"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::OciReader::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::XMLSchema::writeXml",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#a9148f9295b75c3db5f6fed865ccf90f6"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::XMLSchema::xml",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#ab65bccb4fea02c913d969ce284f88b68"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::OciReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a4b1be832c15f90d15eb707f5d280ebaf"];
+  Node9 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::OciWriter::createPCEntry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciWriter.html#a305cd40729c19754aec8fc7c9d104fdf"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::OciWriter::writeInit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciWriter.html#a29c890b4de7d31ab917f5d4577f62345"];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::OciWriter::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciWriter.html#a11f02a9af7350d831dff5f81859c76f2"];
+  Node9 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::PgWriter::SetupSchema",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgWriter.html#a53ebf855ce148dfff8b9d21e8015ee4f"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pdal::PgWriter::writeInit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgWriter.html#a533424111db08989e4d3a670e9db884f"];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="pdal::PgWriter::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgWriter.html#a75d2fa0130cb17470e69425c0b866635"];
+  Node9 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="pdal::SQLiteWriter\l::CreateCloud",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SQLiteWriter.html#abe82618f125304df98d7719e6078fc0a"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="pdal::SQLiteWriter\l::writeInit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SQLiteWriter.html#aeb1ac7f6fa795c2c0c47eff286aae3a0"];
+  Node18 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="pdal::SQLiteWriter\l::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SQLiteWriter.html#a258990451ca91103f10913812e5ef623"];
+  Node9 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$XMLSchemaTest_8cpp.html#a48e1a8252f580bb13a68e42813bbe5ed"];
+}

@@ -1,0 +1,9 @@
+<map id="pdal::PgWriter::addArgs" name="pdal::PgWriter::addArgs">
+<area shape="rect" id="node2" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="853,33,1012,60"/>
+<area shape="rect" id="node5" href="$classpdal_1_1DbWriter.html#ab0ff1d41c348640c642332d83f952719" title="pdal::DbWriter::doAddArgs" alt="" coords="215,33,393,60"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="225,84,383,111"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="1075,8,1231,35"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="1060,59,1247,85"/>
+<area shape="rect" id="node6" href="$classpdal_1_1DbWriter.html#a94b34d19b7b61588c8fa864a02965bfa" title="pdal::DbWriter::addArgs" alt="" coords="441,33,604,60"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Scaling.html#a68d279f7d924ccef73c065a1c144ae8c" title="pdal::Scaling::addArgs" alt="" coords="652,84,805,111"/>
+</map>

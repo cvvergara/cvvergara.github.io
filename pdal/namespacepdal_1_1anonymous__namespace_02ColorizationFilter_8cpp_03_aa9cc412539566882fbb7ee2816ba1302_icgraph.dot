@@ -1,0 +1,9 @@
+digraph "pdal::anonymous_namespace{ColorizationFilter::cpp}::parseDim"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::anonymous_namespace\l\{ColorizationFilter::cpp\}\l::parseDim",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::ColorizationFilter\l::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ColorizationFilter.html#ab7913018dd5d8e24d34526b86394ab38"];
+}

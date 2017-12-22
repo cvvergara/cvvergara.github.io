@@ -1,0 +1,5 @@
+<map id="pdal::Polygon" name="pdal::Polygon">
+<area shape="rect" id="node2" href="$classpdal_1_1Geometry.html" title="pdal::Geometry" alt="" coords="90,184,201,211"/>
+<area shape="rect" id="node3" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="5,95,160,121"/>
+<area shape="rect" id="node4" href="$classpdal_1_1geos_1_1ErrorHandler.html" title="pdal::geos::ErrorHandler" alt="" coords="184,95,347,121"/>
+</map>

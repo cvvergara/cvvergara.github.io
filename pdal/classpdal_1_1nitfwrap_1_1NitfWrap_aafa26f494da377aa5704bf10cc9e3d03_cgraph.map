@@ -1,0 +1,19 @@
+<map id="pdal::nitfwrap::NitfWrap::verifyBpf" name="pdal::nitfwrap::NitfWrap::verifyBpf">
+<area shape="rect" id="node2" href="$structpdal_1_1BpfHeader.html#afd1f26508245fee01ba8e8332b69d6d9" title="pdal::BpfHeader::read" alt="" coords="248,85,397,112"/>
+<area shape="rect" id="node12" href="$structpdal_1_1BpfHeader.html#a65c7c8d49114e2020df4fa18132ad8a9" title="pdal::BpfHeader::readDimensions" alt="" coords="213,163,432,189"/>
+<area shape="rect" id="node14" href="$namespacepdal_1_1gdal.html#a94727cba0dfb75a0d89f7113a15f521d" title="pdal::gdal::reprojectBounds" alt="" coords="233,213,413,240"/>
+<area shape="rect" id="node15" href="$structpdal_1_1BpfHeader.html#a4773981ebff84959f7f8d0bdfc599e4a" title="pdal::BpfHeader::setLog" alt="" coords="241,264,404,291"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Utils.html#a19dbb0a5ce84b6f60fea55cd54e674cf" title="pdal::Utils::toString" alt="" coords="255,315,390,341"/>
+<area shape="rect" id="node3" href="$structpdal_1_1BpfHeader.html#a86d5dbd82af5a21d15452d0554f25147" title="pdal::BpfHeader::readV1" alt="" coords="480,5,645,32"/>
+<area shape="rect" id="node4" href="$structpdal_1_1BpfHeader.html#aeaa42c073c9f7b53029d78ad96e3bb88" title="pdal::BpfHeader::readV3" alt="" coords="480,56,645,83"/>
+<area shape="rect" id="node11" href="$classpdal_1_1IStreamMarker.html#a7c9b2f97052085aa9435357789ee25ca" title="pdal::IStreamMarker\l::rewind" alt="" coords="493,107,633,149"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="693,56,843,83"/>
+<area shape="rect" id="node6" href="$classpdal_1_1IStream.html#a1868ec9fd091d4af1281c2181315521a" title="pdal::IStream::get" alt="" coords="705,143,831,169"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="891,143,1039,169"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="1087,143,1225,169"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1273,143,1423,169"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1471,143,1601,169"/>
+<area shape="rect" id="node13" href="$structpdal_1_1BpfDimension.html#a11ef635dbc30454fa7b5d94fdb9169bf" title="pdal::BpfDimension\l::read" alt="" coords="495,173,631,214"/>
+<area shape="rect" id="node16" href="$structpdal_1_1BpfMuellerMatrix.html#ab9aa8cc9bfc3a3241c5969c331d158b6" title="pdal::BpfMuellerMatrix\l::dump" alt="" coords="487,247,639,289"/>
+<area shape="rect" id="node17" href="$namespacehag.html#acad63bbd5fdda01bf56ff6aae70a0192" title="hag.read" alt="" coords="527,313,599,340"/>
+</map>

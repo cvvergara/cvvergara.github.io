@@ -1,0 +1,11 @@
+digraph "pdal::ExtraBytesIf::setType"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::ExtraBytesIf\l::setType",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::ExtraBytesIf\l::readFrom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ExtraBytesIf.html#a7988b9509f89bc822dc981700ad50c5b"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::LasReader::readExtra\lBytesVlr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasReader.html#adf3015dd8c967c2c7e77dbf7647be245"];
+}

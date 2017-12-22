@@ -1,0 +1,9 @@
+<map id="pdal::PlyReader::extractFormat" name="pdal::PlyReader::extractFormat">
+<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#aa62e075130f0a99301f45f848b0a4c85" title="pdal::PlyReader::nextWord" alt="" coords="216,56,395,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PlyReader.html#a2a95bd0d7e52c96b191a76e18cb4f488" title="pdal::PlyReader::readLine" alt="" coords="219,119,391,145"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="227,195,383,221"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a9bda8c5dbe5ef7cf66e99ba022184934" title="pdal::Utils::extractSpaces" alt="" coords="443,5,616,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="664,56,793,83"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#afed0ad4146baafd1973c85e1508ade73" title="pdal::Utils::trimTrailing" alt="" coords="453,157,606,184"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="455,208,604,235"/>
+</map>

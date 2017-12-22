@@ -1,0 +1,37 @@
+var GDALUtils_8hpp =
+[
+    [ "SpatialRef", "classpdal_1_1gdal_1_1SpatialRef.html", "classpdal_1_1gdal_1_1SpatialRef" ],
+    [ "Geometry", "classpdal_1_1gdal_1_1Geometry.html", "classpdal_1_1gdal_1_1Geometry" ],
+    [ "ErrorHandler", "classpdal_1_1gdal_1_1ErrorHandler.html", "classpdal_1_1gdal_1_1ErrorHandler" ],
+    [ "ErrorHandlerSuspender", "classpdal_1_1gdal_1_1ErrorHandlerSuspender.html", "classpdal_1_1gdal_1_1ErrorHandlerSuspender" ],
+    [ "InvalidBand", "namespacepdal_1_1gdal.html#structpdal_1_1gdal_1_1InvalidBand", null ],
+    [ "CantReadBlock", "namespacepdal_1_1gdal.html#structpdal_1_1gdal_1_1CantReadBlock", null ],
+    [ "CantWriteBlock", "structpdal_1_1gdal_1_1CantWriteBlock.html", "structpdal_1_1gdal_1_1CantWriteBlock" ],
+    [ "Band", "classpdal_1_1gdal_1_1Band.html", "classpdal_1_1gdal_1_1Band" ],
+    [ "Raster", "classpdal_1_1gdal_1_1Raster.html", "classpdal_1_1gdal_1_1Raster" ],
+    [ "ITER_VAL", "GDALUtils_8hpp.html#a7b43e99f465bd186ec4f502e66eac426", null ],
+    [ "RefPtr", "GDALUtils_8hpp.html#a927cb8a9c683e5fcbf95073b74179acf", null ],
+    [ "GDALError", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19", [
+      [ "None", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "NotOpen", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19abdd7de68889646349ad64c3f6404b635", null ],
+      [ "CantOpen", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a1163f679e615228de0d80130a760c7bb", null ],
+      [ "NoData", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19acbf169aecd4365561eb6b245659f55d8", null ],
+      [ "InvalidBand", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a4d7a7e0cdb604735504a16b6e7f11c89", null ],
+      [ "NoTransform", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19ac8c9fe0abed7ae3bab93a24ac8ac1e97", null ],
+      [ "NotInvertible", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19afc65be8a7a0678ae590bc7d989cfb5a0", null ],
+      [ "CantReadBlock", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19ab3b046817874536950d4cc9bea2c083e", null ],
+      [ "InvalidDriver", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a5b7a84bf2698297290e2090741a2d41c", null ],
+      [ "DriverNotFound", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a7504280a02c56c5e681be752a102eb9e", null ],
+      [ "CantCreate", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a79ca98ee1eea9315c463b3b8674d9415", null ],
+      [ "InvalidOption", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19afc71d6fefb5c07a83d79a911e01b9536", null ],
+      [ "CantWriteBlock", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19a29ffe5f4e6e9d674a7dda17811f1dfed", null ],
+      [ "InvalidType", "GDALUtils_8hpp.html#a3085e417299b197653abc9f7d776fc19ac85f85f7c13ed006eed130ec183aa810", null ]
+    ] ],
+    [ "lastError", "GDALUtils_8hpp.html#ad6f9162dbd7aeb4d8bcb48c00dd2c5c5", null ],
+    [ "registerDrivers", "GDALUtils_8hpp.html#a35a1ae3b5fe64517230477135fae8569", null ],
+    [ "reprojectBounds", "GDALUtils_8hpp.html#a94727cba0dfb75a0d89f7113a15f521d", null ],
+    [ "reprojectBounds", "GDALUtils_8hpp.html#a4b3a7849c02ed6d4886249d604198183", null ],
+    [ "reprojectPoint", "GDALUtils_8hpp.html#a21a8a722fc77b7b5f5f57275ad8f17a5", null ],
+    [ "transformWkt", "GDALUtils_8hpp.html#a47965fb6528cc379422d9a639030e514", null ],
+    [ "unregisterDrivers", "GDALUtils_8hpp.html#af1bc017799faa1084088fadba0698a4d", null ]
+];

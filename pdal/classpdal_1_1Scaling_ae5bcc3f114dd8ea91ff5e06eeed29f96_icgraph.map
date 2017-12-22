@@ -1,0 +1,5 @@
+<map id="pdal::Scaling::nonstandard" name="pdal::Scaling::nonstandard">
+<area shape="rect" id="node2" href="$classpdal_1_1DbWriter.html#a39553d80fb4fb40fb9cb9bd7b634df66" title="pdal::DbWriter::ready" alt="" coords="229,5,376,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1DbWriter.html#a0e1666ce3872f2d6c0c1059df0c82340" title="pdal::DbWriter::doReady" alt="" coords="424,5,591,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OciWriter.html#aaef01ec1f04e1cd86cd7d465d49e1d81" title="pdal::OciWriter::ready" alt="" coords="639,5,788,32"/>
+</map>

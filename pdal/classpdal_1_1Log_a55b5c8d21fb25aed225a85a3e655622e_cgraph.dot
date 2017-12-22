@@ -1,0 +1,17 @@
+digraph "pdal::Log::get"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Log::get",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Log::getLevelString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Log.html#aff64bf3e91a1fc230ec2d4eed98b3dbf"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Log::leader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Log.html#ac029547787ab61435de09575dbb9dc05"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Utils::toNative",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::Dimension::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Utils::tolower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2"];
+}

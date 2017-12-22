@@ -1,0 +1,15 @@
+<map id="pdal::BpfWriter::doneFile" name="pdal::BpfWriter::doneFile">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af9242fea26778fb33e939d38f0dd0dd4" title="pdal::MetadataNode\l::addList" alt="" coords="261,5,400,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1OStream.html#a85531d03265490c7b0a8461bf9947a53" title="pdal::OStream::close" alt="" coords="258,71,403,98"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a03070b4d2496f6c0993fb0dfe16cc8e0" title="pdal::Stage::getMetadata" alt="" coords="247,122,415,149"/>
+<area shape="rect" id="node6" href="$classpdal_1_1OStream.html#a1f1ee92c87112094d439d2a3c9bbf54f" title="pdal::OStream::seek" alt="" coords="259,173,402,199"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="253,223,409,250"/>
+<area shape="rect" id="node9" href="$structpdal_1_1BpfHeader.html#a651562f547379244c51f64a4f4b93861" title="pdal::BpfHeader::write" alt="" coords="255,274,407,301"/>
+<area shape="rect" id="node13" href="$structpdal_1_1BpfHeader.html#a2ffa30716b4a92cb219a8a25a40c1fd7" title="pdal::BpfHeader::writeDimensions" alt="" coords="220,329,441,355"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OStream.html#a348ead11fcfa90a7083c7a2e419ae8f2" title="pdal::OStream::flush" alt="" coords="499,71,642,98"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="496,198,645,225"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="489,249,652,275"/>
+<area shape="rect" id="node12" href="$classpdal_1_1OStream.html#ae1e8327478f6e16d6f0ec19d876106b5" title="pdal::OStream::put" alt="" coords="700,329,832,355"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="702,249,830,275"/>
+<area shape="rect" id="node14" href="$structpdal_1_1BpfDimension.html#afd1f96cc40691174f7f14c865838f200" title="pdal::BpfDimension\l::write" alt="" coords="503,351,639,392"/>
+</map>

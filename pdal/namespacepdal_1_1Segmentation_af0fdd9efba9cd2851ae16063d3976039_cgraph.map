@@ -1,0 +1,5 @@
+<map id="pdal::Segmentation::extractClusters" name="pdal::Segmentation::extractClusters">
+<area shape="rect" id="node2" href="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26" title="pdal::KDIndex::build" alt="" coords="195,5,335,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1KD3Index.html#ab8cc27541fdc421b06baf67af1ade423" title="pdal::KD3Index::radius" alt="" coords="188,56,343,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="193,107,338,133"/>
+</map>

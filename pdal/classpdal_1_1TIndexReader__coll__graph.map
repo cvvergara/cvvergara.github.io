@@ -1,0 +1,12 @@
+<map id="pdal::TIndexReader" name="pdal::TIndexReader">
+<area shape="rect" id="node2" href="$classpdal_1_1Reader.html" title="pdal::Reader" alt="" coords="304,199,400,225"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="201,95,289,121"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="197,199,280,225"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="348,5,447,32"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Arg.html" title="pdal::Arg" alt="" coords="315,95,389,121"/>
+<area shape="rect" id="node8" href="$classpdal_1_1StageFactory.html" title="pdal::StageFactory" alt="" coords="387,275,519,301"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MergeFilter.html" title="pdal::MergeFilter" alt="" coords="185,275,303,301"/>
+<area shape="rect" id="node11" href="$classpdal_1_1BOX2D.html" title="pdal::BOX2D" alt="" coords="544,275,643,301"/>
+</map>

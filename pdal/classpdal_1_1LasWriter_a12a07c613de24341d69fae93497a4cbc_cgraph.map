@@ -1,0 +1,51 @@
+<map id="pdal::LasWriter::prepared" name="pdal::LasWriter::prepared">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#a3e140e4c0c21d020c56c0b8d58b8cb5b" title="pdal::Utils::contains" alt="" coords="269,515,408,541"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#aa3902ee8869ff33139401a6900ae088c" title="pdal::PointLayout::\ldimName" alt="" coords="273,1161,404,1202"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointLayout.html#ade9058917c1e1580b9048f0f81ee8d5e" title="pdal::PointLayout::\ldimTypes" alt="" coords="273,1291,404,1333"/>
+<area shape="rect" id="node12" href="$classpdal_1_1LasWriter.html#a6bb29fe68bda1d593a132d852513e5b8" title="pdal::LasWriter::fillHeader" alt="" coords="252,616,425,643"/>
+<area shape="rect" id="node29" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="537,5,693,32"/>
+<area shape="rect" id="node36" href="$classpdal_1_1PointLayout.html#a5a720db4e74a5412c1420b0d1eaacda7" title="pdal::PointLayout::\lfindDim" alt="" coords="273,1577,404,1618"/>
+<area shape="rect" id="node40" href="$classpdal_1_1LasWriter.html#a3b4f4bfc5b24cc1b25571764cfc640fa" title="pdal::LasWriter::getName" alt="" coords="253,1357,424,1384"/>
+<area shape="rect" id="node41" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="221,1408,456,1435"/>
+<area shape="rect" id="node42" href="$classpdal_1_1BasePointTable.html#a7e3a12a1f29e6cd10d8669ed3d07eb94" title="pdal::BasePointTable\l::layout" alt="" coords="265,1459,412,1501"/>
+<area shape="rect" id="node43" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="282,1525,395,1552"/>
+<area shape="rect" id="node44" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="779,1700,927,1727"/>
+<area shape="rect" id="node45" href="$classpdal_1_1LasHeader.html#a91761896f6f3bc4db9ccdab2f4f8c827" title="pdal::LasHeader::usedDims" alt="" coords="247,1653,431,1680"/>
+<area shape="rect" id="node49" href="$classpdal_1_1FlexWriter.html#ab493878d6021020ec84b57b5500df142" title="pdal::FlexWriter::validate\lFilename" alt="" coords="255,1226,422,1267"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="775,1257,931,1284"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PointLayout.html#afd6b92bf6e8fc83993db132b1ed980e2" title="pdal::PointLayout::dims" alt="" coords="535,1345,694,1372"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PointLayout.html#adaef1dfccc620aa7f7f2a57ea2c19d6d" title="pdal::PointLayout::\ldimType" alt="" coords="549,1442,680,1483"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PointLayout.html#abcfdf0f917e71d1bd8a96bc64ff1e8a2" title="pdal::PointLayout::\ldimDetail" alt="" coords="787,1507,918,1549"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="773,1442,932,1483"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="980,1608,1119,1635"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1167,1608,1316,1635"/>
+<area shape="rect" id="node13" href="$classpdal_1_1LasHeader.html#a31cfd73c26a403f1541eaaa9877cdc26" title="pdal::LasHeader::basePointLen" alt="" coords="513,645,717,672"/>
+<area shape="rect" id="node14" href="$classpdal_1_1LasHeader.html#a6fd77c7bd324ad8ea97eb427baa7b0e1" title="Get identifier of point data (record) format. " alt="" coords="517,696,712,723"/>
+<area shape="rect" id="node15" href="$classpdal_1_1LasHeader.html#abaab812fb92a6ab006ca830d165ff45e" title="pdal::LasHeader::pointFormat\lSupported" alt="" coords="517,747,712,789"/>
+<area shape="rect" id="node16" href="$classpdal_1_1LasHeader.html#a1c674bdb71df0963a42a38c5715144c5" title="pdal::LasHeader::setCreationDOY" alt="" coords="504,813,725,840"/>
+<area shape="rect" id="node17" href="$classpdal_1_1LasHeader.html#afa620908cfd2fd2d34ff58fe7c4c28d5" title="pdal::LasHeader::setCreationYear" alt="" coords="505,864,724,891"/>
+<area shape="rect" id="node18" href="$classpdal_1_1LasHeader.html#a7b5a4399a9d2249b1624edefe599443a" title="pdal::LasHeader::setEVlr\lCount" alt="" coords="531,915,699,957"/>
+<area shape="rect" id="node19" href="$classpdal_1_1LasHeader.html#a0db0babbdab94688561915440fc18484" title="pdal::LasHeader::setFile\lSourceId" alt="" coords="533,981,697,1022"/>
+<area shape="rect" id="node20" href="$classpdal_1_1LasHeader.html#a06c6788801731418dfda784586373571" title="pdal::LasHeader::setGlobal\lEncoding" alt="" coords="525,1046,705,1087"/>
+<area shape="rect" id="node21" href="$classpdal_1_1LasHeader.html#aef1b5b23287525cbd4248e7b000ea89d" title="pdal::LasHeader::setPoint\lFormat" alt="" coords="528,1111,701,1153"/>
+<area shape="rect" id="node22" href="$classpdal_1_1LasHeader.html#a545b72d09d82a05c0d775671daff75f2" title="pdal::LasHeader::setPointLen" alt="" coords="517,1177,712,1204"/>
+<area shape="rect" id="node23" href="$classpdal_1_1LasHeader.html#a10f4741f675a926b23ea5a18a0ff4aca" title="Set project identifier. " alt="" coords="517,56,712,83"/>
+<area shape="rect" id="node24" href="$classpdal_1_1LasHeader.html#a6d0b0128ad19d22ad0592d0cd2a04bc5" title="Set values of scale/offset factor for X, Y and Z coordinates. " alt="" coords="521,107,708,133"/>
+<area shape="rect" id="node25" href="$classpdal_1_1LasHeader.html#ab18aee61f424b7122f7b92201e0cb436" title="pdal::LasHeader::setSoftwareId" alt="" coords="511,157,718,184"/>
+<area shape="rect" id="node26" href="$classpdal_1_1LasHeader.html#a7bf5007d32d5592c0b9279e8932c8cd3" title="pdal::LasHeader::setSystemId" alt="" coords="515,208,714,235"/>
+<area shape="rect" id="node27" href="$classpdal_1_1LasHeader.html#aa5910ca7ffa2acad58db9a1c90431028" title="pdal::LasHeader::setVersion\lMinor" alt="" coords="521,259,708,301"/>
+<area shape="rect" id="node28" href="$classpdal_1_1LasHeader.html#a4522f8834cd88e88733c1aca7e5a81d9" title="pdal::LasHeader::setVlrCount" alt="" coords="517,325,712,352"/>
+<area shape="rect" id="node31" href="$namespacepdal_1_1Utils.html#a19dbb0a5ce84b6f60fea55cd54e674cf" title="pdal::Utils::toString" alt="" coords="547,376,682,403"/>
+<area shape="rect" id="node32" href="$classpdal_1_1NumHeaderVal.html#a392322a67e034a52efabc36dd4888ce5" title="pdal::NumHeaderVal::val" alt="" coords="531,427,699,453"/>
+<area shape="rect" id="node33" href="$classpdal_1_1StringHeaderVal.html#a738a70272eae4406bd3a3a0a8f473506" title="pdal::StringHeaderVal::val" alt="" coords="527,477,702,504"/>
+<area shape="rect" id="node34" href="$classpdal_1_1UuidHeaderVal.html#ade3b7ecb355032496e267bf73ff25814" title="pdal::UuidHeaderVal::val" alt="" coords="531,528,698,555"/>
+<area shape="rect" id="node35" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="531,579,698,621"/>
+<area shape="rect" id="node30" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="778,5,927,32"/>
+<area shape="rect" id="node37" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="547,1573,682,1600"/>
+<area shape="rect" id="node39" href="$classpdal_1_1PointLayout.html#abb03661faa312e6954f49cf8e0e809a3" title="pdal::PointLayout::\lfindProprietaryDim" alt="" coords="549,1507,680,1549"/>
+<area shape="rect" id="node38" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="787,1573,919,1600"/>
+<area shape="rect" id="node46" href="$classpdal_1_1LasHeader.html#a6d71059a21e0f08aed6088e92d695739" title="pdal::LasHeader::hasColor" alt="" coords="526,1725,703,1752"/>
+<area shape="rect" id="node47" href="$classpdal_1_1LasHeader.html#a2dd619414561b16f228517640975ed00" title="pdal::LasHeader::hasInfrared" alt="" coords="519,1624,710,1651"/>
+<area shape="rect" id="node48" href="$classpdal_1_1LasHeader.html#a3ad638058d53aca409dadb2b201c23d2" title="pdal::LasHeader::hasTime" alt="" coords="527,1675,702,1701"/>
+<area shape="rect" id="node50" href="$classpdal_1_1BasePointTable.html#a82dcbafa29259989b24307186fbda54c" title="pdal::BasePointTable\l::supportsView" alt="" coords="541,1279,688,1321"/>
+</map>

@@ -1,0 +1,33 @@
+digraph "pdal::arg_error::arg_error"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::arg_error::arg\l_error",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::ProgramArgs::\laddLongArg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#acd16d6f724bdc974fc125603cc762d53"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::ProgramArgs::\laddShortArg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#aabd50bb05126fef888b66d85637910eb"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::ProgramArgs::\laddSynonym",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#a09463890426136f4ff1264d28ec1c30a"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::SQLiteWriter\l::addArgs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SQLiteWriter.html#afb6937456aad4fabd8ad6726fb10720d"];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ProgramArgsTest_8cpp.html#a6d12e0e44c077a58661412df0bb56aa0"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::TArg::assignPositional",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TArg.html#a2131fda36f3a96a52659dd37cc6264c3"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::BaseVArg::assignPositional",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BaseVArg.html#ae30d1440ef11cab1db02e0d265b04ef3"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::ProgramArgs::\lparseLongArg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#af9ef812bbcc34185bdc284a9fa8b3bbe"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::ProgramArgs::\lparseShortArg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#a9e9a6455e5de218672f54a3deb7d635f"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::TArg\< bool \>\l::setOptionalPositional",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TArg_3_01bool_01_4.html#aec6d0daf87c8357dfaea4816d8c8feab"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::TArg\< bool \>\l::setPositional",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TArg_3_01bool_01_4.html#a8baecad09d05e7249fdaa3a358615257"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::ProgramArgs::\lsplitName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#a4137837e91ebba7e48846f2ced506dba"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::ProgramArgs::\lvalidate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ProgramArgs.html#a1d7ac11badd0f42abd11c5c74a363e4e"];
+}

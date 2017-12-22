@@ -1,0 +1,6 @@
+<map id="pdal::GeotiffSrs::srs" name="pdal::GeotiffSrs::srs">
+<area shape="rect" id="node2" href="$structpdal_1_1GeotiffTags_1_1error.html#a1e33bfdcb4c41c3d1f44483e819f2cf8" title="pdal::GeotiffTags::\lerror::error" alt="" coords="223,5,354,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#a8b168184a6c0c2d223cc5ce4197bbebb" title="pdal::LasHeader::setSrsFrom\lGeotiff" alt="" coords="192,71,385,112"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasHeader.html#a940d819d418dcd815466fe98f292dab5" title="pdal::LasHeader::setSrs" alt="" coords="433,78,596,105"/>
+<area shape="rect" id="node5" href="$namespacepdal.html#a96d3d7266c452f1ea279b43b78dd43d1" title="pdal::operator\&gt;\&gt;" alt="" coords="644,78,761,105"/>
+</map>

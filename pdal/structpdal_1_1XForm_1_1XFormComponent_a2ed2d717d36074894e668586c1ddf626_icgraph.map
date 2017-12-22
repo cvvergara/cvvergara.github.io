@@ -1,0 +1,9 @@
+<map id="pdal::XForm::XFormComponent::set" name="pdal::XForm::XFormComponent::set">
+<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aa362380c11c834b5fe51d81b099ba7c5" title="pdal::LasWriter::handleHeader\lForwards" alt="" coords="287,23,485,65"/>
+<area shape="rect" id="node6" href="$classpdal_1_1XMLSchema.html#a8d8bec5759963e5226704a4fcc98e232" title="pdal::XMLSchema::load" alt="" coords="305,89,467,116"/>
+<area shape="rect" id="node8" href="$namespacepdal.html#ae59602d35eeb74f10f68a1a5ae616fe9" title="pdal::operator\&gt;\&gt;" alt="" coords="327,140,445,167"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#a76f6b960b128ccdb8e3e8db69eff445b" title="pdal::LasWriter::prepOutput" alt="" coords="548,31,731,57"/>
+<area shape="rect" id="node4" href="$classpdal_1_1NitfWriter.html#a34d932e82c5d6842ca515cc59281021e" title="pdal::NitfWriter::readyFile" alt="" coords="793,5,964,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1LasWriter.html#a4b0ad482eac655fb22cf29717c04c6b3" title="pdal::LasWriter::readyFile" alt="" coords="793,56,964,83"/>
+<area shape="rect" id="node7" href="$classpdal_1_1XMLSchema.html#a1aabcaa1a2ec462952a940e904d3ee11" title="pdal::XMLSchema::XMLSchema" alt="" coords="533,89,745,116"/>
+</map>

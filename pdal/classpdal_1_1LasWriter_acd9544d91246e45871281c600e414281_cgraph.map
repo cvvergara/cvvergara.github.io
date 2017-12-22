@@ -1,0 +1,9 @@
+<map id="pdal::LasWriter::addUserVlrs" name="pdal::LasWriter::addUserVlrs">
+<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="260,67,415,94"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#aab74b31905c5d41eaca70a73675bf407" title="pdal::Utils::base64\l_decode" alt="" coords="272,119,403,160"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="244,185,431,211"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="479,5,645,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="484,71,640,98"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="693,71,843,98"/>
+<area shape="rect" id="node7" href="$namespacepdal.html#a4d7dbf8f97121c52d3b891ad9e944094" title="pdal::is_base64" alt="" coords="505,126,619,153"/>
+</map>

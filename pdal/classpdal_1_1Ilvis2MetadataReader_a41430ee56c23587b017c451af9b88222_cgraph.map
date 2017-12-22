@@ -1,0 +1,5 @@
+<map id="pdal::Ilvis2MetadataReader::countChildElements" name="pdal::Ilvis2MetadataReader::countChildElements">
+<area shape="rect" id="node2" href="$classpdal_1_1Ilvis2MetadataReader.html#a516a2e8badf0443a0458cde94f40cbf8" title="pdal::Ilvis2MetadataReader\l::getFirstChildElementNode" alt="" coords="235,5,417,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Ilvis2MetadataReader.html#a2e6c0418fb4a806ad1c51215975f875b" title="pdal::Ilvis2MetadataReader\l::getNextElementNode" alt="" coords="465,35,647,76"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Ilvis2MetadataReader.html#a5ae3abe877b54ce54f6d3cf16846f397" title="pdal::Ilvis2MetadataReader\l::nodeElementIs" alt="" coords="235,123,417,164"/>
+</map>

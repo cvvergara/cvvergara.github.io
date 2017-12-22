@@ -1,0 +1,21 @@
+digraph "pdal::lasdump::operator&lt;&lt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::lasdump::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::lasdump::Header\l::maxX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#a457aedaa8854ff82614ab941db085546",tooltip="Get minimum value of extent of X coordinate. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::lasdump::Header\l::maxY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#ab80be7dde7076577af3f16310986c03e",tooltip="Get minimum value of extent of Y coordinate. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::lasdump::Header\l::maxZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#af4695b849968125e264557919e86a78b",tooltip="Get minimum value of extent of Z coordinate. "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::lasdump::Header\l::minX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#af92ca7d7b7298efded386787f7b2cb95",tooltip="Get maximum value of extent of X coordinate. "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::lasdump::Header\l::minY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#a8e3e2816c2535fe6102fc36f2979719f",tooltip="Get maximum value of extent of Y coordinate. "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::lasdump::Header\l::minZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#a266bf4e1abcfac18413513b6921aafaa",tooltip="Get maximum value of extent of Z coordinate. "];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::lasdump::Header\l::versionAtLeast",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1lasdump_1_1Header.html#a1bc09eb49394095e860958ad2f1354f5"];
+}

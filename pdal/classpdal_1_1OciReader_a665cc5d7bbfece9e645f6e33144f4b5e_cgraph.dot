@@ -1,0 +1,47 @@
+digraph "pdal::OciReader::initialize"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::OciReader::initialize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::connect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#a923ba44d8815490512521c355b75c38b"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Utils::closeFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#aad48cdff8e3ff3d13c7a273583870185"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Utils::closeFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a6ce7036b0912ba81b1f1a876b2772a34"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::Utils::fileExists",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#aa7cd618aca677bff881c1c14fbeebe72"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Utils::openFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#ac3322e84f8c5a998a344a5a606c74793"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="tempFilename",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SQLiteTest_8cpp.html#afdd1742979cee35fe1879794bd7ff3a4"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::Dimension::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b"];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Utils::toNative",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::Dimension::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::Utils::tolower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::OciReader::defineBlock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a0269748a7f3a9dbb9fa5bbf4db2e3f6a"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::Utils::toupper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983"];
+  Node1 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::SpatialReference\l::empty",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610"];
+  Node1 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pdal::OciReader::fetchSpatial\lReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a93d10d62fea9b67ada832a3f94735ea3"];
+  Node1 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="pdal::gdal::registerDrivers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1gdal.html#a35a1ae3b5fe64517230477135fae8569"];
+  Node1 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="pdal::Stage::setSpatialReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#af31ff3a4038bceeb17847b567d984ed7"];
+  Node1 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="pdal::Stage::throwError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f"];
+  Node18 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="pdal::Stage::getName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750"];
+  Node1 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="pdal::OciReader::validate\lQuery",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a02199f75cf72f305ec6b50a3433b8c6e"];
+  Node20 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

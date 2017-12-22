@@ -1,0 +1,19 @@
+<map id="pdal::XForm::nonstandard" name="pdal::XForm::nonstandard">
+<area shape="rect" id="node2" href="$classpdal_1_1Scaling.html#ae5bcc3f114dd8ea91ff5e06eeed29f96" title="pdal::Scaling::nonstandard" alt="" coords="231,63,407,89"/>
+<area shape="rect" id="node6" href="$classpdal_1_1XMLSchema.html#a9148f9295b75c3db5f6fed865ccf90f6" title="pdal::XMLSchema::writeXml" alt="" coords="225,139,413,165"/>
+<area shape="rect" id="node3" href="$classpdal_1_1DbWriter.html#a39553d80fb4fb40fb9cb9bd7b634df66" title="pdal::DbWriter::ready" alt="" coords="467,12,614,39"/>
+<area shape="rect" id="node4" href="$classpdal_1_1DbWriter.html#a0e1666ce3872f2d6c0c1059df0c82340" title="pdal::DbWriter::doReady" alt="" coords="692,5,859,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1OciWriter.html#aaef01ec1f04e1cd86cd7d465d49e1d81" title="pdal::OciWriter::ready" alt="" coords="937,5,1087,32"/>
+<area shape="rect" id="node7" href="$classpdal_1_1XMLSchema.html#ab65bccb4fea02c913d969ce284f88b68" title="pdal::XMLSchema::xml" alt="" coords="461,151,620,177"/>
+<area shape="rect" id="node8" href="$classpdal_1_1OciReader.html#a4b1be832c15f90d15eb707f5d280ebaf" title="pdal::OciReader::addDimensions" alt="" coords="668,56,883,83"/>
+<area shape="rect" id="node9" href="$classpdal_1_1OciWriter.html#a305cd40729c19754aec8fc7c9d104fdf" title="pdal::OciWriter::createPCEntry" alt="" coords="674,107,877,133"/>
+<area shape="rect" id="node12" href="$classpdal_1_1PgWriter.html#a53ebf855ce148dfff8b9d21e8015ee4f" title="pdal::PgWriter::SetupSchema" alt="" coords="678,157,873,184"/>
+<area shape="rect" id="node15" href="$classpdal_1_1SQLiteWriter.html#abe82618f125304df98d7719e6078fc0a" title="pdal::SQLiteWriter\l::CreateCloud" alt="" coords="711,209,840,250"/>
+<area shape="rect" id="node18" href="$XMLSchemaTest_8cpp.html#a48e1a8252f580bb13a68e42813bbe5ed" title="TEST" alt="" coords="747,275,803,301"/>
+<area shape="rect" id="node10" href="$classpdal_1_1OciWriter.html#a29c890b4de7d31ab917f5d4577f62345" title="pdal::OciWriter::writeInit" alt="" coords="931,107,1093,133"/>
+<area shape="rect" id="node11" href="$classpdal_1_1OciWriter.html#a11f02a9af7350d831dff5f81859c76f2" title="pdal::OciWriter::write" alt="" coords="1141,107,1287,133"/>
+<area shape="rect" id="node13" href="$classpdal_1_1PgWriter.html#a533424111db08989e4d3a670e9db884f" title="pdal::PgWriter::writeInit" alt="" coords="933,157,1091,184"/>
+<area shape="rect" id="node14" href="$classpdal_1_1PgWriter.html#a75d2fa0130cb17470e69425c0b866635" title="pdal::PgWriter::write" alt="" coords="1143,157,1285,184"/>
+<area shape="rect" id="node16" href="$classpdal_1_1SQLiteWriter.html#aeb1ac7f6fa795c2c0c47eff286aae3a0" title="pdal::SQLiteWriter\l::writeInit" alt="" coords="947,209,1077,250"/>
+<area shape="rect" id="node17" href="$classpdal_1_1SQLiteWriter.html#a258990451ca91103f10913812e5ef623" title="pdal::SQLiteWriter\l::write" alt="" coords="1149,209,1279,250"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "getReaderOptions"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="getReaderOptions",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="testReadWrite",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SQLiteTest_8cpp.html#a078fa742eaebb2e9f7c59f04870c810b"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SQLiteTest_8cpp.html#ae345a6bfcea0035732b3a47021d1d69e"];
+}

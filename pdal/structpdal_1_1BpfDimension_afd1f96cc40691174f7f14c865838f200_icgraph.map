@@ -1,0 +1,5 @@
+<map id="pdal::BpfDimension::write" name="pdal::BpfDimension::write">
+<area shape="rect" id="node2" href="$structpdal_1_1BpfHeader.html#a2ffa30716b4a92cb219a8a25a40c1fd7" title="pdal::BpfHeader::writeDimensions" alt="" coords="189,31,411,57"/>
+<area shape="rect" id="node3" href="$classpdal_1_1BpfWriter.html#a4d02d7d6a8639c21605d5548bb463d71" title="pdal::BpfWriter::readyFile" alt="" coords="459,5,629,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BpfWriter.html#ac6950b57a6cb2085636f9249b3b1f188" title="pdal::BpfWriter::doneFile" alt="" coords="461,56,627,83"/>
+</map>

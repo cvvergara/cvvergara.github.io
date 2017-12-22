@@ -1,0 +1,6 @@
+<map id="pdal::VoxelCenterNearestNeighborFilter::run" name="pdal::VoxelCenterNearestNeighborFilter::run">
+<area shape="rect" id="node2" href="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26" title="pdal::KDIndex::build" alt="" coords="243,5,383,32"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="246,56,381,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1KD3Index.html#a1c45255c22cb2e2f9341e5524c5410cc" title="pdal::KD3Index::neighbors" alt="" coords="225,107,401,133"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="449,56,581,83"/>
+</map>

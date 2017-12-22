@@ -1,0 +1,26 @@
+digraph "pdal::plang::getTraceback"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::plang::getTraceback",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::plang::Invocation\l::compile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Invocation.html#abf9092699129055ef0007944801fe501"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PythonFilter\l::ready",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PythonFilter.html#a41e46c27dc25ccef5dacbf207c4602fc"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$PythonFilterTest_8cpp.html#addeb133df82c77c23c5e7e71e0a69cb3"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::plang::Invocation\l::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Invocation.html#aacd4cd1719d650aa4d6c5c493f0e6535"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::PythonFilter::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::plang::getPyJSON",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1plang.html#aa9deb278441c53f488f48a1c3a3615a1"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::plang::Invocation\l::begin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Invocation.html#adfe14b064df9a0d4dcf2d1da8a7cb1d8"];
+  Node8 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::plang::Invocation\l::setKWargs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Invocation.html#a5fb68872b8729833aa32d7384d1801e4"];
+  Node9 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

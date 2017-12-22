@@ -1,0 +1,24 @@
+<map id="pdal::TEST" name="pdal::TEST">
+<area shape="rect" id="node2" href="$classpdal_1_1Options.html#a30826da39f9c4716412141eeeb719032" title="pdal::Options::add" alt="" coords="668,70,796,97"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1anonymous__namespace_02CpdFilterTest_8cpp_03.html#ac90712610d085065995df523b0b741dc" title="pdal::anonymous_namespace\l\{CpdFilterTest::cpp\}::checkPoints\lEqualReader" alt="" coords="141,78,360,134"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1anonymous__namespace_02CpdFilterTest_8cpp_03.html#ac41688e5986694872a0680923dfbfe94" title="pdal::anonymous_namespace\l\{CpdFilterTest::cpp\}::newReader" alt="" coords="408,100,620,141"/>
+<area shape="rect" id="node13" href="$namespacehag.html#a39becb5458bcac317093e468da1639be" title="hag.filter" alt="" coords="215,209,287,235"/>
+<area shape="rect" id="node16" href="$classpdal_1_1MetadataNode.html#a0c52985f2bedf620aea438ab1bce0af6" title="pdal::MetadataNode\l::findChild" alt="" coords="181,260,320,301"/>
+<area shape="rect" id="node17" href="$namespacepdal_1_1anonymous__namespace_02CpdFilterTest_8cpp_03.html#ae3437fdc281b38c7872b5aa5bb40305c" title="pdal::anonymous_namespace\l\{CpdFilterTest::cpp\}::newFilter" alt="" coords="151,325,350,367"/>
+<area shape="rect" id="node18" href="$classpdal_1_1Stage.html#abfd87d459bea04a919aace286b2e377e" title="pdal::Stage::setInput" alt="" coords="179,391,322,418"/>
+<area shape="rect" id="node19" href="$classpdal_1_1Stage.html#acb2434df20f371f1fec9577de3cf0046" title="pdal::Stage::setOptions" alt="" coords="171,442,330,469"/>
+<area shape="rect" id="node20" href="$classpdal_1_1MetadataNode.html#ab5c86ccff7ced090522b31cdc6c772b6" title="pdal::MetadataNode\l::value" alt="" coords="181,493,320,535"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Option.html#aef4422b88464a9cad83b3c11bf1f8cdd" title="pdal::Option::nameValid" alt="" coords="844,58,1005,85"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Option.html#ad2b7a736742fb343e421fa326ef45c23" title="pdal::Option::getName" alt="" coords="848,109,1001,135"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Option.html#a978a36cf9180d3636ea770988961952b" title="pdal::Option::parse" alt="" coords="1059,58,1191,85"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#ada321695f57c876ef51227bdf5b84f7a" title="pdal::Utils::printError" alt="" coords="1053,109,1196,135"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="1257,58,1387,85"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="1244,205,1400,231"/>
+<area shape="rect" id="node11" href="$classSupport.html#a9bbdf6f202f4f2e45e7a53007dd0a238" title="Support::datapath" alt="" coords="669,146,795,173"/>
+<area shape="rect" id="node12" href="$namespaceTestConfig.html#a0e622015f0610c2cfcbb3739b972d877" title="TestConfig::dataPath" alt="" coords="851,159,998,186"/>
+<area shape="rect" id="node14" href="$namespacehag.html#acad63bbd5fdda01bf56ff6aae70a0192" title="hag.read" alt="" coords="478,194,550,221"/>
+<area shape="rect" id="node15" href="$namespacehag.html#aee422d0ebdb1730554711d82498e54c3" title="hag.wakeup" alt="" coords="468,245,560,271"/>
+<area shape="rect" id="node21" href="$namespacepdal_1_1Utils.html#aab74b31905c5d41eaca70a73675bf407" title="pdal::Utils::base64\l_decode" alt="" coords="449,464,579,505"/>
+<area shape="rect" id="node23" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="439,530,589,557"/>
+<area shape="rect" id="node22" href="$namespacepdal.html#a4d7dbf8f97121c52d3b891ad9e944094" title="pdal::is_base64" alt="" coords="675,471,789,498"/>
+</map>

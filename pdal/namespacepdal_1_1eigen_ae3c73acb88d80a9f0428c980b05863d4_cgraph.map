@@ -1,0 +1,44 @@
+<map id="pdal::eigen::computeProfile" name="pdal::eigen::computeProfile">
+<area shape="rect" id="node2" href="$namespacepdal_1_1eigen.html#a9d2898f01e56d3058c9288d32754c6c9" title="pdal::eigen::centralDiffX" alt="" coords="237,233,400,260"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1eigen.html#a6d9fe3c107f369237fab01bda6b6887c" title="pdal::eigen::centralDiffX2" alt="" coords="234,284,403,311"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1eigen.html#a39556e361c00b609bb22ff05fa9fe653" title="pdal::eigen::centralDiffXY" alt="" coords="233,335,404,361"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1eigen.html#ab66d3e2ad4a22c909e99668dd0ab6f5d" title="pdal::eigen::centralDiffY" alt="" coords="237,385,400,412"/>
+<area shape="rect" id="node34" href="$namespacepdal_1_1eigen.html#a3145464d9e8e8d17517aeb34b97f10f7" title="pdal::eigen::centralDiffY2" alt="" coords="234,436,403,463"/>
+<area shape="rect" id="node35" href="$namespacepdal_1_1eigen.html#a35788c656b7df1abc230e9f5dee0b27e" title="pdal::eigen::replaceNaNs" alt="" coords="234,575,403,601"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1eigen.html#a32c810bf98284fc6082ccccb3f4eedc5" title="pdal::eigen::cleanDSM" alt="" coords="473,284,628,311"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1eigen.html#a19247293524a59ec2c829c20fca832f7" title="pdal::eigen::computeRank" alt="" coords="463,77,638,104"/>
+<area shape="rect" id="node16" href="$namespacepdal_1_1eigen.html#a9eb56b77a9f1daac90fe69149299e901" title="pdal::eigen::createMaxMatrix" alt="" coords="966,284,1157,311"/>
+<area shape="rect" id="node23" href="$namespacepdal_1_1eigen.html#a07e6e0633883fbc9b7c33e7dbaa29b10" title="pdal::eigen::createMaxMatrix2" alt="" coords="452,168,649,195"/>
+<area shape="rect" id="node26" href="$namespacepdal_1_1eigen.html#aa987b7cbf37504e39491b728eb906da3" title="pdal::eigen::createMinMatrix" alt="" coords="968,335,1155,361"/>
+<area shape="rect" id="node27" href="$namespacepdal_1_1eigen.html#a0d6815d7fd34883bed5d5161281f2f90" title="pdal::eigen::dilateDiamond" alt="" coords="463,537,639,564"/>
+<area shape="rect" id="node28" href="$namespacepdal_1_1eigen.html#a78a0eed5d6753db18fc57da7ce6c2661" title="pdal::eigen::erodeDiamond" alt="" coords="462,588,639,615"/>
+<area shape="rect" id="node29" href="$namespacepdal_1_1eigen.html#a06de07ba3b8cc9060e3a34d6e3d234d8" title="pdal::eigen::extendedLocal\lMinimum" alt="" coords="973,218,1150,259"/>
+<area shape="rect" id="node30" href="$namespacepdal_1_1eigen.html#ade2a0efe83a67d121acebd437c4cef8e" title="pdal::eigen::matrixClose" alt="" coords="469,487,632,513"/>
+<area shape="rect" id="node33" href="$namespacepdal_1_1eigen.html#a91aec584e0fc953b3d9309d76efad840" title="pdal::eigen::matrixOpen" alt="" coords="471,436,631,463"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1eigen.html#a90d92be03d31009bbd1a4575c766eff0" title="pdal::eigen::computeCovariance" alt="" coords="697,41,907,68"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1eigen.html#a77a9913ed3d09f4d6105909e8ad4a5e5" title="pdal::eigen::computeCentroid" alt="" coords="965,41,1157,68"/>
+<area shape="rect" id="node10" href="$classpdal_1_1PointView.html#a4c594a6d2a469e594988194ccf125a15" title="pdal::PointView::getFieldAs" alt="" coords="1216,168,1399,195"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="1447,117,1681,144"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="1486,313,1642,340"/>
+<area shape="rect" id="node13" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="1483,168,1645,195"/>
+<area shape="rect" id="node15" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="1485,219,1643,261"/>
+<area shape="rect" id="node14" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="1729,168,1857,195"/>
+<area shape="rect" id="node17" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="1235,255,1380,281"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Utils.html#af9895f466e24147ed204408cc271579d" title="Clamp value to given bounds. " alt="" coords="1245,436,1369,463"/>
+<area shape="rect" id="node19" href="$namespacepdal_1_1Utils.html#ad02787dce6b6f45473604bc9fe7e9c10" title="pdal::Utils::random_seed" alt="" coords="1481,480,1647,507"/>
+<area shape="rect" id="node20" href="$namespacepdal_1_1Utils.html#ae307965bf4f08edcc45fbe8599c0eddc" title="pdal::Utils::random" alt="" coords="1498,531,1630,557"/>
+<area shape="rect" id="node21" href="$namespacepdal_1_1Utils.html#ae21c6270b839374408725a65e3dcd4b1" title="pdal::Utils::uniform" alt="" coords="1498,379,1630,405"/>
+<area shape="rect" id="node22" href="$namespacepdal_1_1Utils.html#a811546a69a0e444b3060f63ae4a797c7" title="pdal::Utils::normal" alt="" coords="1500,429,1628,456"/>
+<area shape="rect" id="node24" href="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26" title="pdal::KDIndex::build" alt="" coords="732,143,872,169"/>
+<area shape="rect" id="node25" href="$classpdal_1_1KD2Index.html#a2edc070bb35fc19188076794b7d742e0" title="pdal::KD2Index::radius" alt="" coords="725,193,879,220"/>
+<area shape="rect" id="node31" href="$namespacepdal_1_1eigen.html#a4aae1c885fc7ff09ed79b410d0021957" title="pdal::eigen::padMatrix" alt="" coords="727,487,877,513"/>
+<area shape="rect" id="node32" href="$namespacepdal_1_1eigen.html#a8cca9caad55d997fe9e961272c2cea8c" title="pdal::eigen::pointViewTo\lEigen" alt="" coords="979,153,1144,194"/>
+<area shape="rect" id="node36" href="$namespacepdal_1_1eigen.html#a8c61c44faa1808c232cad3aaa7076761" title="pdal::eigen::writeMatrix" alt="" coords="472,663,629,689"/>
+<area shape="rect" id="node37" href="$namespacepdal_1_1gdal.html#a35a1ae3b5fe64517230477135fae8569" title="pdal::gdal::registerDrivers" alt="" coords="717,721,887,748"/>
+<area shape="rect" id="node38" href="$classpdal_1_1gdal_1_1Raster.html#a786f113aff9d7035013ecb452453c63f" title="pdal::gdal::Raster\l::open" alt="" coords="739,655,865,697"/>
+<area shape="rect" id="node41" href="$classpdal_1_1gdal_1_1Raster.html#aa820961f31df413b678c1dd0c5ccb809" title="pdal::gdal::Raster\l::errorMsg" alt="" coords="739,773,865,814"/>
+<area shape="rect" id="node42" href="$classpdal_1_1gdal_1_1Raster.html#aa335710203c5b336425570370669355c" title="pdal::gdal::Raster\l::writeBand" alt="" coords="739,538,865,579"/>
+<area shape="rect" id="node39" href="$classpdal_1_1gdal_1_1Raster.html#a579b7ee19bb782f215ae7ed2bc9227ff" title="pdal::gdal::Raster\l::computePDALDimensionTypes" alt="" coords="955,655,1168,697"/>
+<area shape="rect" id="node40" href="$namespacepdal_1_1gdal_1_1anonymous__namespace_02GDALUtils_8cpp_03.html#a5cd4d24a0e9cb19eb9dda7d3c3278a3d" title="pdal::gdal::anonymous\l_namespace\{GDALUtils\l::cpp\}::toPdalType" alt="" coords="1226,648,1389,704"/>
+<area shape="rect" id="node43" href="$namespacehag.html#acad63bbd5fdda01bf56ff6aae70a0192" title="hag.read" alt="" coords="1025,545,1097,572"/>
+</map>

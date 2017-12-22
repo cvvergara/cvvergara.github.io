@@ -1,0 +1,13 @@
+digraph "pdal::PipelineManager::replace"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PipelineManager\l::replace",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Stage::getInputs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#ae5e297f007d2b4cb380e7f34a6b472cd"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Utils::remove",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#ad875f14218020d7d4d10803f5a115bdb"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Stage::setInput",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#abfd87d459bea04a919aace286b2e377e"];
+}

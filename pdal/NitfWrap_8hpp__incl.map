@@ -1,0 +1,18 @@
+<map id="pdal/tools/nitfwrap/NitfWrap.hpp" name="pdal/tools/nitfwrap/NitfWrap.hpp">
+<area shape="rect" id="node2" href="$NitfFileWriter_8hpp.html" title="plugins/nitf/io/NitfFile\lWriter.hpp" alt="" coords="1683,95,1829,136"/>
+<area shape="rect" id="node3" href="$Options_8hpp.html" title="pdal/Options.hpp" alt="" coords="1272,184,1392,211"/>
+<area shape="rect" id="node39" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="94,408,266,435"/>
+<area shape="rect" id="node4" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="1486,333,1634,360"/>
+<area shape="rect" id="node15" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1121,483,1244,509"/>
+<area shape="rect" id="node33" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="1118,259,1247,285"/>
+<area shape="rect" id="node6" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="1486,408,1629,435"/>
+<area shape="rect" id="node7" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="1514,483,1649,509"/>
+<area shape="rect" id="node8" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="1788,408,1927,435"/>
+<area shape="rect" id="node30" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="1517,557,1640,584"/>
+<area shape="rect" id="node32" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="373,557,512,584"/>
+<area shape="rect" id="node34" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="734,483,874,509"/>
+<area shape="rect" id="node35" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="609,408,732,435"/>
+<area shape="rect" id="node36" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="517,483,608,509"/>
+<area shape="rect" id="node38" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="393,483,493,509"/>
+<area shape="rect" id="node37" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="211,557,349,584"/>
+</map>

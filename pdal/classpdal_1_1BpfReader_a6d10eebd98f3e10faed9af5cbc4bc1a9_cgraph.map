@@ -1,0 +1,9 @@
+<map id="pdal::BpfReader::ready" name="pdal::BpfReader::ready">
+<area shape="rect" id="node2" href="$classpdal_1_1Charbuf.html#a968e75a6f7075a7b68ea3a93dfc935a0" title="pdal::Charbuf::initialize" alt="" coords="225,5,380,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1BpfReader.html#a8474ab61285bb81bc1bcc4d69383bb95" title="pdal::BpfReader::numPoints" alt="" coords="209,56,396,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1IStream.html#a5ba74ea311a78dba18379de122fb0284" title="pdal::IStream::open" alt="" coords="235,107,371,133"/>
+<area shape="rect" id="node5" href="$classpdal_1_1IStream.html#a38d6a0366530071e8166b9f4d834aa18" title="pdal::IStream::position" alt="" coords="226,157,379,184"/>
+<area shape="rect" id="node6" href="$classpdal_1_1IStream.html#a9996697361358866d00ad23ce88a8b53" title="pdal::IStream::pushStream" alt="" coords="213,208,392,235"/>
+<area shape="rect" id="node7" href="$classpdal_1_1BpfReader.html#a746439b6f836a81eea2443cbed447e9a" title="pdal::BpfReader::readBlock" alt="" coords="211,259,394,285"/>
+<area shape="rect" id="node8" href="$classpdal_1_1IStream.html#af0ce8ed6fcaea7ead21c0e7c5c054812" title="pdal::IStream::seek" alt="" coords="235,309,371,336"/>
+</map>

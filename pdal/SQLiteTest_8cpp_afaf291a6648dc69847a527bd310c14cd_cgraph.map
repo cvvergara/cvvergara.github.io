@@ -1,0 +1,10 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$classpdal_1_1SQLite.html#a7b98805596d2f182370922af3b0ae1b5" title="pdal::SQLite::connect" alt="" coords="137,5,285,32"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1FileUtils.html#a9147ba0dbb2789edbd17feb104b00532" title="pdal::FileUtils::deleteFile" alt="" coords="128,56,295,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SQLite.html#a7fb604d74e3ceabf94595a68a2e11ef8" title="pdal::SQLite::getSpatialite\lVersion" alt="" coords="124,107,299,149"/>
+<area shape="rect" id="node6" href="$classpdal_1_1SQLite.html#a8efd427a41b1cf3ea00c7cb54ea7caef" title="pdal::SQLite::getSQLiteVersion" alt="" coords="109,173,313,200"/>
+<area shape="rect" id="node7" href="$classpdal_1_1SQLite.html#a713f3cf29b2ad8555ca79b8231e6d466" title="pdal::SQLite::loadSpatialite" alt="" coords="121,224,301,251"/>
+<area shape="rect" id="node8" href="$classSupport.html#a987d7adce1636b5852ff41a1d34d37bd" title="Support::temppath" alt="" coords="147,275,276,301"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#ad875f14218020d7d4d10803f5a115bdb" title="pdal::Utils::remove" alt="" coords="369,56,501,83"/>
+<area shape="rect" id="node9" href="$namespaceTestConfig.html#a0e622015f0610c2cfcbb3739b972d877" title="TestConfig::dataPath" alt="" coords="361,275,508,301"/>
+</map>

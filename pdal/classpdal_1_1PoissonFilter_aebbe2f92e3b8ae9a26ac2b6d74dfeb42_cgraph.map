@@ -1,0 +1,9 @@
+<map id="pdal::PoissonFilter::addDimensions" name="pdal::PoissonFilter::addDimensions">
+<area shape="rect" id="node2" href="$classpdal_1_1PointLayout.html#ad65974ca933954236f23cc3a05a230e6" title="pdal::PointLayout::\lhasDim" alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PointLayout.html#af0404b823635c356a5bddce383ad239c" title="pdal::PointLayout::\lregisterDims" alt="" coords="184,71,315,112"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="363,13,501,39"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="571,13,720,39"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="789,13,920,39"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="367,71,497,112"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="549,78,741,105"/>
+</map>

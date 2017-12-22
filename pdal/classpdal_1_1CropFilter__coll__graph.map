@@ -1,0 +1,7 @@
+<map id="pdal::CropFilter" name="pdal::CropFilter">
+<area shape="rect" id="node2" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="295,184,377,211"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="193,95,281,121"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="333,5,488,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="168,5,267,32"/>
+</map>

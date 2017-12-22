@@ -1,0 +1,6 @@
+<map id="pdal::AssignFilter::filter" name="pdal::AssignFilter::filter">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="195,5,329,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PointRef.html#af2252f383598b06c0756a6f0e9bad258" title="pdal::PointRef::setPointId" alt="" coords="176,56,348,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="189,107,335,133"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="396,5,528,32"/>
+</map>

@@ -1,0 +1,39 @@
+digraph "pdal::operator&lt;&lt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::BpfMuellerMatrix\l::apply",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1BpfMuellerMatrix.html#a3bae8cd517356ffb0aea13a57d930ae7"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::BpfReader::readPoint\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ae5bb98eea69bceee3cbb05a31f005ebe"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::BpfReader::processOne",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a85669f95516049aa09cfd400debafa8b"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::BpfReader::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#aecc4cd2499cf156256d8de6c840d3191"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::BpfReader::readDim\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ab2947de9808046ddf8e828a08fe2c12c"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::BpfReader::readByte\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ab51d0d1815046c9a6412261222d2f752"];
+  Node7 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BPFTest_8cpp.html#aa6e6085d0f31be6fa55a85605f33931d"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Bounds::Bounds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Bounds.html#a63a455c59b1cbf54fe05ac1602376c6d"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::ExtLasVLR::ExtLasVLR",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ExtLasVLR.html#aea2bb75044cdf9dab01b81e81b835ed4"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#aedfa6057e7bfee496a66a3192e7ec594"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::Inserter::position",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Inserter.html#a09160289eee4883535393ce3cbaa49e3"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::LasVLR::setDataLen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasVLR.html#a777a6a5cf8ddddb9aba83861088cec64"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::LasHeader::vlrs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#af24ff4d4466c1be45e8f6268d872bdac"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$LasWriterTest_8cpp.html#a25769097df1e2560a063c4d15157dd5b"];
+}

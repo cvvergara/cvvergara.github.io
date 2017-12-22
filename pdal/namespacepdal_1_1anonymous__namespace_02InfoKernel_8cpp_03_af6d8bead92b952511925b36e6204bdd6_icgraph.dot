@@ -1,0 +1,15 @@
+digraph "pdal::anonymous_namespace{InfoKernel::cpp}::getListOfPoints"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::anonymous_namespace\l\{InfoKernel::cpp\}::getListOfPoints",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::InfoKernel::dumpPoints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#ae3390441d7172ddfee191dddef7c2fce"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::InfoKernel::dump",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::InfoKernel::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::InfoKernel::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa"];
+}

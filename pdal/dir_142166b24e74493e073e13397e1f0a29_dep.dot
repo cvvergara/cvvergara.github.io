@@ -1,0 +1,11 @@
+digraph "pdal/plugins/icebridge/io" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_1fc2b12e19451896e0011e2f51eb7065 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="icebridge" fontname="Helvetica", fontsize="10", URL="dir_1fc2b12e19451896e0011e2f51eb7065.html"]
+  dir_142166b24e74493e073e13397e1f0a29 [shape=box, label="io", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_142166b24e74493e073e13397e1f0a29.html"];
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_142166b24e74493e073e13397e1f0a29->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="9", labeldistance=1.5 headhref="dir_000068_000050.html"];
+}

@@ -1,0 +1,24 @@
+<map id="pdal::LasHeader::versionAtLeast" name="pdal::LasHeader::versionAtLeast">
+<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#a8b3878dd632dd8a1eb0828acd1b06ca5" title="pdal::LasWriter::addMetadataVlr" alt="" coords="441,5,651,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a84eddaac28c0c4954ebd4226b246ad4b" title="pdal::LasWriter::addPipelineVlr" alt="" coords="445,56,647,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1LasWriter.html#adc7f548939d9f79bed4a760c830b96ab" title="pdal::LasWriter::addSpatial\lRefVlrs" alt="" coords="723,502,901,543"/>
+<area shape="rect" id="node9" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="229,275,384,301"/>
+<area shape="rect" id="node17" href="$classpdal_1_1LasWriter.html#a44e5d4d914f396329c6eb19b5dc40d48" title="pdal::LasWriter::readyLaz\lPerfCompression" alt="" coords="461,443,631,485"/>
+<area shape="rect" id="node20" href="$classpdal_1_1LasWriter.html#a6bb29fe68bda1d593a132d852513e5b8" title="pdal::LasWriter::fillHeader" alt="" coords="220,611,393,637"/>
+<area shape="rect" id="node22" href="$namespacepdal.html#ab0eb19c256a7de81752841ef0c83f9c2" title="pdal::operator\&lt;\&lt;" alt="" coords="248,661,365,688"/>
+<area shape="rect" id="node23" href="$namespacepdal.html#a96d3d7266c452f1ea279b43b78dd43d1" title="pdal::operator\&gt;\&gt;" alt="" coords="248,712,365,739"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#a2e5b4f04008d3784799d9e4ad029352a" title="pdal::LasWriter::readyTable" alt="" coords="721,107,903,133"/>
+<area shape="rect" id="node6" href="$classpdal_1_1LasWriter.html#a76f6b960b128ccdb8e3e8db69eff445b" title="pdal::LasWriter::prepOutput" alt="" coords="973,509,1156,536"/>
+<area shape="rect" id="node7" href="$classpdal_1_1LasWriter.html#a4b0ad482eac655fb22cf29717c04c6b3" title="pdal::LasWriter::readyFile" alt="" coords="1204,484,1375,511"/>
+<area shape="rect" id="node8" href="$classpdal_1_1NitfWriter.html#a34d932e82c5d6842ca515cc59281021e" title="pdal::NitfWriter::readyFile" alt="" coords="1204,535,1375,561"/>
+<area shape="rect" id="node10" href="$classpdal_1_1LasWriter.html#acd9544d91246e45871281c600e414281" title="pdal::LasWriter::addUserVlrs" alt="" coords="451,107,641,133"/>
+<area shape="rect" id="node11" href="$classpdal_1_1LasWriter.html#aabf75f7bd3615f00707fc687dc693d0f" title="Add VLRs forwarded from the input. " alt="" coords="441,157,651,184"/>
+<area shape="rect" id="node12" href="$classpdal_1_1LasWriter.html#a0c1cc85c9cb1374077acb693ef5d51d4" title="pdal::LasWriter::addGeotiffVlrs" alt="" coords="445,392,647,419"/>
+<area shape="rect" id="node13" href="$classpdal_1_1LasWriter.html#aae9fb5ae73e737979f043e01ba768a52" title="pdal::LasWriter::addWktVlr" alt="" coords="457,509,635,536"/>
+<area shape="rect" id="node14" href="$classpdal_1_1LasWriter.html#a27652d39c59f2b21099e787f1dce7686" title="pdal::LasWriter::addExtra\lBytesVlr" alt="" coords="461,209,631,250"/>
+<area shape="rect" id="node15" href="$classpdal_1_1LasWriter.html#afd11eedcfe5ccf00fb49d58a51e9240f" title="pdal::LasWriter::readyLas\lZipCompression" alt="" coords="461,326,631,367"/>
+<area shape="rect" id="node18" href="$classpdal_1_1LasTester.html#a4f471a780fddbea78d1012550a4c166c" title="pdal::LasTester::addVlr" alt="" coords="467,275,625,301"/>
+<area shape="rect" id="node16" href="$classpdal_1_1LasWriter.html#af269ece8c078d1cb24c2352b594dfd78" title="pdal::LasWriter::readyCompression" alt="" coords="699,451,925,477"/>
+<area shape="rect" id="node19" href="$LasWriterTest_8cpp.html#a194ee49f4db838355819eed18116c747" title="TEST" alt="" coords="784,275,840,301"/>
+<area shape="rect" id="node21" href="$classpdal_1_1LasWriter.html#a12a07c613de24341d69fae93497a4cbc" title="pdal::LasWriter::prepared" alt="" coords="462,661,630,688"/>
+</map>

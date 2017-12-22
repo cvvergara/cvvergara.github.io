@@ -1,0 +1,17 @@
+digraph "pdal::georeference::anonymous_namespace{Georeference::cpp}::rotate"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::rotate",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::georeference\l::georeferenceWgs84",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1georeference.html#a2b566c71200350d9b85725c40eb5f8fa"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::georeference\l::createIdentityMatrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1georeference.html#a84094e4564a50476a3e5cd1506d4c422"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::georeference\l::TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1georeference.html#a5d9890cc5cf56263c8627857b8273f28"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::OptechReader\l::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OptechReader.html#ade8d12a284f4bc766e32852979462aec"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::georeference\l::TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1georeference.html#ac6fcaefc645591d09008a4982e904c84"];
+}

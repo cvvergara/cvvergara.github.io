@@ -27,8 +27,8 @@ Desktop GIS
     <script type="text/javascript" src="https://www.openhub.net/p/grass_gis/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/gvsig-desktop-2/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/qgis/widgets/project_factoids_stats?format=js"></script>
-    <script type="text/javascript" src="https://www.openhub.net/p/openjump_gis/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/saga-gis/widgets/project_factoids_stats?format=js"></script>
+    <script type="text/javascript" src="https://www.openhub.net/p/openjump_gis/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/udig/widgets/project_factoids_stats?format=js"></script>
 
 
@@ -42,7 +42,6 @@ Browser Facing GIS
     <script type="text/javascript" src="https://www.openhub.net/p/geonode/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/mapbender/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/openlayers/widgets/project_factoids_stats?format=js"></script>
-    <script type="text/javascript" src="https://www.openhub.net/p/cesiumjs/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/Leaflet/widgets/project_factoids_stats?format=js"></script>
 
 
@@ -56,14 +55,15 @@ Web Services
     <script type="text/javascript" src="https://www.openhub.net/p/geoserver/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/mapserver/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/pycsw/widgets/project_factoids_stats?format=js"></script>
+    <script type="text/javascript" src="https://www.openhub.net/p//widgets/project_factoids_stats?format=js"></script>
+    <script type="text/javascript" src="https://www.openhub.net/p/pyWPS/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/zoo-project/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/istsos/widgets/project_factoids_stats?format=js"></script>
-    <script type="text/javascript" src="https://www.openhub.net/p/mapproxy/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/SensorObservationService/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/n52-wps/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/eoxserver/widgets/project_factoids_stats?format=js"></script>
+    <script type="text/javascript" src="https://www.openhub.net/p/mapproxy/widgets/project_factoids_stats?format=js"></script>
     <script type="text/javascript" src="https://www.openhub.net/p/ncwms/widgets/project_factoids_stats?format=js"></script>
-    <script type="text/javascript" src="https://www.openhub.net/p//widgets/project_factoids_stats?format=js"></script>
 
 
 Data Stores

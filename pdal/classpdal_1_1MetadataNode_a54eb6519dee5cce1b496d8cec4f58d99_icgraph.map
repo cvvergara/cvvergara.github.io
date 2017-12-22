@@ -1,0 +1,15 @@
+<map id="pdal::MetadataNode::valid" name="pdal::MetadataNode::valid">
+<area shape="rect" id="node2" href="$namespacepdal.html#a11786e6ac4fd15c32dea2febd0c4cb61" title="pdal::addForwardMetadata" alt="" coords="209,15,385,42"/>
+<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#aabf75f7bd3615f00707fc687dc693d0f" title="Add VLRs forwarded from the input. " alt="" coords="192,135,401,162"/>
+<area shape="rect" id="node6" href="$classpdal_1_1LasWriter.html#ade04e04a657bb03720151c59a8c86b45" title="pdal::LasWriter::handleHeader\lForward" alt="" coords="197,69,396,111"/>
+<area shape="rect" id="node11" href="$classpdal_1_1BasePointTable.html#abcfac8f6e48b8a19dad8092ece3f734e" title="pdal::BasePointTable\l::privateMetadata" alt="" coords="223,187,370,228"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasReader.html#ae37da23f5ec384cb4b43be8c9676805a" title="pdal::LasReader::extract\lHeaderMetadata" alt="" coords="466,5,631,47"/>
+<area shape="rect" id="node5" href="$classpdal_1_1LasWriter.html#a2e5b4f04008d3784799d9e4ad029352a" title="pdal::LasWriter::readyTable" alt="" coords="457,137,640,163"/>
+<area shape="rect" id="node7" href="$classpdal_1_1LasWriter.html#aa362380c11c834b5fe51d81b099ba7c5" title="pdal::LasWriter::handleHeader\lForwards" alt="" coords="449,71,648,112"/>
+<area shape="rect" id="node8" href="$classpdal_1_1LasWriter.html#a76f6b960b128ccdb8e3e8db69eff445b" title="pdal::LasWriter::prepOutput" alt="" coords="696,78,879,105"/>
+<area shape="rect" id="node9" href="$classpdal_1_1NitfWriter.html#a34d932e82c5d6842ca515cc59281021e" title="pdal::NitfWriter::readyFile" alt="" coords="927,53,1097,79"/>
+<area shape="rect" id="node10" href="$classpdal_1_1LasWriter.html#a4b0ad482eac655fb22cf29717c04c6b3" title="pdal::LasWriter::readyFile" alt="" coords="927,103,1097,130"/>
+<area shape="rect" id="node12" href="$classpdal_1_1LasReader.html#a998510dc0b7d1b59387a5c2686c27f46" title="pdal::LasReader::initialize\lLocal" alt="" coords="463,243,635,284"/>
+<area shape="rect" id="node14" href="$LasWriterTest_8cpp.html#ace6753f5368c81d6c14dcd1043f31e34" title="TEST" alt="" coords="521,191,577,218"/>
+<area shape="rect" id="node13" href="$classpdal_1_1NitfReader.html#aff135fa0b6888020a5de9eb33e2d7fea" title="pdal::NitfReader::initialize" alt="" coords="701,250,873,277"/>
+</map>

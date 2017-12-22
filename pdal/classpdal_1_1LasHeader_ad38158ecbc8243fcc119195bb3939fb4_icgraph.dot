@@ -1,0 +1,13 @@
+digraph "pdal::LasHeader::minX"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::LasHeader::minX",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#ab0eb19c256a7de81752841ef0c83f9c2"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::operator\>\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#a96d3d7266c452f1ea279b43b78dd43d1"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$LasReaderTest_8cpp.html#abb7afe92c00ae82352167ef5a47190e0"];
+}

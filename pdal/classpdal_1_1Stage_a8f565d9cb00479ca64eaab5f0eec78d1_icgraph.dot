@@ -1,0 +1,23 @@
+digraph "pdal::Stage::inspect"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Stage::inspect",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Stage::preview",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#a25bb5ef4315f98fb88657876077ae7e4"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::TIndexKernel\l::getFileInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexKernel.html#a496ad191832c2af610f60ae5ef00d1d0"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::TIndexKernel\l::createFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexKernel.html#a4b8641b118372c9dc004ff4ed105a91e"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::TIndexKernel\l::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexKernel.html#a607f1463d5518bbaa66662a905b48e51"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::PipelineManager\l::preview",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PipelineManager.html#abb1e647775de2cbad890d3d587d5225e"];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::InfoKernel::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::InfoKernel::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa"];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BPFTest_8cpp.html#ad1194f510d848685a18563b15d7075f9"];
+}

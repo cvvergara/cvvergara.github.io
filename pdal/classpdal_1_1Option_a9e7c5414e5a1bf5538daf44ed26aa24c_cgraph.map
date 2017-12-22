@@ -1,0 +1,11 @@
+<map id="pdal::Option::toMetadata" name="pdal::Option::toMetadata">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2" title="pdal::MetadataNode::add" alt="" coords="623,107,791,133"/>
+<area shape="rect" id="node3" href="$classpdal_1_1MetadataNode.html#a198cc59ea0083b8758eb80a3025d1937" title="pdal::MetadataNode\l::addWithType" alt="" coords="226,41,365,82"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Option.html#ad2b7a736742fb343e421fa326ef45c23" title="pdal::Option::getName" alt="" coords="219,157,372,184"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Option.html#aaee0153c3f0370900c6cb1c1cfc19b01" title="pdal::Option::getValue" alt="" coords="220,208,371,235"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="230,259,361,285"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="423,5,572,32"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="641,5,772,32"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a6dc647c5dbaa51d1d78fc535a52210d3" title="pdal::Utils::toMetadata" alt="" coords="420,183,575,209"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="431,259,563,285"/>
+</map>

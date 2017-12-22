@@ -1,0 +1,12 @@
+<map id="pdal::PlyReader::read" name="pdal::PlyReader::read">
+<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#a2ffd816ad722bc26a939e2205672fc22" title="pdal::PlyReader::processOne" alt="" coords="201,71,395,98"/>
+<area shape="rect" id="node11" href="$classpdal_1_1PointRef.html#af2252f383598b06c0756a6f0e9bad258" title="pdal::PointRef::setPointId" alt="" coords="212,122,384,149"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PlyReader.html#a9f8530cfe07a115f3aec19f71ed53ea2" title="pdal::PlyReader::readElement" alt="" coords="443,71,639,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PlyReader.html#ac58ba5e9f6a206ba64927bf000d275f9" title="pdal::PlyReader::readProperty" alt="" coords="687,17,884,43"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="707,71,863,98"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PointRef.html#ae6ca67ab4acd1fd5bd330bc3eaeec971" title="pdal::PointRef::pointId" alt="" coords="709,122,861,149"/>
+<area shape="rect" id="node5" href="$structpdal_1_1PlyReader_1_1Property.html#a19a80e32d95d547aca2b814c4a7ec311" title="pdal::PlyReader::Property\l::read" alt="" coords="932,5,1104,47"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="943,71,1093,98"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="943,122,1093,149"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1152,122,1283,149"/>
+</map>

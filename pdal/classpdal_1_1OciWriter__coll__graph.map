@@ -1,0 +1,14 @@
+<map id="pdal::OciWriter" name="pdal::OciWriter">
+<area shape="rect" id="node2" href="$classpdal_1_1DbWriter.html" title="pdal::DbWriter" alt="" coords="384,361,491,388"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Writer.html" title="pdal::Writer" alt="" coords="229,272,318,299"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="203,109,291,136"/>
+<area shape="rect" id="node5" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="348,5,447,32"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Scaling.html" title="pdal::Scaling" alt="" coords="391,272,489,299"/>
+<area shape="rect" id="node9" href="$classpdal_1_1Arg.html" title="pdal::Arg" alt="" coords="403,109,477,136"/>
+<area shape="rect" id="node10" href="$structpdal_1_1XForm.html" title="pdal::XForm" alt="" coords="525,109,619,136"/>
+<area shape="rect" id="node11" href="$structpdal_1_1XForm_1_1XFormComponent.html" title="pdal::XForm::XFormComponent" alt="" coords="471,5,678,32"/>
+<area shape="rect" id="node12" href="$classpdal_1_1BOX3D.html" title="pdal::BOX3D" alt="" coords="515,361,613,388"/>
+<area shape="rect" id="node13" href="$classpdal_1_1BOX2D.html" title="pdal::BOX2D" alt="" coords="515,272,613,299"/>
+</map>

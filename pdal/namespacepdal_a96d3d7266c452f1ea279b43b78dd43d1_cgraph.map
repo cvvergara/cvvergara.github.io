@@ -1,0 +1,40 @@
+<map id="pdal::operator&gt;&gt;" name="pdal::operator&gt;&gt;">
+<area shape="rect" id="node2" href="$classpdal_1_1IStream.html#a1868ec9fd091d4af1281c2181315521a" title="pdal::IStream::get" alt="" coords="482,22,609,49"/>
+<area shape="rect" id="node7" href="$classpdal_1_1LasHeader.html#a67b0d8033fe8b511a79d8f3ca2f35726" title="pdal::LasHeader::get" alt="" coords="208,73,351,99"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="1592,215,1723,242"/>
+<area shape="rect" id="node11" href="$classpdal_1_1LasHeader.html#a5f43c1571a8f35912037ed8c9b2043d8" title="Get minimum value of extent of X coordinate. " alt="" coords="200,313,359,339"/>
+<area shape="rect" id="node12" href="$classpdal_1_1LasHeader.html#a1e5d49a03a8ae3b2df7d527ccc298892" title="Get minimum value of extent of Y coordinate. " alt="" coords="200,363,359,390"/>
+<area shape="rect" id="node13" href="$classpdal_1_1LasHeader.html#a832c05a33836feb7f082fff3613c8d4a" title="Get minimum value of extent of Z coordinate. " alt="" coords="200,414,359,441"/>
+<area shape="rect" id="node14" href="$classpdal_1_1LasHeader.html#ad38158ecbc8243fcc119195bb3939fb4" title="Get maximum value of extent of X coordinate. " alt="" coords="202,465,357,491"/>
+<area shape="rect" id="node15" href="$classpdal_1_1LasHeader.html#a93263fa671cf786b8ddfff3880222b3c" title="Get maximum value of extent of Y coordinate. " alt="" coords="202,515,357,542"/>
+<area shape="rect" id="node16" href="$classpdal_1_1LasHeader.html#a6328a4750bb845a410076bb4b361901c" title="Get maximum value of extent of Z coordinate. " alt="" coords="202,566,357,593"/>
+<area shape="rect" id="node17" href="$classpdal_1_1IStream.html#af0ce8ed6fcaea7ead21c0e7c5c054812" title="pdal::IStream::seek" alt="" coords="211,617,347,643"/>
+<area shape="rect" id="node18" href="$classpdal_1_1LasHeader.html#ab8de187ca8f8ec4e8bf56d9aacbfcff8" title="Sets whether or not the points are compressed. " alt="" coords="171,667,388,694"/>
+<area shape="rect" id="node19" href="$classpdal_1_1LasHeader.html#a940d819d418dcd815466fe98f292dab5" title="pdal::LasHeader::setSrs" alt="" coords="198,262,361,289"/>
+<area shape="rect" id="node38" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="196,719,363,760"/>
+<area shape="rect" id="node39" href="$classpdal_1_1LasHeader.html#a814576a454f7a6c0e68a3cbfcaa8999a" title="pdal::LasHeader::version\lMajor" alt="" coords="196,784,363,825"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="719,22,867,49"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="941,22,1079,49"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="1144,22,1293,49"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1365,22,1495,49"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Uuid.html#aa7ae70773a0ce5bd55ef983ebea6d236" title="pdal::Uuid::unpack" alt="" coords="480,73,611,99"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="1803,269,1935,295"/>
+<area shape="rect" id="node20" href="$classpdal_1_1LasHeader.html#a06d6437f40ed6ed5de8368cc13299d99" title="pdal::LasHeader::useWkt" alt="" coords="460,291,631,318"/>
+<area shape="rect" id="node21" href="$classpdal_1_1LasHeader.html#a57ba66bcd417ab8cc0e205b50c0dc846" title="pdal::LasHeader::incompatibleSrs" alt="" coords="436,342,655,369"/>
+<area shape="rect" id="node22" href="$classpdal_1_1LasHeader.html#a41ac304349e853d537e6a8fc9f961e34" title="pdal::LasHeader::findVlr" alt="" coords="711,443,874,470"/>
+<area shape="rect" id="node24" href="$classpdal_1_1LasHeader.html#a61632ae01a0cbb279c3b15f4e6878c44" title="pdal::LasHeader::setSrsFromWkt" alt="" coords="437,393,654,419"/>
+<area shape="rect" id="node34" href="$classpdal_1_1LasHeader.html#a8b168184a6c0c2d223cc5ce4197bbebb" title="pdal::LasHeader::setSrsFrom\lGeotiff" alt="" coords="449,225,642,267"/>
+<area shape="rect" id="node23" href="$classpdal_1_1LasVLR.html#a5b66464275415251793abba2d7f651a5" title="pdal::LasVLR::matches" alt="" coords="931,435,1089,462"/>
+<area shape="rect" id="node25" href="$classpdal_1_1LasVLR.html#a30a15afd0a5c29d43bd3fe3bd261ba8e" title="pdal::LasVLR::dataLen" alt="" coords="715,342,870,369"/>
+<area shape="rect" id="node26" href="$classpdal_1_1LasVLR.html#acec2ef3fa17d4fc47abdec666bca8287" title="pdal::LasVLR::data" alt="" coords="725,393,860,419"/>
+<area shape="rect" id="node27" href="$classpdal_1_1SpatialReference.html#a703ac7b3efc133deb36ad56416284ba7" title="pdal::SpatialReference::set" alt="" coords="703,494,883,521"/>
+<area shape="rect" id="node28" href="$namespacepdal_1_1FileUtils.html#a183613921413dc5f8fe3efe45763945c" title="pdal::FileUtils::readFile\lIntoString" alt="" coords="932,487,1088,528"/>
+<area shape="rect" id="node29" href="$namespacepdal_1_1FileUtils.html#aeeda62ff11a1e6bcc9175f51f7efe522" title="pdal::FileUtils::openFile" alt="" coords="1139,397,1298,423"/>
+<area shape="rect" id="node33" href="$namespacepdal_1_1FileUtils.html#a04d2d37c72f0f400f5d5b917b2f2ba05" title="pdal::FileUtils::closeFile" alt="" coords="1137,494,1300,521"/>
+<area shape="rect" id="node30" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="1352,371,1508,398"/>
+<area shape="rect" id="node31" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a813a530ad72d50f747643f1bb996cacf" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdin" alt="" coords="1560,313,1755,355"/>
+<area shape="rect" id="node32" href="$namespacepdal_1_1FileUtils.html#ae2b8f1ddc38b0033b685a0bde6106ba1" title="pdal::FileUtils::fileExists" alt="" coords="1348,422,1512,449"/>
+<area shape="rect" id="node35" href="$classpdal_1_1LasVLR.html#a3113168560d1585ef88bf18bc5945044" title="pdal::LasVLR::isEmpty" alt="" coords="714,174,871,201"/>
+<area shape="rect" id="node36" href="$classpdal_1_1GeotiffSrs.html#a674400408ee18a9cb372e6bafd5a0e24" title="pdal::GeotiffSrs::srs" alt="" coords="723,225,862,251"/>
+<area shape="rect" id="node37" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="715,276,870,317"/>
+</map>

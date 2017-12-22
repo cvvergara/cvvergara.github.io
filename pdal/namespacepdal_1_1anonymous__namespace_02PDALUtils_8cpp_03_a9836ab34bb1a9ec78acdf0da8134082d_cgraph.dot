@@ -1,0 +1,35 @@
+digraph "pdal::anonymous_namespace{PDALUtils::cpp}::subnodesToJSON"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::subnodesToJSON",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::arrayToJSON",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#a24e6b833ca779a04307fb80c249cdf19"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::anonymous_namespace\l\{PDALUtils::cpp\}::arrayEltToJSON",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1anonymous__namespace_02PDALUtils_8cpp_03.html#ac00099447614a63b2acd68d05ee3a5c1"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::MetadataNode\l::hasChildren",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#ada667c2ca1eab9957ae5c7a98fea5d02"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::MetadataNode\l::jsonValue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#ac936d257e7eaa30e130ad9de526b2087"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::Utils::escapeJSON",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#aabcd6b5abf9f2cd30b485fc100656663"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Utils::remove_if",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#ac6b599972dcd3fe440ef5c476961081a"];
+  Node3 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::MetadataNode\l::childNames",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#ae9794860b91201dce86f162799d902b1"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::MetadataNode\l::children",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#ab86b0ccbf27f9eee29cbb5252e9431b7"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::MetadataNode\l::kind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#a66863365a08eb3ee538ebeb4ce788a39"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::MetadataNode\l::name",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#a645aadd856fb1a4ae4a12247fda3e618"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::Utils::toJSON",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a90c7b124d5407ee4d7120e4c42b40b02"];
+  Node12 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,8 @@
+<map id="pdal::MatlabFilter" name="pdal::MatlabFilter">
+<area shape="rect" id="node2" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="139,184,221,211"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="192,95,280,121"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="347,5,445,32"/>
+<area shape="rect" id="node7" href="$classpdal_1_1mlang_1_1Script.html" title="pdal::mlang::Script" alt="" coords="245,184,376,211"/>
+</map>

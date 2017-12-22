@@ -1,0 +1,11 @@
+digraph "pdal::SimplePointTable::getDimension"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::SimplePointTable\l::getDimension",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::BasePointTable\l::getPoint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BasePointTable.html#ad820ff36baf66b32e689e1e8ccf363f6"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Dimension::Detail\l::offset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Dimension_1_1Detail.html#acfd60ca17fcdc93bd5ec3f4446fd54d6"];
+}

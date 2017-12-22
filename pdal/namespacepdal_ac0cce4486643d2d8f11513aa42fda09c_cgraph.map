@@ -1,0 +1,10 @@
+<map id="pdal::TEST" name="pdal::TEST">
+<area shape="rect" id="node2" href="$classSupport.html#a8e8acabbcf94009d3839b96571938a2a" title="Support::configuredpath" alt="" coords="141,5,301,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#ae13910b65bf0d0fce79164630d226aef" title="pdal::PipelineManager\l::readPipeline" alt="" coords="146,57,297,98"/>
+<area shape="rect" id="node3" href="$namespaceTestConfig.html#a77d669875d5ac90c7f5ea21b44e0164d" title="TestConfig::configuredPath" alt="" coords="349,5,531,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PipelineReaderJSON.html#a84a02c6838be0ce79beb1f3ad56d90d3" title="pdal::PipelineReaderJSON\l::readPipeline" alt="" coords="351,57,529,98"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#ac3322e84f8c5a998a344a5a606c74793" title="pdal::Utils::openFile" alt="" coords="580,39,719,65"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#aad48cdff8e3ff3d13c7a273583870185" title="pdal::Utils::closeFile" alt="" coords="579,89,720,116"/>
+<area shape="rect" id="node7" href="$SQLiteTest_8cpp.html#afdd1742979cee35fe1879794bd7ff3a4" title="tempFilename" alt="" coords="787,39,891,65"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a6ce7036b0912ba81b1f1a876b2772a34" title="pdal::Utils::closeFile" alt="" coords="768,89,909,116"/>
+</map>

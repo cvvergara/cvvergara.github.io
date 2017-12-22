@@ -1,0 +1,33 @@
+<map id="pdal::PointLayout::dims" name="pdal::PointLayout::dims">
+<area shape="rect" id="node2" href="$classpdal_1_1MatlabReader.html#ad74be4b747091ed8a6b03d88a615a9a8" title="pdal::MatlabReader\l::addDimensions" alt="" coords="238,71,373,113"/>
+<area shape="rect" id="node3" href="$classpdal_1_1plang_1_1Invocation.html#adfe14b064df9a0d4dcf2d1da8a7cb1d8" title="pdal::plang::Invocation\l::begin" alt="" coords="476,57,629,98"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointLayout.html#ade9058917c1e1580b9048f0f81ee8d5e" title="pdal::PointLayout::\ldimTypes" alt="" coords="240,363,371,405"/>
+<area shape="rect" id="node9" href="$classpdal_1_1PointLayout.html#a41955b0c316d4ae4d34eca8768be2ef9" title="pdal::PointLayout::\lfinalized" alt="" coords="487,305,618,346"/>
+<area shape="rect" id="node11" href="$classpdal_1_1PointView.html#a3de238250c283f7daf4f7a8436f33729" title="pdal::PointView::dump" alt="" coords="229,429,382,456"/>
+<area shape="rect" id="node13" href="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8" title="pdal::plang::Invocation::end" alt="" coords="461,5,644,32"/>
+<area shape="rect" id="node14" href="$classpdal_1_1DiffKernel.html#a5594ac6561864e2c80a26545397d56f6" title="pdal::DiffKernel::execute" alt="" coords="222,480,389,507"/>
+<area shape="rect" id="node15" href="$classpdal_1_1DeltaKernel.html#a2f16220306228cfffeff86e51399713e" title="pdal::DeltaKernel::\lexecute" alt="" coords="240,531,371,573"/>
+<area shape="rect" id="node16" href="$classpdal_1_1MrsidReader.html#a44e159ce76d16b35de2ed189d3a58dbe" title="pdal::MrsidReader::\lLayoutToPointInfo" alt="" coords="237,597,373,638"/>
+<area shape="rect" id="node18" href="$classpdal_1_1BpfWriter.html#a9f5fb35cec2cfa9043a3c89977c78614" title="pdal::BpfWriter::loadBpf\lDimensions" alt="" coords="225,662,386,703"/>
+<area shape="rect" id="node20" href="$classpdal_1_1MatlabWriter.html#a3d3313fd65d477c292798d86418e5b72" title="pdal::MatlabWriter\l::prepared" alt="" coords="241,727,369,769"/>
+<area shape="rect" id="node21" href="$classpdal_1_1PlyWriter.html#acab9a311bcabba9a9b8bf4cef5fe6c3e" title="pdal::PlyWriter::prepared" alt="" coords="222,793,389,820"/>
+<area shape="rect" id="node22" href="$classpdal_1_1GeoWaveWriter.html#a6d0c6715189a2958044bbe3e05409e7a" title="pdal::GeoWaveWriter\l::ready" alt="" coords="232,845,379,886"/>
+<area shape="rect" id="node23" href="$classpdal_1_1TextWriter.html#ac1d9448dc94fc5272631b7066301e521" title="pdal::TextWriter::ready" alt="" coords="228,911,383,937"/>
+<area shape="rect" id="node24" href="$BPFTest_8cpp.html#ae9e77e9b796c4c70dbda0fef1821f1e1" title="TEST" alt="" coords="277,961,333,988"/>
+<area shape="rect" id="node25" href="$PgpointcloudWriterTest_8cpp.html#ae3e4eceb745c0b398d1cc87850fe1d2a" title="TEST_F" alt="" coords="270,1012,341,1039"/>
+<area shape="rect" id="node26" href="$classpdal_1_1PointLayout.html#a677fc6bf9b31cdbb8d64f57d7e796140" title="pdal::PointLayout::\ltoMetadata" alt="" coords="240,239,371,281"/>
+<area shape="rect" id="node32" href="$classpdal_1_1PointView.html#adac12c7986511f00bac0879e2a1b7f5c" title="pdal::PointView::toMetadata" alt="" coords="212,1063,399,1089"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="707,35,857,61"/>
+<area shape="rect" id="node6" href="$classpdal_1_1LasWriter.html#a12a07c613de24341d69fae93497a4cbc" title="pdal::LasWriter::prepared" alt="" coords="469,421,637,448"/>
+<area shape="rect" id="node7" href="$io__pdal__PointLayout_8cpp.html#af8f3a3de6a0ef392cba87a2b07e47432" title="Java_io_pdal_PointLayout\l_dimTypes" alt="" coords="465,473,640,514"/>
+<area shape="rect" id="node8" href="$classpdal_1_1DbWriter.html#a90b983486e91db14751cbbdfbdfdea6e" title="pdal::DbWriter::prepared" alt="" coords="471,539,635,565"/>
+<area shape="rect" id="node10" href="$classpdal_1_1XMLSchema.html#a37071cde624d3be3d2e6b223ba2bb0c2" title="pdal::XMLSchema::XMLSchema" alt="" coords="447,371,659,397"/>
+<area shape="rect" id="node12" href="$namespacepdal.html#ac7b8e0629e1b60468cf87f2dcf69f4e6" title="pdal::operator\&lt;\&lt;" alt="" coords="494,589,611,616"/>
+<area shape="rect" id="node17" href="$classpdal_1_1MrsidReader.html#a7b964fee1a83b88b5f2b72f1e2c5ba8e" title="pdal::MrsidReader::read" alt="" coords="472,640,633,667"/>
+<area shape="rect" id="node19" href="$classpdal_1_1BpfWriter.html#ad2fb4eb626abc606ea21719edfc72134" title="pdal::BpfWriter::prepared" alt="" coords="469,691,636,717"/>
+<area shape="rect" id="node27" href="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5" title="pdal::InfoKernel::dump" alt="" coords="476,188,629,215"/>
+<area shape="rect" id="node30" href="$classpdal_1_1PipelineExecutor.html#a9e29a5c7ed214f566efd7524b11d2ade" title="pdal::PipelineExecutor\l::getSchema" alt="" coords="477,239,629,281"/>
+<area shape="rect" id="node31" href="$classpdal_1_1BasePointTable.html#af5d3dc0b4de191aa70ad2065cd212ba3" title="pdal::BasePointTable\l::toMetadata" alt="" coords="479,122,626,163"/>
+<area shape="rect" id="node28" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="713,188,851,215"/>
+<area shape="rect" id="node29" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="905,188,1072,215"/>
+</map>

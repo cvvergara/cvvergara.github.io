@@ -1,0 +1,5 @@
+<map id="pdal::OSGReader::OSGReader" name="pdal::OSGReader::OSGReader">
+<area shape="rect" id="node2" href="$classpdal_1_1OSGReader.html#a5a74f805789befc461417f64307b8328" title="pdal::OSGReader::create" alt="" coords="266,5,435,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1OSGReader.html#a26e844c603f6369a891d0fc71394dc92" title="pdal::OSGReader::destroy" alt="" coords="263,56,439,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OSGReader.html#adc00c79fe457dfb40a4d24ef540f0c5d" title="pdal::OSGReader::getName" alt="" coords="257,107,444,133"/>
+</map>

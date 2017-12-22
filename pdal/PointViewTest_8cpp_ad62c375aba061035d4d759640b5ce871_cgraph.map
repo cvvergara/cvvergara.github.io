@@ -1,0 +1,9 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$classpdal_1_1PointView.html#ac923198e7abd67efa95233f1febb3fcf" title="pdal::PointView::calculate\lBounds" alt="" coords="109,23,283,65"/>
+<area shape="rect" id="node5" href="$PointViewTest_8cpp.html#a05dfa32f11f92a996c3691b54317bb49" title="check_bounds" alt="" coords="143,89,249,116"/>
+<area shape="rect" id="node6" href="$classpdal_1_1BasePointTable.html#a7e3a12a1f29e6cd10d8669ed3d07eb94" title="pdal::BasePointTable\l::layout" alt="" coords="123,141,269,182"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="131,206,261,247"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="354,5,499,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BOX2D.html#ad7673d05a1323a58e86eb721ae6a3b57" title="pdal::BOX2D::grow" alt="" coords="359,56,494,83"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="331,213,523,240"/>
+</map>

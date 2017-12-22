@@ -1,0 +1,32 @@
+digraph "pdal::BpfReader::numPoints"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::BpfReader::numPoints",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::BpfReader::eof",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#abdf42b13a40384dbf1e2f4ae297af995"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::BpfReader::processOne",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a85669f95516049aa09cfd400debafa8b"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::BpfReader::readByte\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a0fa125b7a4ebba5658c90e63164793d9"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::BpfReader::readDim\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ab2947de9808046ddf8e828a08fe2c12c"];
+  Node5 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::BpfReader::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#aecc4cd2499cf156256d8de6c840d3191"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::BpfReader::readPoint\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#aca87230904c2596fa7732e261467b2ef"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::BpfReader::ready",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a6d10eebd98f3e10faed9af5cbc4bc1a9"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::BpfReader::seekByte\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a062aef44eee3f8d213796ef1fb79509c"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::BpfReader::readByte\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ab51d0d1815046c9a6412261222d2f752"];
+  Node10 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::BpfReader::seekDim\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a19abf54165696e8548d6baf5bda30fa3"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::BpfReader::readDim\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ab62caf574a577317891f59322b6ad00a"];
+}

@@ -1,0 +1,6 @@
+<map id="pdal::BpfWriter::getAdjustedValue" name="pdal::BpfWriter::getAdjustedValue">
+<area shape="rect" id="node2" href="$classpdal_1_1BpfWriter.html#a8784f84370d69b9ae4dbbd632ed0f27a" title="pdal::BpfWriter::writeByte\lMajor" alt="" coords="241,5,413,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BpfWriter.html#a28a12ad585ecfe6f9b21129c435184d4" title="pdal::BpfWriter::writeDim\lMajor" alt="" coords="243,71,412,112"/>
+<area shape="rect" id="node5" href="$classpdal_1_1BpfWriter.html#a9d45245505629571977d2116cdd07a5e" title="pdal::BpfWriter::writePoint\lMajor" alt="" coords="240,136,415,177"/>
+<area shape="rect" id="node3" href="$classpdal_1_1BpfWriter.html#a71c9a5ddf2ceb9ccbdeff31b01c366c2" title="pdal::BpfWriter::writeView" alt="" coords="463,78,637,105"/>
+</map>

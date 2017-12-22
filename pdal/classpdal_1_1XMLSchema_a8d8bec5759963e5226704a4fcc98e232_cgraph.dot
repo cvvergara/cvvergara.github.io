@@ -1,0 +1,32 @@
+digraph "pdal::XMLSchema::load"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::XMLSchema::load",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Utils::iequals",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Utils::toupper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::XMLSchema::loadMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#a29fd5e093336d6fbaa100b80201b955b"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::Dimension::description",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::MbError::text",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1MbError.html#a4d54b8e3f4518938995230a414498a54"];
+  Node4 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::MetadataNode::add",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::XMLSchema::orientation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#a9b9265cfb89000cbc60013d785f14a89"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::XMLSchema::remapOld\lNames",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1XMLSchema.html#ac67df72d336e6df09e0c05e9eaab8503"];
+  Node9 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::XForm::XFormComponent::set",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1XForm_1_1XFormComponent.html#a2ed2d717d36074894e668586c1ddf626"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::Utils::tolower",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::Dimension::type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2"];
+  Node12 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,8 @@
+<map id="pdal::ColorinterpFilter::ready" name="pdal::ColorinterpFilter::ready">
+<area shape="rect" id="node2" href="$classpdal_1_1ColorinterpFilter.html#ac1d163e9a9174046ced17484b03209c4" title="pdal::ColorinterpFilter\l::getName" alt="" coords="212,5,359,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="229,71,342,98"/>
+<area shape="rect" id="node4" href="$namespacepdal.html#a5a644e56a583502777f84dadb19086a6" title="pdal::openRamp" alt="" coords="227,122,344,149"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1gdal.html#a35a1ae3b5fe64517230477135fae8569" title="pdal::gdal::registerDrivers" alt="" coords="200,173,371,199"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="207,223,363,250"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="419,223,568,250"/>
+</map>

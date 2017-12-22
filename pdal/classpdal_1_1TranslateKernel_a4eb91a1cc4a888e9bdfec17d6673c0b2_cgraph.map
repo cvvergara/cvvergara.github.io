@@ -1,0 +1,9 @@
+<map id="pdal::TranslateKernel::makeArgPipeline" name="pdal::TranslateKernel::makeArgPipeline">
+<area shape="rect" id="node2" href="$namespacehag.html#a39becb5458bcac317093e468da1639be" title="hag.filter" alt="" coords="238,31,310,57"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PipelineManager.html#a8626f2e57d8d35b4e5379f36a842ccbf" title="pdal::PipelineManager\l::makeFilter" alt="" coords="199,82,349,123"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PipelineManager.html#a1ed693ba560749af6f5a20e73474b09b" title="pdal::PipelineManager\l::makeReader" alt="" coords="199,147,349,189"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PipelineManager.html#a5d818c00afd49f76e4284474fc0f4f3f" title="pdal::PipelineManager\l::makeWriter" alt="" coords="199,213,349,254"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a28e27948fb8a4c1d958783d8a53bd784" title="pdal::Utils::startsWith" alt="" coords="199,279,349,305"/>
+<area shape="rect" id="node3" href="$namespacehag.html#acad63bbd5fdda01bf56ff6aae70a0192" title="hag.read" alt="" coords="407,5,479,32"/>
+<area shape="rect" id="node4" href="$namespacehag.html#aee422d0ebdb1730554711d82498e54c3" title="hag.wakeup" alt="" coords="397,56,489,83"/>
+</map>

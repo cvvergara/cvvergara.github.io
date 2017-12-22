@@ -1,0 +1,11 @@
+<map id="pdal::MetadataNode::addWithType" name="pdal::MetadataNode::addWithType">
+<area shape="rect" id="node2" href="$namespacepdal_1_1plang.html#a347812e81fc1e69ef7780226acdc8a7a" title="pdal::plang::addMetadata" alt="" coords="194,5,362,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1LasReader.html#ae37da23f5ec384cb4b43be8c9676805a" title="pdal::LasReader::extract\lHeaderMetadata" alt="" coords="195,57,361,98"/>
+<area shape="rect" id="node6" href="$classpdal_1_1StatsFilter.html#a374631f225f1fba0918b159c1353142e" title="pdal::StatsFilter::\lextractMetadata" alt="" coords="217,122,339,163"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Option.html#a9e7c5414e5a1bf5538daf44ed26aa24c" title="pdal::Option::toMetadata" alt="" coords="195,188,361,215"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Options.html#a80b214f5c77242292e8f123b75e33bbc" title="pdal::Options::toMetadata" alt="" coords="192,239,364,265"/>
+<area shape="rect" id="node3" href="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8" title="pdal::plang::Invocation::end" alt="" coords="412,5,595,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="643,5,793,32"/>
+<area shape="rect" id="node9" href="$classpdal_1_1Stage.html#a25b2c486e9aebdddc74443467c47c122" title="pdal::Stage::serialize" alt="" coords="431,239,575,265"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1PipelineWriter.html#a94e2eba7a6e9b21db48c0bbf0aacd4e2" title="pdal::PipelineWriter\l::writePipeline" alt="" coords="651,231,785,273"/>
+</map>

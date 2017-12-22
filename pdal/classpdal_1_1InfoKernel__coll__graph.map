@@ -1,0 +1,12 @@
+<map id="pdal::InfoKernel" name="pdal::InfoKernel">
+<area shape="rect" id="node2" href="$classpdal_1_1Kernel.html" title="pdal::Kernel" alt="" coords="129,273,219,300"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PipelineManager.html" title="pdal::PipelineManager" alt="" coords="60,184,211,211"/>
+<area shape="rect" id="node4" href="$classpdal_1_1StageFactory.html" title="pdal::StageFactory" alt="" coords="5,95,137,121"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="439,95,538,121"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="394,273,482,300"/>
+<area shape="rect" id="node6" href="$classpdal_1_1BasePointTable.html" title="pdal::BasePointTable" alt="" coords="162,95,309,121"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PointContainer.html" title="pdal::PointContainer" alt="" coords="87,5,227,32"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PointLayout.html" title="pdal::PointLayout" alt="" coords="251,5,374,32"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="235,184,374,211"/>
+<area shape="rect" id="node11" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="398,184,553,211"/>
+</map>

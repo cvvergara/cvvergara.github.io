@@ -1,0 +1,7 @@
+<map id="pdal::Stage::addOptions" name="pdal::Stage::addOptions">
+<area shape="rect" id="node2" href="$classpdal_1_1PipelineManager.html#a94d8a870db9447df03ffbc4f24fa1d22" title="pdal::PipelineManager\l::setOptions" alt="" coords="216,71,367,112"/>
+<area shape="rect" id="node6" href="$LasWriterTest_8cpp.html#a856bf98582c050389ac4080eb2eff50e" title="TEST" alt="" coords="263,137,319,163"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PipelineManager.html#aeb5065b985604b7e92096470643c391a" title="pdal::PipelineManager\l::makeFilter" alt="" coords="415,5,565,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#a9b5b93498ef9ce477c9be6125816b97f" title="pdal::PipelineManager\l::makeReader" alt="" coords="415,71,565,112"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PipelineManager.html#a799449dfca11d1961ea0ecd8cdb886a5" title="pdal::PipelineManager\l::makeWriter" alt="" coords="415,136,565,177"/>
+</map>

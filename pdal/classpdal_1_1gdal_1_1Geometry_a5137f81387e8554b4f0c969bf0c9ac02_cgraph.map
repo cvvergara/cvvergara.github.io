@@ -1,0 +1,6 @@
+<map id="pdal::gdal::Geometry::Geometry" name="pdal::gdal::Geometry::Geometry">
+<area shape="rect" id="node2" href="$classpdal_1_1gdal_1_1SpatialRef.html#a7c333d474f0897a3db6089a494c14dce" title="pdal::gdal::SpatialRef\l::empty" alt="" coords="209,5,356,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1gdal_1_1SpatialRef.html#a6e9fd085183596f638066f2ef30c99ab" title="pdal::gdal::SpatialRef::get" alt="" coords="196,71,369,98"/>
+<area shape="rect" id="node5" href="$classpdal_1_1gdal_1_1SpatialRef.html#a8f05965b54cf00f39186887598948d62" title="pdal::gdal::SpatialRef\l::newRef" alt="" coords="209,123,356,164"/>
+<area shape="rect" id="node3" href="$classpdal_1_1gdal_1_1SpatialRef.html#a2276a16d9f75c7ae8cab6d11572aa0dd" title="pdal::gdal::SpatialRef::wkt" alt="" coords="417,13,593,39"/>
+</map>

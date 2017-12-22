@@ -1,0 +1,11 @@
+<map id="pdal::Stage::serialize" name="pdal::Stage::serialize">
+<area shape="rect" id="node2" href="$classpdal_1_1MetadataNode.html#af2c1c5d91f6ab47a804aa8a0a1b043c2" title="pdal::MetadataNode::add" alt="" coords="604,60,772,87"/>
+<area shape="rect" id="node3" href="$classpdal_1_1MetadataNode.html#af9242fea26778fb33e939d38f0dd0dd4" title="pdal::MetadataNode\l::addList" alt="" coords="214,31,353,73"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="209,97,358,124"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Options.html#a80b214f5c77242292e8f123b75e33bbc" title="pdal::Options::toMetadata" alt="" coords="197,148,369,175"/>
+<area shape="rect" id="node6" href="$classpdal_1_1MetadataNode.html#a198cc59ea0083b8758eb80a3025d1937" title="pdal::MetadataNode\l::addWithType" alt="" coords="417,111,556,153"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="421,177,552,204"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="613,119,763,145"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="820,119,951,145"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="622,177,754,204"/>
+</map>

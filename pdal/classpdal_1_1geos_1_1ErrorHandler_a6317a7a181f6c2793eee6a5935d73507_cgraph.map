@@ -1,0 +1,6 @@
+<map id="pdal::geos::ErrorHandler::ErrorHandler" name="pdal::geos::ErrorHandler::ErrorHandler">
+<area shape="rect" id="node2" href="$classpdal_1_1geos_1_1ErrorHandler.html#a5863d0ea0a286587f0954df8faf08420" title="pdal::geos::ErrorHandler\l::handle" alt="" coords="440,25,603,66"/>
+<area shape="rect" id="node3" href="$classpdal_1_1geos_1_1ErrorHandler.html#a6750af06600dce4dbd7424e2b52f1cf7" title="pdal::geos::ErrorHandler\l::vaErrorCb" alt="" coords="216,90,379,131"/>
+<area shape="rect" id="node5" href="$classpdal_1_1geos_1_1ErrorHandler.html#ad2b603ddc34d8a888605907d241efc34" title="pdal::geos::ErrorHandler\l::vaNoticeCb" alt="" coords="216,25,379,66"/>
+<area shape="rect" id="node4" href="$classpdal_1_1geos_1_1ErrorHandler.html#a62f183a3f404d605dc451c99d1e4636c" title="pdal::geos::ErrorHandler::get" alt="" coords="427,95,616,121"/>
+</map>

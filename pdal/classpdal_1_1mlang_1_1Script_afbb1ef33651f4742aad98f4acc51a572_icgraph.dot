@@ -1,0 +1,11 @@
+digraph "pdal::mlang::Script::setMatlabStruct"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::mlang::Script\l::setMatlabStruct",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::MatlabFilter::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MatlabFilter.html#a8936067bb62fb503d654703fb4dbb45a"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::MatlabWriter\l::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MatlabWriter.html#a96ed356ff0f2ae0276cbdbb050be13b6"];
+}

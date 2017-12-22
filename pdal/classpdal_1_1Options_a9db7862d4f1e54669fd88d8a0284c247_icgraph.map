@@ -1,0 +1,11 @@
+<map id="pdal::Options::getOptions" name="pdal::Options::getOptions">
+<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#a782c57a2d5646a0a59af94321f9c5ba1" title="pdal::Stage::addConditional\lOptions" alt="" coords="225,12,407,53"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ace3043bc318e31d6d88a296c0a8cf62b" title="pdal::Stage::addOptions" alt="" coords="235,129,397,155"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Stage.html#ab1fa73224209557248ed896eae7a1f4d" title="pdal::Stage::removeOptions" alt="" coords="224,78,408,105"/>
+<area shape="rect" id="node3" href="$namespacepdal.html#ab678c43eac58ed73ef01fe16dce4d89f" title="pdal::TEST" alt="" coords="487,19,575,46"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PipelineManager.html#a94d8a870db9447df03ffbc4f24fa1d22" title="pdal::PipelineManager\l::setOptions" alt="" coords="456,71,607,112"/>
+<area shape="rect" id="node9" href="$LasWriterTest_8cpp.html#a856bf98582c050389ac4080eb2eff50e" title="TEST" alt="" coords="503,137,559,163"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PipelineManager.html#a9b5b93498ef9ce477c9be6125816b97f" title="pdal::PipelineManager\l::makeReader" alt="" coords="655,5,805,47"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PipelineManager.html#aeb5065b985604b7e92096470643c391a" title="pdal::PipelineManager\l::makeFilter" alt="" coords="655,71,805,112"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PipelineManager.html#a799449dfca11d1961ea0ecd8cdb886a5" title="pdal::PipelineManager\l::makeWriter" alt="" coords="655,136,805,177"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="pdal/plugins/sqlite/io/SQLiteWriter.cpp" name="pdal/plugins/sqlite/io/SQLiteWriter.cpp">
+<area shape="rect" id="node2" href="$SQLiteWriter_8hpp.html" title="SQLiteWriter.hpp" alt="" coords="797,102,920,129"/>
+<area shape="rect" id="node5" href="$PointView_8hpp.html" title="pdal/PointView.hpp" alt="" coords="605,408,739,435"/>
+<area shape="rect" id="node33" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="625,781,797,808"/>
+<area shape="rect" id="node36" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="1483,707,1631,733"/>
+<area shape="rect" id="node40" href="$StageFactory_8hpp.html" title="pdal/StageFactory.hpp" alt="" coords="1577,259,1730,285"/>
+<area shape="rect" id="node43" href="$pdal__macros_8hpp.html" title="pdal/pdal_macros.hpp" alt="" coords="1792,557,1941,584"/>
+<area shape="rect" id="node46" href="$LazPerfCompression_8hpp.html" title="pdal/compression/LazPerf\lCompression.hpp" alt="" coords="2313,95,2487,136"/>
+<area shape="rect" id="node47" href="$FileUtils_8hpp.html" title="pdal/util/FileUtils.hpp" alt="" coords="1755,856,1899,883"/>
+<area shape="rect" id="node3" href="$DbWriter_8hpp.html" title="pdal/DbWriter.hpp" alt="" coords="769,184,895,211"/>
+<area shape="rect" id="node42" href="$SQLiteCommon_8hpp.html" title="SQLiteCommon.hpp" alt="" coords="145,483,285,509"/>
+<area shape="rect" id="node4" href="$Scaling_8hpp.html" title="pdal/Scaling.hpp" alt="" coords="603,333,722,360"/>
+<area shape="rect" id="node34" href="$Writer_8hpp.html" title="pdal/Writer.hpp" alt="" coords="835,259,946,285"/>
+<area shape="rect" id="node38" href="$XMLSchema_8hpp.html" title="pdal/XMLSchema.hpp" alt="" coords="1331,557,1482,584"/>
+<area shape="rect" id="node6" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="667,707,800,733"/>
+<area shape="rect" id="node7" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="1027,707,1155,733"/>
+<area shape="rect" id="node23" href="$Mesh_8hpp.html" title="pdal/Mesh.hpp" alt="" coords="709,483,816,509"/>
+<area shape="rect" id="node26" href="$PointContainer_8hpp.html" title="pdal/PointContainer.hpp" alt="" coords="1043,557,1205,584"/>
+<area shape="rect" id="node27" href="$PointLayout_8hpp.html" title="pdal/PointLayout.hpp" alt="" coords="993,632,1137,659"/>
+<area shape="rect" id="node28" href="$PointRef_8hpp.html" title="pdal/PointRef.hpp" alt="" coords="1257,483,1383,509"/>
+<area shape="rect" id="node29" href="$PointTable_8hpp.html" title="pdal/PointTable.hpp" alt="" coords="1043,483,1181,509"/>
+<area shape="rect" id="node30" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="878,856,1018,883"/>
+<area shape="rect" id="node8" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="1245,781,1384,808"/>
+<area shape="rect" id="node14" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1245,856,1368,883"/>
+<area shape="rect" id="node22" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1227,931,1365,957"/>
+<area shape="rect" id="node25" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="1494,856,1629,883"/>
+<area shape="rect" id="node35" href="$Stage_8hpp.html" title="pdal/Stage.hpp" alt="" coords="1123,333,1232,360"/>
+<area shape="rect" id="node37" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="1583,781,1726,808"/>
+<area shape="rect" id="node44" href="$plugin_8hpp.html" title="pdal/plugin.hpp" alt="" coords="1808,707,1917,733"/>
+<area shape="rect" id="node45" href="$PluginManager_8hpp.html" title="pdal/PluginManager.hpp" alt="" coords="1758,632,1919,659"/>
+</map>

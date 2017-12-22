@@ -1,0 +1,11 @@
+digraph "pdal/plugins/hexbin/filters" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_ea64337cd9767a522dfbc316d9a2cad1 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="hexbin" fontname="Helvetica", fontsize="10", URL="dir_ea64337cd9767a522dfbc316d9a2cad1.html"]
+  dir_81eeaf5281a6552bee77ab45e41b64ad [shape=box, label="filters", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_81eeaf5281a6552bee77ab45e41b64ad.html"];
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_81eeaf5281a6552bee77ab45e41b64ad->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="5", labeldistance=1.5 headhref="dir_000064_000050.html"];
+}

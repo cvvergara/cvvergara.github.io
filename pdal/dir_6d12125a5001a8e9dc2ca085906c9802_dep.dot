@@ -1,0 +1,15 @@
+digraph "pdal/plugins/geowave" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_afa3ef11413a136c9ba1f7af288efe0d {
+    graph [ bgcolor="#ddddee", pencolor="black", label="plugins" fontname="Helvetica", fontsize="10", URL="dir_afa3ef11413a136c9ba1f7af288efe0d.html"]
+  subgraph clusterdir_6d12125a5001a8e9dc2ca085906c9802 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_6d12125a5001a8e9dc2ca085906c9802.html"];
+    dir_6d12125a5001a8e9dc2ca085906c9802 [shape=plaintext label="geowave"];
+    dir_ed55ac6bdb246c36052fe1f230370161 [shape=box label="io" color="black" fillcolor="white" style="filled" URL="dir_ed55ac6bdb246c36052fe1f230370161.html"];
+  }
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_ed55ac6bdb246c36052fe1f230370161->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="11", labeldistance=1.5 headhref="dir_000059_000050.html"];
+}

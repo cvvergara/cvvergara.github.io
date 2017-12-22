@@ -1,0 +1,25 @@
+<map id="pdal/pdal/Polygon.hpp" name="pdal/pdal/Polygon.hpp">
+<area shape="rect" id="node2" href="$Log_8hpp.html" title="pdal/Log.hpp" alt="" coords="2074,379,2170,405"/>
+<area shape="rect" id="node31" href="$PointRef_8hpp.html" title="pdal/PointRef.hpp" alt="" coords="679,155,806,181"/>
+<area shape="rect" id="node34" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="1794,453,1934,480"/>
+<area shape="rect" id="node45" href="$SpatialReference_8hpp.html" title="pdal/SpatialReference.hpp" alt="" coords="1532,379,1707,405"/>
+<area shape="rect" id="node46" href="$Geometry_8hpp.html" title="pdal/Geometry.hpp" alt="" coords="1695,80,1827,107"/>
+<area shape="rect" id="node6" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="1332,453,1480,480"/>
+<area shape="rect" id="node28" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="2080,677,2202,704"/>
+<area shape="rect" id="node8" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="1224,528,1367,555"/>
+<area shape="rect" id="node9" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="1228,603,1363,629"/>
+<area shape="rect" id="node10" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="433,528,572,555"/>
+<area shape="rect" id="node15" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1062,603,1185,629"/>
+<area shape="rect" id="node30" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1733,677,1872,704"/>
+<area shape="rect" id="node32" href="$PDALUtils_8hpp.html" title="pdal/PDALUtils.hpp" alt="" coords="868,304,1006,331"/>
+<area shape="rect" id="node40" href="$PointContainer_8hpp.html" title="pdal/PointContainer.hpp" alt="" coords="460,229,622,256"/>
+<area shape="rect" id="node41" href="$PointLayout_8hpp.html" title="pdal/PointLayout.hpp" alt="" coords="228,304,372,331"/>
+<area shape="rect" id="node33" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="1127,379,1256,405"/>
+<area shape="rect" id="node35" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="434,453,571,480"/>
+<area shape="rect" id="node36" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="1536,528,1626,555"/>
+<area shape="rect" id="node37" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="1732,603,1832,629"/>
+<area shape="rect" id="node43" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="388,379,521,405"/>
+<area shape="rect" id="node44" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="236,379,364,405"/>
+<area shape="rect" id="node47" href="$GDALUtils_8hpp.html" title="pdal/GDALUtils.hpp" alt="" coords="1692,304,1830,331"/>
+<area shape="rect" id="node49" href="$GEOSUtils_8hpp.html" title="pdal/GEOSUtils.hpp" alt="" coords="1906,304,2046,331"/>
+</map>

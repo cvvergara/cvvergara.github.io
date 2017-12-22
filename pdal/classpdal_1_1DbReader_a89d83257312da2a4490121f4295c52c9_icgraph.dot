@@ -1,0 +1,13 @@
+digraph "pdal::DbReader::loadSchema"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::DbReader::loadSchema",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::OciReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a4b1be832c15f90d15eb707f5d280ebaf"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::SQLiteReader\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SQLiteReader.html#a5647aaa7d1f98521743dd1c52bc80c24"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PgReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgReader.html#a6fa8390ac8d95f40ca2779be4b613f43"];
+}

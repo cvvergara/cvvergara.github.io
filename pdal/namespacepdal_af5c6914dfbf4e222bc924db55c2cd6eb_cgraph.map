@@ -1,0 +1,9 @@
+<map id="pdal::TEST" name="pdal::TEST">
+<area shape="rect" id="node2" href="$classpdal_1_1StageFactory.html#af156913b4629085666e883ec9a26c534" title="pdal::StageFactory\l::extensions" alt="" coords="141,5,273,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1StageFactory.html#a51af2cb785aed67c13262ba2a87f3adf" title="pdal::StageFactory\l::inferReaderDriver" alt="" coords="141,71,273,112"/>
+<area shape="rect" id="node8" href="$classpdal_1_1StageFactory.html#a156f6090f6a1848f2b50050a3b68c19b" title="pdal::StageFactory\l::inferWriterDriver" alt="" coords="141,136,273,177"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="339,42,470,69"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1FileUtils.html#ae3c153961947c766ab18099f7ef71fc1" title="pdal::FileUtils::extension" alt="" coords="321,143,488,170"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="339,93,470,119"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="536,42,668,69"/>
+</map>

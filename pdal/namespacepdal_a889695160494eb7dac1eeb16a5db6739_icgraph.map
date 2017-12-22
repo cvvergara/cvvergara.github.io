@@ -1,0 +1,5 @@
+<map id="pdal::operator==" name="pdal::operator==">
+<area shape="rect" id="node2" href="$structpdal_1_1ExtraDim.html#af76ca9ae28a1e4035267c02e945699a9" title="pdal::ExtraDim::ExtraDim" alt="" coords="173,5,345,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Geometry.html#aa8128b5851601c0ff1abd30478e0c148" title="pdal::Geometry::getSpatial\lReference" alt="" coords="171,57,348,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1SpatialReference.html#a500300fdb9d2441c7db0fa76ee5cadfd" title="pdal::SpatialReference\l::SpatialReference" alt="" coords="182,122,337,163"/>
+</map>

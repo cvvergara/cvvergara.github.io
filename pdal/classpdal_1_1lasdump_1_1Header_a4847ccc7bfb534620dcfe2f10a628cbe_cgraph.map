@@ -1,0 +1,5 @@
+<map id="pdal::lasdump::Header::pointFormatSupported" name="pdal::lasdump::Header::pointFormatSupported">
+<area shape="rect" id="node2" href="$classpdal_1_1lasdump_1_1Header.html#a54d194f615099f9977646fb4c0e156cd" title="pdal::lasdump::Header\l::hasWave" alt="" coords="212,5,365,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1lasdump_1_1Header.html#a1bc09eb49394095e860958ad2f1354f5" title="pdal::lasdump::Header\l::versionAtLeast" alt="" coords="212,71,365,112"/>
+<area shape="rect" id="node3" href="$classpdal_1_1lasdump_1_1Header.html#a98c47063e2e6cd9686415307b8f594cd" title="Get identifier of point data (record) format. " alt="" coords="413,5,567,47"/>
+</map>

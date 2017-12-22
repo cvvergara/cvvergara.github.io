@@ -1,0 +1,21 @@
+digraph "pdal::PointIdxRef::operator="
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PointIdxRef::\loperator=",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PointView::getTemp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointView.html#a7b0ba6f2ed89d514a1128196efc6bb40"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Dimension::id",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Utils::toupper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::plang::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1plang.html#a43ee0b50a363574b5c331213d7f57152"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::plang::Script\l::source",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Script.html#a69609ef74093625b4a6721c7249857f9"];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::plang::Script\l::module",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Script.html#a900cb0cc7322c019ad4b469942d81d4e"];
+  Node5 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::plang::Script\l::function",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Script.html#a82256718a3b0540097d2835cbb560f49"];
+}

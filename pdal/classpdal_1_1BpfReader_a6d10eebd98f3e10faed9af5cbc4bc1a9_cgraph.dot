@@ -1,0 +1,21 @@
+digraph "pdal::BpfReader::ready"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::BpfReader::ready",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::Charbuf::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Charbuf.html#a968e75a6f7075a7b68ea3a93dfc935a0"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::BpfReader::numPoints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a8474ab61285bb81bc1bcc4d69383bb95"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::IStream::open",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1IStream.html#a5ba74ea311a78dba18379de122fb0284"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::IStream::position",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1IStream.html#a38d6a0366530071e8166b9f4d834aa18"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::IStream::pushStream",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1IStream.html#a9996697361358866d00ad23ce88a8b53"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::BpfReader::readBlock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#a746439b6f836a81eea2443cbed447e9a"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::IStream::seek",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1IStream.html#af0ce8ed6fcaea7ead21c0e7c5c054812"];
+}

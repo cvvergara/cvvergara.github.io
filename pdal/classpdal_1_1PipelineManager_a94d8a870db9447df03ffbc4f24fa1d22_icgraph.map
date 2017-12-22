@@ -1,0 +1,5 @@
+<map id="pdal::PipelineManager::setOptions" name="pdal::PipelineManager::setOptions">
+<area shape="rect" id="node2" href="$classpdal_1_1PipelineManager.html#aeb5065b985604b7e92096470643c391a" title="pdal::PipelineManager\l::makeFilter" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PipelineManager.html#a9b5b93498ef9ce477c9be6125816b97f" title="pdal::PipelineManager\l::makeReader" alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#a799449dfca11d1961ea0ecd8cdb886a5" title="pdal::PipelineManager\l::makeWriter" alt="" coords="204,136,355,177"/>
+</map>

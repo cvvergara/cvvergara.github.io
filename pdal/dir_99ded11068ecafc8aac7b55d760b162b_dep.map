@@ -1,0 +1,14 @@
+<map id="pdal/plugins/mrsid/test" name="pdal/plugins/mrsid/test">
+<area shape="rect" id="node1" href="dir_99ded11068ecafc8aac7b55d760b162b.html" title="test" alt="" coords="68,52,140,100"/>
+<area shape="rect" id="node2" href="dir_37e2adedb6e706efcbfadb5213756005.html" title="pdal" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000081_000050.html" title="4" alt="" coords="46,218,54,233"/>
+<area shape="rect" id="node3" href="dir_88aa5027650279860e272a4a9998da6e.html" title="test" alt="" coords="68,148,140,196"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000081_000012.html" title="1" alt="" coords="108,122,116,137"/>
+<area shape="rect" id="node4" href="dir_1d5bbadd870fe047ff237b24e55617ae.html" title="io" alt="" coords="41,340,113,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000081_000044.html" title="1" alt="" coords="104,321,112,335"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000050_000044.html" title="21" alt="" coords="53,313,68,327"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000012_000050.html" title="221" alt="" coords="63,226,84,241"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000012_000044.html" title="69" alt="" coords="86,316,100,331"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000044_000050.html" title="200" alt="" coords="47,305,69,320"/>
+<area shape="rect" id="clust1" href="dir_a1696a9f9e1d806037813c6131a194af.html" title="mrsid" alt="" coords="57,16,151,111"/>
+</map>

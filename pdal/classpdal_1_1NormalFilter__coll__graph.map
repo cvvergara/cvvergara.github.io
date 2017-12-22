@@ -1,0 +1,11 @@
+<map id="pdal::NormalFilter" name="pdal::NormalFilter">
+<area shape="rect" id="node2" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="236,260,319,287"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="176,184,264,211"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,95,144,121"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="291,95,445,121"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Geometry.html" title="pdal::Geometry" alt="" coords="410,184,521,211"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="168,95,267,121"/>
+<area shape="rect" id="node7" href="$classpdal_1_1filter_1_1Point.html" title="pdal::filter::Point" alt="" coords="368,260,485,287"/>
+<area shape="rect" id="node9" href="$classpdal_1_1geos_1_1ErrorHandler.html" title="pdal::geos::ErrorHandler" alt="" coords="469,95,632,121"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Arg.html" title="pdal::Arg" alt="" coords="509,260,584,287"/>
+</map>

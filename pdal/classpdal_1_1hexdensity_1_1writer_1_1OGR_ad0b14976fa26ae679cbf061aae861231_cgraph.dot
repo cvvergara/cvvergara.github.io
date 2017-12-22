@@ -1,0 +1,9 @@
+digraph "pdal::hexdensity::writer::OGR::writeDensity"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::hexdensity::writer\l::OGR::writeDensity",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::hexdensity::writer\l::OGR::collectHexagon",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1hexdensity_1_1writer_1_1OGR.html#ab43ea59f87e5f4f94a0124872be5677e"];
+}

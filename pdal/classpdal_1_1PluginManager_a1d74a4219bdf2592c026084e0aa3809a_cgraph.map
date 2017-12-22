@@ -1,0 +1,27 @@
+<map id="pdal::PluginManager::l_createObject" name="pdal::PluginManager::l_createObject">
+<area shape="rect" id="node2" href="$classpdal_1_1PluginManager.html#a4b104d8173aec62bcd3745ddee7aa3d5" title="pdal::PluginManager\l::guessLoadByPath" alt="" coords="193,201,333,242"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1FileUtils.html#af4165597419cf00a2ff9cea447ea6c33" title="pdal::FileUtils::directoryList" alt="" coords="422,5,603,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1FileUtils.html#ae3c153961947c766ab18099f7ef71fc1" title="pdal::FileUtils::extension" alt="" coords="429,56,596,83"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1FileUtils.html#ae2b8f1ddc38b0033b685a0bde6106ba1" title="pdal::FileUtils::fileExists" alt="" coords="431,107,595,133"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1FileUtils.html#acfbe324737d031ab2650a56c6d50c776" title="pdal::FileUtils::isDirectory" alt="" coords="426,157,599,184"/>
+<area shape="rect" id="node9" href="$classpdal_1_1PluginManager.html#a3344bf0a8d35b309b26cb23ae5fa3579" title="pdal::PluginManager\l::loadByPath" alt="" coords="443,321,583,362"/>
+<area shape="rect" id="node22" href="$namespacepdal_1_1anonymous__namespace_02PluginManager_8cpp_03.html#a1fdbb485623dfdef1f484e665ffe43fe" title="pdal::anonymous_namespace\l\{PluginManager::cpp\}::pluginSearchPaths" alt="" coords="381,578,644,619"/>
+<area shape="rect" id="node24" href="$namespacepdal_1_1Utils.html#a6ae33c6d7b4eb4bcae6ec17fb8cc04fc" title="pdal::Utils::split2" alt="" coords="755,676,875,703"/>
+<area shape="rect" id="node25" href="$namespacepdal_1_1FileUtils.html#a3bdadae2f0ef6896942c02e9a9c81e00" title="pdal::FileUtils::stem" alt="" coords="443,259,582,285"/>
+<area shape="rect" id="node26" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="438,208,587,235"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a813a530ad72d50f747643f1bb996cacf" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdin" alt="" coords="717,93,912,134"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="1019,100,1151,127"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="749,159,880,185"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1FileUtils.html#a0d150fac3c099a0646763f1b862cac73" title="pdal::FileUtils::getFilename" alt="" coords="724,209,905,236"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1anonymous__namespace_02PluginManager_8cpp_03.html#a96b6f972ce14621acdc2ef6579cab857" title="pdal::anonymous_namespace\l\{PluginManager::cpp\}::pluginTypeValid" alt="" coords="692,326,937,367"/>
+<area shape="rect" id="node14" href="$classpdal_1_1PluginManager.html#a05f55dd74e4883b9a8bca6ebbadda5bd" title="pdal::PluginManager\l::libraryLoaded" alt="" coords="745,391,885,433"/>
+<area shape="rect" id="node15" href="$namespacepdal_1_1FileUtils.html#a538c47da3e98daa37d68b568ca849ac9" title="pdal::FileUtils::toAbsolutePath" alt="" coords="985,457,1184,484"/>
+<area shape="rect" id="node17" href="$classpdal_1_1PluginManager.html#a37dc2ebab8261695d3d42038046cd5e4" title="pdal::PluginManager\l::loadLibrary" alt="" coords="745,509,885,550"/>
+<area shape="rect" id="node20" href="$classpdal_1_1PluginManager.html#ae9e94964092e0fdb6be63484e5e69e9f" title="pdal::PluginManager\l::initializePlugin" alt="" coords="745,261,885,302"/>
+<area shape="rect" id="node13" href="$namespacepdal_1_1Utils.html#a28e27948fb8a4c1d958783d8a53bd784" title="pdal::Utils::startsWith" alt="" coords="1010,333,1159,360"/>
+<area shape="rect" id="node16" href="$namespacepdal_1_1Utils.html#a3e140e4c0c21d020c56c0b8d58b8cb5b" title="pdal::Utils::contains" alt="" coords="1015,399,1154,425"/>
+<area shape="rect" id="node18" href="$classpdal_1_1DynamicLibrary.html#afa96ce1595f15fb125e13c827902f030" title="pdal::DynamicLibrary\l::load" alt="" coords="1012,509,1157,550"/>
+<area shape="rect" id="node19" href="$classpdal_1_1DynamicLibrary.html#a48b54a6222a25732cc80500f52f3e618" title="pdal::DynamicLibrary\l::DynamicLibrary" alt="" coords="1232,509,1377,550"/>
+<area shape="rect" id="node21" href="$classpdal_1_1PluginManager.html#a8a847508c24b6a254ae8eaba06c0069a" title="pdal::PluginManager\l::l_initializePlugin" alt="" coords="1015,261,1155,302"/>
+<area shape="rect" id="node23" href="$namespacepdal_1_1Utils.html#a280847d8a85057a3cfe513abec5c6527" title="pdal::Utils::getenv" alt="" coords="751,625,879,652"/>
+</map>

@@ -1,0 +1,15 @@
+digraph "pdal::SpatialReference::set"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::SpatialReference::set",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::operator\>\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#a15c6c8de1202ba7f8067ad02df603177"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::LasHeader::setSrsFromWkt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#a61632ae01a0cbb279c3b15f4e6878c44"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::LasHeader::setSrs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html#a940d819d418dcd815466fe98f292dab5"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::operator\>\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#a96d3d7266c452f1ea279b43b78dd43d1"];
+}

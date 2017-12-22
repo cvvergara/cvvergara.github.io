@@ -1,0 +1,13 @@
+<map id="pdal::TextReader::processOne" name="pdal::TextReader::processOne">
+<area shape="rect" id="node2" href="$classpdal_1_1TextReader.html#ad84d96b6633d11d99204a0f12050ec7d" title="pdal::TextReader::fillFields" alt="" coords="253,95,432,121"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="505,5,618,32"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="268,145,417,172"/>
+<area shape="rect" id="node8" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="263,208,422,235"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#ad875f14218020d7d4d10803f5a115bdb" title="pdal::Utils::remove" alt="" coords="495,56,627,83"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a7c0bdff1817c4b21e6f5b37dc8fabff5" title="pdal::Utils::split" alt="" coords="505,107,618,133"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a6ae33c6d7b4eb4bcae6ec17fb8cc04fc" title="pdal::Utils::split2" alt="" coords="501,157,621,184"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="480,208,643,235"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="487,259,636,285"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="692,208,820,235"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="691,259,821,285"/>
+</map>

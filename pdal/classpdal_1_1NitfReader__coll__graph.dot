@@ -1,0 +1,31 @@
+digraph "pdal::NitfReader"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal::NitfReader",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::LasReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasReader.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Reader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Reader.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Stage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_metadata" ,fontname="Helvetica"];
+  Node5 [label="pdal::MetadataNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_spatialReference" ,fontname="Helvetica"];
+  Node6 [label="pdal::SpatialReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SpatialReference.html"];
+  Node7 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_options" ,fontname="Helvetica"];
+  Node7 [label="pdal::Options",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Options.html"];
+  Node8 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_countArg\nm_filenameArg" ,fontname="Helvetica"];
+  Node8 [label="pdal::Arg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Arg.html"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_header" ,fontname="Helvetica"];
+  Node9 [label="pdal::LasHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasHeader.html"];
+  Node6 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_srs" ,fontname="Helvetica"];
+  Node10 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_projectUuid" ,fontname="Helvetica"];
+  Node10 [label="pdal::Uuid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Uuid.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_data" ,fontname="Helvetica"];
+  Node11 [label="pdal::uuid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#structpdal_1_1uuid"];
+  Node12 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_bounds" ,fontname="Helvetica"];
+  Node12 [label="pdal::BOX3D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BOX3D.html"];
+  Node13 -> Node12 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::BOX2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BOX2D.html"];
+}

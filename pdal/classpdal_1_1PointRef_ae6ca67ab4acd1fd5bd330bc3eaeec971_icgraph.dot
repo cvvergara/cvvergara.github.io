@@ -1,0 +1,15 @@
+digraph "pdal::PointRef::pointId"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PointRef::pointId",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PlyReader::readElement",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a9f8530cfe07a115f3aec19f71ed53ea2"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PlyReader::processOne",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a2ffd816ad722bc26a939e2205672fc22"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PlyReader::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a72e6d57481231baa610904384b5b4715"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::PlyReader::ready",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PlyReader.html#a25b3be53b5c74d1caa6a6fd76325e89b"];
+}

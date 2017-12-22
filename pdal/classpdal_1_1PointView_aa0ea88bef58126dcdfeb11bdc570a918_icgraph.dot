@@ -1,0 +1,15 @@
+digraph "pdal::PointView::dims"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PointView::dims",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::DiffKernel::checkPoints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1DiffKernel.html#a62476920df163ad274b3aeab0b1538a2"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::PointView::dump",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointView.html#a3de238250c283f7daf4f7a8436f33729"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#ac7b8e0629e1b60468cf87f2dcf69f4e6"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::PointView::toMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointView.html#adac12c7986511f00bac0879e2a1b7f5c"];
+}

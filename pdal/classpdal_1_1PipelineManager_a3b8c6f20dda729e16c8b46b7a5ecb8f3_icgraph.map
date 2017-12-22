@@ -1,0 +1,9 @@
+<map id="pdal::PipelineManager::pointTable" name="pdal::PipelineManager::pointTable">
+<area shape="rect" id="node2" href="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5" title="pdal::InfoKernel::dump" alt="" coords="204,5,357,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1DensityKernel.html#a0c74e94ba52214ddb0455254fb25a0b3" title="pdal::DensityKernel\l::execute" alt="" coords="213,57,349,98"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PipelineKernel.html#a0d3bb8f1b2c0af4e3d8af7f61a264d20" title="pdal::PipelineKernel\l::execute" alt="" coords="212,122,349,163"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PipelineExecutor.html#a9e29a5c7ed214f566efd7524b11d2ade" title="pdal::PipelineExecutor\l::getSchema" alt="" coords="205,187,357,229"/>
+<area shape="rect" id="node8" href="$FerryFilterTest_8cpp.html#a6d513bdfabc541c6c1f0c177ab453b24" title="TEST" alt="" coords="253,253,309,280"/>
+<area shape="rect" id="node3" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="405,5,544,32"/>
+<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="592,5,759,32"/>
+</map>

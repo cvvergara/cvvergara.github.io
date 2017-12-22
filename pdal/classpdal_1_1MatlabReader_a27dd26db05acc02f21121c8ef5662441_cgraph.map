@@ -1,0 +1,13 @@
+<map id="pdal::MatlabReader::read" name="pdal::MatlabReader::read">
+<area shape="rect" id="node2" href="$classpdal_1_1MatlabReader.html#a03d1820eda353194833c60692cd26614" title="pdal::MatlabReader\l::processOne" alt="" coords="207,62,341,103"/>
+<area shape="rect" id="node12" href="$classpdal_1_1PointRef.html#af2252f383598b06c0756a6f0e9bad258" title="pdal::PointRef::setPointId" alt="" coords="188,128,360,155"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="408,69,567,96"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="413,12,561,39"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="409,132,565,159"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="825,31,975,57"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="615,107,777,133"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="1023,31,1153,57"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="836,107,964,133"/>
+<area shape="rect" id="node9" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="627,5,765,32"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="621,157,771,184"/>
+</map>

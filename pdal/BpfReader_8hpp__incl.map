@@ -1,0 +1,35 @@
+<map id="pdal/io/BpfReader.hpp" name="pdal/io/BpfReader.hpp">
+<area shape="rect" id="node3" href="$Reader_8hpp.html" title="pdal/Reader.hpp" alt="" coords="1568,80,1685,107"/>
+<area shape="rect" id="node8" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="1987,677,2130,704"/>
+<area shape="rect" id="node45" href="$Charbuf_8hpp.html" title="pdal/util/Charbuf.hpp" alt="" coords="963,752,1106,779"/>
+<area shape="rect" id="node46" href="$IStream_8hpp.html" title="pdal/util/IStream.hpp" alt="" coords="1830,752,1973,779"/>
+<area shape="rect" id="node49" href="$plugin_8hpp.html" title="pdal/plugin.hpp" alt="" coords="1029,603,1139,629"/>
+<area shape="rect" id="node50" href="$BpfHeader_8hpp.html" title="BpfHeader.hpp" alt="" coords="255,453,364,480"/>
+<area shape="rect" id="node4" href="$Stage_8hpp.html" title="pdal/Stage.hpp" alt="" coords="1632,155,1741,181"/>
+<area shape="rect" id="node32" href="$Options_8hpp.html" title="pdal/Options.hpp" alt="" coords="2059,453,2179,480"/>
+<area shape="rect" id="node6" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="2089,603,2237,629"/>
+<area shape="rect" id="node24" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="546,603,683,629"/>
+<area shape="rect" id="node26" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="859,528,987,555"/>
+<area shape="rect" id="node27" href="$Log_8hpp.html" title="pdal/Log.hpp" alt="" coords="1680,528,1776,555"/>
+<area shape="rect" id="node29" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="1475,528,1605,555"/>
+<area shape="rect" id="node33" href="$PipelineWriter_8hpp.html" title="pdal/PipelineWriter.hpp" alt="" coords="2254,528,2410,555"/>
+<area shape="rect" id="node34" href="$PointTable_8hpp.html" title="pdal/PointTable.hpp" alt="" coords="585,304,722,331"/>
+<area shape="rect" id="node35" href="$SpatialReference_8hpp.html" title="pdal/SpatialReference.hpp" alt="" coords="1953,528,2127,555"/>
+<area shape="rect" id="node39" href="$PointRef_8hpp.html" title="pdal/PointRef.hpp" alt="" coords="1053,304,1179,331"/>
+<area shape="rect" id="node41" href="$PointView_8hpp.html" title="pdal/PointView.hpp" alt="" coords="871,229,1006,256"/>
+<area shape="rect" id="node42" href="$QuickInfo_8hpp.html" title="pdal/QuickInfo.hpp" alt="" coords="1544,453,1675,480"/>
+<area shape="rect" id="node43" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="2206,677,2378,704"/>
+<area shape="rect" id="node9" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="2150,752,2285,779"/>
+<area shape="rect" id="node10" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="1115,677,1253,704"/>
+<area shape="rect" id="node13" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1632,752,1755,779"/>
+<area shape="rect" id="node21" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="1527,827,1649,853"/>
+<area shape="rect" id="node23" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1364,827,1503,853"/>
+<area shape="rect" id="node25" href="$DimUtil_8hpp.html" title="pdal/DimUtil.hpp" alt="" coords="553,677,671,704"/>
+<area shape="rect" id="node30" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="1265,603,1405,629"/>
+<area shape="rect" id="node31" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="1435,752,1557,779"/>
+<area shape="rect" id="node36" href="$PointContainer_8hpp.html" title="pdal/PointContainer.hpp" alt="" coords="689,379,850,405"/>
+<area shape="rect" id="node37" href="$PointLayout_8hpp.html" title="pdal/PointLayout.hpp" alt="" coords="808,453,952,480"/>
+<area shape="rect" id="node38" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="549,528,683,555"/>
+<area shape="rect" id="node40" href="$PDALUtils_8hpp.html" title="pdal/PDALUtils.hpp" alt="" coords="1382,453,1519,480"/>
+<area shape="rect" id="node48" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="2105,827,2244,853"/>
+</map>

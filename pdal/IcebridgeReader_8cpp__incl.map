@@ -1,0 +1,32 @@
+<map id="pdal/plugins/icebridge/io/IcebridgeReader.cpp" name="pdal/plugins/icebridge/io/IcebridgeReader.cpp">
+<area shape="rect" id="node2" href="$IcebridgeReader_8hpp.html" title="IcebridgeReader.hpp" alt="" coords="299,95,441,121"/>
+<area shape="rect" id="node35" href="$PointView_8hpp.html" title="pdal/PointView.hpp" alt="" coords="1724,319,1859,345"/>
+<area shape="rect" id="node40" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="285,767,457,793"/>
+<area shape="rect" id="node46" href="$FileUtils_8hpp.html" title="pdal/util/FileUtils.hpp" alt="" coords="2290,841,2434,868"/>
+<area shape="rect" id="node48" href="$pdal__macros_8hpp.html" title="pdal/pdal_macros.hpp" alt="" coords="791,543,941,569"/>
+<area shape="rect" id="node3" href="$Reader_8hpp.html" title="pdal/Reader.hpp" alt="" coords="263,169,381,196"/>
+<area shape="rect" id="node26" href="$Options_8hpp.html" title="pdal/Options.hpp" alt="" coords="437,543,557,569"/>
+<area shape="rect" id="node42" href="$StageFactory_8hpp.html" title="pdal/StageFactory.hpp" alt="" coords="512,169,665,196"/>
+<area shape="rect" id="node44" href="$Hdf5Handler_8hpp.html" title="Hdf5Handler.hpp" alt="" coords="186,841,306,868"/>
+<area shape="rect" id="node4" href="$Stage_8hpp.html" title="pdal/Stage.hpp" alt="" coords="1073,244,1182,271"/>
+<area shape="rect" id="node6" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="1464,692,1612,719"/>
+<area shape="rect" id="node22" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="1992,692,2129,719"/>
+<area shape="rect" id="node23" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="2191,617,2319,644"/>
+<area shape="rect" id="node24" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="1232,617,1361,644"/>
+<area shape="rect" id="node27" href="$PointTable_8hpp.html" title="pdal/PointTable.hpp" alt="" coords="1236,393,1373,420"/>
+<area shape="rect" id="node28" href="$SpatialReference_8hpp.html" title="pdal/SpatialReference.hpp" alt="" coords="1419,468,1593,495"/>
+<area shape="rect" id="node33" href="$PointRef_8hpp.html" title="pdal/PointRef.hpp" alt="" coords="1612,393,1739,420"/>
+<area shape="rect" id="node7" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="1425,767,1568,793"/>
+<area shape="rect" id="node8" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="1563,841,1697,868"/>
+<area shape="rect" id="node9" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="2090,767,2229,793"/>
+<area shape="rect" id="node14" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1941,841,2063,868"/>
+<area shape="rect" id="node21" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="2457,916,2595,943"/>
+<area shape="rect" id="node25" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="2331,767,2471,793"/>
+<area shape="rect" id="node29" href="$PointContainer_8hpp.html" title="pdal/PointContainer.hpp" alt="" coords="1771,468,1932,495"/>
+<area shape="rect" id="node30" href="$PointLayout_8hpp.html" title="pdal/PointLayout.hpp" alt="" coords="1502,543,1646,569"/>
+<area shape="rect" id="node32" href="$DimDetail_8hpp.html" title="pdal/DimDetail.hpp" alt="" coords="1831,617,1965,644"/>
+<area shape="rect" id="node34" href="$PDALUtils_8hpp.html" title="pdal/PDALUtils.hpp" alt="" coords="1671,543,1808,569"/>
+<area shape="rect" id="node36" href="$Mesh_8hpp.html" title="pdal/Mesh.hpp" alt="" coords="1959,393,2066,420"/>
+<area shape="rect" id="node49" href="$plugin_8hpp.html" title="pdal/plugin.hpp" alt="" coords="1229,692,1338,719"/>
+<area shape="rect" id="node50" href="$PluginManager_8hpp.html" title="pdal/PluginManager.hpp" alt="" coords="741,617,903,644"/>
+</map>

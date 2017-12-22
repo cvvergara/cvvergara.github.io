@@ -1,0 +1,8 @@
+<map id="pdal::DbWriter::ready" name="pdal::DbWriter::ready">
+<area shape="rect" id="node2" href="$classpdal_1_1Scaling.html#ae5bcc3f114dd8ea91ff5e06eeed29f96" title="pdal::Scaling::nonstandard" alt="" coords="200,5,376,32"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="214,56,362,83"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="441,81,579,108"/>
+<area shape="rect" id="node3" href="$structpdal_1_1XForm.html#aa8911e8618efef91038c0b4d1e37c331" title="pdal::XForm::nonstandard" alt="" coords="424,5,596,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="644,81,793,108"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="841,81,972,108"/>
+</map>

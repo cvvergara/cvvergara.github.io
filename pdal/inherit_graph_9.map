@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classlibpdaljava_1_1java__error.html" title="libpdaljava::java_error" alt="" coords="183,5,331,32"/>
+<area shape="rect" id="node3" href="$classlibpdalpython_1_1python__error.html" title="libpdalpython::python\l_error" alt="" coords="185,57,330,98"/>
+<area shape="rect" id="node4" href="$structpdal_1_1anonymous__namespace_02LasReader_8cpp_03_1_1invalid__stream.html" title="pdal::anonymous_namespace\l\{LasReader.cpp\}::invalid_stream" alt="" coords="152,122,363,163"/>
+<area shape="rect" id="node5" href="$structpdal_1_1BpfCompressor_1_1error.html" title="pdal::BpfCompressor\l::error" alt="" coords="185,187,330,229"/>
+<area shape="rect" id="node6" href="$structpdal_1_1BpfHeader_1_1error.html" title="pdal::BpfHeader::error" alt="" coords="182,253,333,280"/>
+<area shape="rect" id="node7" href="$classpdal_1_1compression__error.html" title="pdal::compression_error" alt="" coords="177,304,338,331"/>
+<area shape="rect" id="node8" href="$structpdal_1_1DimRange_1_1error.html" title="pdal::DimRange::error" alt="" coords="182,355,333,381"/>
+<area shape="rect" id="node9" href="$structpdal_1_1GDALGrid_1_1error.html" title="pdal::GDALGrid::error" alt="" coords="183,405,331,432"/>
+<area shape="rect" id="node10" href="$structpdal_1_1GeotiffTags_1_1error.html" title="pdal::GeotiffTags::\lerror" alt="" coords="192,457,323,498"/>
+<area shape="rect" id="node11" href="$structpdal_1_1Hdf5Handler_1_1error.html" title="pdal::Hdf5Handler::\lerror" alt="" coords="190,522,325,563"/>
+<area shape="rect" id="node12" href="$structpdal_1_1Ilvis2MetadataReader_1_1error.html" title="pdal::Ilvis2MetadataReader\l::error" alt="" coords="167,587,348,629"/>
+<area shape="rect" id="node13" href="$structpdal_1_1Ilvis2Reader_1_1error.html" title="pdal::Ilvis2Reader\l::error" alt="" coords="194,653,321,694"/>
+<area shape="rect" id="node14" href="$structpdal_1_1LasHeader_1_1error.html" title="pdal::LasHeader::error" alt="" coords="182,719,333,745"/>
+<area shape="rect" id="node15" href="$structpdal_1_1LasSummaryData_1_1error.html" title="pdal::LasSummaryData\l::error" alt="" coords="178,770,337,811"/>
+<area shape="rect" id="node16" href="$structpdal_1_1LasUtils_1_1error.html" title="pdal::LasUtils::error" alt="" coords="189,836,325,863"/>
+<area shape="rect" id="node17" href="$structpdal_1_1MetadataReader_1_1error.html" title="pdal::MetadataReader\l::error" alt="" coords="182,887,333,929"/>
+<area shape="rect" id="node18" href="$structpdal_1_1NitfFileReader_1_1error.html" title="pdal::NitfFileReader\l::error" alt="" coords="188,953,327,994"/>
+<area shape="rect" id="node19" href="$structpdal_1_1NitfFileWriter_1_1error.html" title="pdal::NitfFileWriter\l::error" alt="" coords="192,1018,323,1059"/>
+<area shape="rect" id="node20" href="$classpdal_1_1nitfwrap_1_1error.html" title="pdal::nitfwrap::error" alt="" coords="190,1084,325,1111"/>
+<area shape="rect" id="node21" href="$classpdal_1_1pdal__error.html" title="pdal::pdal_error" alt="" coords="202,1135,313,1161"/>
+<area shape="rect" id="node22" href="$classpdal_1_1connection__failed.html" title="pdal::connection_failed" alt="" coords="411,1135,565,1161"/>
+</map>

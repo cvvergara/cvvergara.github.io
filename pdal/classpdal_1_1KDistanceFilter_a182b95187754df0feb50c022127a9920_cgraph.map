@@ -1,0 +1,10 @@
+<map id="pdal::KDistanceFilter::filter" name="pdal::KDistanceFilter::filter">
+<area shape="rect" id="node2" href="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26" title="pdal::KDIndex::build" alt="" coords="219,5,359,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1KD3Index.html#a577954cbca70ecf9a470b8e1cc6315a2" title="pdal::KD3Index::knnSearch" alt="" coords="197,56,380,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="232,107,345,133"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PointView.html#a7931019cfba92e9c3a93592a2fbf4a0f" title="pdal::PointView::setField" alt="" coords="205,157,372,184"/>
+<area shape="rect" id="node9" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="216,208,361,235"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="466,91,625,133"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="467,157,623,184"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="428,208,663,235"/>
+</map>

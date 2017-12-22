@@ -1,0 +1,7 @@
+<map id="pdal::DummyPlugin::initPlugin" name="pdal::DummyPlugin::initPlugin">
+<area shape="rect" id="node2" href="$structpdal_1_1DummyPlugin.html#ae0928daab10dcbca33da45226babe682" title="pdal::DummyPlugin::\lcreate" alt="" coords="197,5,341,47"/>
+<area shape="rect" id="node3" href="$structpdal_1_1DummyPlugin.html#a6f7943bdc669afebe4968c94e81bf55f" title="pdal::DummyPlugin::\ldestroy" alt="" coords="197,71,341,112"/>
+<area shape="rect" id="node4" href="$structpdal_1_1DummyPlugin.html#affaf768507934c924ea03f70f20d58c2" title="pdal::DummyPlugin::\ldummyExitFunc" alt="" coords="197,136,341,177"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PluginManager.html#a2e1fa05ad3273dc942d320f3e7a0c8c4" title="pdal::PluginManager\l::registerObject" alt="" coords="199,201,339,243"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PluginManager.html#a6849a33d6f155863a87804d29b0a29a8" title="pdal::PluginManager\l::l_registerObject" alt="" coords="389,201,529,243"/>
+</map>

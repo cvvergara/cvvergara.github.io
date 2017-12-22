@@ -1,0 +1,18 @@
+<map id="pdal::Kernel" name="pdal::Kernel">
+<area shape="rect" id="node2" href="$classpdal_1_1DeltaKernel.html" title="pdal::DeltaKernel" alt="" coords="157,5,279,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1DensityKernel.html" title="pdal::DensityKernel" alt="" coords="150,56,286,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1DiffKernel.html" title="pdal::DiffKernel" alt="" coords="162,107,274,133"/>
+<area shape="rect" id="node5" href="$classpdal_1_1GroundKernel.html" title="pdal::GroundKernel" alt="" coords="151,157,285,184"/>
+<area shape="rect" id="node6" href="$classpdal_1_1HausdorffKernel.html" title="pdal::HausdorffKernel" alt="" coords="144,208,292,235"/>
+<area shape="rect" id="node7" href="$classpdal_1_1InfoKernel.html" title="pdal::InfoKernel" alt="" coords="161,259,275,285"/>
+<area shape="rect" id="node8" href="$classpdal_1_1MergeKernel.html" title="pdal::MergeKernel" alt="" coords="155,309,281,336"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MyKernel.html" title="pdal::MyKernel" alt="" coords="163,360,273,387"/>
+<area shape="rect" id="node10" href="$classpdal_1_1PCLKernel.html" title="pdal::PCLKernel" alt="" coords="159,411,277,437"/>
+<area shape="rect" id="node11" href="$classpdal_1_1PipelineKernel.html" title="pdal::PipelineKernel" alt="" coords="149,461,287,488"/>
+<area shape="rect" id="node12" href="$classpdal_1_1RandomKernel.html" title="pdal::RandomKernel" alt="" coords="148,512,288,539"/>
+<area shape="rect" id="node13" href="$classpdal_1_1SmoothKernel.html" title="pdal::SmoothKernel" alt="" coords="150,563,286,589"/>
+<area shape="rect" id="node14" href="$classpdal_1_1SortKernel.html" title="pdal::SortKernel" alt="" coords="161,613,275,640"/>
+<area shape="rect" id="node15" href="$classpdal_1_1SplitKernel.html" title="pdal::SplitKernel" alt="" coords="159,664,277,691"/>
+<area shape="rect" id="node16" href="$classpdal_1_1TIndexKernel.html" title="pdal::TIndexKernel" alt="" coords="153,715,283,741"/>
+<area shape="rect" id="node17" href="$classpdal_1_1TranslateKernel.html" title="pdal::TranslateKernel" alt="" coords="145,765,291,792"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="pdal::LasWriter::addPipelineVlr" name="pdal::LasWriter::addPipelineVlr">
+<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="255,63,409,90"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="457,5,624,47"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="275,114,389,141"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1PipelineWriter.html#ae63bae8c6ef7bc4260f70d19bf9948b7" title="pdal::PipelineWriter\l::writePipeline" alt="" coords="265,165,399,207"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="463,71,619,98"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="672,71,821,98"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#afc186e6df66a9d8e26b8d434d7eb9be5" title="pdal::Utils::createFile" alt="" coords="467,147,614,174"/>
+<area shape="rect" id="node10" href="$namespacepdal_1_1Utils.html#aad48cdff8e3ff3d13c7a273583870185" title="pdal::Utils::closeFile" alt="" coords="470,198,611,225"/>
+<area shape="rect" id="node9" href="$SQLiteTest_8cpp.html#afdd1742979cee35fe1879794bd7ff3a4" title="tempFilename" alt="" coords="695,147,799,174"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Utils.html#a6ce7036b0912ba81b1f1a876b2772a34" title="pdal::Utils::closeFile" alt="" coords="676,198,817,225"/>
+</map>

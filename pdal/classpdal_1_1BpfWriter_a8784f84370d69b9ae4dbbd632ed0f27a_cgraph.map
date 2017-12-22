@@ -1,0 +1,11 @@
+<map id="pdal::BpfWriter::writeByteMajor" name="pdal::BpfWriter::writeByteMajor">
+<area shape="rect" id="node2" href="$classpdal_1_1BpfWriter.html#a3a14953a8baa61b81bae32286441f2cd" title="pdal::BpfWriter::getAdjusted\lValue" alt="" coords="225,89,412,131"/>
+<area shape="rect" id="node9" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="246,155,391,182"/>
+<area shape="rect" id="node10" href="$classpdal_1_1BpfCompressor.html#a906a2f20c37d1ef06fde968a4e43945f" title="pdal::BpfCompressor\l::startBlock" alt="" coords="246,207,391,248"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointView.html#a4c594a6d2a469e594988194ccf125a15" title="pdal::PointView::getFieldAs" alt="" coords="460,97,643,123"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="729,5,887,47"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="727,71,889,98"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="730,122,886,149"/>
+<area shape="rect" id="node8" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="691,173,925,199"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="973,71,1101,98"/>
+</map>

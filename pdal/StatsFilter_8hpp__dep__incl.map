@@ -1,0 +1,11 @@
+<map id="pdal/filters/StatsFilter.hpp" name="pdal/filters/StatsFilter.hpp">
+<area shape="rect" id="node2" href="$ColorinterpFilter_8hpp.html" title="pdal/filters/Colorinterp\lFilter.hpp" alt="" coords="211,80,360,121"/>
+<area shape="rect" id="node4" href="$StageFactory_8cpp.html" title="pdal/pdal/StageFactory.cpp" alt="" coords="373,177,555,203"/>
+<area shape="rect" id="node6" href="$StatsFilter_8cpp.html" title="pdal/filters/StatsFilter.cpp" alt="" coords="479,87,649,114"/>
+<area shape="rect" id="node7" href="$PythonFilterTest_8cpp.html" title="pdal/plugins/python\l/test/PythonFilterTest.cpp" alt="" coords="673,80,847,121"/>
+<area shape="rect" id="node8" href="$CropFilterTest_8cpp.html" title="pdal/test/unit/filters\l/CropFilterTest.cpp" alt="" coords="871,80,1006,121"/>
+<area shape="rect" id="node9" href="$StatsFilterTest_8cpp.html" title="pdal/test/unit/filters\l/StatsFilterTest.cpp" alt="" coords="1030,80,1167,121"/>
+<area shape="rect" id="node10" href="$BufferTest_8cpp.html" title="pdal/test/unit/io/Buffer\lTest.cpp" alt="" coords="1191,80,1342,121"/>
+<area shape="rect" id="node3" href="$ColorinterpFilter_8cpp.html" title="pdal/filters/Colorinterp\lFilter.cpp" alt="" coords="5,169,155,211"/>
+<area shape="rect" id="node5" href="$ColorinterpFilterTest_8cpp.html" title="pdal/test/unit/filters\l/ColorinterpFilterTest.cpp" alt="" coords="179,169,349,211"/>
+</map>

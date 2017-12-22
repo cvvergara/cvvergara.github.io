@@ -1,0 +1,11 @@
+digraph "pdal/examples/writing-kernel" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_0ec5a5f8bb95ee937593e134d46882c3 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="examples" fontname="Helvetica", fontsize="10", URL="dir_0ec5a5f8bb95ee937593e134d46882c3.html"]
+  dir_afe61dee87cbe2137b77132f5738cb16 [shape=box, label="writing-kernel", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_afe61dee87cbe2137b77132f5738cb16.html"];
+  }
+  dir_37e2adedb6e706efcbfadb5213756005 [shape=box label="pdal" fillcolor="white" style="filled" color="red" URL="dir_37e2adedb6e706efcbfadb5213756005.html"];
+  dir_afe61dee87cbe2137b77132f5738cb16->dir_37e2adedb6e706efcbfadb5213756005 [headlabel="8", labeldistance=1.5 headhref="dir_000038_000050.html"];
+}

@@ -1,0 +1,11 @@
+<map id="pdal::MetadataNode::clone" name="pdal::MetadataNode::clone">
+<area shape="rect" id="node2" href="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5" title="pdal::InfoKernel::dump" alt="" coords="431,36,584,62"/>
+<area shape="rect" id="node3" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="632,61,771,88"/>
+<area shape="rect" id="node5" href="$classpdal_1_1InfoKernel.html#ae3390441d7172ddfee191dddef7c2fce" title="pdal::InfoKernel::dumpPoints" alt="" coords="192,36,383,62"/>
+<area shape="rect" id="node6" href="$classpdal_1_1PipelineExecutor.html#a866c8b7df2dbd37c969d5ad4f964e256" title="pdal::PipelineExecutor\l::getMetadata" alt="" coords="211,138,363,179"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PipelineExecutor.html#a9e29a5c7ed214f566efd7524b11d2ade" title="pdal::PipelineExecutor\l::getSchema" alt="" coords="211,203,363,244"/>
+<area shape="rect" id="node8" href="$classpdal_1_1mlang_1_1Script.html#afbb1ef33651f4742aad98f4acc51a572" title="pdal::mlang::Script\l::setMatlabStruct" alt="" coords="222,268,353,310"/>
+<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="819,61,985,88"/>
+<area shape="rect" id="node9" href="$classpdal_1_1MatlabFilter.html#a8936067bb62fb503d654703fb4dbb45a" title="pdal::MatlabFilter::run" alt="" coords="433,246,581,273"/>
+<area shape="rect" id="node10" href="$classpdal_1_1MatlabWriter.html#a96ed356ff0f2ae0276cbdbb050be13b6" title="pdal::MatlabWriter\l::write" alt="" coords="443,298,571,339"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pdal::DbReader" name="pdal::DbReader">
+<area shape="rect" id="node4" href="$classpdal_1_1OciReader.html" title="pdal::OciReader" alt="" coords="5,229,121,256"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PgReader.html" title="pdal::PgReader" alt="" coords="146,229,258,256"/>
+<area shape="rect" id="node6" href="$classpdal_1_1SQLiteReader.html" title="pdal::SQLiteReader" alt="" coords="282,229,418,256"/>
+<area shape="rect" id="node2" href="$classpdal_1_1Reader.html" title="pdal::Reader" alt="" coords="154,80,250,107"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="158,5,246,32"/>
+</map>

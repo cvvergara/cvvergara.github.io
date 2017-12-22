@@ -1,0 +1,7 @@
+<map id="pdal::ColorPointViewSource" name="pdal::ColorPointViewSource">
+<area shape="rect" id="node3" href="$classpdal_1_1PointView.html" title="pdal::PointView" alt="" coords="153,184,267,211"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PointContainer.html" title="pdal::PointContainer" alt="" coords="29,5,169,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1BasePointTable.html" title="pdal::BasePointTable" alt="" coords="137,95,283,121"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="307,95,462,121"/>
+<area shape="rect" id="node7" href="$classpdal_1_1PointLayout.html" title="pdal::PointLayout" alt="" coords="194,5,317,32"/>
+</map>

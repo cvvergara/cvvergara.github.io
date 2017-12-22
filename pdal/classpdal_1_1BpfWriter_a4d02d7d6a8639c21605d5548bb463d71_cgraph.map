@@ -1,0 +1,22 @@
+<map id="pdal::BpfWriter::readyFile" name="pdal::BpfWriter::readyFile">
+<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="278,5,391,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1OStream.html#a920707bd9154357cb501a562ba8c1150" title="pdal::OStream::open" alt="" coords="263,56,406,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OStream.html#abf21d16669c04d4eaea2c09c1537d4b6" title="pdal::OStream::position" alt="" coords="255,107,414,133"/>
+<area shape="rect" id="node5" href="$classpdal_1_1OStream.html#ae1e8327478f6e16d6f0ec19d876106b5" title="pdal::OStream::put" alt="" coords="719,477,851,504"/>
+<area shape="rect" id="node6" href="$structpdal_1_1BpfHeader.html#a4773981ebff84959f7f8d0bdfc599e4a" title="pdal::BpfHeader::setLog" alt="" coords="253,208,416,235"/>
+<area shape="rect" id="node9" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="257,259,413,285"/>
+<area shape="rect" id="node11" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="265,157,404,184"/>
+<area shape="rect" id="node14" href="$structpdal_1_1BpfHeader.html#a33e1ec7609b7e8433ca8c08f3f8118c7" title="pdal::BpfHeader::trySetSpatial\lReference" alt="" coords="235,310,434,351"/>
+<area shape="rect" id="node17" href="$structpdal_1_1BpfHeader.html#a651562f547379244c51f64a4f4b93861" title="pdal::BpfHeader::write" alt="" coords="259,376,411,403"/>
+<area shape="rect" id="node20" href="$structpdal_1_1BpfHeader.html#a2ffa30716b4a92cb219a8a25a40c1fd7" title="pdal::BpfHeader::writeDimensions" alt="" coords="224,532,445,559"/>
+<area shape="rect" id="node7" href="$structpdal_1_1BpfMuellerMatrix.html#ab9aa8cc9bfc3a3241c5969c331d158b6" title="pdal::BpfMuellerMatrix\l::dump" alt="" coords="499,193,651,234"/>
+<area shape="rect" id="node8" href="$namespacehag.html#acad63bbd5fdda01bf56ff6aae70a0192" title="hag.read" alt="" coords="539,141,611,168"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="500,259,649,285"/>
+<area shape="rect" id="node12" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="500,91,649,117"/>
+<area shape="rect" id="node13" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="720,91,851,117"/>
+<area shape="rect" id="node15" href="$classpdal_1_1SpatialReference.html#a1f71ae779922dd7a0e23908a3b753046" title="pdal::SpatialReference\l::getUTMZone" alt="" coords="497,310,652,351"/>
+<area shape="rect" id="node16" href="$namespaceanonymous__namespace_02SpatialReference_8cpp_03.html#a7ce6a6a24c679904f24950377a0bb8bb" title="anonymous_namespace\l\{SpatialReference::cpp\}\l::ogrCreateSrs" alt="" coords="704,299,867,355"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="493,376,656,403"/>
+<area shape="rect" id="node19" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="721,379,849,405"/>
+<area shape="rect" id="node21" href="$structpdal_1_1BpfDimension.html#afd1f96cc40691174f7f14c865838f200" title="pdal::BpfDimension\l::write" alt="" coords="507,529,643,570"/>
+</map>

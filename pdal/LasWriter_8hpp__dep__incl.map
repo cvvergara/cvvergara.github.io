@@ -1,0 +1,14 @@
+<map id="pdal/io/LasWriter.hpp" name="pdal/io/LasWriter.hpp">
+<area shape="rect" id="node2" href="$LasWriter_8cpp.html" title="pdal/io/LasWriter.cpp" alt="" coords="5,87,151,114"/>
+<area shape="rect" id="node3" href="$StageFactory_8cpp.html" title="pdal/pdal/StageFactory.cpp" alt="" coords="175,87,357,114"/>
+<area shape="rect" id="node4" href="$MrsidTest_8cpp.html" title="pdal/plugins/mrsid\l/test/MrsidTest.cpp" alt="" coords="381,80,516,121"/>
+<area shape="rect" id="node5" href="$NitfWriter_8hpp.html" title="pdal/plugins/nitf/io\l/NitfWriter.hpp" alt="" coords="540,80,667,121"/>
+<area shape="rect" id="node7" href="$NitfReaderTest_8cpp.html" title="pdal/plugins/nitf/test\l/NitfReaderTest.cpp" alt="" coords="691,80,831,121"/>
+<area shape="rect" id="node8" href="$AdditionalMergeTest_8cpp.html" title="pdal/test/unit/filters\l/AdditionalMergeTest.cpp" alt="" coords="855,80,1026,121"/>
+<area shape="rect" id="node9" href="$ChipperTest_8cpp.html" title="pdal/test/unit/filters\l/ChipperTest.cpp" alt="" coords="1050,80,1183,121"/>
+<area shape="rect" id="node10" href="$SortFilterTest_8cpp.html" title="pdal/test/unit/filters\l/SortFilterTest.cpp" alt="" coords="1207,80,1341,121"/>
+<area shape="rect" id="node11" href="$LasWriterTest_8cpp.html" title="pdal/test/unit/io/LasWriter\lTest.cpp" alt="" coords="1365,80,1535,121"/>
+<area shape="rect" id="node12" href="$TextReaderTest_8cpp.html" title="pdal/test/unit/io/TextReader\lTest.cpp" alt="" coords="1560,80,1743,121"/>
+<area shape="rect" id="node13" href="$SpatialReferenceTest_8cpp.html" title="pdal/test/unit/SpatialReference\lTest.cpp" alt="" coords="1767,80,1968,121"/>
+<area shape="rect" id="node6" href="$NitfWriter_8cpp.html" title="pdal/plugins/nitf/io\l/NitfWriter.cpp" alt="" coords="540,169,667,211"/>
+</map>

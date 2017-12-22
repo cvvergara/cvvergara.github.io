@@ -1,0 +1,5 @@
+<map id="pdal::MyReader::MyReader" name="pdal::MyReader::MyReader">
+<area shape="rect" id="node2" href="$classpdal_1_1MyReader.html#ab1a18ddbfdd423ddd5dcd7187f13af87" title="pdal::MyReader::create" alt="" coords="244,5,403,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1MyReader.html#ad731ec69f730d1f5b61c7f707036f232" title="pdal::MyReader::destroy" alt="" coords="241,56,406,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MyReader.html#a2698a24f712f581c23cd067f19f4e633" title="pdal::MyReader::getName" alt="" coords="236,107,411,133"/>
+</map>

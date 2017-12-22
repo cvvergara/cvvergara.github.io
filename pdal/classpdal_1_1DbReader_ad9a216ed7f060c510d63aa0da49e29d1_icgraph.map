@@ -1,0 +1,5 @@
+<map id="pdal::DbReader::dimOffset" name="pdal::DbReader::dimOffset">
+<area shape="rect" id="node2" href="$classpdal_1_1OciReader.html#a7dd48b4b3611f5454f1987e3f4bd5173" title="pdal::OciReader::seekDim\lMajor" alt="" coords="232,5,408,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1OciReader.html#a0eabcf13dadb1f8adea54c91c86eb2bc" title="pdal::OciReader::readDim\lMajor" alt="" coords="456,5,629,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b" title="pdal::OciReader::read" alt="" coords="677,13,827,39"/>
+</map>

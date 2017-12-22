@@ -1,0 +1,10 @@
+<map id="pdal::LasWriter::addGeotiffVlrs" name="pdal::LasWriter::addGeotiffVlrs">
+<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="255,21,409,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="463,71,619,98"/>
+<area shape="rect" id="node6" href="$classpdal_1_1GeotiffTags.html#a5969967f7e7bf6a718c06c2b44551508" title="pdal::GeotiffTags::\lasciiData" alt="" coords="267,123,397,164"/>
+<area shape="rect" id="node7" href="$classpdal_1_1GeotiffTags.html#adbec61285049ac16f4470e60141c5cdf" title="pdal::GeotiffTags::\ldirectoryData" alt="" coords="267,188,397,229"/>
+<area shape="rect" id="node8" href="$classpdal_1_1GeotiffTags.html#a775dbd788ad9782b69afa95be3153c33" title="pdal::GeotiffTags::\ldoublesData" alt="" coords="267,253,397,295"/>
+<area shape="rect" id="node9" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="255,319,409,360"/>
+<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="457,5,624,47"/>
+<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="672,71,821,98"/>
+</map>

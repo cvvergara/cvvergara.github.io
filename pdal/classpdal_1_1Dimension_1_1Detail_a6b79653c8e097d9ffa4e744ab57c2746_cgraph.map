@@ -1,0 +1,6 @@
+<map id="pdal::Dimension::Detail::base" name="pdal::Dimension::Detail::base">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#ab9491687b8700d1db27e0aba1fcd7143" title="pdal::Dimension::base" alt="" coords="212,13,364,39"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="412,13,551,39"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="599,13,748,39"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="796,13,927,39"/>
+</map>

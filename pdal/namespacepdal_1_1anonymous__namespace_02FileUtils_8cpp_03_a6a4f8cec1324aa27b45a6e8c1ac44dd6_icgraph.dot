@@ -1,0 +1,23 @@
+digraph "pdal::anonymous_namespace{FileUtils::cpp}::isStdout"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdout",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::FileUtils::createFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1FileUtils.html#a5d7b6d46e6a7e128e47d6afcae341f0e"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::MyWriter::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MyWriter.html#a9492c8ffbaee5849212bb6fd3f944374"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::MyWriter::MyWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MyWriter.html#a7a1ec3d8ebe4b4602537edecf4a00e4b"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::TranslateKernel\l::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TranslateKernel.html#a29dcfe64f27066795c729465ffbef49c"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#aa06938168593f61abd59b9a856423fe5"];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$FileUtilsTest_8cpp.html#a3ed972b865f5ecc3d9b7851abfcea2ea"];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::nitfwrap::NitfWrap\l::unwrap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1nitfwrap_1_1NitfWrap.html#a427c1cc359051aed8f90ec5ba317de89"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::nitfwrap::NitfWrap\l::NitfWrap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1nitfwrap_1_1NitfWrap.html#a507defc6c08af645c161ee875c58374a"];
+}

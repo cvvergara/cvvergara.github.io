@@ -1,0 +1,15 @@
+digraph "pdal::BpfCompressor::finish"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::BpfCompressor\l::finish",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::BpfCompressor\l::BpfCompressor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfCompressor.html#a20efaa02ca6b8d792f8d9f7ff782d6a2"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::BpfCompressor\l::error::error",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1BpfCompressor_1_1error.html#aa63b769789b7118bd65a557ef6d1c489"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::BpfWriter::writeDim\lMajor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfWriter.html#a28a12ad585ecfe6f9b21129c435184d4"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::BpfWriter::writeView",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfWriter.html#a71c9a5ddf2ceb9ccbdeff31b01c366c2"];
+}

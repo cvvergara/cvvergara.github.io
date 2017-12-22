@@ -1,0 +1,37 @@
+digraph "pdal::Stage::setSpatialReference"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::Stage::setSpatialReference",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::OciReader::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OciReader.html#a665cc5d7bbfece9e645f6e33144f4b5e"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::GreyhoundReader\l::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1GreyhoundReader.html#a8de7bca7fcc347b493a0585832801a52"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::GDALReader::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1GDALReader.html#a5940fc111395752b5a43f7c4b192dc83"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::GDALReader::inspect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1GDALReader.html#a61d15f0c8fc1669ae2df2fe16914e80e"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::MatlabReader\l::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MatlabReader.html#a692fe41e60eeb4ef5b30d06edbf926e2"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::SQLiteReader\l::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SQLiteReader.html#a0fcad21ff1a970222e0123ee62610a7a"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::TIndexReader\l::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexReader.html#a441e8f1f37ac3ac418c6d1a7144bf8cd"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::BpfReader::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#ab7dd5387cb7f88c2c5bbbc1d4838be50"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::BpfReader::inspect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1BpfReader.html#accb0283f384ad927abc5f37881be748c"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::Ilvis2Reader\l::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Ilvis2Reader.html#a506273c16d7e431273181a9d2fd2b736"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::PgReader::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PgReader.html#aa331a66a5721b67033658624135914d5"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::LasWriter::initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasWriter.html#ac06df277822c359343f95003bfda9cce"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::OptechReader\l::OptechReader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OptechReader.html#a8181f6887536f9c2a6662d22547a6bcc"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pdal::MyReader::ready",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MyReader.html#ab17c15f96ef6c3e9de0b421e4c479a10"];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SpatialReferenceTest_8cpp.html#af32310dad64635513e757242395d28e9"];
+}

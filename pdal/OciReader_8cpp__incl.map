@@ -1,0 +1,29 @@
+<map id="pdal/plugins/oci/io/OciReader.cpp" name="pdal/plugins/oci/io/OciReader.cpp">
+<area shape="rect" id="node2" href="$pdal__macros_8hpp.html" title="pdal/pdal_macros.hpp" alt="" coords="156,102,305,129"/>
+<area shape="rect" id="node26" href="$GDALUtils_8hpp.html" title="pdal/GDALUtils.hpp" alt="" coords="1123,184,1261,211"/>
+<area shape="rect" id="node37" href="$PDALUtils_8hpp.html" title="pdal/PDALUtils.hpp" alt="" coords="1937,184,2074,211"/>
+<area shape="rect" id="node43" href="$LazPerfCompression_8hpp.html" title="pdal/compression/LazPerf\lCompression.hpp" alt="" coords="1476,95,1649,136"/>
+<area shape="rect" id="node44" href="$FileUtils_8hpp.html" title="pdal/util/FileUtils.hpp" alt="" coords="796,483,940,509"/>
+<area shape="rect" id="node46" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="1826,408,1998,435"/>
+<area shape="rect" id="node47" href="$OciReader_8hpp.html" title="OciReader.hpp" alt="" coords="1807,259,1916,285"/>
+<area shape="rect" id="node3" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="369,408,511,435"/>
+<area shape="rect" id="node5" href="$plugin_8hpp.html" title="pdal/plugin.hpp" alt="" coords="43,333,152,360"/>
+<area shape="rect" id="node8" href="$PluginManager_8hpp.html" title="pdal/PluginManager.hpp" alt="" coords="261,184,422,211"/>
+<area shape="rect" id="node4" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="333,483,467,509"/>
+<area shape="rect" id="node9" href="$Log_8hpp.html" title="pdal/Log.hpp" alt="" coords="208,259,304,285"/>
+<area shape="rect" id="node13" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="407,333,555,360"/>
+<area shape="rect" id="node23" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="559,557,681,584"/>
+<area shape="rect" id="node15" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="749,408,888,435"/>
+<area shape="rect" id="node19" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="1065,483,1188,509"/>
+<area shape="rect" id="node24" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1393,557,1532,584"/>
+<area shape="rect" id="node27" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="935,333,1073,360"/>
+<area shape="rect" id="node29" href="$SpatialReference_8hpp.html" title="pdal/SpatialReference.hpp" alt="" coords="430,259,605,285"/>
+<area shape="rect" id="node30" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="1263,483,1403,509"/>
+<area shape="rect" id="node28" href="$DimUtil_8hpp.html" title="pdal/DimUtil.hpp" alt="" coords="969,408,1087,435"/>
+<area shape="rect" id="node38" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="1941,259,2070,285"/>
+<area shape="rect" id="node39" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="1732,483,1823,509"/>
+<area shape="rect" id="node40" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="1847,483,1947,509"/>
+<area shape="rect" id="node48" href="$DbReader_8hpp.html" title="pdal/DbReader.hpp" alt="" coords="1794,333,1929,360"/>
+<area shape="rect" id="node49" href="$StageFactory_8hpp.html" title="pdal/StageFactory.hpp" alt="" coords="1250,333,1403,360"/>
+<area shape="rect" id="node50" href="$OciCommon_8hpp.html" title="OciCommon.hpp" alt="" coords="1631,408,1751,435"/>
+</map>

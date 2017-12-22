@@ -1,0 +1,8 @@
+<map id="pdal::SpatialReference::toMetadata" name="pdal::SpatialReference::toMetadata">
+<area shape="rect" id="node2" href="$classpdal_1_1plang_1_1Invocation.html#adfe14b064df9a0d4dcf2d1da8a7cb1d8" title="pdal::plang::Invocation\l::begin" alt="" coords="239,5,392,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#a1565940c4cc3d85bc60bec4c25ba594e" title="pdal::InfoKernel::dumpSummary" alt="" coords="211,71,420,98"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a41a9256cb192960a1f5f172897e52e65" title="pdal::Stage::setSpatialReference" alt="" coords="208,122,423,149"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="471,13,621,39"/>
+<area shape="rect" id="node5" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="477,71,615,98"/>
+<area shape="rect" id="node6" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="669,71,836,98"/>
+</map>

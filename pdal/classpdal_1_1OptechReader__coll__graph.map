@@ -1,0 +1,13 @@
+<map id="pdal::OptechReader" name="pdal::OptechReader">
+<area shape="rect" id="node2" href="$classpdal_1_1Reader.html" title="pdal::Reader" alt="" coords="589,81,685,108"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="339,56,427,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="13,5,152,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="33,107,132,133"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Arg.html" title="pdal::Arg" alt="" coords="345,107,420,133"/>
+<area shape="rect" id="node8" href="$namespacepdal.html#structpdal_1_1CsdPulse" title="pdal::CsdPulse" alt="" coords="581,132,692,159"/>
+<area shape="rect" id="node9" href="$structpdal_1_1georeference_1_1RotationMatrix.html" title="pdal::georeference\l::RotationMatrix" alt="" coords="572,183,701,225"/>
+<area shape="rect" id="node10" href="$classpdal_1_1LeExtractor.html" title="pdal::LeExtractor" alt="" coords="576,249,697,276"/>
+<area shape="rect" id="node11" href="$classpdal_1_1Extractor.html" title="pdal::Extractor" alt="" coords="329,249,436,276"/>
+<area shape="rect" id="node12" href="$namespacepdal.html#structpdal_1_1CsdHeader" title="pdal::CsdHeader" alt="" coords="577,300,697,327"/>
+</map>

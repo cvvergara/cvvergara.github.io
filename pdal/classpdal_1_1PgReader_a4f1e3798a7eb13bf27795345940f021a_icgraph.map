@@ -1,0 +1,5 @@
+<map id="pdal::PgReader::fetchPcid" name="pdal::PgReader::fetchPcid">
+<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a6fa8390ac8d95f40ca2779be4b613f43" title="pdal::PgReader::addDimensions" alt="" coords="228,5,439,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PgReader.html#a6d1ac1156668e0f5f795f959ab8cd41c" title="pdal::PgReader::fetchSpatial\lReference" alt="" coords="239,57,428,98"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PgReader.html#aa331a66a5721b67033658624135914d5" title="pdal::PgReader::initialize" alt="" coords="487,64,653,91"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pdal::TextReader::fillFields" name="pdal::TextReader::fillFields">
+<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="241,5,355,32"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#ad875f14218020d7d4d10803f5a115bdb" title="pdal::Utils::remove" alt="" coords="232,56,364,83"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a7c0bdff1817c4b21e6f5b37dc8fabff5" title="pdal::Utils::split" alt="" coords="241,107,355,133"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a6ae33c6d7b4eb4bcae6ec17fb8cc04fc" title="pdal::Utils::split2" alt="" coords="238,157,358,184"/>
+</map>

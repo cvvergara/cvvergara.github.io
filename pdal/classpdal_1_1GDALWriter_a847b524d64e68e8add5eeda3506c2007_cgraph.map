@@ -1,0 +1,7 @@
+<map id="pdal::GDALWriter::readyFile" name="pdal::GDALWriter::readyFile">
+<area shape="rect" id="node2" href="$classpdal_1_1GDALWriter.html#af7010cb9a005dcdabff3a65d9d2d06f5" title="pdal::GDALWriter::createGrid" alt="" coords="240,5,433,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Bounds.html#afd2e46aeca01bdb8ce8efa7538adc212" title="pdal::Bounds::to2d" alt="" coords="271,56,402,83"/>
+<area shape="rect" id="node5" href="$classpdal_1_1BOX2D.html#a8d64f8d4736110d7053ab4051a822745" title="pdal::BOX2D::valid" alt="" coords="269,107,404,133"/>
+<area shape="rect" id="node4" href="$classpdal_1_1BOX3D.html#a2d5d7874dc81428fb8435721348654e0" title="pdal::BOX3D::to2d" alt="" coords="487,56,619,83"/>
+<area shape="rect" id="node6" href="$classpdal_1_1BOX2D.html#aec5fae5f73a34a1d4248d596cad77755" title="pdal::BOX2D::empty" alt="" coords="481,107,624,133"/>
+</map>

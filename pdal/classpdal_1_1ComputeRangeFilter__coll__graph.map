@@ -1,0 +1,7 @@
+<map id="pdal::ComputeRangeFilter" name="pdal::ComputeRangeFilter">
+<area shape="rect" id="node2" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="204,171,287,197"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="201,95,289,121"/>
+<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="348,5,447,32"/>
+</map>

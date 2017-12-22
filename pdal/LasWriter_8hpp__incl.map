@@ -1,0 +1,37 @@
+<map id="pdal/io/LasWriter.hpp" name="pdal/io/LasWriter.hpp">
+<area shape="rect" id="node2" href="$plugin_8hpp.html" title="pdal/plugin.hpp" alt="" coords="2338,468,2447,495"/>
+<area shape="rect" id="node7" href="$FlexWriter_8hpp.html" title="pdal/FlexWriter.hpp" alt="" coords="1192,87,1327,114"/>
+<area shape="rect" id="node38" href="$LazPerfCompression_8hpp.html" title="pdal/compression/LazPerf\lCompression.hpp" alt="" coords="2655,80,2829,121"/>
+<area shape="rect" id="node39" href="$HeaderVal_8hpp.html" title="HeaderVal.hpp" alt="" coords="2372,169,2480,196"/>
+<area shape="rect" id="node40" href="$LasError_8hpp.html" title="LasError.hpp" alt="" coords="34,319,130,345"/>
+<area shape="rect" id="node42" href="$LasHeader_8hpp.html" title="LasHeader.hpp" alt="" coords="2027,319,2137,345"/>
+<area shape="rect" id="node47" href="$LasUtils_8hpp.html" title="LasUtils.hpp" alt="" coords="1780,319,1875,345"/>
+<area shape="rect" id="node48" href="$LasSummaryData_8hpp.html" title="LasSummaryData.hpp" alt="" coords="2158,244,2310,271"/>
+<area shape="rect" id="node4" href="$pdal__export_8hpp.html" title="pdal/pdal_export.hpp" alt="" coords="1563,543,1705,569"/>
+<area shape="rect" id="node5" href="$pdal__defines_8h.html" title="pdal/pdal_defines.h" alt="" coords="1567,617,1701,644"/>
+<area shape="rect" id="node8" href="$PDALUtils_8hpp.html" title="pdal/PDALUtils.hpp" alt="" coords="1480,319,1617,345"/>
+<area shape="rect" id="node29" href="$Scaling_8hpp.html" title="pdal/Scaling.hpp" alt="" coords="676,244,795,271"/>
+<area shape="rect" id="node33" href="$Writer_8hpp.html" title="pdal/Writer.hpp" alt="" coords="915,169,1025,196"/>
+<area shape="rect" id="node9" href="$Metadata_8hpp.html" title="pdal/Metadata.hpp" alt="" coords="800,393,929,420"/>
+<area shape="rect" id="node23" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="1831,543,1922,569"/>
+<area shape="rect" id="node24" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="1947,543,2047,569"/>
+<area shape="rect" id="node25" href="$Dimension_8hpp.html" title="pdal/Dimension.hpp" alt="" coords="1308,468,1445,495"/>
+<area shape="rect" id="node10" href="$pdal__internal_8hpp.html" title="pdal/pdal_internal.hpp" alt="" coords="1136,468,1284,495"/>
+<area shape="rect" id="node13" href="$Utils_8hpp.html" title="pdal/util/Utils.hpp" alt="" coords="826,617,949,644"/>
+<area shape="rect" id="node21" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="1248,617,1388,644"/>
+<area shape="rect" id="node22" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="1949,468,2071,495"/>
+<area shape="rect" id="node11" href="$pdal__types_8hpp.html" title="pdal/pdal_types.hpp" alt="" coords="1103,543,1242,569"/>
+<area shape="rect" id="node19" href="$NullOStream_8hpp.html" title="NullOStream.hpp" alt="" coords="610,692,733,719"/>
+<area shape="rect" id="node20" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="1807,692,1946,719"/>
+<area shape="rect" id="node26" href="$DimUtil_8hpp.html" title="pdal/DimUtil.hpp" alt="" coords="1317,543,1436,569"/>
+<area shape="rect" id="node30" href="$PointView_8hpp.html" title="pdal/PointView.hpp" alt="" coords="903,319,1037,345"/>
+<area shape="rect" id="node32" href="$ProgramArgs_8hpp.html" title="pdal/util/ProgramArgs.hpp" alt="" coords="248,543,420,569"/>
+<area shape="rect" id="node31" href="$DimType_8hpp.html" title="pdal/DimType.hpp" alt="" coords="1157,393,1285,420"/>
+<area shape="rect" id="node34" href="$Options_8hpp.html" title="pdal/Options.hpp" alt="" coords="679,319,799,345"/>
+<area shape="rect" id="node35" href="$Stage_8hpp.html" title="pdal/Stage.hpp" alt="" coords="870,244,979,271"/>
+<area shape="rect" id="node36" href="$Log_8hpp.html" title="pdal/Log.hpp" alt="" coords="413,393,509,420"/>
+<area shape="rect" id="node41" href="$Algorithm_8hpp.html" title="pdal/util/Algorithm.hpp" alt="" coords="67,617,217,644"/>
+<area shape="rect" id="node44" href="$pdal__config_8hpp.html" title="pdal/pdal_config.hpp" alt="" coords="2314,393,2455,420"/>
+<area shape="rect" id="node45" href="$gitsha_8h.html" title="pdal/gitsha.h" alt="" coords="2042,393,2138,420"/>
+<area shape="rect" id="node46" href="$LasVLR_8hpp.html" title="LasVLR.hpp" alt="" coords="2104,617,2199,644"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="pdal::ColorinterpFilter::filter" name="pdal::ColorinterpFilter::filter">
+<area shape="rect" id="node2" href="$classpdal_1_1PointView.html#a4c594a6d2a469e594988194ccf125a15" title="pdal::PointView::getFieldAs" alt="" coords="422,118,605,145"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="694,71,850,98"/>
+<area shape="rect" id="node8" href="$classpdal_1_1ColorinterpFilter.html#ac1d163e9a9174046ced17484b03209c4" title="pdal::ColorinterpFilter\l::getName" alt="" coords="213,235,359,276"/>
+<area shape="rect" id="node9" href="$classpdal_1_1stats_1_1Summary.html#a28ca84037dcb80c315156525dfad8519" title="pdal::stats::Summary\l::insert" alt="" coords="213,300,359,341"/>
+<area shape="rect" id="node10" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="229,366,343,393"/>
+<area shape="rect" id="node11" href="$classpdal_1_1stats_1_1Summary.html#ae0c75116f5fb9073b0c28e36c336ed78" title="pdal::stats::Summary\l::maximum" alt="" coords="213,417,359,459"/>
+<area shape="rect" id="node12" href="$classpdal_1_1stats_1_1Summary.html#a66c315628ff60b33e548efb4886062f9" title="pdal::stats::Summary\l::minimum" alt="" coords="213,483,359,524"/>
+<area shape="rect" id="node13" href="$classpdal_1_1ColorinterpFilter.html#af33406ab12e7936d1665982caca8db18" title="pdal::ColorinterpFilter\l::processOne" alt="" coords="213,169,359,211"/>
+<area shape="rect" id="node20" href="$classpdal_1_1PointRef.html#af2252f383598b06c0756a6f0e9bad258" title="pdal::PointRef::setPointId" alt="" coords="200,549,372,575"/>
+<area shape="rect" id="node21" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="213,599,359,626"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="693,5,851,47"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="691,173,853,199"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="655,122,889,149"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="939,173,1067,199"/>
+<area shape="rect" id="node14" href="$classpdal_1_1Stage.html#a849ebe79eb3230aee7ca532e176044d4" title="pdal::Stage::throwStreaming\lError" alt="" coords="420,220,607,261"/>
+<area shape="rect" id="node15" href="$classpdal_1_1PointRef.html#a4038a597d11918978943e286d58cd4c5" title="pdal::PointRef::getFieldAs" alt="" coords="426,169,601,195"/>
+<area shape="rect" id="node19" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="434,286,593,313"/>
+<area shape="rect" id="node16" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="697,278,847,305"/>
+<area shape="rect" id="node18" href="$namespacepdal_1_1Utils.html#a9b5b9ef216d7036c7cb36d219af17925" title="pdal::Utils::toDouble" alt="" coords="701,223,843,250"/>
+<area shape="rect" id="node17" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="937,278,1068,305"/>
+</map>

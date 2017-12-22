@@ -1,0 +1,11 @@
+<map id="makeWriterOptions" name="makeWriterOptions">
+<area shape="rect" id="node2" href="$classpdal_1_1Options.html#a30826da39f9c4716412141eeeb719032" title="pdal::Options::add" alt="" coords="189,107,317,133"/>
+<area shape="rect" id="node9" href="$classSupport.html#a987d7adce1636b5852ff41a1d34d37bd" title="Support::temppath" alt="" coords="188,157,317,184"/>
+<area shape="rect" id="node3" href="$classpdal_1_1Option.html#aef4422b88464a9cad83b3c11bf1f8cdd" title="pdal::Option::nameValid" alt="" coords="365,56,527,83"/>
+<area shape="rect" id="node8" href="$classpdal_1_1Option.html#ad2b7a736742fb343e421fa326ef45c23" title="pdal::Option::getName" alt="" coords="369,107,523,133"/>
+<area shape="rect" id="node4" href="$classpdal_1_1Option.html#a978a36cf9180d3636ea770988961952b" title="pdal::Option::parse" alt="" coords="580,31,712,57"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#ada321695f57c876ef51227bdf5b84f7a" title="pdal::Utils::printError" alt="" coords="575,81,717,108"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="779,5,908,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="765,56,921,83"/>
+<area shape="rect" id="node10" href="$namespaceTestConfig.html#a0e622015f0610c2cfcbb3739b972d877" title="TestConfig::dataPath" alt="" coords="373,157,519,184"/>
+</map>

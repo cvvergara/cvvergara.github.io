@@ -1,0 +1,13 @@
+digraph "pdal::TIndexKernel::prepareGeometry"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::TIndexKernel\l::prepareGeometry",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::TIndexKernel\l::createFeature",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexKernel.html#a537134537ce3d8768886338a6c1f0b64"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::TIndexKernel\l::createFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexKernel.html#a4b8641b118372c9dc004ff4ed105a91e"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::TIndexKernel\l::execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1TIndexKernel.html#a607f1463d5518bbaa66662a905b48e51"];
+}

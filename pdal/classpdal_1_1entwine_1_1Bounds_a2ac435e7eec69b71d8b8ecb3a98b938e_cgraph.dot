@@ -1,0 +1,15 @@
+digraph "pdal::entwine::Bounds::intersection"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::entwine::Bounds\l::intersection",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::entwine::Bounds::max",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Bounds.html#ada24966b1e21a6118dae010ed1e24803"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::entwine::Point::max",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Point.html#a8c19e8439d9c8b310f743e694d72748f"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::entwine::Bounds::min",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Bounds.html#a84002d285e0f6bfeef4ace7f79b783c8"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::entwine::Point::min",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1entwine_1_1Point.html#aae561b2912250fcb6657376500651753"];
+}

@@ -1,0 +1,13 @@
+digraph "pdal::plang::operator&lt;&lt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::plang::operator\<\<",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::plang::Script\l::function",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Script.html#a82256718a3b0540097d2835cbb560f49"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::plang::Script\l::module",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Script.html#a900cb0cc7322c019ad4b469942d81d4e"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::plang::Script\l::source",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Script.html#a69609ef74093625b4a6721c7249857f9"];
+}

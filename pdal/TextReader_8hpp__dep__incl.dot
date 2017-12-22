@@ -1,0 +1,18 @@
+digraph "pdal/io/TextReader.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal/io/TextReader.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal/io/TextReader.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$TextReader_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal/pdal/StageFactory.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$StageFactory_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal/test/unit/filters\l/RangeFilterTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$RangeFilterTest_8cpp.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal/test/unit/io/GDALWriter\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$GDALWriterTest_8cpp.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal/test/unit/io/TextReader\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$TextReaderTest_8cpp.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal/test/unit/io/TextWriter\lTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$TextWriterTest_8cpp.html"];
+}

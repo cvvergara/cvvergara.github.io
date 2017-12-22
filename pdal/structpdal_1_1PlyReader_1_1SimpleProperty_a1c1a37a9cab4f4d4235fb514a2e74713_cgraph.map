@@ -1,0 +1,8 @@
+<map id="pdal::PlyReader::SimpleProperty::read" name="pdal::PlyReader::SimpleProperty::read">
+<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#a41e1d64be59b682e2d8e4b258cc4a083" title="pdal::Utils::extractDim" alt="" coords="268,5,421,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="265,56,424,83"/>
+<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="479,31,628,57"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="472,81,635,108"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="683,31,813,57"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="684,81,812,108"/>
+</map>

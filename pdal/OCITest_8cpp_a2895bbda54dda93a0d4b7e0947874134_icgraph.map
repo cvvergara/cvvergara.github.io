@@ -1,0 +1,10 @@
+<map id="writerOptions" name="writerOptions">
+<area shape="rect" id="node2" href="$classpdal_1_1PCLKernel.html#aab22ad378b4c29bbe5dd69ad6eb0c6ef" title="pdal::PCLKernel::execute" alt="" coords="152,5,323,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1SortKernel.html#a35de433cd919ac9fc87a957395323820" title="pdal::SortKernel::execute" alt="" coords="153,56,322,83"/>
+<area shape="rect" id="node4" href="$classpdal_1_1RandomKernel.html#ae101bc78cfab26709852a1ef31d7a38f" title="pdal::RandomKernel\l::execute" alt="" coords="167,107,307,149"/>
+<area shape="rect" id="node5" href="$classpdal_1_1TIndexKernel.html#a260c46e9fc8a9e5dddd395c93422dfa6" title="pdal::TIndexKernel\l::mergeFile" alt="" coords="172,173,303,214"/>
+<area shape="rect" id="node7" href="$namespacepdal.html#a7ae38262aabaf7cc6180776460034517" title="pdal::TEST" alt="" coords="193,239,281,265"/>
+<area shape="rect" id="node8" href="$SQLiteTest_8cpp.html#a078fa742eaebb2e9f7c59f04870c810b" title="testReadWrite" alt="" coords="184,289,291,316"/>
+<area shape="rect" id="node6" href="$classpdal_1_1TIndexKernel.html#a607f1463d5518bbaa66662a905b48e51" title="pdal::TIndexKernel\l::execute" alt="" coords="371,173,501,214"/>
+<area shape="rect" id="node9" href="$SQLiteTest_8cpp.html#ae345a6bfcea0035732b3a47021d1d69e" title="TEST" alt="" coords="408,289,464,316"/>
+</map>

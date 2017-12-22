@@ -1,0 +1,11 @@
+<map id="pdal::Stage::setupLog" name="pdal::Stage::setupLog">
+<area shape="rect" id="node2" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a56e0125595a43bf3b0cbd0b9a4bc55ea" title="pdal::gdal::ErrorHandler\l::getGlobalErrorHandler" alt="" coords="216,40,375,81"/>
+<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="221,106,370,133"/>
+<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#aec4fb27c40bb4b032ff003a89a950dd4" title="pdal::Stage::isDebug" alt="" coords="223,157,367,183"/>
+<area shape="rect" id="node8" href="$classpdal_1_1gdal_1_1ErrorHandler.html#ace1cff928ab179f671181ebaf4d280a4" title="pdal::gdal::ErrorHandler::set" alt="" coords="203,207,388,234"/>
+<area shape="rect" id="node3" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a73215504640551589024d36018f81d33" title="pdal::gdal::ErrorHandler\l::ErrorHandler" alt="" coords="436,5,595,47"/>
+<area shape="rect" id="node4" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a6381c703007e462e66d9906c806ec0a4" title="pdal::gdal::ErrorHandler\l::trampoline" alt="" coords="643,35,801,76"/>
+<area shape="rect" id="node5" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a4d90644b75f1266d089af2bc61bb8de7" title="pdal::gdal::ErrorHandler\l::handle" alt="" coords="849,35,1008,76"/>
+<area shape="rect" id="node9" href="$classpdal_1_1gdal_1_1ErrorHandler.html#abe7fbf19bfcfbb0be1c8ae934bd5c9d2" title="pdal::gdal::ErrorHandler\l::setLog" alt="" coords="436,145,595,187"/>
+<area shape="rect" id="node10" href="$classpdal_1_1gdal_1_1ErrorHandler.html#a61ea2c53f778817785d39cd9fc6a81a6" title="pdal::gdal::ErrorHandler\l::setDebug" alt="" coords="436,211,595,252"/>
+</map>

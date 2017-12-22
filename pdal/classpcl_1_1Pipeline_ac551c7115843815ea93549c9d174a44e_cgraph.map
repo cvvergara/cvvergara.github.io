@@ -1,0 +1,14 @@
+<map id="pcl::Pipeline::setOffsets" name="pcl::Pipeline::setOffsets">
+<area shape="rect" id="node2" href="$classpcl_1_1Pipeline.html#ae1fe21ede1ce01269195a26023e2e03b" title="Apply approximate progressive morphological filter to input cloud, using parameters specified in prop..." alt="" coords="216,82,421,123"/>
+<area shape="rect" id="node4" href="$classpcl_1_1Pipeline.html#a1c09f8d4aaf4c85c7ea4d1f76ef507ac" title="Filtered results are stored in a separate point cloud. " alt="" coords="238,31,399,57"/>
+<area shape="rect" id="node8" href="$classpcl_1_1Pipeline.html#a89499acb13da1604acb8cbc6a4be4378" title="Apply grid minimum filter to input cloud, using parameters specified in property tree. " alt="" coords="241,147,397,189"/>
+<area shape="rect" id="node9" href="$classpcl_1_1Pipeline.html#ad82ff03b7cc386b44bca0483a8d4620b" title="Apply passthrough filter to input cloud, using parameters specified in property tree. " alt="" coords="237,213,400,254"/>
+<area shape="rect" id="node10" href="$classpcl_1_1Pipeline.html#aa9d2bd655bbb8a0c657bcb0906cd430b" title="Apply progressive morphological filter to input cloud, using parameters specified in property tree..." alt="" coords="218,278,419,319"/>
+<area shape="rect" id="node11" href="$classpcl_1_1Pipeline.html#a337f5d488a9a1c747a0fa547f30bcef4" title="Apply radius outlier removal filter to input cloud, using parameters specified in property tree..." alt="" coords="232,343,405,385"/>
+<area shape="rect" id="node12" href="$classpcl_1_1Pipeline.html#a40ae698fd9b608aaf5955030ce93871d" title="Apply statistical outlier removal filter to input cloud, using parameters specified in property tree..." alt="" coords="223,409,414,450"/>
+<area shape="rect" id="node13" href="$classpcl_1_1Pipeline.html#ad3b0ce0cd1c161d53bcd2d4f9c4e5ef8" title="Apply voxel grid filter to input cloud, using parameters specified in property tree. " alt="" coords="224,475,413,501"/>
+<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="483,196,612,223"/>
+<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="482,56,613,83"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="469,5,625,32"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="673,56,805,83"/>
+</map>

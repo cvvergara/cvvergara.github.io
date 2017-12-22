@@ -1,0 +1,26 @@
+digraph "pdal::OGRWriter"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="pdal::OGRWriter",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::FlexWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1FlexWriter.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::Writer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Writer.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::Stage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_metadata" ,fontname="Helvetica"];
+  Node5 [label="pdal::MetadataNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MetadataNode.html"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_spatialReference" ,fontname="Helvetica"];
+  Node6 [label="pdal::SpatialReference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SpatialReference.html"];
+  Node7 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_options" ,fontname="Helvetica"];
+  Node7 [label="pdal::Options",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Options.html"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_scaling" ,fontname="Helvetica"];
+  Node8 [label="pdal::Scaling",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Scaling.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_xScaleArg\nm_yScaleArg\nm_zScaleArg\nm_xOffArg\nm_yOffArg\nm_zOffArg" ,fontname="Helvetica"];
+  Node9 [label="pdal::Arg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Arg.html"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_zXform\nm_yXform\nm_xXform" ,fontname="Helvetica"];
+  Node10 [label="pdal::XForm",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1XForm.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_offset\nm_scale" ,fontname="Helvetica"];
+  Node11 [label="pdal::XForm::XFormComponent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structpdal_1_1XForm_1_1XFormComponent.html"];
+}

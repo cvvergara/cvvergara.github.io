@@ -1,0 +1,21 @@
+<map id="pdal::Writer" name="pdal::Writer">
+<area shape="rect" id="node3" href="$classpdal_1_1DbWriter.html" title="pdal::DbWriter" alt="" coords="299,81,405,108"/>
+<area shape="rect" id="node7" href="$classpdal_1_1FlexWriter.html" title="pdal::FlexWriter" alt="" coords="295,208,409,235"/>
+<area shape="rect" id="node13" href="$classpdal_1_1GeoWaveWriter.html" title="pdal::GeoWaveWriter" alt="" coords="279,259,425,285"/>
+<area shape="rect" id="node14" href="$classpdal_1_1MatlabWriter.html" title="pdal::MatlabWriter" alt="" coords="288,309,416,336"/>
+<area shape="rect" id="node15" href="$classpdal_1_1MyWriter.html" title="pdal::MyWriter" alt="" coords="299,360,405,387"/>
+<area shape="rect" id="node16" href="$classpdal_1_1NullWriter.html" title="pdal::NullWriter" alt="" coords="296,411,408,437"/>
+<area shape="rect" id="node17" href="$classpdal_1_1PcdWriter.html" title="pdal::PcdWriter" alt="" coords="296,461,408,488"/>
+<area shape="rect" id="node18" href="$classpdal_1_1PlyWriter.html" title="pdal::PlyWriter" alt="" coords="298,512,406,539"/>
+<area shape="rect" id="node19" href="$classpdal_1_1SbetWriter.html" title="pdal::SbetWriter" alt="" coords="294,563,410,589"/>
+<area shape="rect" id="node20" href="$classpdal_1_1TextWriter.html" title="pdal::TextWriter" alt="" coords="295,613,409,640"/>
+<area shape="rect" id="node2" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="5,385,93,412"/>
+<area shape="rect" id="node4" href="$classpdal_1_1OciWriter.html" title="pdal::OciWriter" alt="" coords="483,5,593,32"/>
+<area shape="rect" id="node5" href="$classpdal_1_1PgWriter.html" title="pdal::PgWriter" alt="" coords="485,56,591,83"/>
+<area shape="rect" id="node6" href="$classpdal_1_1SQLiteWriter.html" title="pdal::SQLiteWriter" alt="" coords="473,107,603,133"/>
+<area shape="rect" id="node8" href="$classpdal_1_1BpfWriter.html" title="pdal::BpfWriter" alt="" coords="483,157,593,184"/>
+<area shape="rect" id="node9" href="$classpdal_1_1GDALWriter.html" title="pdal::GDALWriter" alt="" coords="475,208,601,235"/>
+<area shape="rect" id="node10" href="$classpdal_1_1LasWriter.html" title="pdal::LasWriter" alt="" coords="483,259,593,285"/>
+<area shape="rect" id="node12" href="$classpdal_1_1OGRWriter.html" title="pdal::OGRWriter" alt="" coords="479,309,597,336"/>
+<area shape="rect" id="node11" href="$classpdal_1_1NitfWriter.html" title="pdal::NitfWriter" alt="" coords="651,259,761,285"/>
+</map>

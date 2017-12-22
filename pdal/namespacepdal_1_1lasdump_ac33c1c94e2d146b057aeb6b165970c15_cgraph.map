@@ -1,0 +1,9 @@
+<map id="pdal::lasdump::operator&lt;&lt;" name="pdal::lasdump::operator&lt;&lt;">
+<area shape="rect" id="node2" href="$classpdal_1_1lasdump_1_1Header.html#a457aedaa8854ff82614ab941db085546" title="Get minimum value of extent of X coordinate. " alt="" coords="228,5,381,47"/>
+<area shape="rect" id="node3" href="$classpdal_1_1lasdump_1_1Header.html#ab80be7dde7076577af3f16310986c03e" title="Get minimum value of extent of Y coordinate. " alt="" coords="228,71,381,112"/>
+<area shape="rect" id="node4" href="$classpdal_1_1lasdump_1_1Header.html#af4695b849968125e264557919e86a78b" title="Get minimum value of extent of Z coordinate. " alt="" coords="228,136,381,177"/>
+<area shape="rect" id="node5" href="$classpdal_1_1lasdump_1_1Header.html#af92ca7d7b7298efded386787f7b2cb95" title="Get maximum value of extent of X coordinate. " alt="" coords="228,201,381,243"/>
+<area shape="rect" id="node6" href="$classpdal_1_1lasdump_1_1Header.html#a8e3e2816c2535fe6102fc36f2979719f" title="Get maximum value of extent of Y coordinate. " alt="" coords="228,267,381,308"/>
+<area shape="rect" id="node7" href="$classpdal_1_1lasdump_1_1Header.html#a266bf4e1abcfac18413513b6921aafaa" title="Get maximum value of extent of Z coordinate. " alt="" coords="228,332,381,373"/>
+<area shape="rect" id="node8" href="$classpdal_1_1lasdump_1_1Header.html#a1bc09eb49394095e860958ad2f1354f5" title="pdal::lasdump::Header\l::versionAtLeast" alt="" coords="228,397,381,439"/>
+</map>

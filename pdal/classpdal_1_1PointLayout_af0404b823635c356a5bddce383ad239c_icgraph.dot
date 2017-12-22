@@ -1,0 +1,35 @@
+digraph "pdal::PointLayout::registerDims"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::PointLayout::\lregisterDims",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::PcdReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PcdReader.html#a147f678612b1cfe42c405296b1b1a15e"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::GeoWaveReader\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1GeoWaveReader.html#aa38f9a477c2998e39121e50a8e992e19"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PoissonFilter\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PoissonFilter.html#aebbe2f92e3b8ae9a26ac2b6d74dfeb42"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::SbetReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1SbetReader.html#ad8bad3e629402d0f9880703df65fa649"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::IcebridgeReader\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1IcebridgeReader.html#a45bf701a58df60a3bfe59de4d83a4b7d"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::OptechReader\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1OptechReader.html#a96afc4e31721fa69b549412e479b775b"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::NormalFilter\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1NormalFilter.html#a79f5cfe12251146295864aea7524ddb9"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::MbReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MbReader.html#a794279f21e0b166c7f8ee66c530132ee"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::MbReader::inspect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1MbReader.html#a75e8eecca036350ac916862bb611f58c"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pdal::ColorinterpFilter\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1ColorinterpFilter.html#a6ed6d58ce27739158a53b3b683b3b867"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="pdal::RxpReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1RxpReader.html#ac04c8d6d251eb195e9c61dc5088a058d"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pdal::FauxReader::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1FauxReader.html#a2832e601c410f0e9fb1e89c305cc8a87"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="pdal::GreedyProjection\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1GreedyProjection.html#ae288ed006a771ce7eb1b24d59c243629"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="pdal::PointLayout::\lfinalized",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PointLayout.html#a41955b0c316d4ae4d34eca8768be2ef9"];
+}

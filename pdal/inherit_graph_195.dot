@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::sdo_point_type_ind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal.html#structpdal_1_1sdo__point__type__ind"];
+}

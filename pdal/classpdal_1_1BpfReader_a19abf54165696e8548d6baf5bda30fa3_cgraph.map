@@ -1,0 +1,4 @@
+<map id="pdal::BpfReader::seekDimMajor" name="pdal::BpfReader::seekDimMajor">
+<area shape="rect" id="node2" href="$classpdal_1_1BpfReader.html#a8474ab61285bb81bc1bcc4d69383bb95" title="pdal::BpfReader::numPoints" alt="" coords="229,5,416,32"/>
+<area shape="rect" id="node3" href="$classpdal_1_1IStream.html#af0ce8ed6fcaea7ead21c0e7c5c054812" title="pdal::IStream::seek" alt="" coords="255,56,391,83"/>
+</map>

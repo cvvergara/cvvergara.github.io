@@ -1,0 +1,17 @@
+digraph "pdal::stats::Summary::average"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::stats::Summary\l::average",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::stats::Summary\l::extractMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1stats_1_1Summary.html#af796af3387dc44ffe6dea09f28a793dc"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::StatsFilter::done",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1StatsFilter.html#af31e8e0558e26c2b831bd8dc50579d4a"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::StatsFilter::\lextractMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1StatsFilter.html#a374631f225f1fba0918b159c1353142e"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="anonymous_namespace\l\{BufferTest::cpp\}::TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceanonymous__namespace_02BufferTest_8cpp_03.html#aa82a48c7e159e43f9c99511f10d16b3c"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$CropFilterTest_8cpp.html#aee3efdf57f5f6cdc49fd431472fa8dbb"];
+}

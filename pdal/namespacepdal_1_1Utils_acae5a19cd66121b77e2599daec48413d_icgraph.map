@@ -1,0 +1,51 @@
+<map id="pdal::Utils::extract" name="pdal::Utils::extract">
+<area shape="rect" id="node2" href="$classpcl_1_1Pipeline.html#ae1fe21ede1ce01269195a26023e2e03b" title="Apply approximate progressive morphological filter to input cloud, using parameters specified in prop..." alt="" coords="183,155,388,197"/>
+<area shape="rect" id="node5" href="$classpcl_1_1Pipeline.html#aa9d2bd655bbb8a0c657bcb0906cd430b" title="Apply progressive morphological filter to input cloud, using parameters specified in property tree..." alt="" coords="185,230,386,271"/>
+<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#ad7dd00ca79ce099313f3fe405f40cd93" title="pdal::Dimension::extractName" alt="" coords="186,316,385,343"/>
+<area shape="rect" id="node26" href="$namespacepdal_1_1Utils.html#a9bda8c5dbe5ef7cf66e99ba022184934" title="pdal::Utils::extractSpaces" alt="" coords="199,399,372,425"/>
+<area shape="rect" id="node27" href="$classpdal_1_1PlyReader.html#aa62e075130f0a99301f45f848b0a4c85" title="pdal::PlyReader::nextWord" alt="" coords="444,500,623,527"/>
+<area shape="rect" id="node35" href="$classpdal_1_1Option.html#a978a36cf9180d3636ea770988961952b" title="pdal::Option::parse" alt="" coords="219,713,351,740"/>
+<area shape="rect" id="node42" href="$classpdal_1_1Kernel.html#af513332c276256a728125e1d1af3a7f1" title="pdal::Kernel::parseStage\lOption" alt="" coords="451,869,616,910"/>
+<area shape="rect" id="node45" href="$classpdal_1_1Stage.html#aca3009ba4d0e25982ec2ebab343a8873" title="pdal::Stage::parseName" alt="" coords="204,825,367,852"/>
+<area shape="rect" id="node46" href="$classpdal_1_1Stage.html#a2ed4e38b8dc11601c28b66a85624cdb0" title="pdal::Stage::parseTagName" alt="" coords="193,775,378,801"/>
+<area shape="rect" id="node48" href="$classpdal_1_1PlyReader.html#a2a95bd0d7e52c96b191a76e18cb4f488" title="pdal::PlyReader::readLine" alt="" coords="689,428,861,455"/>
+<area shape="rect" id="node3" href="$classpcl_1_1Pipeline.html#ac551c7115843815ea93549c9d174a44e" title="Set the offsets to the data in the x, y, and z dimension. " alt="" coords="452,152,615,179"/>
+<area shape="rect" id="node4" href="$classpdal_1_1PCLBlock.html#ac2a76cf2df667cfce88d3a819a40483d" title="pdal::PCLBlock::run" alt="" coords="706,88,845,115"/>
+<area shape="rect" id="node7" href="$namespacepdal_1_1anonymous__namespace_02ColorizationFilter_8cpp_03.html#aa9cc412539566882fbb7ee2816ba1302" title="pdal::anonymous_namespace\l\{ColorizationFilter::cpp\}\l::parseDim" alt="" coords="436,268,631,324"/>
+<area shape="rect" id="node9" href="$structpdal_1_1DimRange.html#a6b6b128ffc786bddb749f37ccd9fcf1d" title="pdal::DimRange::subParse" alt="" coords="444,348,623,375"/>
+<area shape="rect" id="node23" href="$classpdal_1_1DimBuilder.html#ad791e4b31e813727f0fcb15c645a28f1" title="pdal::DimBuilder::validate\lDimension" alt="" coords="448,203,619,245"/>
+<area shape="rect" id="node8" href="$classpdal_1_1ColorizationFilter.html#ab7913018dd5d8e24d34526b86394ab38" title="pdal::ColorizationFilter\l::initialize" alt="" coords="699,190,851,231"/>
+<area shape="rect" id="node10" href="$structpdal_1_1AssignRange.html#add1a82f38c804c85284aa9bed0c4330a" title="pdal::AssignRange::\lparse" alt="" coords="705,341,845,382"/>
+<area shape="rect" id="node19" href="$structpdal_1_1DimRange.html#af685ed69082be8ea1ad1399da4b62f93" title="pdal::DimRange::parse" alt="" coords="697,256,853,283"/>
+<area shape="rect" id="node11" href="$namespacepdal.html#ace4187c9d299de84872aa9a04c71dbf3" title="pdal::operator\&gt;\&gt;" alt="" coords="963,275,1080,301"/>
+<area shape="rect" id="node12" href="$structpdal_1_1BpfMuellerMatrix.html#a3bae8cd517356ffb0aea13a57d930ae7" title="pdal::BpfMuellerMatrix\l::apply" alt="" coords="1193,209,1345,250"/>
+<area shape="rect" id="node13" href="$classpdal_1_1Bounds.html#a63a455c59b1cbf54fe05ac1602376c6d" title="pdal::Bounds::Bounds" alt="" coords="1193,275,1344,301"/>
+<area shape="rect" id="node14" href="$classpdal_1_1ExtLasVLR.html#aea2bb75044cdf9dab01b81e81b835ed4" title="pdal::ExtLasVLR::ExtLasVLR" alt="" coords="1171,325,1367,352"/>
+<area shape="rect" id="node15" href="$classpdal_1_1Extractor.html#a970bf542f6632eedb19b9f554626ed3f" title="pdal::Extractor::get" alt="" coords="1202,5,1335,32"/>
+<area shape="rect" id="node16" href="$namespacepdal.html#aedfa6057e7bfee496a66a3192e7ec594" title="pdal::operator\&lt;\&lt;" alt="" coords="1210,56,1327,83"/>
+<area shape="rect" id="node17" href="$classpdal_1_1LasVLR.html#a777a6a5cf8ddddb9aba83861088cec64" title="pdal::LasVLR::setDataLen" alt="" coords="1181,107,1357,133"/>
+<area shape="rect" id="node18" href="$classpdal_1_1LasHeader.html#af24ff4d4466c1be45e8f6268d872bdac" title="pdal::LasHeader::vlrs" alt="" coords="1195,157,1342,184"/>
+<area shape="rect" id="node20" href="$structpdal_1_1DimRange.html#a643e2ed8901c78ab163cd511c5c07796" title="pdal::DimRange::DimRange" alt="" coords="928,224,1115,251"/>
+<area shape="rect" id="node21" href="$classpdal_1_1RangeFilter.html#a8aa83913523ad5527a8b2144c078fb58" title="pdal::RangeFilter::\linitialize" alt="" coords="957,107,1086,149"/>
+<area shape="rect" id="node22" href="$namespacepdal.html#ace1b1804657639b0ce1ff5eee96c76b3" title="pdal::operator\&gt;\&gt;" alt="" coords="963,173,1080,200"/>
+<area shape="rect" id="node24" href="$classpdal_1_1DimBuilder.html#a51bc21469f4546a9d5152f725ae41345" title="pdal::DimBuilder::extractDim" alt="" coords="680,139,871,165"/>
+<area shape="rect" id="node25" href="$classpdal_1_1DimBuilder.html#a80dc37c7ba907d37af6ce04620364855" title="pdal::DimBuilder::execute" alt="" coords="935,56,1107,83"/>
+<area shape="rect" id="node33" href="$classpdal_1_1Options.html#a541bdbfe72511dad8a22236f0a3cb2ab" title="pdal::Options::fromFile" alt="" coords="456,600,611,627"/>
+<area shape="rect" id="node28" href="$classpdal_1_1PlyReader.html#a86c91fd3c850c095dc537b627f92c426" title="pdal::PlyReader::extract\lElement" alt="" coords="1187,545,1350,586"/>
+<area shape="rect" id="node30" href="$classpdal_1_1PlyReader.html#a2ce78f148be470e4d613ae7f0ab9616f" title="pdal::PlyReader::extract\lFormat" alt="" coords="940,478,1103,519"/>
+<area shape="rect" id="node31" href="$classpdal_1_1PlyReader.html#a4e99f726dfafb257dd9acbca102cd633" title="pdal::PlyReader::extract\lProperty" alt="" coords="694,534,857,575"/>
+<area shape="rect" id="node29" href="$classpdal_1_1PlyReader.html#a9b0179c012f82bcb1878e1197d2e4040" title="pdal::PlyReader::extract\lHeader" alt="" coords="1415,461,1577,502"/>
+<area shape="rect" id="node32" href="$classpdal_1_1PlyReader.html#ae3efcc96eca62b8d710e725b3358e88c" title="pdal::PlyReader::extract\lProperties" alt="" coords="940,543,1103,585"/>
+<area shape="rect" id="node34" href="$classpdal_1_1Stage.html#a75f17f9b67f48f6aab1d98aadefc4d5c" title="pdal::Stage::handleOptions" alt="" coords="932,736,1111,763"/>
+<area shape="rect" id="node36" href="$classpdal_1_1Options.html#a1a7ad95963052f30ee58f7958c201edf" title="pdal::Options::fromCmdlineFile" alt="" coords="920,795,1123,821"/>
+<area shape="rect" id="node37" href="$classpdal_1_1Option.html#aef4422b88464a9cad83b3c11bf1f8cdd" title="pdal::Option::nameValid" alt="" coords="453,752,614,779"/>
+<area shape="rect" id="node38" href="$classpdal_1_1Options.html#a30826da39f9c4716412141eeeb719032" title="pdal::Options::add" alt="" coords="711,853,839,880"/>
+<area shape="rect" id="node40" href="$classpdal_1_1Options.html#aab2dd4f9208512ad8c38a71ad9d2c98b" title="pdal::Options::addConditional" alt="" coords="679,752,872,779"/>
+<area shape="rect" id="node41" href="$namespacepdal.html#ab268d6e5848c5e907f589f9f383777be" title="pdal::TEST" alt="" coords="731,803,819,829"/>
+<area shape="rect" id="node39" href="$classpdal_1_1PipelineReaderJSON.html#a648ae28bf1b1fc54a9aa92b5d880c434" title="pdal::PipelineReaderJSON\l::parsePipeline" alt="" coords="932,863,1111,905"/>
+<area shape="rect" id="node43" href="$classpdal_1_1Kernel.html#a03863e07df6fe6c6dc915e2d21f1b153" title="pdal::Kernel::doSwitches" alt="" coords="692,955,859,981"/>
+<area shape="rect" id="node44" href="$classpdal_1_1Kernel.html#a063a87bdb5459f336c905ab0d2ce3b05" title="pdal::Kernel::run" alt="" coords="963,955,1080,981"/>
+<area shape="rect" id="node47" href="$classpdal_1_1PipelineReaderJSON.html#ad475189376e998443dea79cb6b3a625e" title="pdal::PipelineReaderJSON\l::extractTag" alt="" coords="444,803,623,845"/>
+<area shape="rect" id="node49" href="$classpdal_1_1PlyReader.html#aec1ef06026968ef08b98538d2f868f13" title="pdal::PlyReader::extractEnd" alt="" coords="1175,443,1362,469"/>
+<area shape="rect" id="node50" href="$classpdal_1_1PlyReader.html#abf004e430f1c5f6ad2a89746e54316ca" title="pdal::PlyReader::extract\lMagic" alt="" coords="1187,377,1350,418"/>
+</map>

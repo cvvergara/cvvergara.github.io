@@ -1,0 +1,25 @@
+digraph "pdal::MetadataNode::addWithType"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="pdal::MetadataNode\l::addWithType",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="pdal::plang::addMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1plang.html#a347812e81fc1e69ef7780226acdc8a7a"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="pdal::plang::Invocation::end",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="pdal::PythonFilter::run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pdal::LasReader::extract\lHeaderMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1LasReader.html#ae37da23f5ec384cb4b43be8c9676805a"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="pdal::StatsFilter::\lextractMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1StatsFilter.html#a374631f225f1fba0918b159c1353142e"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="pdal::Option::toMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Option.html#a9e7c5414e5a1bf5538daf44ed26aa24c"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="pdal::Options::toMetadata",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Options.html#a80b214f5c77242292e8f123b75e33bbc"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="pdal::Stage::serialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1Stage.html#a25b2c486e9aebdddc74443467c47c122"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="pdal::PipelineWriter\l::writePipeline",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1PipelineWriter.html#a94e2eba7a6e9b21db48c0bbf0aacd4e2"];
+}
