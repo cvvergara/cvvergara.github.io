@@ -1,4 +1,4 @@
-# Install script for directory: /home/vicky/OSGeoLive/docs/docClone/doc/_static
+# Install script for directory: /home/vicky/OSGeoLive/docs/vicky/doc/_static
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
