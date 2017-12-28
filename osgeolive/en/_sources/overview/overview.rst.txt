@@ -23,12 +23,12 @@ General GIS viewing, editing, and analysis on the desktop
     ../quickstart/grass_quickstart
     gvsig_overview
     ../quickstart/gvsig_quickstart
-    saga_overview
-    ../quickstart/saga_quickstart
-    openjump_overview
-    ../quickstart/openjump_quickstart
     udig_overview
     ../quickstart/udig_quickstart
+    openjump_overview
+    ../quickstart/openjump_quickstart
+    saga_overview
+    ../quickstart/saga_quickstart
 
 |OSGeo_project| :doc:`qgis_overview` - [:doc:`Quickstart <../quickstart/qgis_quickstart>`]
 
@@ -36,11 +36,11 @@ General GIS viewing, editing, and analysis on the desktop
 
 |OSGeo_project| :doc:`gvsig_overview` - [:doc:`Quickstart <../quickstart/gvsig_quickstart>`]
 
-|nologo| :doc:`saga_overview` - [:doc:`Quickstart <../quickstart/saga_quickstart>`]
+|nologo| :doc:`udig_overview` - [:doc:`Quickstart <../quickstart/udig_quickstart>`]
 
 |nologo| :doc:`openjump_overview` - [:doc:`Quickstart <../quickstart/openjump_quickstart>`]
 
-|nologo| :doc:`udig_overview` - [:doc:`Quickstart <../quickstart/udig_quickstart>`]
+|nologo| :doc:`saga_overview` - [:doc:`Quickstart <../quickstart/saga_quickstart>`]
 
 
 Browser Facing GIS
@@ -130,9 +130,9 @@ Publishing spatial data to the internet
 
 |OSGeo_project| :doc:`pycsw_overview` - [:doc:`Quickstart <../quickstart/pycsw_quickstart>`] - Metadata Catalogue
 
-|nologo| :doc:`mapproxy_overview` - [:doc:`Quickstart <../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services
+|OSGeo_community| :doc:`mapproxy_overview` - [:doc:`Quickstart <../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services
 
-|OSGeo_project| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart <../quickstart/qgis_mapserver_quickstart>`] - Web Map Service
+|nologo| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart <../quickstart/qgis_mapserver_quickstart>`] - Web Map Service
 
 |OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart <../quickstart/istsos_quickstart>`] - Sensor Observation Service
 
@@ -155,18 +155,18 @@ Storing spatial data
     ../quickstart/postgis_quickstart
     spatialite_overview
     ../quickstart/spatialite_quickstart
-    pgrouting_overview
-    ../quickstart/pgrouting_quickstart
     rasdaman_overview
     ../quickstart/rasdaman_quickstart
+    pgrouting_overview
+    ../quickstart/pgrouting_quickstart
 
 |OSGeo_project| :doc:`postgis_overview` - [:doc:`Quickstart <../quickstart/postgis_quickstart>`] - Spatial Database
 
 |nologo| :doc:`spatialite_overview` - [:doc:`Quickstart <../quickstart/spatialite_quickstart>`] - Lightweight Database
 
-|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`Quickstart <../quickstart/pgrouting_quickstart>`] - Routing for PostGIS
+|OSGeo_incubation| :doc:`rasdaman_overview` - [:doc:`Quickstart <../quickstart/rasdaman_quickstart>`] - Multi-Dimensional Raster Database
 
-|nologo| :doc:`rasdaman_overview` - [:doc:`Quickstart <../quickstart/rasdaman_quickstart>`] - Multi-Dimensional Raster Database
+|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`Quickstart <../quickstart/pgrouting_quickstart>`] - Routing for PostGIS
 
 
 Navigation and Maps
@@ -232,7 +232,7 @@ Specific analysis tools
 
 |nologo| :doc:`mapnik_overview` - [:doc:`Quickstart <../quickstart/mapnik_quickstart>`] - Cartographic Rendering
 
-|OSGeo_community| :doc:`mapslicer_overview` - [:doc:`Quickstart <../quickstart/mapslicer_quickstart>`] - Create Map Tiles
+|nologo| :doc:`mapslicer_overview` - [:doc:`Quickstart <../quickstart/mapslicer_quickstart>`] - Create Map Tiles
 
 |OSGeo_project| :doc:`ossim_overview` - [:doc:`Quickstart <../quickstart/ossim_quickstart>`] - Image Processing
 

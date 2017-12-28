@@ -8,9 +8,6 @@
     :align: right
     :target: http://www.qgis.org
 
-.. image:: /images/logos/OSGeo_project.png
-    :align: right
-    :target: target: http://www.osgeo.org
 
 
 QGIS Server

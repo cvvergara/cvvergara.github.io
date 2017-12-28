@@ -9,6 +9,9 @@
     :align: right
     :target: http://www.rasdaman.org
 
+.. image:: /images/logos/OSGeo_incubation.png
+    :align: right
+    :target: target: http://www.osgeo.org
 
 
 

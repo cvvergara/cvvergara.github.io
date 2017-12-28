@@ -7,9 +7,6 @@
     :align: right
     :target: http://mapproxy.org/
 
-.. image:: /images/logos/OSGeo_community.png
-    :align: right
-    :target: target: http://www.osgeo.org
 
 
 
