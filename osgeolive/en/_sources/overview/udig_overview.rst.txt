@@ -11,7 +11,7 @@
 
 
 
-User-friendly Desktop Internet GIS
+User-friendly Desktop Internet GIS (uDig)
 ================================================================================
 
 Desktop GIS

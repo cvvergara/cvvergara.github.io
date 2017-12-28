@@ -13,7 +13,7 @@
 
 
 ********************************************************************************
-User-friendly Desktop Internet GIS Quickstart
+User-friendly Desktop Internet GIS (uDig) Quickstart
 ********************************************************************************
 
 .. Writing Tip:

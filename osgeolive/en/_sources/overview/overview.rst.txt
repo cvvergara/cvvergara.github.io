@@ -248,7 +248,7 @@ Applications targeted at a specific domain
     zygrib_overview
     ../quickstart/zygrib_quickstart
 
-|nologo| :doc:`zygrib_overview` - [:doc:`Quickstart <../quickstart/zygrib_quickstart>`]
+|nologo| :doc:`zygrib_overview` - [:doc:`Quickstart <../quickstart/zygrib_quickstart>`] - Weather Forecast Maps
 
 
 Data
@@ -304,7 +304,7 @@ Geospatial Libraries
 |nologo| :doc:`jts_overview`  - Java Topology Suite
 
 
-Other software of interest (not available Live)
+Available in prior OSGeo-Live releases
 ---------------------------------------------------------------
 
  
