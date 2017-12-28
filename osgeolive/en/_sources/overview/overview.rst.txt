@@ -17,12 +17,12 @@ General GIS viewing, editing, and analysis on the desktop
 .. toctree::
     :hidden:
 
+    qgis_overview
+    ../quickstart/qgis_quickstart
     grass_overview
     ../quickstart/grass_quickstart
     gvsig_overview
     ../quickstart/gvsig_quickstart
-    qgis_overview
-    ../quickstart/qgis_quickstart
     saga_overview
     ../quickstart/saga_quickstart
     openjump_overview
@@ -30,11 +30,11 @@ General GIS viewing, editing, and analysis on the desktop
     udig_overview
     ../quickstart/udig_quickstart
 
+|OSGeo_project| :doc:`qgis_overview` - [:doc:`Quickstart <../quickstart/qgis_quickstart>`]
+
 |OSGeo_project| :doc:`grass_overview` - [:doc:`Quickstart <../quickstart/grass_quickstart>`]
 
 |OSGeo_project| :doc:`gvsig_overview` - [:doc:`Quickstart <../quickstart/gvsig_quickstart>`]
-
-|OSGeo_project| :doc:`qgis_overview` - [:doc:`Quickstart <../quickstart/qgis_quickstart>`]
 
 |nologo| :doc:`saga_overview` - [:doc:`Quickstart <../quickstart/saga_quickstart>`]
 
@@ -51,30 +51,34 @@ General GIS viewing, editing and analysis in the browser
 .. toctree::
     :hidden:
 
-    geomajas_overview
-    ../quickstart/geomajas_quickstart
-    geomoose_overview
-    ../quickstart/geomoose_quickstart
-    geonode_overview
-    ../quickstart/geonode_quickstart
-    mapbender_overview
-    ../quickstart/mapbender_quickstart
     openlayers_overview
     ../quickstart/openlayers_quickstart
     leaflet_overview
     ../quickstart/leaflet_quickstart
-
-|OSGeo_project| :doc:`geomajas_overview` - [:doc:`Quickstart <../quickstart/geomajas_quickstart>`] - Browser GIS Client
-
-|OSGeo_project| :doc:`geomoose_overview` - [:doc:`Quickstart <../quickstart/geomoose_quickstart>`] - Web GIS Portal
-
-|OSGeo_project| :doc:`geonode_overview` - [:doc:`Quickstart <../quickstart/geonode_quickstart>`] - Geospatial Content Management System
-
-|OSGeo_project| :doc:`mapbender_overview` - [:doc:`Quickstart <../quickstart/mapbender_quickstart>`] - Geoportal Framework
+    cesium_overview
+    ../quickstart/cesium_quickstart
+    geomajas_overview
+    ../quickstart/geomajas_quickstart
+    mapbender_overview
+    ../quickstart/mapbender_quickstart
+    geomoose_overview
+    ../quickstart/geomoose_quickstart
+    geonode_overview
+    ../quickstart/geonode_quickstart
 
 |OSGeo_project| :doc:`openlayers_overview` - [:doc:`Quickstart <../quickstart/openlayers_quickstart>`] - Browser Mapping Library
 
 |nologo| :doc:`leaflet_overview` - [:doc:`Quickstart <../quickstart/leaflet_quickstart>`] - Mobile Friendly Interactive Maps
+
+|nologo| :doc:`cesium_overview` - [:doc:`Quickstart <../quickstart/cesium_quickstart>`] - 3D globes and 2D maps in a browser
+
+|OSGeo_project| :doc:`geomajas_overview` - [:doc:`Quickstart <../quickstart/geomajas_quickstart>`] - Browser GIS Client
+
+|OSGeo_project| :doc:`mapbender_overview` - [:doc:`Quickstart <../quickstart/mapbender_quickstart>`] - Geoportal Framework
+
+|OSGeo_project| :doc:`geomoose_overview` - [:doc:`Quickstart <../quickstart/geomoose_quickstart>`] - Web GIS Portal
+
+|OSGeo_project| :doc:`geonode_overview` - [:doc:`Quickstart <../quickstart/geonode_quickstart>`] - Geospatial Content Management System
 
 
 Web Services
@@ -85,50 +89,50 @@ Publishing spatial data to the internet
 .. toctree::
     :hidden:
 
-    deegree_overview
-    ../quickstart/deegree_quickstart
-    geonetwork_overview
-    ../quickstart/geonetwork_quickstart
     geoserver_overview
     ../quickstart/geoserver_quickstart
     mapserver_overview
     ../quickstart/mapserver_quickstart
+    deegree_overview
+    ../quickstart/deegree_quickstart
+    ncWMS_overview
+    ../quickstart/ncWMS_quickstart
+    eoxserver_overview
+    ../quickstart/eoxserver_quickstart
+    geonetwork_overview
+    ../quickstart/geonetwork_quickstart
     pycsw_overview
     ../quickstart/pycsw_quickstart
+    mapproxy_overview
+    ../quickstart/mapproxy_quickstart
     qgis_mapserver_overview
     ../quickstart/qgis_mapserver_quickstart
-    pywps_overview
-    ../quickstart/pywps_quickstart
-    zoo-project_overview
-    ../quickstart/zoo-project_quickstart
     istsos_overview
     ../quickstart/istsos_quickstart
     52nSOS_overview
     ../quickstart/52nSOS_quickstart
     52nWPS_overview
     ../quickstart/52nWPS_quickstart
-    eoxserver_overview
-    ../quickstart/eoxserver_quickstart
-    mapproxy_overview
-    ../quickstart/mapproxy_quickstart
-    ncWMS_overview
-    ../quickstart/ncWMS_quickstart
-
-|OSGeo_project| :doc:`deegree_overview` - [:doc:`Quickstart <../quickstart/deegree_quickstart>`] - OGC Web Services
-
-|OSGeo_project| :doc:`geonetwork_overview` - [:doc:`Quickstart <../quickstart/geonetwork_quickstart>`] - Metadata Catalogue
+    zoo-project_overview
+    ../quickstart/zoo-project_quickstart
 
 |OSGeo_project| :doc:`geoserver_overview` - [:doc:`Quickstart <../quickstart/geoserver_quickstart>`] - OGC Web Services
 
 |OSGeo_project| :doc:`mapserver_overview` - [:doc:`Quickstart <../quickstart/mapserver_quickstart>`] - OGC Web Services
 
+|OSGeo_project| :doc:`deegree_overview` - [:doc:`Quickstart <../quickstart/deegree_quickstart>`] - OGC Web Services
+
+|nologo| :doc:`ncWMS_overview` - [:doc:`Quickstart <../quickstart/ncWMS_quickstart>`] - Web Map Service
+
+|nologo| :doc:`eoxserver_overview` - [:doc:`Quickstart <../quickstart/eoxserver_quickstart>`] - Web Coverage Service
+
+|OSGeo_project| :doc:`geonetwork_overview` - [:doc:`Quickstart <../quickstart/geonetwork_quickstart>`] - Metadata Catalogue
+
 |OSGeo_project| :doc:`pycsw_overview` - [:doc:`Quickstart <../quickstart/pycsw_quickstart>`] - Metadata Catalogue
 
+|nologo| :doc:`mapproxy_overview` - [:doc:`Quickstart <../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services
+
 |OSGeo_project| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart <../quickstart/qgis_mapserver_quickstart>`] - Web Map Service
-
-|OSGeo_incubation| :doc:`pywps_overview` - [:doc:`Quickstart <../quickstart/pywps_quickstart>`] - Web Processing Service
-
-|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`Quickstart <../quickstart/zoo-project_quickstart>`] - Web Processing Service
 
 |OSGeo_community| :doc:`istsos_overview` - [:doc:`Quickstart <../quickstart/istsos_quickstart>`] - Sensor Observation Service
 
@@ -136,11 +140,7 @@ Publishing spatial data to the internet
 
 |nologo| :doc:`52nWPS_overview` - [:doc:`Quickstart <../quickstart/52nWPS_quickstart>`] - Web Processing Service
 
-|nologo| :doc:`eoxserver_overview` - [:doc:`Quickstart <../quickstart/eoxserver_quickstart>`] - Web Coverage Service
-
-|nologo| :doc:`mapproxy_overview` - [:doc:`Quickstart <../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services
-
-|nologo| :doc:`ncWMS_overview` - [:doc:`Quickstart <../quickstart/ncWMS_quickstart>`] - Web Map Service
+|OSGeo_incubation| :doc:`zoo-project_overview` - [:doc:`Quickstart <../quickstart/zoo-project_quickstart>`] - Web Processing Service
 
 
 Data Stores
@@ -153,20 +153,20 @@ Storing spatial data
 
     postgis_overview
     ../quickstart/postgis_quickstart
+    spatialite_overview
+    ../quickstart/spatialite_quickstart
     pgrouting_overview
     ../quickstart/pgrouting_quickstart
     rasdaman_overview
     ../quickstart/rasdaman_quickstart
-    spatialite_overview
-    ../quickstart/spatialite_quickstart
 
 |OSGeo_project| :doc:`postgis_overview` - [:doc:`Quickstart <../quickstart/postgis_quickstart>`] - Spatial Database
+
+|nologo| :doc:`spatialite_overview` - [:doc:`Quickstart <../quickstart/spatialite_quickstart>`] - Lightweight Database
 
 |OSGeo_community| :doc:`pgrouting_overview` - [:doc:`Quickstart <../quickstart/pgrouting_quickstart>`] - Routing for PostGIS
 
 |nologo| :doc:`rasdaman_overview` - [:doc:`Quickstart <../quickstart/rasdaman_quickstart>`] - Multi-Dimensional Raster Database
-
-|nologo| :doc:`spatialite_overview` - [:doc:`Quickstart <../quickstart/spatialite_quickstart>`] - Lightweight Database
 
 
 Navigation and Maps
@@ -177,30 +177,30 @@ Navigation and Maps
 .. toctree::
     :hidden:
 
-    marble_overview
-    ../quickstart/marble_quickstart
     gpsprune_overview
     ../quickstart/gpsprune_quickstart
+    marble_overview
+    ../quickstart/marble_quickstart
+    osm_overview
+    ../quickstart/osm_quickstart
     ideditor_overview
     ../quickstart/ideditor_quickstart
     josm_overview
     ../quickstart/josm_quickstart
     opencpn_overview
     ../quickstart/opencpn_quickstart
-    osm_overview
-    ../quickstart/osm_quickstart
+
+|nologo| :doc:`gpsprune_overview` - [:doc:`Quickstart <../quickstart/gpsprune_quickstart>`] - View, Edit and Convert GPS Tracks
 
 |OSGeo_project| :doc:`marble_overview` - [:doc:`Quickstart <../quickstart/marble_quickstart>`] - Virtual Globe
 
-|nologo| :doc:`gpsprune_overview` - [:doc:`Quickstart <../quickstart/gpsprune_quickstart>`] - View, Edit and Convert GPS Tracks
+|nologo| :doc:`osm_overview` - [:doc:`Quickstart <../quickstart/osm_quickstart>`] - OpenStreetMap Tools
 
 |nologo| :doc:`ideditor_overview` - [:doc:`Quickstart <../quickstart/ideditor_quickstart>`] - OpenStreetMap Web Editor
 
 |nologo| :doc:`josm_overview` - [:doc:`Quickstart <../quickstart/josm_quickstart>`] - OpenStreetMap Desktop Editor
 
 |nologo| :doc:`opencpn_overview` - [:doc:`Quickstart <../quickstart/opencpn_quickstart>`] - Marine GPS Chartplotter
-
-|nologo| :doc:`osm_overview` - [:doc:`Quickstart <../quickstart/osm_quickstart>`] - OpenStreetMap Tools
 
 
 Spatial Tools
@@ -211,30 +211,30 @@ Specific analysis tools
 .. toctree::
     :hidden:
 
+    gmt_overview
+    ../quickstart/gmt_quickstart
+    otb_overview
+    ../quickstart/otb_quickstart
+    R_overview
+    ../quickstart/R_quickstart
+    mapnik_overview
+    ../quickstart/mapnik_quickstart
     mapslicer_overview
     ../quickstart/mapslicer_quickstart
     ossim_overview
     ../quickstart/ossim_quickstart
-    otb_overview
-    ../quickstart/otb_quickstart
-    gmt_overview
-    ../quickstart/gmt_quickstart
-    mapnik_overview
-    ../quickstart/mapnik_quickstart
-    R_overview
-    ../quickstart/R_quickstart
+
+|nologo| :doc:`gmt_overview` - [:doc:`Quickstart <../quickstart/gmt_quickstart>`] - Cartographic Rendering
+
+|OSGeo_project| :doc:`otb_overview` - [:doc:`Quickstart <../quickstart/otb_quickstart>`] - Image Processing
+
+|nologo| :doc:`R_overview` - [:doc:`Quickstart <../quickstart/R_quickstart>`] - Statistical Programming
+
+|nologo| :doc:`mapnik_overview` - [:doc:`Quickstart <../quickstart/mapnik_quickstart>`] - Cartographic Rendering
 
 |OSGeo_community| :doc:`mapslicer_overview` - [:doc:`Quickstart <../quickstart/mapslicer_quickstart>`] - Create Map Tiles
 
 |OSGeo_project| :doc:`ossim_overview` - [:doc:`Quickstart <../quickstart/ossim_quickstart>`] - Image Processing
-
-|OSGeo_project| :doc:`otb_overview` - [:doc:`Quickstart <../quickstart/otb_quickstart>`] - Image Processing
-
-|nologo| :doc:`gmt_overview` - [:doc:`Quickstart <../quickstart/gmt_quickstart>`] - Cartographic Rendering
-
-|nologo| :doc:`mapnik_overview` - [:doc:`Quickstart <../quickstart/mapnik_quickstart>`] - Cartographic Rendering
-
-|nologo| :doc:`R_overview` - [:doc:`Quickstart <../quickstart/R_quickstart>`] - Statistical Programming
 
 
 Domain Specific GIS
@@ -261,16 +261,16 @@ Spatial data sets
 
     naturalearth_overview
     nc_dataset_overview
-    netcdf_dataset_overview
     osm_dataset_overview
+    netcdf_dataset_overview
 
 |nologo| :doc:`naturalearth_overview`  - Global Data Sets
 
 |nologo| :doc:`nc_dataset_overview` 
 
-|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and precipitation
-
 |nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap
+
+|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and precipitation
 
 
 Geospatial Libraries
@@ -283,25 +283,25 @@ Geospatial Libraries
 
     gdal_overview
     ../quickstart/gdal_quickstart
-    geos_overview
     geotools_overview
+    geos_overview
     proj4_overview
     ../quickstart/proj4_quickstart
-    jts_overview
     liblas_overview
     ../quickstart/liblas_quickstart
+    jts_overview
 
 |OSGeo_project| :doc:`gdal_overview` - [:doc:`Quickstart <../quickstart/gdal_quickstart>`] - Geospatial Data Translation Tools
 
-|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library
-
 |OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit
+
+|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library
 
 |OSGeo_community| :doc:`proj4_overview` - [:doc:`Quickstart <../quickstart/proj4_quickstart>`] - Coordinate Reference System Libraries
 
-|nologo| :doc:`jts_overview`  - Java Topology Suite
-
 |nologo| :doc:`liblas_overview` - [:doc:`Quickstart <../quickstart/liblas_quickstart>`] - LiDAR Data Access
+
+|nologo| :doc:`jts_overview`  - Java Topology Suite
 
 
 Other software of interest (not available Live)
