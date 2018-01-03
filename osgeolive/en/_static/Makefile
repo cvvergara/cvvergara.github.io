@@ -80,14 +80,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/vicky/OSGeoLive/docs/vicky/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/vicky/OSGeoLive/docs/vicky/build/CMakeFiles /home/vicky/OSGeoLive/docs/vicky/build/doc/_static/CMakeFiles/progress.marks
-	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_static/all
+	cd /home/vicky/OSGeoLive/docs/vicky/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/vicky/OSGeoLive/docs/vicky/build/CMakeFiles /home/vicky/OSGeoLive/docs/vicky/build/doc/_themes/overview/static/CMakeFiles/progress.marks
+	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_themes/overview/static/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/vicky/OSGeoLive/docs/vicky/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_static/clean
+	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_themes/overview/static/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,12 +97,12 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_static/preinstall
+	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_themes/overview/static/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_static/preinstall
+	cd /home/vicky/OSGeoLive/docs/vicky/build && $(MAKE) -f CMakeFiles/Makefile2 doc/_themes/overview/static/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
