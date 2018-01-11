@@ -572,6 +572,9 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            Quantum GIS, or QGIS, is a very popular user-friendly GIS client which allows you to visualize, manage, edit, analyse data, and compose printable maps. It supports numerous vector, raster and database formats, and boasts many free toolboxes, including a user-friendly interface to many of the advanced GRASS analysis modules.
+        
+
 
 
 
@@ -583,6 +586,10 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            GRASS GIS provides powerful raster, vector, and geospatial processing. It includes tools for spatial modeling, visualization of raster and vector data, management and analysis of geospatial data, and the processing of satellite and aerial imagery. It also provides the capability to produce sophisticated presentation graphics and hardcopy maps.
+            It includes over 400 built-in analysis modules and 100 community supplied modules and toolboxes.
+            With over 30 years of continuous development, GRASS is both the oldest and largest Open Source GIS available. It is capable of very powerful analysis, but may not be as simple to get started with as other offerings with more of a geodata viewer focus. Many Open Source projects make use of GRASS's algorithms.
+
 
 
 
@@ -594,6 +601,12 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            In 2003, the Ministry for Transport and Infrastructure in Valencia, Spain, started migrating all their systems to Open Source Software. Part of this migration involved the development of gvSIG to replace ESRI desktop applications in use.
+            gvSIG is a desktop GIS application designed for capturing, storing, handling, analysing and deploying any kind of referenced geographic information in order to solve complex management and planning problems.
+            gvSIG is available in over 20 languages, and has a very strong following amongst Spanish speakers.
+        
+        
+
 
 
 
@@ -605,6 +618,9 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            uDig is a java-based spatial data viewer and editor, which is based upon the geotools library and powerful Eclipse development environment, making uDig a common choice for developers wishing to integrate mapping into java based applications.
+        
+
 
 
 
@@ -616,6 +632,10 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            OpenJUMP is a spin-off from the original JUMP project, which was Open Source but didn't accept improvements and updates from the community. This resulted in over 10 forks of the original code base. OpenJUMP provided a merging back together of many of these forks.
+            OpenJUMP is an easy to use and powerful deskstop GIS that enables users to edit, analyse, and display geographic data. It is particularly good at conflation, which involves aligning a feature which is shown in different locations on two different map layers.
+        
+
 
 
 
@@ -627,6 +647,9 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            SAGA, or the System for Automated Geoscientific Analyses, is a GIS used for editing and analysing spatial data. It includes a large number of modules for the analysis of vector, table, grid and image data.
+            Among others, the package includes modules for geostatistics, image classification, projections, simulation of dynamic processes like hydrology, landscape development and terrain analysis. The functionality can be accessed through a GUI, the command line or by using the C++ programming interface.
+
 
 
 
@@ -658,6 +681,8 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            OpenLayers provides an extensive set of browser-based mapping tools and widgets, similar to Google Maps. All functionality runs inside the web browser, which makes OpenLayers easy to install, without any server-side dependencies.
+
 
 
 
@@ -669,6 +694,10 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            Leaflet is a light weight JavaScript library for browser based application, designed to work across a wide range of browsers and mobile platforms.
+            It is designed with simplicity, performance and usability in mind.
+        
+
 
 
 
@@ -680,6 +709,9 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            Cesium is a JavaScript library for creating 3D globes and 2D maps in a web browser without any plugins. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
+        
+
 
 
 
@@ -724,6 +756,8 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            GeoNode is a Content Management System for geospatial data which provides creation, sharing, and collaborative use of geospatial data. Datasets can be uploaded, maps and metadata can be edited and published, and user ratings and comments can be captured.
+
 
 
 
@@ -1297,6 +1331,8 @@ OSGeoLive
 
         .. rv_note::
             Note 
+            JTS, or Java Topology Suite, is a java library of spatial predicates and functions for processing geometries. It is used by most java based open source geospatial applications. It provides a complete, consistent, and robust implementation of fundamental algorithms for processing linear geometry on the 2-dimensional Cartesian plane.
+
 
 
 
