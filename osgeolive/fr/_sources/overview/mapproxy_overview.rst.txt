@@ -124,3 +124,5 @@ Quickstart
 * :doc:`Quickstart documentation <../quickstart/mapproxy_quickstart>`
 
 
+.. presentation-note
+    Like the GeoWebCache tiling functionality in GeoServer, MapProxy tiles maps from map services, and stores them in a local cache for fast access.
