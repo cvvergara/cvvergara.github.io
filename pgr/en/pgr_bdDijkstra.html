@@ -29,7 +29,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Dijkstra - Family of functions" href="dijkstra-family.html" />
-    <link rel="prev" title="pgr_bdAstar" href="pgr_bdAstar.html" />
+    <link rel="prev" title="pgr_aStarCostMatrix" href="pgr_aStarCostMatrix.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
@@ -115,10 +115,7 @@
 </li>
 <li><a class="reference internal" href="#parameters">Parameters</a></li>
 <li><a class="reference internal" href="#inner-query">Inner query</a></li>
-<li><a class="reference internal" href="#result-columns">Result Columns</a><ul>
-<li><a class="reference internal" href="#description-of-the-return-values-for-a-path">Description of the return values for a path</a></li>
-</ul>
-</li>
+<li><a class="reference internal" href="#result-columns">Result Columns</a></li>
 <li><a class="reference internal" href="#see-also">See Also</a></li>
 </ul>
 </li>
@@ -131,7 +128,7 @@
               
                 
   <li>
-    <a href="pgr_bdAstar.html" title="Previous Chapter: pgr_bdAstar"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; pgr_bdAstar</span>
+    <a href="pgr_aStarCostMatrix.html" title="Previous Chapter: pgr_aStarCostMatrix"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; pgr_aStarCostMatrix</span>
     </a>
   </li>
   <li>
@@ -561,9 +558,7 @@ for all <code class="docutils literal"><span class="pre">start_vids</span></code
 </div>
 <div class="section" id="result-columns">
 <h2>Result Columns<a class="headerlink" href="#result-columns" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="description-of-the-return-values-for-a-path">
-<h3>Description of the return values for a path<a class="headerlink" href="#description-of-the-return-values-for-a-path" title="Permalink to this headline">¶</a></h3>
-<p>Returns set of <code class="docutils literal"><span class="pre">(seq,</span> <span class="pre">path_seq</span> <span class="pre">[,</span> <span class="pre">start_vid]</span> <span class="pre">[,</span> <span class="pre">end_vid],</span> <span class="pre">node,</span> <span class="pre">edge,</span> <span class="pre">cost,</span> <span class="pre">agg_cost)</span></code></p>
+<p>Returns set of <code class="docutils literal"><span class="pre">(seq,</span> <span class="pre">path_id,</span> <span class="pre">path_seq</span> <span class="pre">[,</span> <span class="pre">start_vid]</span> <span class="pre">[,</span> <span class="pre">end_vid],</span> <span class="pre">node,</span> <span class="pre">edge,</span> <span class="pre">cost,</span> <span class="pre">agg_cost)</span></code></p>
 <table border="1" class="docutils">
 <colgroup>
 <col width="8%" />
@@ -591,31 +586,58 @@ for all <code class="docutils literal"><span class="pre">start_vids</span></code
 </tr>
 <tr class="row-odd"><td><strong>start_vid</strong></td>
 <td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
-<td>Identifier of the starting vertex. Used when multiple starting vetrices are in the query.</td>
+<td><p class="first">Identifier of the starting vertex.</p>
+<ul class="last simple">
+<li>Returned when multiple starting vetrices are in the query.<ul>
+<li><a href="#id3"><span class="problematic" id="id4">`Many to One`_</span></a></li>
+<li><a href="#id5"><span class="problematic" id="id6">`Many to Many`_</span></a></li>
+</ul>
+</li>
+</ul>
+</td>
 </tr>
 <tr class="row-even"><td><strong>end_vid</strong></td>
 <td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
-<td>Identifier of the ending vertex. Used when multiple ending vertices are in the query.</td>
+<td><p class="first">Identifier of the ending vertex.</p>
+<ul class="last simple">
+<li>Returned when multiple ending vertices are in the query.<ul>
+<li><a href="#id7"><span class="problematic" id="id8">`One to Many`_</span></a></li>
+<li><a href="#id9"><span class="problematic" id="id10">`Many to Many`_</span></a></li>
+</ul>
+</li>
+</ul>
+</td>
 </tr>
 <tr class="row-odd"><td><strong>node</strong></td>
 <td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
 <td>Identifier of the node in the path from <code class="docutils literal"><span class="pre">start_vid</span></code> to <code class="docutils literal"><span class="pre">end_vid</span></code>.</td>
 </tr>
-<tr class="row-even"><td><strong>edge</strong></td>
+<tr class="row-even"><td><strong>start_vid</strong></td>
+<td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
+<td>Identifier of the starting vertex. Used when multiple starting vetrices are in the query.</td>
+</tr>
+<tr class="row-odd"><td><strong>end_vid</strong></td>
+<td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
+<td>Identifier of the ending vertex. Used when multiple ending vertices are in the query.</td>
+</tr>
+<tr class="row-even"><td><strong>node</strong></td>
+<td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
+<td>Identifier of the node in the path from <code class="docutils literal"><span class="pre">start_vid</span></code> to <code class="docutils literal"><span class="pre">end_vid</span></code>.</td>
+</tr>
+<tr class="row-odd"><td><strong>edge</strong></td>
 <td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
 <td>Identifier of the edge used to go from <code class="docutils literal"><span class="pre">node</span></code> to the next node in the path sequence. <code class="docutils literal"><span class="pre">-1</span></code> for the last node of the path.</td>
 </tr>
-<tr class="row-odd"><td><strong>cost</strong></td>
+<tr class="row-even"><td><strong>cost</strong></td>
 <td><code class="docutils literal"><span class="pre">FLOAT</span></code></td>
 <td>Cost to traverse from <code class="docutils literal"><span class="pre">node</span></code> using <code class="docutils literal"><span class="pre">edge</span></code> to the next node in the path sequence.</td>
 </tr>
-<tr class="row-even"><td><strong>agg_cost</strong></td>
+<tr class="row-odd"><td><strong>agg_cost</strong></td>
 <td><code class="docutils literal"><span class="pre">FLOAT</span></code></td>
 <td>Aggregate cost from <code class="docutils literal"><span class="pre">start_v</span></code> to <code class="docutils literal"><span class="pre">node</span></code>.</td>
 </tr>
 </tbody>
 </table>
-</div>
 </div>
 <div class="section" id="see-also">
 <h2>See Also<a class="headerlink" href="#see-also" title="Permalink to this headline">¶</a></h2>
@@ -646,7 +668,7 @@ for all <code class="docutils literal"><span class="pre">start_vids</span></code
     </p>
     <p>
         &copy; Copyright pgRouting Contributors - Version v3.0.0-dev.<br/>
-      Last updated on May 27, 2018.<br/>
+      Last updated on Jun 18, 2018.<br/>
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.5.<br/>
     </p>
   </div>
