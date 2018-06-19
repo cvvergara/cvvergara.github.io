@@ -610,25 +610,21 @@ OR EMPTY SET
 </tr>
 <tr class="row-odd"><td><strong>start_vid</strong></td>
 <td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
-<td><p class="first">Identifier of the starting vertex.</p>
+<td><p class="first">Identifier of the starting vertex.
+Returned when multiple starting vetrices are in the query.</p>
 <ul class="last simple">
-<li>Returned when multiple starting vetrices are in the query.<ul>
 <li><a class="reference internal" href="#many-to-one">Many to One</a></li>
 <li><a class="reference internal" href="#many-to-many">Many to Many</a></li>
-</ul>
-</li>
 </ul>
 </td>
 </tr>
 <tr class="row-even"><td><strong>end_vid</strong></td>
 <td><code class="docutils literal"><span class="pre">BIGINT</span></code></td>
-<td><p class="first">Identifier of the ending vertex.</p>
+<td><p class="first">Identifier of the ending vertex.
+Returned when multiple ending vertices are in the query.</p>
 <ul class="last simple">
-<li>Returned when multiple ending vertices are in the query.<ul>
 <li><a class="reference internal" href="#one-to-many">One to Many</a></li>
 <li><a class="reference internal" href="#many-to-many">Many to Many</a></li>
-</ul>
-</li>
 </ul>
 </td>
 </tr>
@@ -689,7 +685,7 @@ OR EMPTY SET
     </p>
     <p>
         &copy; Copyright pgRouting Contributors - Version v3.0.0-dev.<br/>
-      Last updated on Jun 18, 2018.<br/>
+      Last updated on Jun 19, 2018.<br/>
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.5.<br/>
     </p>
   </div>
