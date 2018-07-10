@@ -1,0 +1,280 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>GRASS GIS Quickstart &#8212; OSGeoLive 12.0.0.-dev Documentation</title>
+    <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '12.0.0.-dev',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <script type="text/javascript" src="../../_static/translations.js"></script>
+    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
+    <link rel="index" title="Stichwortverzeichnis" href="../genindex.html" />
+    <link rel="search" title="Suche" href="../search.html" />
+    <link rel="copyright" title="Copyright" href="../copyright.html" />
+    <link rel="next" title="gvSIG Desktop Quickstart" href="gvsig_quickstart.html" />
+    <link rel="prev" title="GpsPrune Quickstart" href="gpsprune_quickstart.html" />
+	<script type="text/javascript" src="../../_static/osgeolive.js"></script>
+
+
+  </head>
+  <body>
+
+        
+        
+    <div class="header">
+	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_images/banner.png"></a></div>
+        <div class="nowrap">
+            <ul id="top-nav">
+              <li><a href="../index.html">Home</a></li>
+              <li><a href="../overview/overview.html">Contents</a></li>
+              <li><a href="../download.html">Download</a></li>
+              <li><a href="../metrics.html">Metrics</a></li>
+              <li><a href="../sponsors.html">Sponsors</a></li>
+              <li><a href="../contact.html">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+    </div> 
+        
+
+
+    
+    <div class="related">
+	<font size="-2">
+		<div id="translations">
+		<!-- alphabetical order -->
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+		</div>
+	</font>
+    </div>
+
+
+
+    <div class="document">
+      <div class="documentwrapper">
+          <div class="body" role="main">
+            
+  <img alt="../../_images/logo_grass.png" class="align-right" src="../../_images/logo_grass.png" />
+<a class="reference external image-reference" href="target:http://www.osgeo.org"><img alt="../../_images/OSGeo_project.png" class="align-right" src="../../_images/OSGeo_project.png" /></a>
+<div class="section" id="grass-gis-quickstart">
+<h1><a class="toc-backref" href="#id1">GRASS GIS Quickstart</a><a class="headerlink" href="#grass-gis-quickstart" title="Link zu dieser Überschrift">¶</a></h1>
+<p>GRASS GIS is a powerful GIS which lets you visualize, manage, analyse and edit
+geospatial data.</p>
+<div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#grass-gis-quickstart" id="id1">GRASS GIS Quickstart</a><ul>
+<li><a class="reference internal" href="#quick-tour" id="id2">Ablauf</a><ul>
+<li><a class="reference internal" href="#displaying-maps" id="id3">Karten anzeigen</a></li>
+<li><a class="reference internal" href="#plot-an-elevation-profile" id="id4">Ein Höhenprofil erstellen</a></li>
+<li><a class="reference internal" href="#create-a-random-surface" id="id5">Erstellen einer zufälligen Oberfläche</a></li>
+<li><a class="reference internal" href="#adjust-raster-map-colors" id="id6">Farben von Rasterkarten anpassen</a></li>
+<li><a class="reference internal" href="#create-a-shaded-relief-map" id="id7">Erstellen einer Reliefschattierung (Schummerung)</a></li>
+<li><a class="reference internal" href="#watersheds-and-streams" id="id8">Wassereinzugsgebiete und Flüsse</a></li>
+<li><a class="reference internal" href="#vector-modules" id="id9">Vektor Module</a></li>
+<li><a class="reference internal" href="#adjust-vector-map-colors" id="id10">Adjust vector map colors</a></li>
+<li><a class="reference internal" href="#managing-attributes" id="id11">Managing attributes</a></li>
+<li><a class="reference internal" href="#d-visualization" id="id12">3D Visualisierung</a></li>
+<li><a class="reference internal" href="#other-things-to-try" id="id13">Weitere Aufgaben</a></li>
+<li><a class="reference internal" href="#shutdown-and-the-command-line" id="id14">Beenden und die Kommandozeile</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#further-reading" id="id15">Weiterführende Links</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="quick-tour">
+<h2><a class="toc-backref" href="#id2">Ablauf</a><a class="headerlink" href="#quick-tour" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Um GRASS auf der Live DVD zu starten, klicken Sie auf den GRASS Link im Menü unter <span class="menuselection">Geospatial ‣ Desktop GIS</span>. Im „Welcome to GRASS GIS“ Fenster wählen Sie den North Carolina Datensatz als Location und „user1“ als Mapset. Klicken Sie dann auf [<em>Start GRASS</em>].</p>
+<a class="reference internal image-reference" href="../../_images/grass-startup.png"><img alt="screenshot" class="align-right" src="../../_images/grass-startup.png" style="width: 297.0px; height: 300.0px;" /></a>
+<p>Dies started GRASS mit der <a class="reference external" href="../../grass/wxGUI.html">grafischen Benutzeroberfläche (geschrieben in wxPython)</a>.</p>
+<div class="admonition tip">
+<p class="first admonition-title">Tipp</p>
+<p class="last">Wenn Sie auf einem Netbook mit kleinem Display (800x600 Auflösung) arbeiten, kann der Startbildschirm zu groß und der [<em>Start GRASS</em>] Knopf eventuell versteckt sein. In diesem Fall sollten Sie das Fenster an einer Ecke etwas größer ziehen. Oder Sie können das gesamte Fenster weiter nach oben schieben, in dem Sie die Alt-Taste gedrückt halten und dann das Fenster mit der linken Maustaste verschieben.</p>
+</div>
+<div class="section" id="displaying-maps">
+<h3><a class="toc-backref" href="#id3">Karten anzeigen</a><a class="headerlink" href="#displaying-maps" title="Link zu dieser Überschrift">¶</a></h3>
+<a class="reference internal image-reference" href="../../_images/grass-layerman.png"><img alt="screenshot" class="align-left" src="../../_images/grass-layerman.png" style="width: 384.0px; height: 300.0px;" /></a>
+<p>Einmal drinnen, laden Sie eine Rasterkarte, z.B.: „<cite>elevation</cite>“ aus der PERMANENT Mapset. Dazu klicken Sie in der Werkzeugleiste auf das erste Icon mit einem „+“, um eine Rasterkarte zu öffnen. Dann wählen Sie eine Karte in dem „<em>Name der Rasterkarte, die angezeigt werden soll</em>“ Pulldown Menü aus und klicken auf <span class="guilabel">Ok</span>.</p>
+<p>Auf ähnliche Weise laden Sie die Vektorkarte „<cite>roadsmajor</cite>“ aus der PERMANENT Mapset, indem Sie in der Werkzeugleite auf das zweite Icon mit einem „+“ und einer Linie, die wie ein „V“ aussieht, klicken, um eine Vektorkarte zu öffnen.</p>
+<p>Die Schaltflächen verfügen über Tooltipps, die beim Mouseover-Ereignis erscheinen. Diese werden Ihnen weiterhelfen.</p>
+<p>Es kann sein, dass Sie auf den Rasterlayer klicken müssen und über „Zoom to selected map(s)“ in den Bereich der Daten navigieren.</p>
+<p>Sie sollten nun die beiden Karten im Kartenfenster sehen.</p>
+</div>
+<div class="section" id="plot-an-elevation-profile">
+<h3><a class="toc-backref" href="#id4">Ein Höhenprofil erstellen</a><a class="headerlink" href="#plot-an-elevation-profile" title="Link zu dieser Überschrift">¶</a></h3>
+<a class="reference internal image-reference" href="../../_images/grass-profile.png"><img alt="screenshot" class="align-right" src="../../_images/grass-profile.png" style="width: 344.0px; height: 199.5px;" /></a>
+<p>Zurück im <cite>GIS Ebenen-Manager</cite> klicken Sie auf den Namen <cite>elevation</cite> der Rasterkarte, um sie auszuwählen. Im <cite>Map Display</cite> Fenster klicken Sie dann rechts neben den Zoom Icons auf das Symbol mit der roten Profillinie und wählen die Funktion <strong>Zu profilierende Oberflächenkarte</strong> aus. Das <cite>&#64;PERMANENT</cite> Mapset
+wird automatisch gesucht. Falls die Karte <cite>elevation</cite> nicht direkt in dem Fenster Profilanalyse angezeigt wird, wählen Sie sie bitte aus und klicken auf <span class="guilabel">Ok</span>. Das zweite Icon von Links ermöglicht das Erstellen eines Profils. Wählen Sie es aus, und klicken Sie ein paar Punkte auf die Karte im Map Display. Danach gehen Sie zurück in das Fenster der Profilanalyse und klicken dort auf das Augen Icon, um das Profil anzuzeigen. Um die Analyse zu beenden, klicken Sie den <cite>Beenden</cite> Knopf ganz rechts.</p>
+</div>
+<div class="section" id="create-a-random-surface">
+<h3><a class="toc-backref" href="#id5">Erstellen einer zufälligen Oberfläche</a><a class="headerlink" href="#create-a-random-surface" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Nun erstellen wir eine neue Karte. Wählen Sie <span class="menuselection">Raster ‣ Erzeuge Oberflächen ‣ Fraktale Oberfläche</span> aus dem Menü (fast ganz unten); geben Sie der neuen Karte einen Namen; passen Sie Parameter im Optionen Reiter an, wenn Sie wollen (die Standards sind aber bereits ok), und klicken Sie dann auf [<em>Run</em>]. Sie können nun das Fenster des <em>r.surf.fractal</em> Moduls schließen mit dem Knopf [Schließen].</p>
+<a class="reference internal image-reference" href="../../_images/grass-fractal.png"><img alt="screenshot" class="align-right" src="../../_images/grass-fractal.png" style="width: 352.5px; height: 300.0px;" /></a>
+</div>
+<div class="section" id="adjust-raster-map-colors">
+<h3><a class="toc-backref" href="#id6">Farben von Rasterkarten anpassen</a><a class="headerlink" href="#adjust-raster-map-colors" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Nun fügen Sie die neue Rasterkarte zur Kartenliste hinzu, wie Sie es bereits mit der Karte <cite>elevation</cite> gemacht haben. Die Karte liegt nun aber in der Mapset „user1“. Sie können nun auch die Anzeige der Karte <cite>elevation</cite> über das Kontrollkästchen deaktivieren. Klicken Sie wieder auf das Augen Icon, um die neue Rasterkarte anzuzeigen. Die Farben sind vielleicht nicht so, wie sie wollen, also ändern wir sie. Wählen Sie die neu erstellte Rasterkarte wieder aus und öffnen dann im Menü <cite>Raster</cite> den Eintrag <span class="menuselection">Farben verwalten ‣ Farbtabellen</span> aus. Im Reiter ‚Definition‘ wählen Sie aus der Auswahl „Farbname“ und wählen Sie einen Eintrag aus. Klicken Sie auf den [Los] Knopf und schließen Sie den <em>r.colors</em> Dialog. Die Farben sollten dann automatisch aktualisiert werden.</p>
+</div>
+<div class="section" id="create-a-shaded-relief-map">
+<h3><a class="toc-backref" href="#id7">Erstellen einer Reliefschattierung (Schummerung)</a><a class="headerlink" href="#create-a-shaded-relief-map" title="Link zu dieser Überschrift">¶</a></h3>
+<a class="reference internal image-reference" href="../../_images/grass-shadedrelief.png"><img alt="screenshot" class="align-right" src="../../_images/grass-shadedrelief.png" style="width: 338.5px; height: 300.0px;" /></a>
+<p>Als nächstes wollen wir aus der Karte „elevation“ eine Karte mit Reliefschattierung erstellen. Als erstes stellen wir sicher, dass die „region“ auf die Rasterkarte „<cite>elevation</cite>“ in der PERMANENT Mapset gesetzt ist. Dazu wählen wir die Karte in der Layerliste aus, drücken mit der rechten Maustaste auf den Namen und wählen dann „Arbeitsbereich auf Grundlage selektierter Karte setzen“.</p>
+<p>Im Menü <cite>Raster</cite> wählen wir nun <span class="menuselection">Reliefanalyse ‣ Reliefschattierung</span> und starten den Dialog. Mit der Karte „elevation“ <em>&#64;PERMANENT</em> als Eingabe, als Ausgabe können Sie beispielweise <cite>schattiertes_relief</cite> angeben und klicken Sie anschließend bitte auf [Los]. Die neue Karte <cite>schattiertes_relief</cite> <em>&#64;user1</em> wurde in die Layerliste eingefügt. Deaktivieren Sie die Kontrollkästchen der anderen Karten, um lediglich die neu erzeugte Rasterebene anzuzeigen.</p>
+</div>
+<div class="section" id="watersheds-and-streams">
+<h3><a class="toc-backref" href="#id8">Wassereinzugsgebiete und Flüsse</a><a class="headerlink" href="#watersheds-and-streams" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Wieder selektieren wir die Karte <cite>elevation</cite> <em>&#64;PERMANENT</em>. Wenn Sie den Ausschnitt verändert haben sollten, klicken Sie mit der rechten Maustaste auf den Layernamen wählen Sie <span class="menuselection">Set computational region from selected map(s)</span> aus dem Kontextmenü um die volle Ausdehnung für die Berechnung der Wassereinzugsgebiete zu erhalten.</p>
+<div class="admonition note">
+<p class="first admonition-title">Bemerkung</p>
+<p class="last">Die wxGUI Karte Anzeige und Zoom ist unabhängig  und hat keinen Effekt auf die Berechnung. Prüfen Sie die Berechnungsregion über  <span class="menuselection">Settings ‣ Region ‣ Display Region</span>;  dies ist äußerst wichtig für jede Raster Grid Operation. Raster Karten mit verschiedenen Begrenzungen und Auflösungen werden on-the-fly auf die Berechnungsregion angepasst.</p>
+</div>
+<p>Wählen Sie nun im Menü <cite>Raster</cite> <span class="menuselection">Hydrologische Modellierung ‣ Wassereinzugsgebiet Analyse</span>. Der <code class="docutils literal"><span class="pre">r.watershed</span></code> Dialog öffnet sich. Wählen Sie die <cite>elevation</cite> Karte als Eingabe, im Reiter ‚Eingabe Optionen‘ setzen sie <em>threshold</em> Wert auf 10000 Zellen, dann im Reiter ‚Ausgabe Optionen‘ geben Sie „elev.basins“ als basin Option und „streams“ für die „Name for output stream segments raster map“-Option direkt darunter an. Dann klicken Sie auf [Los].</p>
+<p>Zurück im Ebenen-Manager fügen Sie die zwei neuen Karten wieder in die Layerliste ein. Stellen sicher, dass nur diese für die Anzeige ausgewählt sind. Klicken Sie mit der rechten Maustaste auf „<cite>elev.basins</cite>“ und wählen Sie „Deckkraft ändern“. Setzen Sie den Wert auf 50% und rendern Sie die Karte nochmal.</p>
+<a class="reference internal image-reference" href="../../_images/grass-watersheds.png"><img alt="screenshot" class="align-left" src="../../_images/grass-watersheds.png" style="width: 352.5px; height: 300.0px;" /></a>
+<p>Im Ebenen-Manager klicken Sie auf den fünften Knopf von rechts, um eine Ebene mit Gitternetz hinzuzufügen. Als size Wert geben Sie 0:03 für 0 Grad und 3 Minuten an. Das Format ist D:M:S. Im Reiter „Optional“ aktivieren Sie „Zeichnen Sie geographisches Gitter basierend auf dem aktuellen Ellipsoid“, klicken Sie auf [Los] und rendern Sie die Karten nochmal.</p>
+<p>Um eine Maßstabsleiste anzuzeigen, klicken Sie im Map Display Fenster auf das Icon „Kartenelemente hinzufügen“ und klicken auf Nordpfeil und Maßstab hinzufügen. Lesen Sie die Instruktionen und klicken dann auf [Ok]. Eine Maßstabsleiste erscheint oben links, ziehen Sie sie in die linke untere Ecke. Aus demselben Menü wählen Sie nun „Legende hinzufügen“, wählen die Rasterkarte aus, für die eine Legende erstellt werden soll. Danach klicken Sie [Ok] und dann nochmal [Ok]. Ziehen Sie nun die Legende auf die rechte Seite des Map Displays.</p>
+<p>Wenn Ihnen die Schriftarten nicht gefallen, können Sie im GIS Ebenen-Manager das Menü <span class="menuselection">Einstellungen ‣ Einstellungen</span> öffnen und im Reiter Fenster Schriftarten auswählen und auf den Knopf [Anwenden] klicken. Sie müssen wieder auf den Knopf „Karte neu anzeigen“ rechts neben dem Augen Icon klicken, damit die Veränderung sichtbar wird.</p>
+</div>
+<div class="section" id="vector-modules">
+<h3><a class="toc-backref" href="#id9">Vektor Module</a><a class="headerlink" href="#vector-modules" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Die Aufgaben haben nur einige Rasteranalysen vorgestellt. GRASS GIS bietet aber auch eine Vielzahl von Vektor Modulen, die genauso umfangreich sind wie für die Rasteranalyse. GRASS bietet eine topologische Vektorumgebung.</p>
+<a class="reference internal image-reference" href="../../_images/grass_screenshot.png"><img alt="screenshot" class="align-right" src="../../_images/grass_screenshot.png" style="width: 512.0px; height: 384.0px;" /></a>
+<p>Continuing with the watershed basins created above, next we’ll convert
+them into vector polygons. In the <cite>Raster</cite> menu select <span class="menuselection">Map type conversions ‣ Raster to vector</span>.
+In the <cite>r.to.vect</cite> dialog that opens make sure that <code class="docutils literal"><span class="pre">elev.basins</span> <span class="pre">&#64;user1</span></code> is
+selected for the input map, give a name for the output map like <code class="docutils literal"><span class="pre">basins_areas</span></code>
+(vector map names must be SQL compliant, hence not all characters are allowed),
+and change „Output feature type“ to <cite>area</cite>. In the <cite>Attributes</cite> tab tick
+the box to use raster values as category numbers (i.e., the IDs),
+since these will match the values in our stream segment raster map created
+earlier. Then click on [<em>Run</em>]. Once the new vector map is displayed, you
+might right click on it in the <cite>Layer Manager</cite> list and change its opacity
+level to 50%.</p>
+</div>
+<div class="section" id="adjust-vector-map-colors">
+<h3><a class="toc-backref" href="#id10">Adjust vector map colors</a><a class="headerlink" href="#adjust-vector-map-colors" title="Link zu dieser Überschrift">¶</a></h3>
+<p>As we did earlier with a raster map we will change the color table of the
+new watershed basins vector map. With the <code class="docutils literal"><span class="pre">basins_areas</span></code> selected in the
+layer list, right click on the this vector map layer name and choose
+„Set color table“. In the ‚Define‘ tab click on the pull-down list for the
+„Name of color table“ option, and pick for example „bcyr“ (blue-cyan-yellow-red)
+from the list. Once done click the [<em>Run</em>] button and close the <em>v.colors</em>
+dialog window. You may need to re-draw the map to see the colorized vector
+map.</p>
+<a class="reference internal image-reference" href="../../_images/grass-vector-basins.png"><img alt="screenshot" class="align-right" src="../../_images/grass-vector-basins.png" style="width: 352.5px; height: 300.0px;" /></a>
+</div>
+<div class="section" id="managing-attributes">
+<h3><a class="toc-backref" href="#id11">Managing attributes</a><a class="headerlink" href="#managing-attributes" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Next we’ll add some attributes to those new areas, containing the average
+elevation in each basin. In the Vector menu select <span class="menuselection">Update attributes ‣ Update area attributes from raster</span>.
+Use <code class="docutils literal"><span class="pre">basin_areas</span></code> as the vector polygon map, and select the <code class="docutils literal"><span class="pre">elevation</span></code>
+raster map to calculate the statistics from; set the the „Column prefix for
+new attribute columns“ to <code class="docutils literal"><span class="pre">elev</span></code>, and click [<em>Run</em>]; then close the dialog when
+it is finished. You can query the values in the <cite>Map Display</cite> window using
+the fifth icon from the left and after verifying that the vector-areas map
+is selected in the <cite>Layer List</cite>, clicking on a vector area in the map canvas.</p>
+<p>You can now re-colorize the areas based on the average elevation values using the
+<code class="docutils literal"><span class="pre">v.colors</span></code> module. In the Vector menu select <span class="menuselection">Manage colors ‣ Color tables</span>.
+Select <code class="docutils literal"><span class="pre">basin_areas</span></code> for the input vector map, as „Source value“ select
+<code class="docutils literal"><span class="pre">attr</span></code> instead of <code class="docutils literal"><span class="pre">cat</span></code>. Then, in the „Define“ tab choose the <code class="docutils literal"><span class="pre">elev_average</span></code>
+attribute column for the column containing the numeric range. The colors we
+want to copy from the <cite>elevation</cite> raster map, so we select it as the name for
+„Raster map from which to copy color table“. After clicking [<em>Run</em>] you
+need to refresh the map display (second icon from left) to see the updated
+basins map.</p>
+<p>Now let’s look at the attribute table and SQL builder in more detail. In the
+<cite>Layer Manager</cite> click the table icon („Show attribute data for selected vector
+map“), it is second from the left on the bottom row. This will open a view
+of the database table attached to the selected vector map. For now we’ll just
+do a <em>Simple</em> database query to find watershed basins without a lot of variation
+in them. Where it says <code class="docutils literal"><span class="pre">SELECT</span> <span class="pre">*</span> <span class="pre">FROM</span> <span class="pre">basin_areas</span> <span class="pre">WHERE</span></code> pick <code class="docutils literal"><span class="pre">elev_stddev</span></code>
+from the pull down list for the standard deviation statistic, then in the
+text box to its right enter <code class="docutils literal"><span class="pre">&lt;</span> <span class="pre">50</span></code> and click [<em>Apply</em>]. You’ll notice the
+number of loaded records in the information bar along the bottom of the window
+has shrunk, and that all of the rows with large values for standard deviation
+(std. dev.) are now gone from the displayed table. Right-click on the table data
+and choose <code class="docutils literal"><span class="pre">Select</span> <span class="pre">all</span></code>. Again right-click on the table data and this time
+choose <code class="docutils literal"><span class="pre">Highlight</span> <span class="pre">selected</span> <span class="pre">features</span></code>. You should see e.g. alluvial flood basins
+and mesas show up in the <code class="docutils literal"><span class="pre">Map</span> <span class="pre">Display</span></code>.</p>
+</div>
+<div class="section" id="d-visualization">
+<h3><a class="toc-backref" href="#id12">3D Visualisierung</a><a class="headerlink" href="#d-visualization" title="Link zu dieser Überschrift">¶</a></h3>
+<a class="reference internal image-reference" href="../../_images/grass-nviz.png"><img alt="screenshot" class="align-right" src="../../_images/grass-nviz.png" style="width: 512.0px; height: 234.5px;" /></a>
+<p>Starten Sie die 3D Visualisierung über das Menü <span class="menuselection">Datei ‣ NVIZ (erfordert TclTk)</span>. Wählen Sie die Karte <cite>elevation</cite> als Raster Höhenkarte. Sobald die 3D Ansicht gestartet wird, vergrößern Sie das Fenster. Nun wählen Sie im Menü <cite>Visualize –&gt; Raster Oberflächen</cite>, setzen die fein Auflösung auf „1“ und spielen Sie ein wenig mit den Schiebereglern und dem Positionspfeil, um unterschiedliche Ansichten zu erzeugen.</p>
+<p>Um Satelliten- oder Luftbilder über das Höhenmodell zu legen, klicken Sie auf den Knopf <strong>Oberflächenattribute</strong> und wählen dort color aus. Klicken Sie in dem neuen Dialog auf „Neue Karte“ und wählen dann eine Karte aus, die für die Farbdarstellung verwendet werden soll. Im Spearfish Datensatz ist „<cite>spot.image</cite>“ und im North Carolina Datensatz „<cite>lsat7_2002_50</cite>“ eine gute Wahl. Klicken Sie nun auf „Annehmen“ und zurück im Hauptfenster auf den Knopf „Zeichne“ in der oberen linken Ecke.</p>
+<p>For easy navigation in the 3D view, switch on the „Rotate 3D scene“ in
+the map display toolbar, then use the mouse to move the view around.</p>
+</div>
+<div class="section" id="other-things-to-try">
+<h3><a class="toc-backref" href="#id13">Weitere Aufgaben</a><a class="headerlink" href="#other-things-to-try" title="Link zu dieser Überschrift">¶</a></h3>
+<p>While not covered here, you may like to experiment with the
+Cartographic Composer and object-oriented Graphical Modelling Tool (offers
+export to Python); you’ll find icons to launch them on the lower row of
+icons in the <cite>Layer Manager</cite> window. Further details can be found in
+the <a class="reference external" href="../../grass/wxGUI.html">wxGUI</a> help pages.</p>
+<p>The wxGUI is written in Python, and if you’re a fan of Python programming
+there are a number of great tools and an API available to you. In the bottom
+of the <cite>Layer Manager</cite> window click on the <cite>Python shell</cite> tab and
+type <code class="docutils literal"><span class="pre">help(grass.core)</span></code> to see a listing of the many functions available
+in the core GIS python library. Besides the core GIS functions there is
+also <cite>array</cite> (NumPy), <cite>db</cite> (database), <cite>raster</cite>, and <cite>vector</cite> libraries
+available. For advanced use <cite>Pythons Ctypes</cite> is supported allowing the
+Python programmer direct access to GRASS GIS‘ extensive C libraries.
+See the manual pages for an extensive description of the programming options.</p>
+</div>
+<div class="section" id="shutdown-and-the-command-line">
+<h3><a class="toc-backref" href="#id14">Beenden und die Kommandozeile</a><a class="headerlink" href="#shutdown-and-the-command-line" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Wenn Sie GRASS beenden möchten, wählen Sie im GRASS GUI <span class="menuselection">Datei ‣ GUI Schließen</span>. Bevor Sie auch das GRASS Kommandofenster schliessen, versuchen Sie mal ein Modul über die Kommandozeile zu starten, in dem Sie eingeben „<code class="docutils literal"><span class="pre">g.manual</span> <span class="pre">--help</span></code>“. Sie bekommen nun eine Liste von Optionen angezeigt. In der Kommandozeile hat GRASS seine wahren Stärken. All Kommandos können in Skripten zu umfangreichen Prozessketten zusammengefasst werden. Populäre Sprachen sind Bourne Shell and Python, die einige nette Tricks parat haben, um das Skripten zu vereinfachen. Damit können Sie in weniger als 5 Minuten ein neues GRASS Modul schreiben, inklusive Parser, GUI und Hilfeseiten Template.</p>
+<p>„<code class="docutils literal"><span class="pre">g.manual</span> <span class="pre">-i</span></code>“ startet einen Webbrowser mit den Modul Hilfeseiten. Am Ende schliessen Sie den Browser und tippen „exit“ in das GRASS Terminal, um die GRASS GIS Umgebung zu verlassen.</p>
+</div>
+</div>
+<div class="section" id="further-reading">
+<h2><a class="toc-backref" href="#id15">Weiterführende Links</a><a class="headerlink" href="#further-reading" title="Link zu dieser Überschrift">¶</a></h2>
+<ul class="simple">
+<li>Besuchen Sie die GRASS GIS Webseite unter <a class="reference external" href="http://grass.osgeo.org">http://grass.osgeo.org</a></li>
+<li>Besuchen Sie die GRASS GIS Wiki Hilfeseiten unter <a class="reference external" href="http://grasswiki.osgeo.org/wiki/">http://grasswiki.osgeo.org/wiki/</a></li>
+<li>Mehr Tutorials und Übersichten finden Sie unter &lt;<a class="reference external" href="http://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started">http://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started</a>&gt;`_.</li>
+<li>Eine <a class="reference external" href="http://grass.osgeo.org/gdp/grassmanuals/grass64_module_list.pdf">Synopsis der GRASS GIS Module‘</a>, inklusive GUI Menü Position. (<a class="reference external" href="http://grass.osgeo.org/grass70/manuals/full_index.html">HTML version</a>)</li>
+<li>Wenn die 400 GIS Module in GRASS nicht ausreichen, werfen Sie mal einen Blick auf die vielen Add-ons unter <a class="reference external" href="http://grass.osgeo.org/grass70/manuals/addons/">http://grass.osgeo.org/grass70/manuals/addons/</a></li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    
+    <div class="related">
+	<font size="-2">
+		<div id="translations">
+		<!-- alphabetical order -->
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+		</div>
+	</font>
+    </div>
+
+
+<span style="font-size:85%;"><i><a href="../copyright.html">Copyright & Disclaimer</a></i></span>
+
+
+  </body>
+</html>

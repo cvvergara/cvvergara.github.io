@@ -37,7 +37,7 @@
         
         
     <div class="header">
-	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_static/banner.png"></a></div>
+	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_images/banner.png"></a></div>
         <div class="nowrap">
             <ul id="top-nav">
               <li><a href="../index.html">Home</a></li>
@@ -58,7 +58,7 @@
 	<font size="-2">
 		<div id="translations">
 		<!-- alphabetical order -->
-              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
 		</div>
 	</font>
     </div>
@@ -73,35 +73,29 @@
 <div class="section" id="mapnik">
 <h1>Mapnik<a class="headerlink" href="#mapnik" title="Lien permanent vers ce titre">¶</a></h1>
 <div class="section" id="cartographic-rendering-engine">
-<h2>Cartographic rendering engine<a class="headerlink" href="#cartographic-rendering-engine" title="Lien permanent vers ce titre">¶</a></h2>
-<p>Mapnik is a toolkit for rendering beautiful maps, with clean, soft feature edges provided by quality anti-aliasing graphics, intelligent label placement, and scalable, SVG symbolisation. Most famously, mapnik is used to render the OpenStreetMap main map layers.</p>
-<p>Mapnik has typically been embedded in Python applications which deliver their maps over the internet although scaling improvements have meant that Mapnik has recently been getting used to create high resolution paper maps too.</p>
+<h2>Moteur de rendu cartographique<a class="headerlink" href="#cartographic-rendering-engine" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Mapnik est une boîte à outils pour générer des belles cartes, avec des bordures claires, arrondies aux angles grâce aux systèmes d’anti-crênelage, de placement «&nbsp;intelligent&nbsp;» des étiquettes, et à la représentation avec des symbologies SVG (redimensionnables). Mapnik est célèbre pour être utiliser pour générer le rendu principal des couches de carte du projet OpenStreetMap.</p>
+<p>Typiquement, Mapnik est encapsulé dans des applications Python qui fournissent des cartes via Internet bien que les améliorations d’échelle aient également permis récemment à Mapnik d’être utilisé pour créer aussi des cartes papier haute résolution.</p>
 <a class="reference internal image-reference" href="../../_images/mapnik_screenshot.png"><img alt="mapnik screenshot" class="align-right" src="../../_images/mapnik_screenshot.png" style="width: 500px;" /></a>
 </div>
 <div class="section" id="core-features">
-<h2>Core Features<a class="headerlink" href="#core-features" title="Lien permanent vers ce titre">¶</a></h2>
-<p>Essentially a collection of geographic objects (map, layer, datasource,
-feature, geometry),  the library doesn’t rely on «&nbsp;windowing systems&nbsp;» and
-can be deployed in any server environment.  It is intended to play fair
-in a multi-threaded environment and is aimed primarily,  but not
-exclusively, at web-based development.</p>
-<p>High-level Python bindings (boost.python) facilitate rapid application
-development,  targeting zope3, django etc.</p>
-<p>Mapnik is cross platform. Packages are available for most linux
-distributions and installers are commonly used on Mac OS X and windows.</p>
+<h2>Fonctionnalités principales<a class="headerlink" href="#core-features" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Essentiellement constitué d’une collection d’objets géographiques («&nbsp;map&nbsp;», «&nbsp;layer&nbsp;», «&nbsp;datasource&nbsp;», «&nbsp;feature&nbsp;», «&nbsp;geometry&nbsp;»), la bibliothèque ne s’appuie pas sur un «&nbsp;système avec des fenêtres&nbsp;» et peut être déployée sur n’importe quel environnement serveur. Il est destiné à bien jouer dans un environnement multi-thread et vise en premier mais pas exclusivement le développement web.</p>
+<p>Les bindings Python de hauts-niveaux (boost.python) facilitent le développement rapide d’applications, ciblant zope3, django, etc…</p>
+<p>Mapnik est multiplate-formes. Les paquets sont disponibles pour la plupart des distributions Linux et des installateurs sont habituellement utilisés sur Mac OS X et Windows.</p>
 </div>
 <div class="section" id="details">
-<h2>Details<a class="headerlink" href="#details" title="Lien permanent vers ce titre">¶</a></h2>
-<p><strong>Website:</strong> <a class="reference external" href="http://www.mapnik.org/">http://www.mapnik.org/</a></p>
+<h2>Détails<a class="headerlink" href="#details" title="Lien permanent vers ce titre">¶</a></h2>
+<p><strong>Site web:</strong> <a class="reference external" href="http://www.mapnik.org/">http://www.mapnik.org/</a></p>
 <p><strong>Licence:</strong> LGPL (GNU Lesser General Public Licence)</p>
-<p><strong>Software Version:</strong> 3.0.13</p>
-<p><strong>Supported Platforms:</strong> Windows, Linux, Mac</p>
-<p><strong>API Interfaces:</strong> C++, Python</p>
+<p><strong>Version du logiciel:</strong> 3.0.13</p>
+<p><strong>Plates-formes supportées:</strong> Windows, Linux, Mac</p>
+<p><strong>Interfaces de l’API:</strong> C++, Python</p>
 </div>
 <div class="section" id="quickstart">
-<h2>Quickstart<a class="headerlink" href="#quickstart" title="Lien permanent vers ce titre">¶</a></h2>
+<h2>Guide de démarrage rapide<a class="headerlink" href="#quickstart" title="Lien permanent vers ce titre">¶</a></h2>
 <ul class="simple">
-<li><a class="reference internal" href="../quickstart/mapnik_quickstart.html"><span class="doc">Quickstart documentation</span></a></li>
+<li><a class="reference internal" href="../quickstart/mapnik_quickstart.html"><span class="doc">Documentation du guide de démarrage rapide</span></a></li>
 </ul>
 </div>
 </div>
@@ -116,7 +110,7 @@ distributions and installers are commonly used on Mac OS X and windows.</p>
 	<font size="-2">
 		<div id="translations">
 		<!-- alphabetical order -->
-              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
 		</div>
 	</font>
     </div>

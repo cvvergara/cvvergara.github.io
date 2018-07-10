@@ -37,7 +37,7 @@
         
         
     <div class="header">
-	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_static/banner.png"></a></div>
+	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_images/banner.png"></a></div>
         <div class="nowrap">
             <ul id="top-nav">
               <li><a href="../index.html">Home</a></li>
@@ -58,7 +58,7 @@
 	<font size="-2">
 		<div id="translations">
 		<!-- alphabetical order -->
-              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
 		</div>
 	</font>
     </div>
@@ -124,15 +124,15 @@
 </div>
 <div class="section" id="installation">
 <h2><a class="toc-backref" href="#id2">Installation</a><a class="headerlink" href="#installation" title="Lien permanent vers ce titre">¶</a></h2>
-<p>For the installation of Mapbender3 have a look at <a class="reference external" href="https://doc.mapbender3.org/en/book/installation.html">https://doc.mapbender3.org/en/book/installation.html</a>.</p>
+<p>For the installation of Mapbender have a look at <a class="reference external" href="https://doc.mapbender.org/en/installation.html">https://doc.mapbender.org/en/installation.html</a>.</p>
 </div>
 <div class="section" id="start-mapbender">
 <h2><a class="toc-backref" href="#id3">Start Mapbender</a><a class="headerlink" href="#start-mapbender" title="Lien permanent vers ce titre">¶</a></h2>
 <ol class="arabic simple">
-<li>Choose  <span class="menuselection">Geospatial ‣ Browser Clients ‣ Mapbender</span> from the start menu or visit <a class="reference external" href="http://localhost/mapbender3/app.php">http://localhost/mapbender3/app.php</a></li>
+<li>Choose  <span class="menuselection">Geospatial ‣ Browser Clients ‣ Mapbender</span> from the start menu or visit <a class="reference external" href="http://localhost/mapbender/app.php">http://localhost/mapbender/app.php</a></li>
 <li>The application will take a few moments to start up</li>
 </ol>
-<p>If you have any difficulties running Mapbender, please check whether your Apache web server and your PostgreSQL database are running.</p>
+<p>If you have any difficulties running Mapbender, please check whether your Apache web server and your PostgreSQL database are running. Or if you use SQLite as database whether you have write access to the file.</p>
 </div>
 <div class="section" id="start-mapbender-in-the-developer-mode-app-dev-php">
 <h2><a class="toc-backref" href="#id4">Start Mapbender in the developer mode app_dev.php</a><a class="headerlink" href="#start-mapbender-in-the-developer-mode-app-dev-php" title="Lien permanent vers ce titre">¶</a></h2>
@@ -141,7 +141,7 @@
 <div><a class="reference internal image-reference" href="../../_images/mapbender3_app_dev.png"><img alt="../../_images/mapbender3_app_dev.png" src="../../_images/mapbender3_app_dev.png" style="width: 736.4px; height: 494.2px;" /></a>
 </div></blockquote>
 <ol class="arabic simple">
-<li>Start the developer mode: <a class="reference external" href="http://localhost/mapbender3/app_dev.php">http://localhost/mapbender3/app_dev.php</a></li>
+<li>Start the developer mode: <a class="reference external" href="http://localhost/mapbender/app_dev.php">http://localhost/mapbender/app_dev.php</a></li>
 <li>Have a look at the information that is offered in the developer mode.</li>
 </ol>
 <blockquote>
@@ -201,7 +201,7 @@
 </div></blockquote>
 <div class="admonition tip">
 <p class="first admonition-title">Astuce</p>
-<p class="last">Please note, that the style-, icon- and layout configuration has to be done in css- and twig-files at the moment. Read more about template generation at <a class="reference external" href="https://doc.mapbender3.org/en/book/templates.html">https://doc.mapbender3.org/en/book/templates.html</a></p>
+<p class="last">Please note, that the style-, icon- and layout configuration has to be done in css- and twig-files at the moment. Read more about template generation at <a class="reference external" href="https://doc.mapbender3.org/en/customization/templates.html">https://doc.mapbender3.org/en/customization/templates.html</a>.</p>
 </div>
 </div>
 <div class="section" id="copy-or-rename-an-application">
@@ -210,7 +210,7 @@
 </div>
 <div class="section" id="delete-an-application">
 <h2><a class="toc-backref" href="#id9">Delete an application</a><a class="headerlink" href="#delete-an-application" title="Lien permanent vers ce titre">¶</a></h2>
-<p>You can delete an application from the menu item <span class="menuselection">Applications</span> with the <span class="menuselection">+-button</span>.</p>
+<p>You can delete an application from the menu item <span class="menuselection">Applications</span> with the <span class="menuselection">x-button</span>.</p>
 </div>
 <div class="section" id="export-import-applications-and-sources">
 <h2><a class="toc-backref" href="#id10">Export / Import applications and sources</a><a class="headerlink" href="#export-import-applications-and-sources" title="Lien permanent vers ce titre">¶</a></h2>
@@ -225,14 +225,14 @@
 </div>
 <div class="section" id="management-of-data-sources">
 <h2><a class="toc-backref" href="#id11">Management of Data Sources</a><a class="headerlink" href="#management-of-data-sources" title="Lien permanent vers ce titre">¶</a></h2>
-<p>Mapbender can handle different Services like OGC WMS or OGC WMTS or OGC WFS. Every Service has to be handled differently. The administration provides an administration interface for every source (at the moment only WMS).</p>
+<p>Mapbender can handle OGC WMS. The administration provides an administration interface for the sources (at the moment only WMS).</p>
 </div>
 <div class="section" id="service-repository-overview">
 <h2><a class="toc-backref" href="#id12">Service Repository overview</a><a class="headerlink" href="#service-repository-overview" title="Lien permanent vers ce titre">¶</a></h2>
 <ol class="arabic simple">
 <li>Go to <span class="guilabel">Services</span> and have a look at the Service repository.</li>
 <li>You get an overview on the Sources that are loaded in your Mapbender.</li>
-<li>Type (f.e WMS, WMTS), Title, Description offer first information about the services.</li>
+<li>Type, Title, Description offer first information about the services.</li>
 <li>On click on the button <span class="menuselection">View-Button</span> you get further information about the source.</li>
 <li>With the button <span class="menuselection">Delete-Button</span> you can delete the source from your repository.</li>
 </ol>
@@ -287,11 +287,12 @@
 <li>infoformat - choose the format for getFeatureInfo-Requests</li>
 <li>exceptionformat - choose the format for exceptions</li>
 <li>opacity - choose opacity in percent</li>
-<li>visible</li>
-<li>basesource</li>
+<li>visible - default on. Service should be visible</li>
+<li>basesource - activated for services that should be administrated by BaseSourceSwitcher</li>
 <li>proxy - if active the service will be requested by Mapbender and not directly</li>
 <li>transparency - Standard ist aktiviert, deaktiviert wird der Dienst ohne transparenten Hintergrund angefordert (getMap-Request mit TRANSPARENT=FALSE)</li>
 <li>tiled - you can request a WMS in tiles, default is not tiled (may be a good choice if your map is very big and the WMS service does not support the width/height)</li>
+<li>Layer ordering - layer ordering can get switched in the application</li>
 <li>BBOX factor</li>
 <li>tile buffer</li>
 </ul>
@@ -336,6 +337,7 @@
 <li>BaseSourceSwitcher</li>
 <li>Button</li>
 <li>Coordinates Display</li>
+<li>Coordinate Utility</li>
 <li>Copyright</li>
 <li>Feature Info</li>
 <li>GPS-Position</li>
@@ -358,7 +360,7 @@
 <li>WMC Loader</li>
 <li>WMC List</li>
 </ul>
-<p>You find detailed information on every element at the <a class="reference external" href="http://doc.mapbender3.org/en/bundles/Mapbender/CoreBundle/index.html">MapbenderCoreBundle element documentation</a>, <a class="reference external" href="https://doc.mapbender3.org/en/bundles/Mapbender/WmcBundle/index.html">MapbenderWmcBundle element documentation</a> and <a class="reference external" href="https://doc.mapbender3.org/en/bundles/Mapbender/WmsBundle/index.html">MapbenderWmsBundle element documentation</a>.</p>
+<p>You find detailed information on every element in the <a class="reference external" href="https://doc.mapbender3.org/en/functions.html">Mapbender element documentation</a>.</p>
 </div>
 <div class="section" id="try-it-yourself">
 <h2><a class="toc-backref" href="#id17">Try it yourself</a><a class="headerlink" href="#try-it-yourself" title="Lien permanent vers ce titre">¶</a></h2>
@@ -408,7 +410,7 @@
 </div>
 <div class="section" id="roles">
 <h2><a class="toc-backref" href="#id22">Roles</a><a class="headerlink" href="#roles" title="Lien permanent vers ce titre">¶</a></h2>
-<p>Mapbender3 provides different rights. They refer to the Symfony ACL System <a class="reference external" href="http://symfony.com/doc/2.1/cookbook/security/acl_advanced.html#built-in-permission-map">http://symfony.com/doc/2.1/cookbook/security/acl_advanced.html#built-in-permission-map</a></p>
+<p>Mapbender provides different rights. They refer to the Symfony ACL System <a class="reference external" href="http://symfony.com/doc/2.8/cookbook/security/acl_advanced.html#built-in-permission-map">http://symfony.com/doc/2.8/cookbook/security/acl_advanced.html#built-in-permission-map</a></p>
 <ul class="simple">
 <li>view - Whether someone is allowed to view the object.</li>
 <li>edit - Whether someone is allowed to make changes to the object.</li>
@@ -449,17 +451,14 @@
 </div>
 <div class="section" id="what-next">
 <h2><a class="toc-backref" href="#id25">What Next?</a><a class="headerlink" href="#what-next" title="Lien permanent vers ce titre">¶</a></h2>
-<p>This is only the first step on the road to using Mapbender3. There is a lot more functionality you can try.</p>
-<p>Mapbender Project home</p>
+<p>This is only the first step on the road to using Mapbender. There is a lot more functionality you can try.</p>
+<p>Mapbender Webside</p>
 <blockquote>
-<div><a class="reference external" href="https://mapbender.org">https://mapbender.org</a></div></blockquote>
-<p>Mapbender3 Webside</p>
-<blockquote>
-<div><a class="reference external" href="https://mapbender3.org/">https://mapbender3.org/</a></div></blockquote>
+<div><a class="reference external" href="https://mapbender.org/">https://mapbender.org/</a></div></blockquote>
 <p>You find tutorials at</p>
 <blockquote>
-<div><p><a class="reference external" href="https://doc.mapbender3.org">https://doc.mapbender3.org</a></p>
-<p><a class="reference external" href="https://api.mapbender3.org">https://api.mapbender3.org</a></p>
+<div><p><a class="reference external" href="https://doc.mapbender.org">https://doc.mapbender.org</a></p>
+<p><a class="reference external" href="https://api.mapbender.org">https://api.mapbender.org</a></p>
 </div></blockquote>
 <p>Get involved in the project</p>
 <blockquote>
@@ -477,7 +476,7 @@
 	<font size="-2">
 		<div id="translations">
 		<!-- alphabetical order -->
-              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
 		</div>
 	</font>
     </div>

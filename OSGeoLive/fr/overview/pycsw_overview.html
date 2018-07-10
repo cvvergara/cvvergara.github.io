@@ -26,7 +26,7 @@
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Recherche" href="../search.html" />
     <link rel="copyright" title="Copyright" href="../copyright.html" />
-    <link rel="next" title="QGIS Server" href="qgis_mapserver_overview.html" />
+    <link rel="next" title="PyWPS" href="pywps_overview.html" />
     <link rel="prev" title="Proj.4" href="proj4_overview.html" />
 	<script type="text/javascript" src="../../_static/osgeolive.js"></script>
 
@@ -37,7 +37,7 @@
         
         
     <div class="header">
-	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_static/banner.png"></a></div>
+	<div class="banner"><a href="http://live.osgeo.org/"><img src="../../_images/banner.png"></a></div>
         <div class="nowrap">
             <ul id="top-nav">
               <li><a href="../index.html">Home</a></li>
@@ -58,7 +58,7 @@
 	<font size="-2">
 		<div id="translations">
 		<!-- alphabetical order -->
-              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
 		</div>
 	</font>
     </div>
@@ -74,43 +74,43 @@
 <div class="section" id="pycsw">
 <h1>pycsw<a class="headerlink" href="#pycsw" title="Lien permanent vers ce titre">¶</a></h1>
 <div class="section" id="metadata-catalogue">
-<h2>Metadata Catalogue<a class="headerlink" href="#metadata-catalogue" title="Lien permanent vers ce titre">¶</a></h2>
-<p>pycsw enables users to publish a catalogue of dataset descriptions (metadata) to the web, using standards based interfaces and formats, such that it can be queried and updated by catalogue clients. pycsw is simple to setup within an Apache web server (or any WSGI server) and can access metadata records stored as XML files within a database.</p>
-<p>Metadata is “data about data”, storing such things as creation-date, author, title, area-of-interest, etc, and is usually encoded as XML files, following international standards such as ISO 19115, ISO 19139 and FGDC CSDGM.</p>
-<p>pycsw is a <a class="reference external" href="http://www.python.org/">Python</a> implementation of the <a class="reference external" href="http://www.opengeospatial.org/standards/cws">OGC Catalogue Services for the Web (CSW) standard</a>. The project is certified <a class="reference external" href="http://www.opengeospatial.org/resource/products/details/?pid=1374">OGC Compliant</a>, and is an <a class="reference external" href="http://demo.pycsw.org/">OGC Reference Implementation</a>. The CSW standard defines common interfaces to discover, browse and query metadata about spatial data, web services and related resources.</p>
-<p>pycsw is Open Source, released under an MIT license, and runs on all major platforms (Windows, Linux, Mac OS X).</p>
+<h2>Catalogue de métadonnées<a class="headerlink" href="#metadata-catalogue" title="Lien permanent vers ce titre">¶</a></h2>
+<p>pycsw permet aux utilisateurs de publier un catalogue de descriptions de jeux de données (métadonnées) sur le web, en utilisant des interfaces et des formats basés sur des standards, de manière à ce qu’il soit interrogé et mis à jour par des clients de catalogage. pycsw est simple à configurer dans un serveur web Apache (ou n’importe quel serveur WSGI) et peut accéder à des enregistrements de métadonnées stockés comme des fichiers XML dans une base de données.</p>
+<p>La métadonnée est la “donnée sur la donnée”, stockant des choses comme la date de création, l’auteur, le titre, la zone d’intérêt, etc, et est habituellement encodée dans des fichiers XML, en suivant les standards internationaux tels que ISO 19115, ISO 19139 et FGDC CSDGM.</p>
+<p>pycsw est une implémentation <a class="reference external" href="http://www.python.org/">Python</a>  du <a class="reference external" href="http://www.opengeospatial.org/standards/cws">standard Catalogue Services for the Web (CSW) OGC</a>. Le projet est certifié <a class="reference external" href="http://www.opengeospatial.org/resource/products/details/?pid=1374">OGC Compliant</a>, et est une <a class="reference external" href="http://demo.pycsw.org/">OGC Reference Implementation</a>. Le standard CSW définit les interfaces communes pour découvrir, naviguer et interroger des métadonnées à propos des données spatiales, des services web et des ressources associées.</p>
+<p>pycsw est Open Source, mis à disposition sous licence MIT, et fonctionne sur toutes les plates-formes majeurs (Windows, Linux, Mac OS X).</p>
 <a class="reference internal image-reference" href="../../_images/pycsw_screenshot.png"><img alt="pycsw screenshot" class="align-right" src="../../_images/pycsw_screenshot.png" style="width: 500px;" /></a>
 <div class="section" id="core-features">
-<h3>Core Features<a class="headerlink" href="#core-features" title="Lien permanent vers ce titre">¶</a></h3>
+<h3>Caractéristiques principales<a class="headerlink" href="#core-features" title="Lien permanent vers ce titre">¶</a></h3>
 <ul class="simple">
-<li>certified OGC Compliant and OGC Reference Implementation for OGC CSW 2.0.2 and CSW 3.0.0</li>
-<li>harvesting support for WMS, WFS, WCS, WPS, WAF, CSW, SOS</li>
-<li>implements INSPIRE Discovery Services 3.0</li>
-<li>implements ISO Metadata Application Profile 1.0.0</li>
-<li>implements FGDC CSDGM Application Profile for CSW 2.0</li>
-<li>implements the Search/Retrieval via URL (SRU) search protocol</li>
-<li>implements Full Text Search capabilities</li>
-<li>implements OGC OpenSearch Geo/Time extensions</li>
-<li>implements Open Archives Initiative Protocol for Metadata Harvesting</li>
-<li>supports ISO, Dublin Core, DIF, FGDC, Atom and GM03 metadata models</li>
-<li>CGI or WSGI deployment</li>
-<li>Python 2 and 3 compatible</li>
-<li>simple configuration</li>
-<li>transactional capabilities (CSW-T)</li>
-<li>flexible repository configuration</li>
-<li>GeoNode connectivity</li>
-<li>HHypermap connectivity</li>
-<li>Open Data Catalog connectivity</li>
-<li>CKAN connectivity</li>
-<li>federated catalogue distributed searching</li>
-<li>realtime XML Schema validation</li>
-<li>extensible profile plugin architecture</li>
-<li>very lightweight (Python + CGI)</li>
+<li>Certifiée conforme à l’OGC et implémentations OGC de référence pour OGC CSW 2.0.2 et CSW 3.0.0</li>
+<li>support du moissonnage pour WMS, WFS, WCS, WPS, WAF, CSW, SOS</li>
+<li>implémente le Discovery Services 3.0 de INSPIRE</li>
+<li>implémente ISO Metadata Application Profile 1.0.0</li>
+<li>implémentation du profil d’application FGDC CSDGM Application pour CSW 2.0</li>
+<li>Implémente le protocole de recherche Search/Retrieval par URL (SRU)</li>
+<li>Implémente les fonctions de recherche Full Text</li>
+<li>implémente les extensions OGC OpenSearch Geo/Time</li>
+<li>implémente le protocole Open Archives Initiative pour le moissonnage de métadonnées</li>
+<li>support des modèles de métadonnées ISO, Dublin Core, DIF, FGDC, Atom et GM03</li>
+<li>déploiement CGI ou WSGI</li>
+<li>Compatible Python 2 et 3</li>
+<li>Configuration simple</li>
+<li>Capacités transactionnelles (CSW-T)</li>
+<li>Configuration de dépôt simple</li>
+<li>Connectivité GeoNode</li>
+<li>Connectivité HHypermap</li>
+<li>Connectivité à “Open Data Catalog”</li>
+<li>Connectivité CKAN</li>
+<li>recherche distribuée de catalogue fédéré</li>
+<li>validation de schéma XML temps-réel</li>
+<li>architecture de plugins prévue pour être extensible</li>
+<li>très léger (Python + CGI)</li>
 </ul>
 </div>
 <div class="section" id="implemented-standards">
-<h3>Implemented Standards<a class="headerlink" href="#implemented-standards" title="Lien permanent vers ce titre">¶</a></h3>
-<p>OGC Standards:</p>
+<h3>Standards implémentés<a class="headerlink" href="#implemented-standards" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Standards OGC</p>
 <ul class="simple">
 <li>CSW   2.0.2, 3.0.0</li>
 <li>Filter        1.1.0, 2.0.0</li>
@@ -119,7 +119,7 @@
 <li>OGC SFSQL     1.2.1</li>
 <li>OGC OpenSearch  1.0</li>
 </ul>
-<p>Metadata Standards:</p>
+<p>Standards de métadonnées</p>
 <ul class="simple">
 <li>Dublin Core   1.1</li>
 <li>SOAP  1.2</li>
@@ -135,18 +135,18 @@
 </ul>
 </div>
 <div class="section" id="details">
-<h3>Details<a class="headerlink" href="#details" title="Lien permanent vers ce titre">¶</a></h3>
-<p><strong>Website:</strong> <a class="reference external" href="http://pycsw.org">http://pycsw.org</a></p>
+<h3>Détails<a class="headerlink" href="#details" title="Lien permanent vers ce titre">¶</a></h3>
+<p><strong>Site web:</strong> <a class="reference external" href="http://pycsw.org">http://pycsw.org</a></p>
 <p><strong>Licence:</strong> <a class="reference external" href="http://pycsw.org/docs/license.html#license">MIT</a></p>
-<p><strong>Software Version:</strong> 2.0.3</p>
-<p><strong>Supported Platforms:</strong> Windows, Linux, Mac</p>
-<p><strong>API Interfaces:</strong> Python</p>
+<p><strong>Version du logiciel:</strong> 2.0.3</p>
+<p><strong>Plates-formes supportées:</strong> Windows, Linux, Mac</p>
+<p><strong>Interface d’API:</strong> Python</p>
 <p><strong>Support:</strong> <a class="reference external" href="http://pycsw.org/docs/support.html">http://pycsw.org/docs/support.html</a></p>
 </div>
 <div class="section" id="quickstart">
-<h3>Quickstart<a class="headerlink" href="#quickstart" title="Lien permanent vers ce titre">¶</a></h3>
+<h3>Guide de démarrage rapide<a class="headerlink" href="#quickstart" title="Lien permanent vers ce titre">¶</a></h3>
 <ul class="simple">
-<li><a class="reference internal" href="../quickstart/pycsw_quickstart.html"><span class="doc">Quickstart documentation</span></a></li>
+<li><a class="reference internal" href="../quickstart/pycsw_quickstart.html"><span class="doc">Documentation du guide de démarrage rapide</span></a></li>
 </ul>
 </div>
 </div>
@@ -162,7 +162,7 @@
 	<font size="-2">
 		<div id="translations">
 		<!-- alphabetical order -->
-              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
+              <a href="javascript:defaultRedirect('en')">English</a> |   <a href="javascript:defaultRedirect('de')">Deutsch</a> |   <a href="javascript:defaultRedirect('es')">Español</a> |   <a href="javascript:defaultRedirect('fr')">Français</a>
 		</div>
 	</font>
     </div>

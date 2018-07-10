@@ -412,17 +412,17 @@ OSGeoLive
         :title-heading: h3
   
 
-            ======================== =================== ================ ==================
-            ======================== =================== ================ ==================
-              GeoServer               MapServer           deegree          ncWMS          
-              |geoserver_logo|        |mapserver_logo|    |deegree_logo|   |ncWMS_logo|   
-              EOxServer               GeoNetwork          pycsw            MapProxy       
-              |eoxserver_logo|        |geonetwork_logo|   |pycsw_logo|     |mapproxy_logo|
-              QGIS Server             istSOS              52 North SOS     52 North WPS   
-              |qgis_mapserver_logo|   |istsos_logo|       |52nSOS_logo|    |52nWPS_logo|  
-              Zoo Project                             
-              |zoo-project_logo|                      
-            ======================== =================== ================ ==================
+            =================== ======================= ================ ================
+            =================== ======================= ================ ================
+              GeoServer          MapServer               deegree          ncWMS        
+              |geoserver_logo|   |mapserver_logo|        |deegree_logo|   |ncWMS_logo| 
+              EOxServer          GeoNetwork              pycsw            PyWPS        
+              |eoxserver_logo|   |geonetwork_logo|       |pycsw_logo|     |pywps_logo| 
+              MapProxy           QGIS Server             istSOS           52 North SOS 
+              |mapproxy_logo|    |qgis_mapserver_logo|   |istsos_logo|    |52nSOS_logo|
+              52 North WPS       Zoo Project                   
+              |52nWPS_logo|      |zoo-project_logo|            
+            =================== ======================= ================ ================
 
 
 
@@ -527,6 +527,17 @@ OSGeoLive
             Note 
             pycsw is a python based metadata catalogue and the reference implementation of OGC CSW. It is simple to setup within an Apache web server, and it can be configured to access metadata as XML files in a filesystem, or as records stored in a database.
 
+
+
+
+    .. revealjs:: PyWPS
+        :title-heading: h3
+  
+        .. image:: ../images/projects/pywps/pywps_screenshot.png
+            :height: 600
+
+        .. rv_note::
+            Note 
 
 
 
@@ -1165,6 +1176,7 @@ OSGeoLive
 .. |eoxserver_logo| image:: ../images/projects/eoxserver/logo_eoxserver.png
 .. |geonetwork_logo| image:: ../images/projects/geonetwork/logo_geonetwork.png
 .. |pycsw_logo| image:: ../images/projects/pycsw/logo_pycsw.png
+.. |pywps_logo| image:: ../images/projects/pywps/logo_pywps.png
 .. |mapproxy_logo| image:: ../images/projects/mapproxy/logo_mapproxy.png
 .. |qgis_mapserver_logo| image:: ../images/projects/qgis_mapserver/logo_qgis_mapserver.png
 .. |istsos_logo| image:: ../images/projects/istsos/logo_istsos.png
