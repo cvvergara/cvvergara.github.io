@@ -1,4 +1,4 @@
-# Install script for directory: /home/vicky/OSGeoLive/docs/espanol/doc/_themes/overview/static
+# Install script for directory: /home/vicky/OSGeoLive/docs/vicky/doc/_themes/overview/static
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/vicky/OSGeoLive/docs/espanol/build/doc/_themes/overview/static/img/cmake_install.cmake")
+  include("/home/vicky/OSGeoLive/docs/vicky/build/doc/_themes/overview/static/img/cmake_install.cmake")
 
 endif()
 

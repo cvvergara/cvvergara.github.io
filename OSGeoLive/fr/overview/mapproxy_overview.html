@@ -88,6 +88,7 @@
 <li>TMS, WMTS (TileCache, GeoWebcache, etc.)</li>
 <li>Mapserver et Mapnik (directement, sans WMS)</li>
 <li>n’importe quelle source compatible avec TileCache, Google Maps ou Bing Maps</li>
+<li>ArcGIS REST servers and compact cache files</li>
 </ul>
 </dd>
 <dt>Services:</dt>
@@ -101,7 +102,7 @@
 <dt>Cache de tuiles:</dt>
 <dd><ul class="first last simple">
 <li>stocke les images identiques une seule fois (comme les tuiles des océans)</li>
-<li>stocke les tuiles dans un sytème de fichiers, des fichiers MBTile ou dans CouchDB</li>
+<li>cache tiles in the filesystem, MBTiles/SQLite, ArcGIS Compact Cache, S3, Redis, Riak, or CouchDB</li>
 <li>ajoute un filigrane sur les tuiles</li>
 </ul>
 </dd>
@@ -110,7 +111,7 @@
 <li>limite les sources à des géometries (depuis un Shapefile par exemple)</li>
 <li>ajoute la transparence à des couches opaques</li>
 <li>fusionne des sources multiples</li>
-<li>reprojete vers d’autres SRS</li>
+<li>reproject WMS and tile sources to other SRS</li>
 </ul>
 </dd>
 <dt>Fonctionnalités WMS:</dt>
@@ -134,7 +135,7 @@
 </dd>
 <dt>Outils puissants:</dt>
 <dd><ul class="first last simple">
-<li>outil seed efficace pour pré-remplir le cache qui peut calculer les surfaces des polygones</li>
+<li>efficient seed tool for cache pre-filling that can seed polygon areas  with Shapefiles, GeoJSON, PostGIS or WKT geometries</li>
 <li>export des tuiles cachées dans d’autres formats</li>
 <li>calcul des échelles et montre les configurations de grille</li>
 </ul>
@@ -146,6 +147,7 @@
 <li>exécute plusieurs services WMS dans une seule instance MapProxy</li>
 <li>ajouter les lignes d’attributions sur les images</li>
 <li>support pour des images non-raster comme les DEM</li>
+<li>manipulate image bands to create grayscale- or false-color images</li>
 <li>plus encore….</li>
 </ul>
 </dd>
@@ -163,11 +165,11 @@
 </div>
 <div class="section" id="details">
 <h3>Détails<a class="headerlink" href="#details" title="Lien permanent vers ce titre">¶</a></h3>
-<p><strong>Site web:</strong> <a class="reference external" href="http://mapproxy.org/">http://mapproxy.org/</a></p>
-<p><strong>Licence:</strong> <a class="reference external" href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</a></p>
+<p><strong>Website:</strong> <a class="reference external" href="https://mapproxy.org/">https://mapproxy.org/</a></p>
+<p><strong>Licence:</strong> <a class="reference external" href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</a></p>
 <p><strong>Version du logiciel:</strong> 1.11.0</p>
 <p><strong>Plates-formes supportées:</strong> Linux, Mac, Windows</p>
-<p><strong>Support:</strong> <a class="reference external" href="http://mapproxy.org/support.html">http://mapproxy.org/support.html</a></p>
+<p><strong>Support:</strong> <a class="reference external" href="https://mapproxy.org/support">https://mapproxy.org/support</a></p>
 </div>
 <div class="section" id="quickstart">
 <h3>Guide de démarrage rapide<a class="headerlink" href="#quickstart" title="Lien permanent vers ce titre">¶</a></h3>

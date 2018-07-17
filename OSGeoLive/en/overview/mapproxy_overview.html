@@ -88,6 +88,7 @@ Layers can be made transparent, projections can be changed, multiple map layers 
 <li>TMS, WMTS (TileCache, GeoWebcache, etc.)</li>
 <li>Mapserver and Mapnik (directly, without WMS)</li>
 <li>any TileCache, Google Maps or Bing compatible source</li>
+<li>ArcGIS REST servers and compact cache files</li>
 </ul>
 </dd>
 <dt>Services:</dt>
@@ -101,7 +102,7 @@ Layers can be made transparent, projections can be changed, multiple map layers 
 <dt>Tile cache:</dt>
 <dd><ul class="first last simple">
 <li>stores identical images just once (e.g. ocean tiles)</li>
-<li>stores tiles in filesystem, MBTile files or CouchDB</li>
+<li>cache tiles in the filesystem, MBTiles/SQLite, ArcGIS Compact Cache, S3, Redis, Riak, or CouchDB</li>
 <li>add watermark to tiles</li>
 </ul>
 </dd>
@@ -110,7 +111,7 @@ Layers can be made transparent, projections can be changed, multiple map layers 
 <li>limit sources to geometries (from Shapefile for example)</li>
 <li>add transparency to opaque layers</li>
 <li>merge multiple sources</li>
-<li>reproject to other SRS</li>
+<li>reproject WMS and tile sources to other SRS</li>
 </ul>
 </dd>
 <dt>WMS Features:</dt>
@@ -134,7 +135,7 @@ Layers can be made transparent, projections can be changed, multiple map layers 
 </dd>
 <dt>Powerful tools:</dt>
 <dd><ul class="first last simple">
-<li>efficient seed tool for cache pre-filling that can seed polygon areas</li>
+<li>efficient seed tool for cache pre-filling that can seed polygon areas  with Shapefiles, GeoJSON, PostGIS or WKT geometries</li>
 <li>export cached tiles to other formats</li>
 <li>calculate scales and show grid configurations</li>
 </ul>
@@ -146,6 +147,7 @@ Layers can be made transparent, projections can be changed, multiple map layers 
 <li>run multiple WMS services in one MapProxy instance</li>
 <li>add attribution lines to the images</li>
 <li>support for non-image raster data like DEMs</li>
+<li>manipulate image bands to create grayscale- or false-color images</li>
 <li>many more</li>
 </ul>
 </dd>
@@ -163,11 +165,11 @@ Layers can be made transparent, projections can be changed, multiple map layers 
 </div>
 <div class="section" id="details">
 <h3>Details<a class="headerlink" href="#details" title="Permalink to this headline">¶</a></h3>
-<p><strong>Website:</strong> <a class="reference external" href="http://mapproxy.org/">http://mapproxy.org/</a></p>
-<p><strong>Licence:</strong> <a class="reference external" href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</a></p>
+<p><strong>Website:</strong> <a class="reference external" href="https://mapproxy.org/">https://mapproxy.org/</a></p>
+<p><strong>Licence:</strong> <a class="reference external" href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</a></p>
 <p><strong>Software Version:</strong> 1.11.0</p>
 <p><strong>Supported Platforms:</strong> Linux, Mac, Windows</p>
-<p><strong>Support:</strong> <a class="reference external" href="http://mapproxy.org/support.html">http://mapproxy.org/support.html</a></p>
+<p><strong>Support:</strong> <a class="reference external" href="https://mapproxy.org/support">https://mapproxy.org/support</a></p>
 </div>
 <div class="section" id="quickstart">
 <h3>Quickstart<a class="headerlink" href="#quickstart" title="Permalink to this headline">¶</a></h3>

@@ -79,82 +79,175 @@ geospatial data.</p>
 <p class="topic-title first">Contents</p>
 <ul class="simple">
 <li><a class="reference internal" href="#grass-gis-quickstart" id="id1">GRASS GIS Quickstart</a><ul>
-<li><a class="reference internal" href="#quick-tour" id="id2">Ablauf</a><ul>
-<li><a class="reference internal" href="#displaying-maps" id="id3">Karten anzeigen</a></li>
-<li><a class="reference internal" href="#plot-an-elevation-profile" id="id4">Ein Höhenprofil erstellen</a></li>
-<li><a class="reference internal" href="#create-a-random-surface" id="id5">Erstellen einer zufälligen Oberfläche</a></li>
-<li><a class="reference internal" href="#adjust-raster-map-colors" id="id6">Farben von Rasterkarten anpassen</a></li>
-<li><a class="reference internal" href="#create-a-shaded-relief-map" id="id7">Erstellen einer Reliefschattierung (Schummerung)</a></li>
-<li><a class="reference internal" href="#watersheds-and-streams" id="id8">Wassereinzugsgebiete und Flüsse</a></li>
-<li><a class="reference internal" href="#vector-modules" id="id9">Vektor Module</a></li>
+<li><a class="reference internal" href="#quick-tour" id="id2">Quick tour</a><ul>
+<li><a class="reference internal" href="#displaying-maps" id="id3">Displaying maps</a></li>
+<li><a class="reference internal" href="#plot-an-elevation-profile" id="id4">Plot an elevation profile</a></li>
+<li><a class="reference internal" href="#create-a-random-surface" id="id5">Create a random surface</a></li>
+<li><a class="reference internal" href="#adjust-raster-map-colors" id="id6">Adjust raster map colors</a></li>
+<li><a class="reference internal" href="#create-a-shaded-relief-map" id="id7">Create a shaded relief map</a></li>
+<li><a class="reference internal" href="#watersheds-and-streams" id="id8">Watersheds and streams</a></li>
+<li><a class="reference internal" href="#vector-modules" id="id9">Vector modules</a></li>
 <li><a class="reference internal" href="#adjust-vector-map-colors" id="id10">Adjust vector map colors</a></li>
 <li><a class="reference internal" href="#managing-attributes" id="id11">Managing attributes</a></li>
-<li><a class="reference internal" href="#d-visualization" id="id12">3D Visualisierung</a></li>
-<li><a class="reference internal" href="#other-things-to-try" id="id13">Weitere Aufgaben</a></li>
-<li><a class="reference internal" href="#shutdown-and-the-command-line" id="id14">Beenden und die Kommandozeile</a></li>
+<li><a class="reference internal" href="#d-visualization" id="id12">3D visualization</a></li>
+<li><a class="reference internal" href="#other-things-to-try" id="id13">Other things to try</a></li>
+<li><a class="reference internal" href="#shutdown-and-the-command-line" id="id14">Shutdown and the command line</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#further-reading" id="id15">Weiterführende Links</a></li>
+<li><a class="reference internal" href="#further-reading" id="id15">Further reading</a></li>
 </ul>
 </li>
 </ul>
 </div>
 <div class="section" id="quick-tour">
-<h2><a class="toc-backref" href="#id2">Ablauf</a><a class="headerlink" href="#quick-tour" title="Link zu dieser Überschrift">¶</a></h2>
-<p>Um GRASS auf der Live DVD zu starten, klicken Sie auf den GRASS Link im Menü unter <span class="menuselection">Geospatial ‣ Desktop GIS</span>. Im „Welcome to GRASS GIS“ Fenster wählen Sie den North Carolina Datensatz als Location und „user1“ als Mapset. Klicken Sie dann auf [<em>Start GRASS</em>].</p>
+<h2><a class="toc-backref" href="#id2">Quick tour</a><a class="headerlink" href="#quick-tour" title="Link zu dieser Überschrift">¶</a></h2>
+<p>To run GRASS GIS on the Live DVD, click on the GRASS link in
+the <span class="menuselection">Geospatial ‣ Desktop GIS</span> menu.
+From the „Welcome to GRASS GIS “ window select the North Carolina dataset
+for the location, and „user1“ for the mapset, then click on [<em>Start GRASS</em>].</p>
 <a class="reference internal image-reference" href="../../_images/grass-startup.png"><img alt="screenshot" class="align-right" src="../../_images/grass-startup.png" style="width: 297.0px; height: 300.0px;" /></a>
-<p>Dies started GRASS mit der <a class="reference external" href="../../grass/wxGUI.html">grafischen Benutzeroberfläche (geschrieben in wxPython)</a>.</p>
+<p>This will launch GRASS into the <a class="reference external" href="../../grass/wxGUI.html">graphical user interface (written in wxPython)</a>.</p>
 <div class="admonition tip">
 <p class="first admonition-title">Tipp</p>
-<p class="last">Wenn Sie auf einem Netbook mit kleinem Display (800x600 Auflösung) arbeiten, kann der Startbildschirm zu groß und der [<em>Start GRASS</em>] Knopf eventuell versteckt sein. In diesem Fall sollten Sie das Fenster an einer Ecke etwas größer ziehen. Oder Sie können das gesamte Fenster weiter nach oben schieben, in dem Sie die Alt-Taste gedrückt halten und dann das Fenster mit der linken Maustaste verschieben.</p>
+<p class="last">If you are on a netbook with a very small display (800x600 resolution)
+the startup screen might get a little scrunched and the [<em>Start GRASS</em>]
+button hidden behind the location and mapset lists. If this happens to
+you the solution is to drag the corner of the window to make it a little
+bigger. You might have to move the window up past the top of the screen
+a bit to get the room (hold down the Alt key and left-click drag the
+window to move it).</p>
 </div>
 <div class="section" id="displaying-maps">
-<h3><a class="toc-backref" href="#id3">Karten anzeigen</a><a class="headerlink" href="#displaying-maps" title="Link zu dieser Überschrift">¶</a></h3>
+<h3><a class="toc-backref" href="#id3">Displaying maps</a><a class="headerlink" href="#displaying-maps" title="Link zu dieser Überschrift">¶</a></h3>
 <a class="reference internal image-reference" href="../../_images/grass-layerman.png"><img alt="screenshot" class="align-left" src="../../_images/grass-layerman.png" style="width: 384.0px; height: 300.0px;" /></a>
-<p>Einmal drinnen, laden Sie eine Rasterkarte, z.B.: „<cite>elevation</cite>“ aus der PERMANENT Mapset. Dazu klicken Sie in der Werkzeugleiste auf das erste Icon mit einem „+“, um eine Rasterkarte zu öffnen. Dann wählen Sie eine Karte in dem „<em>Name der Rasterkarte, die angezeigt werden soll</em>“ Pulldown Menü aus und klicken auf <span class="guilabel">Ok</span>.</p>
-<p>Auf ähnliche Weise laden Sie die Vektorkarte „<cite>roadsmajor</cite>“ aus der PERMANENT Mapset, indem Sie in der Werkzeugleite auf das zweite Icon mit einem „+“ und einer Linie, die wie ein „V“ aussieht, klicken, um eine Vektorkarte zu öffnen.</p>
-<p>Die Schaltflächen verfügen über Tooltipps, die beim Mouseover-Ereignis erscheinen. Diese werden Ihnen weiterhelfen.</p>
-<p>Es kann sein, dass Sie auf den Rasterlayer klicken müssen und über „Zoom to selected map(s)“ in den Bereich der Daten navigieren.</p>
-<p>Sie sollten nun die beiden Karten im Kartenfenster sehen.</p>
+<p>Once inside select for display a raster map layer such as „<cite>elevation</cite>“ from
+the PERMANENT mapset. To do this go into the <cite>GIS Layer Manager</cite> window
+and click on the checkerboard toolbar button with a „+“ on it. Then
+select the map name you want from the „<em>map to be displayed</em>“ pull-down
+list, and click <span class="guilabel">Ok</span>.</p>
+<p>In a similar fashion add the „<cite>roadsmajor</cite>“ vector layer from the PERMANENT
+mapset by clicking on the toolbar button with a „+“ and a bent poly-line which
+looks a bit like a „V“.</p>
+<p>The icon tooltips (shown with mouse-over) will guide you easily.</p>
+<p>If you need to, right click on the raster map layer and choose „Zoom to
+selected map(s)“.</p>
+<p>You should now see the maps displayed.</p>
 </div>
 <div class="section" id="plot-an-elevation-profile">
-<h3><a class="toc-backref" href="#id4">Ein Höhenprofil erstellen</a><a class="headerlink" href="#plot-an-elevation-profile" title="Link zu dieser Überschrift">¶</a></h3>
+<h3><a class="toc-backref" href="#id4">Plot an elevation profile</a><a class="headerlink" href="#plot-an-elevation-profile" title="Link zu dieser Überschrift">¶</a></h3>
 <a class="reference internal image-reference" href="../../_images/grass-profile.png"><img alt="screenshot" class="align-right" src="../../_images/grass-profile.png" style="width: 344.0px; height: 199.5px;" /></a>
-<p>Zurück im <cite>GIS Ebenen-Manager</cite> klicken Sie auf den Namen <cite>elevation</cite> der Rasterkarte, um sie auszuwählen. Im <cite>Map Display</cite> Fenster klicken Sie dann rechts neben den Zoom Icons auf das Symbol mit der roten Profillinie und wählen die Funktion <strong>Zu profilierende Oberflächenkarte</strong> aus. Das <cite>&#64;PERMANENT</cite> Mapset
-wird automatisch gesucht. Falls die Karte <cite>elevation</cite> nicht direkt in dem Fenster Profilanalyse angezeigt wird, wählen Sie sie bitte aus und klicken auf <span class="guilabel">Ok</span>. Das zweite Icon von Links ermöglicht das Erstellen eines Profils. Wählen Sie es aus, und klicken Sie ein paar Punkte auf die Karte im Map Display. Danach gehen Sie zurück in das Fenster der Profilanalyse und klicken dort auf das Augen Icon, um das Profil anzuzeigen. Um die Analyse zu beenden, klicken Sie den <cite>Beenden</cite> Knopf ganz rechts.</p>
+<p>Back in the <cite>GIS Layer Manager</cite> window click on the <cite>elevation</cite> raster
+map name to select it. Then in the <cite>Map Display</cite> window, to the right of the
+zooming buttons on the <cite>Map Display</cite> toolbar is an icon with a line graph
+and checkerboard on it. Click on that and select <strong>Profile surface map</strong>.
+The <cite>&#64;PERMANENT</cite> mapset is automatically searched.
+If the map isn’t automatically listed, again pick the <cite>elevation</cite> map
+as the raster layer and press <span class="guilabel">Ok</span>. The second button in from the left allows
+you to set out the profile line, click it then mark out a few points on
+the <cite>Map Display</cite> canvas. When done go back to the Profile window and click
+on the eyeball button to create the plot. Click on the I/O button of the far
+right to close the profile window.</p>
 </div>
 <div class="section" id="create-a-random-surface">
-<h3><a class="toc-backref" href="#id5">Erstellen einer zufälligen Oberfläche</a><a class="headerlink" href="#create-a-random-surface" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Nun erstellen wir eine neue Karte. Wählen Sie <span class="menuselection">Raster ‣ Erzeuge Oberflächen ‣ Fraktale Oberfläche</span> aus dem Menü (fast ganz unten); geben Sie der neuen Karte einen Namen; passen Sie Parameter im Optionen Reiter an, wenn Sie wollen (die Standards sind aber bereits ok), und klicken Sie dann auf [<em>Run</em>]. Sie können nun das Fenster des <em>r.surf.fractal</em> Moduls schließen mit dem Knopf [Schließen].</p>
+<h3><a class="toc-backref" href="#id5">Create a random surface</a><a class="headerlink" href="#create-a-random-surface" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Now let’s create a new map. First set the <em>computational region</em> to the default
+bounds with <span class="menuselection">Settings ‣ Region ‣ Set region</span>, ticking
+„<em>Set from default region</em>“, and clicking [<em>Run</em>].
+Next select <span class="menuselection">Raster ‣ Generate surfaces ‣ Fractal surface</span> from
+the menu (it’s near the bottom);
+give your new map a name; and adjust any options you like in the „Optional“
+tab (the defaults are fine); and click [<em>Run</em>]. You can then [<em>Close</em>] the
+<em>r.surf.fractal</em> module’s dialog window.</p>
 <a class="reference internal image-reference" href="../../_images/grass-fractal.png"><img alt="screenshot" class="align-right" src="../../_images/grass-fractal.png" style="width: 352.5px; height: 300.0px;" /></a>
 </div>
 <div class="section" id="adjust-raster-map-colors">
-<h3><a class="toc-backref" href="#id6">Farben von Rasterkarten anpassen</a><a class="headerlink" href="#adjust-raster-map-colors" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Nun fügen Sie die neue Rasterkarte zur Kartenliste hinzu, wie Sie es bereits mit der Karte <cite>elevation</cite> gemacht haben. Die Karte liegt nun aber in der Mapset „user1“. Sie können nun auch die Anzeige der Karte <cite>elevation</cite> über das Kontrollkästchen deaktivieren. Klicken Sie wieder auf das Augen Icon, um die neue Rasterkarte anzuzeigen. Die Farben sind vielleicht nicht so, wie sie wollen, also ändern wir sie. Wählen Sie die neu erstellte Rasterkarte wieder aus und öffnen dann im Menü <cite>Raster</cite> den Eintrag <span class="menuselection">Farben verwalten ‣ Farbtabellen</span> aus. Im Reiter ‚Definition‘ wählen Sie aus der Auswahl „Farbname“ und wählen Sie einen Eintrag aus. Klicken Sie auf den [Los] Knopf und schließen Sie den <em>r.colors</em> Dialog. Die Farben sollten dann automatisch aktualisiert werden.</p>
+<h3><a class="toc-backref" href="#id6">Adjust raster map colors</a><a class="headerlink" href="#adjust-raster-map-colors" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Now you’ll see your new raster map added to the layer list along with
+the elevation raster map, except this time it will be in your „user1“
+working mapset. You might un-tick the <cite>elevation</cite> layer’s visibility check-box
+now so that the two raster layers don’t draw over the top of each other. Click
+on the eyeball to view your new map if it doesn’t render automatically.
+The colors might not be as you’d like so let’s change them. With the
+fractal DEM selected in the layer list, right click on the this raster map
+layer name and choose „Set color table“. As an alternative, you can manage
+color tables in the <cite>Raster</cite> menu select <span class="menuselection">Manage colors ‣ Color tables</span>.
+In the ‚Define‘ tab click on the pull-down list for the „Name of color
+table“ option, and pick one from the list. „terrain“ or „srtm“ are nice
+choices. Once done click the [<em>Run</em>] button and close the <em>r.colors</em> dialog
+window. The colors should then update automatically.</p>
 </div>
 <div class="section" id="create-a-shaded-relief-map">
-<h3><a class="toc-backref" href="#id7">Erstellen einer Reliefschattierung (Schummerung)</a><a class="headerlink" href="#create-a-shaded-relief-map" title="Link zu dieser Überschrift">¶</a></h3>
+<h3><a class="toc-backref" href="#id7">Create a shaded relief map</a><a class="headerlink" href="#create-a-shaded-relief-map" title="Link zu dieser Überschrift">¶</a></h3>
 <a class="reference internal image-reference" href="../../_images/grass-shadedrelief.png"><img alt="screenshot" class="align-right" src="../../_images/grass-shadedrelief.png" style="width: 338.5px; height: 300.0px;" /></a>
-<p>Als nächstes wollen wir aus der Karte „elevation“ eine Karte mit Reliefschattierung erstellen. Als erstes stellen wir sicher, dass die „region“ auf die Rasterkarte „<cite>elevation</cite>“ in der PERMANENT Mapset gesetzt ist. Dazu wählen wir die Karte in der Layerliste aus, drücken mit der rechten Maustaste auf den Namen und wählen dann „Arbeitsbereich auf Grundlage selektierter Karte setzen“.</p>
-<p>Im Menü <cite>Raster</cite> wählen wir nun <span class="menuselection">Reliefanalyse ‣ Reliefschattierung</span> und starten den Dialog. Mit der Karte „elevation“ <em>&#64;PERMANENT</em> als Eingabe, als Ausgabe können Sie beispielweise <cite>schattiertes_relief</cite> angeben und klicken Sie anschließend bitte auf [Los]. Die neue Karte <cite>schattiertes_relief</cite> <em>&#64;user1</em> wurde in die Layerliste eingefügt. Deaktivieren Sie die Kontrollkästchen der anderen Karten, um lediglich die neu erzeugte Rasterebene anzuzeigen.</p>
+<p>Next we’ll create a shaded relief map of the „elevation“ layer we saw
+earlier. Start by verifying that the <em>computational region</em> is set match
+the raster map of interest, „<cite>elevation</cite>“ in the PERMANENT mapset. To
+do this, make sure it is loaded into the layer list of the main <cite>GIS Layer
+Manager</cite> window, right click on its name and select „Set computation region
+from selected map(s)“. You will notice the Layer Manage tab will switch to
+a text console to display the new settings. Click on the „<em>Map layers</em>“ tab
+at the bottom to get back to the layer list.</p>
+<p>In the <cite>Raster</cite> menu select <span class="menuselection">Terrain analysis ‣ Compute
+shaded relief</span> (Terrain analysis is about half way down the <cite>Raster</cite> menu),
+and the module control dialog will appear. Select as the input name the
+„elevation“ <em>&#64;PERMANENT</em> map and as the output map you may specify „shaded_relief“.
+Once done click [<em>Run</em>]. Now you should fine the new <cite>shaded_relief</cite> <em>&#64;user1</em>
+map added into your layer list. Un-tick the other raster layers to only
+display the newly created shaded relief raster layer.</p>
 </div>
 <div class="section" id="watersheds-and-streams">
-<h3><a class="toc-backref" href="#id8">Wassereinzugsgebiete und Flüsse</a><a class="headerlink" href="#watersheds-and-streams" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Wieder selektieren wir die Karte <cite>elevation</cite> <em>&#64;PERMANENT</em>. Wenn Sie den Ausschnitt verändert haben sollten, klicken Sie mit der rechten Maustaste auf den Layernamen wählen Sie <span class="menuselection">Set computational region from selected map(s)</span> aus dem Kontextmenü um die volle Ausdehnung für die Berechnung der Wassereinzugsgebiete zu erhalten.</p>
+<h3><a class="toc-backref" href="#id8">Watersheds and streams</a><a class="headerlink" href="#watersheds-and-streams" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Once again select the <cite>elevation</cite> <em>&#64;PERMANENT</em> map. If you changed the
+region since the last step, again right click on the layer name and click
+on <span class="menuselection">Set computational region from selected map(s)</span> from the
+context menu in order to consider the full map for the watsershed calculation.</p>
 <div class="admonition note">
 <p class="first admonition-title">Bemerkung</p>
-<p class="last">Die wxGUI Karte Anzeige und Zoom ist unabhängig  und hat keinen Effekt auf die Berechnung. Prüfen Sie die Berechnungsregion über  <span class="menuselection">Settings ‣ Region ‣ Display Region</span>;  dies ist äußerst wichtig für jede Raster Grid Operation. Raster Karten mit verschiedenen Begrenzungen und Auflösungen werden on-the-fly auf die Berechnungsregion angepasst.</p>
+<p class="last">The wxGUI map display’s view and zoom is independent and does not affect processing calculations. Check the computational region at any time with <span class="menuselection">Settings ‣ Region ‣ Display Region</span>; this is of fundamental importance to any raster grid operations. Raster maps of differing bounds and resolution will be resampled to the current computational region on-the-fly.</p>
 </div>
-<p>Wählen Sie nun im Menü <cite>Raster</cite> <span class="menuselection">Hydrologische Modellierung ‣ Wassereinzugsgebiet Analyse</span>. Der <code class="docutils literal"><span class="pre">r.watershed</span></code> Dialog öffnet sich. Wählen Sie die <cite>elevation</cite> Karte als Eingabe, im Reiter ‚Eingabe Optionen‘ setzen sie <em>threshold</em> Wert auf 10000 Zellen, dann im Reiter ‚Ausgabe Optionen‘ geben Sie „elev.basins“ als basin Option und „streams“ für die „Name for output stream segments raster map“-Option direkt darunter an. Dann klicken Sie auf [Los].</p>
-<p>Zurück im Ebenen-Manager fügen Sie die zwei neuen Karten wieder in die Layerliste ein. Stellen sicher, dass nur diese für die Anzeige ausgewählt sind. Klicken Sie mit der rechten Maustaste auf „<cite>elev.basins</cite>“ und wählen Sie „Deckkraft ändern“. Setzen Sie den Wert auf 50% und rendern Sie die Karte nochmal.</p>
+<p>Next, in the <cite>Raster</cite> menu
+choose <span class="menuselection">Hydrologic modeling ‣ Watershed analysis</span>. This
+will open the <code class="docutils literal"><span class="pre">r.watershed</span></code> module. Select the <cite>elevation</cite> layer as your
+input map, in the same ‚Inputs‘ tab set the „Minimum size of the exterior
+watershed basin“ <em>threshold</em> to
+10000 cells, then in the ‚Outputs‘ tab enter „elev.basins“ for the „Name for
+basins raster map“ <em>basins</em> option and „elev.streams“ for the „Name for
+output stream segments raster map“ <em>streams</em> option just below it. Then click [<em>Run</em>].</p>
+<p>Back in the <cite>GIS Layer Manager</cite> window check that those two new raster maps are
+in the layer list and make sure that the basins map is ticked for display in
+the box to the left of the layer name. You might untick the streams map for now.
+Next, right click on the „<cite>elev.basins</cite>“ raster map layer name and
+select „<cite>Change opacity level</cite>“. Set it to about 50% which will re-render the
+Map Display. Drag a map layer (such as the earlier created shaded relief map)
+to lower down in the layer list if you wish for it to be drawn behind the
+watershed basins map layer, and make sure to tick its visibility box to
+view it as a backdrop.</p>
 <a class="reference internal image-reference" href="../../_images/grass-watersheds.png"><img alt="screenshot" class="align-left" src="../../_images/grass-watersheds.png" style="width: 352.5px; height: 300.0px;" /></a>
-<p>Im Ebenen-Manager klicken Sie auf den fünften Knopf von rechts, um eine Ebene mit Gitternetz hinzuzufügen. Als size Wert geben Sie 0:03 für 0 Grad und 3 Minuten an. Das Format ist D:M:S. Im Reiter „Optional“ aktivieren Sie „Zeichnen Sie geographisches Gitter basierend auf dem aktuellen Ellipsoid“, klicken Sie auf [Los] und rendern Sie die Karten nochmal.</p>
-<p>Um eine Maßstabsleiste anzuzeigen, klicken Sie im Map Display Fenster auf das Icon „Kartenelemente hinzufügen“ und klicken auf Nordpfeil und Maßstab hinzufügen. Lesen Sie die Instruktionen und klicken dann auf [Ok]. Eine Maßstabsleiste erscheint oben links, ziehen Sie sie in die linke untere Ecke. Aus demselben Menü wählen Sie nun „Legende hinzufügen“, wählen die Rasterkarte aus, für die eine Legende erstellt werden soll. Danach klicken Sie [Ok] und dann nochmal [Ok]. Ziehen Sie nun die Legende auf die rechte Seite des Map Displays.</p>
-<p>Wenn Ihnen die Schriftarten nicht gefallen, können Sie im GIS Ebenen-Manager das Menü <span class="menuselection">Einstellungen ‣ Einstellungen</span> öffnen und im Reiter Fenster Schriftarten auswählen und auf den Knopf [Anwenden] klicken. Sie müssen wieder auf den Knopf „Karte neu anzeigen“ rechts neben dem Augen Icon klicken, damit die Veränderung sichtbar wird.</p>
+<p>In the <cite>GIS Layer Manager</cite> window click on the <cite>Add various overlays</cite> button
+and <cite>Add grid layer</cite>. For size of grid put 5000 (in map units, here meter).
+.. MN comment: UNUSED  0:03 for 0 degrees and 3 minutes (format is D:M:S), then in the „Optional“ tab tick Draw geographic grid.
+Once done press <span class="guilabel">OK</span>. Optionally you may change the colors for
+the grid lines and the text labels.</p>
+<p>To add a scalebar go to the <cite>Map Display</cite> window and press the „Add
+map elements“ button to the right of where you selected the Profile tool
+earlier and select „Show/hide scalebar“ then click <span class="guilabel">Ok</span>.
+A scalebar will appear in the top left of the map canvas.
+Drag it down to the bottom right.</p>
+<p>Now you may be thinking to yourself that these fonts are a bit bare.
+That’s easily fixed in the <cite>GIS Layer Manager</cite> menus
+open <span class="menuselection">Settings ‣ Preferences</span> and in the Map Display
+tab click the [<em>Set font</em>] button, choose
+one (for example DroidSans), and then [<em>Apply</em>] in the Preferences window. You will
+have to do a full re-render to see the change so click on the re-render button
+next to the eyeball in the <cite>Map Display</cite> window. The fonts will now be much prettier.</p>
 </div>
 <div class="section" id="vector-modules">
-<h3><a class="toc-backref" href="#id9">Vektor Module</a><a class="headerlink" href="#vector-modules" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Die Aufgaben haben nur einige Rasteranalysen vorgestellt. GRASS GIS bietet aber auch eine Vielzahl von Vektor Modulen, die genauso umfangreich sind wie für die Rasteranalyse. GRASS bietet eine topologische Vektorumgebung.</p>
+<h3><a class="toc-backref" href="#id9">Vector modules</a><a class="headerlink" href="#vector-modules" title="Link zu dieser Überschrift">¶</a></h3>
+<p>The above tasks have only covered a few raster modules. Don’t let this
+give you the idea that GRASS GIS is just for raster maps – the vector engine
+and modules are every bit as full-featured as the raster ones. GRASS GIS
+maintains a fully topological vector engine which allows all sorts
+of very powerful analyses.</p>
 <a class="reference internal image-reference" href="../../_images/grass_screenshot.png"><img alt="screenshot" class="align-right" src="../../_images/grass_screenshot.png" style="width: 512.0px; height: 384.0px;" /></a>
 <p>Continuing with the watershed basins created above, next we’ll convert
 them into vector polygons. In the <cite>Raster</cite> menu select <span class="menuselection">Map type conversions ‣ Raster to vector</span>.
@@ -215,15 +308,27 @@ choose <code class="docutils literal"><span class="pre">Highlight</span> <span c
 and mesas show up in the <code class="docutils literal"><span class="pre">Map</span> <span class="pre">Display</span></code>.</p>
 </div>
 <div class="section" id="d-visualization">
-<h3><a class="toc-backref" href="#id12">3D Visualisierung</a><a class="headerlink" href="#d-visualization" title="Link zu dieser Überschrift">¶</a></h3>
+<h3><a class="toc-backref" href="#id12">3D visualization</a><a class="headerlink" href="#d-visualization" title="Link zu dieser Überschrift">¶</a></h3>
 <a class="reference internal image-reference" href="../../_images/grass-nviz.png"><img alt="screenshot" class="align-right" src="../../_images/grass-nviz.png" style="width: 512.0px; height: 234.5px;" /></a>
-<p>Starten Sie die 3D Visualisierung über das Menü <span class="menuselection">Datei ‣ NVIZ (erfordert TclTk)</span>. Wählen Sie die Karte <cite>elevation</cite> als Raster Höhenkarte. Sobald die 3D Ansicht gestartet wird, vergrößern Sie das Fenster. Nun wählen Sie im Menü <cite>Visualize –&gt; Raster Oberflächen</cite>, setzen die fein Auflösung auf „1“ und spielen Sie ein wenig mit den Schiebereglern und dem Positionspfeil, um unterschiedliche Ansichten zu erzeugen.</p>
-<p>Um Satelliten- oder Luftbilder über das Höhenmodell zu legen, klicken Sie auf den Knopf <strong>Oberflächenattribute</strong> und wählen dort color aus. Klicken Sie in dem neuen Dialog auf „Neue Karte“ und wählen dann eine Karte aus, die für die Farbdarstellung verwendet werden soll. Im Spearfish Datensatz ist „<cite>spot.image</cite>“ und im North Carolina Datensatz „<cite>lsat7_2002_50</cite>“ eine gute Wahl. Klicken Sie nun auf „Annehmen“ und zurück im Hauptfenster auf den Knopf „Zeichne“ in der oberen linken Ecke.</p>
+<p>In order to start the 3D visualization suite, select the <cite>elevation</cite> map
+as the raster elevation in the <cite>Layer list</cite> and additionally highlight the
+entry, then select in the <cite>Map Display</cite> window the „3D view“ (at the right
+end of the toolbar). Once the 3D display interface loads, you will see
+several tabs for the display control of the 3D view.
+Next select the „Data“ tab and set the fine resolution to „1“ (the lower
+the value, the finer the resolution), then move the positioning puck and
+height slider around to get different views.</p>
+<p>To drape maps, satellite or aerial imagery over the top of the DEM, in the
+„Data“ tab select as name for the <strong>Surface Attributes</strong> map the overlay
+image „<cite>landuse</cite>“ in the PERMANENT mapset is a good choice. The new view
+is rendered immediately.
+Since the area is relatively flat, you can go back to the „View“ tab and
+increase the Z exaggeration („z-Exag“).</p>
 <p>For easy navigation in the 3D view, switch on the „Rotate 3D scene“ in
 the map display toolbar, then use the mouse to move the view around.</p>
 </div>
 <div class="section" id="other-things-to-try">
-<h3><a class="toc-backref" href="#id13">Weitere Aufgaben</a><a class="headerlink" href="#other-things-to-try" title="Link zu dieser Überschrift">¶</a></h3>
+<h3><a class="toc-backref" href="#id13">Other things to try</a><a class="headerlink" href="#other-things-to-try" title="Link zu dieser Überschrift">¶</a></h3>
 <p>While not covered here, you may like to experiment with the
 Cartographic Composer and object-oriented Graphical Modelling Tool (offers
 export to Python); you’ll find icons to launch them on the lower row of
@@ -240,19 +345,32 @@ Python programmer direct access to GRASS GIS‘ extensive C libraries.
 See the manual pages for an extensive description of the programming options.</p>
 </div>
 <div class="section" id="shutdown-and-the-command-line">
-<h3><a class="toc-backref" href="#id14">Beenden und die Kommandozeile</a><a class="headerlink" href="#shutdown-and-the-command-line" title="Link zu dieser Überschrift">¶</a></h3>
-<p>Wenn Sie GRASS beenden möchten, wählen Sie im GRASS GUI <span class="menuselection">Datei ‣ GUI Schließen</span>. Bevor Sie auch das GRASS Kommandofenster schliessen, versuchen Sie mal ein Modul über die Kommandozeile zu starten, in dem Sie eingeben „<code class="docutils literal"><span class="pre">g.manual</span> <span class="pre">--help</span></code>“. Sie bekommen nun eine Liste von Optionen angezeigt. In der Kommandozeile hat GRASS seine wahren Stärken. All Kommandos können in Skripten zu umfangreichen Prozessketten zusammengefasst werden. Populäre Sprachen sind Bourne Shell and Python, die einige nette Tricks parat haben, um das Skripten zu vereinfachen. Damit können Sie in weniger als 5 Minuten ein neues GRASS Modul schreiben, inklusive Parser, GUI und Hilfeseiten Template.</p>
-<p>„<code class="docutils literal"><span class="pre">g.manual</span> <span class="pre">-i</span></code>“ startet einen Webbrowser mit den Modul Hilfeseiten. Am Ende schliessen Sie den Browser und tippen „exit“ in das GRASS Terminal, um die GRASS GIS Umgebung zu verlassen.</p>
+<h3><a class="toc-backref" href="#id14">Shutdown and the command line</a><a class="headerlink" href="#shutdown-and-the-command-line" title="Link zu dieser Überschrift">¶</a></h3>
+<p>When finished, exit the GRASS GUI with <span class="menuselection">File ‣ Exit GUI</span>.
+Before you close the GRASS terminal session as well, try a GRASS
+module by typing „<code class="docutils literal"><span class="pre">g.manual</span> <span class="pre">--help</span></code>“ which will give you a list
+of module options. The GRASS command line is where the true power of
+the GIS comes into its own. GRASS is designed to allow all commands
+to be tied together in scripts for large bulk processing jobs. Popular
+scripting languages are Bourne Shell and Python, and many neat tricks
+to help make scripting easier are included for both. With these tools
+you can make a new GRASS module with only about 5 minutes of coding,
+complete with powerful parser, GUI, and help page template.</p>
+<p>„<code class="docutils literal"><span class="pre">g.manual</span> <span class="pre">-i</span></code>“ will launch a web browser with the module help pages.
+When you are done close the browser and type „exit“ at the GRASS terminal
+prompt to leave the GIS environment.</p>
 </div>
 </div>
 <div class="section" id="further-reading">
-<h2><a class="toc-backref" href="#id15">Weiterführende Links</a><a class="headerlink" href="#further-reading" title="Link zu dieser Überschrift">¶</a></h2>
+<h2><a class="toc-backref" href="#id15">Further reading</a><a class="headerlink" href="#further-reading" title="Link zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
-<li>Besuchen Sie die GRASS GIS Webseite unter <a class="reference external" href="http://grass.osgeo.org">http://grass.osgeo.org</a></li>
-<li>Besuchen Sie die GRASS GIS Wiki Hilfeseiten unter <a class="reference external" href="http://grasswiki.osgeo.org/wiki/">http://grasswiki.osgeo.org/wiki/</a></li>
-<li>Mehr Tutorials und Übersichten finden Sie unter &lt;<a class="reference external" href="http://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started">http://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started</a>&gt;`_.</li>
-<li>Eine <a class="reference external" href="http://grass.osgeo.org/gdp/grassmanuals/grass64_module_list.pdf">Synopsis der GRASS GIS Module‘</a>, inklusive GUI Menü Position. (<a class="reference external" href="http://grass.osgeo.org/grass70/manuals/full_index.html">HTML version</a>)</li>
-<li>Wenn die 400 GIS Module in GRASS nicht ausreichen, werfen Sie mal einen Blick auf die vielen Add-ons unter <a class="reference external" href="http://grass.osgeo.org/grass70/manuals/addons/">http://grass.osgeo.org/grass70/manuals/addons/</a></li>
+<li>Visit the GRASS GIS website at <a class="reference external" href="http://grass.osgeo.org">http://grass.osgeo.org</a></li>
+<li>Visit the GRASS GIS Wiki help site at <a class="reference external" href="http://grasswiki.osgeo.org/wiki/">http://grasswiki.osgeo.org/wiki/</a></li>
+<li>More tutorials and overviews can be found <a class="reference external" href="http://grasswiki.osgeo.org/wiki/GRASS_Help#Getting_Started">here</a>.</li>
+<li>A <a class="reference external" href="http://grass.osgeo.org/gdp/grassmanuals/grass64_module_list.pdf">synopsis of the GRASS GIS modules</a>, including
+GUI menu position. (<a class="reference external" href="http://grass.osgeo.org/grass70/manuals/full_index.html">HTML version</a>)</li>
+<li>If the 400 GIS modules which come with GRASS aren’t enough for you have a look at the many contributed
+add-ons at <a class="reference external" href="http://grass.osgeo.org/grass70/manuals/addons/">http://grass.osgeo.org/grass70/manuals/addons/</a></li>
 </ul>
 </div>
 </div>
