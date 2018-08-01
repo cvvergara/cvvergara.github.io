@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['base',['base',['../classgeos_1_1util_1_1GeometricShapeFactory_1_1Dimensions.html#ad96b634245b0c9ce12c83addd0521293',1,'geos::util::GeometricShapeFactory::Dimensions']]],
+  ['basegeom',['baseGeom',['../classgeos_1_1geom_1_1prep_1_1BasicPreparedGeometry.html#aa0b16253e66c04f18ff82222a4c78021',1,'geos::geom::prep::BasicPreparedGeometry']]],
+  ['basept',['basePt',['../classgeos_1_1algorithm_1_1CentroidArea.html#a26bdb94c907faafa7ac65483a5e3f7da',1,'geos::algorithm::CentroidArea']]],
+  ['bdynodes',['bdyNodes',['../classgeos_1_1geomgraph_1_1index_1_1SegmentIntersector.html#a3e3eeec923d55071ddcba0a02dc9d76b',1,'geos::geomgraph::index::SegmentIntersector']]],
+  ['behind',['BEHIND',['../classgeos_1_1triangulate_1_1quadedge_1_1Vertex.html#a96c9e1404b69187dae58a9a2e37d5e3e',1,'geos::triangulate::quadedge::Vertex']]],
+  ['between',['BETWEEN',['../classgeos_1_1triangulate_1_1quadedge_1_1Vertex.html#a3b565f4cb5ab7c3922cb53a98031ceb2',1,'geos::triangulate::quadedge::Vertex']]],
+  ['beyond',['BEYOND',['../classgeos_1_1triangulate_1_1quadedge_1_1Vertex.html#a71c082343df62b1c9795a819153ea1c7',1,'geos::triangulate::quadedge::Vertex']]],
+  ['boundable1',['boundable1',['../classgeos_1_1index_1_1strtree_1_1BoundablePair.html#a861372acdfe602863f377264a0d22903',1,'geos::index::strtree::BoundablePair']]],
+  ['boundable2',['boundable2',['../classgeos_1_1index_1_1strtree_1_1BoundablePair.html#abab578252473fd9b9dcb6cccaa14f9fc',1,'geos::index::strtree::BoundablePair']]],
+  ['boundarydistancetolerance',['boundaryDistanceTolerance',['../classgeos_1_1operation_1_1overlay_1_1validate_1_1OverlayResultValidator.html#aff4090b06581fd655428074e159559ee',1,'geos::operation::overlay::validate::OverlayResultValidator']]],
+  ['boundarynoderule',['boundaryNodeRule',['../classgeos_1_1geomgraph_1_1GeometryGraph.html#a21c34cc3428b4ed102804d64e5f8296d',1,'geos::geomgraph::GeometryGraph']]],
+  ['boundarynodes',['boundaryNodes',['../classgeos_1_1geomgraph_1_1GeometryGraph.html#aa01a39097f4cf09484ded5b0b07ef28a',1,'geos::geomgraph::GeometryGraph']]],
+  ['boundarypoints',['boundaryPoints',['../classgeos_1_1geomgraph_1_1GeometryGraph.html#a31798bd6539e03901dd308857fb29a9f',1,'geos::geomgraph::GeometryGraph']]],
+  ['bounds',['bounds',['../classgeos_1_1index_1_1strtree_1_1AbstractNode.html#ac475ef28b93281f947d64cbb1f5de37b',1,'geos::index::strtree::AbstractNode::bounds()'],['../classgeos_1_1index_1_1strtree_1_1ItemBoundable.html#af81c90aa3fb15c52082270f18d5d7b5d',1,'geos::index::strtree::ItemBoundable::bounds()']]],
+  ['buf',['buf',['../classgeos_1_1io_1_1ByteOrderDataInStream.html#a3f1ea4651ac5322051d60be2e20fd401',1,'geos::io::ByteOrderDataInStream::buf()'],['../classgeos_1_1io_1_1WKBWriter.html#a738936389667e3ed4bd37842c804c869',1,'geos::io::WKBWriter::buf()']]],
+  ['bufparams',['bufParams',['../classgeos_1_1operation_1_1buffer_1_1BufferBuilder.html#a45a3d81dcf126602c38ba7326579a5c5',1,'geos::operation::buffer::BufferBuilder::bufParams()'],['../classgeos_1_1operation_1_1buffer_1_1BufferOp.html#a7afe0aa1cff653493fc5fc41e8e23efc',1,'geos::operation::buffer::BufferOp::bufParams()'],['../classgeos_1_1operation_1_1buffer_1_1OffsetCurveBuilder.html#aca488cbba72f8229967066118cb43376',1,'geos::operation::buffer::OffsetCurveBuilder::bufParams()'],['../classgeos_1_1operation_1_1buffer_1_1OffsetSegmentGenerator.html#a0d23b25e4c795fc658cc689fea7f8921',1,'geos::operation::buffer::OffsetSegmentGenerator::bufParams()']]],
+  ['built',['built',['../classgeos_1_1index_1_1strtree_1_1AbstractSTRtree.html#aead72ce5f94da7b9ecab9191892ed3ea',1,'geos::index::strtree::AbstractSTRtree']]],
+  ['byteorder',['byteOrder',['../classgeos_1_1io_1_1ByteOrderDataInStream.html#aac1ab4c24284161d1deac1d193a2ce10',1,'geos::io::ByteOrderDataInStream::byteOrder()'],['../classgeos_1_1io_1_1WKBWriter.html#a83504159db70c7b95d729fef9adb3a05',1,'geos::io::WKBWriter::byteOrder()']]]
+];
