@@ -5,13 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>52 North WPS Quickstart &#8212; OSGeoLive 12.0.0.-dev Documentation</title>
+    <title>Guía de Inicio Rápido 52 North WPS &#8212; OSGeoLive 12.0.0 Documentation</title>
     <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '../',
-        VERSION:     '12.0.0.-dev',
+        VERSION:     '12.0.0',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
         HAS_SOURCE:  false,
@@ -27,7 +27,7 @@
     <link rel="search" title="Búsqueda" href="../search.html" />
     <link rel="copyright" title="Copyright" href="../copyright.html" />
     <link rel="next" title="R for Spatial Data Quickstart" href="R_quickstart.html" />
-    <link rel="prev" title="52 North SOS Quickstart" href="52nSOS_quickstart.html" />
+    <link rel="prev" title="Inicio Rápido 52 North SOS" href="52nSOS_quickstart.html" />
 	<script type="text/javascript" src="../../_static/osgeolive.js"></script>
 
 
@@ -69,84 +69,77 @@
       <div class="documentwrapper">
           <div class="body" role="main">
             
-  <a class="reference external image-reference" href="http://52north.org/wps"><img alt="../../_images/logo_52nWPS.png" class="align-right" src="../../_images/logo_52nWPS.png" /></a>
+  <a class="reference external image-reference" href="https://52north.org/wps"><img alt="../../_images/logo_52nWPS.png" class="align-right" src="../../_images/logo_52nWPS.png" /></a>
 <div class="section" id="north-wps-quickstart">
-<h1><a class="toc-backref" href="#id1">52 North WPS Quickstart</a><a class="headerlink" href="#north-wps-quickstart" title="Enlazar permanentemente con este título">¶</a></h1>
-<p>The 52°North WPS is a framework for web-based processing of (geospatial) data.
-The service implements the OGC Web Processing Service 1.0 interface standard.</p>
+<h1><a class="toc-backref" href="#id1">Guía de Inicio Rápido 52 North WPS</a><a class="headerlink" href="#north-wps-quickstart" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>El 52 ° North WPS es un marco basado en la web de procesamiento de datos (espaciales). El servicio implementa el estándar de interfaz OGC Web Servicio de Procesamiento 1.0.</p>
 <p>This quickstart describes how to process data and store the result in another web service using WPS operations.</p>
 <div class="contents topic" id="contents">
 <p class="topic-title first">Contents</p>
 <ul class="simple">
-<li><a class="reference internal" href="#north-wps-quickstart" id="id1">52 North WPS Quickstart</a><ul>
-<li><a class="reference internal" href="#running" id="id2">Running</a></li>
-<li><a class="reference internal" href="#get-information-about-the-service" id="id3">Get information about the service</a></li>
-<li><a class="reference internal" href="#process-data" id="id4">Process data</a></li>
-<li><a class="reference internal" href="#things-to-try" id="id5">Things to Try</a></li>
-<li><a class="reference internal" href="#what-next" id="id6">What Next?</a></li>
+<li><a class="reference internal" href="#north-wps-quickstart" id="id1">Guía de Inicio Rápido 52 North WPS</a><ul>
+<li><a class="reference internal" href="#running" id="id2">Ejecución</a></li>
+<li><a class="reference internal" href="#get-information-about-the-service" id="id3">Obtener información sobre el servicio</a></li>
+<li><a class="reference internal" href="#process-data" id="id4">Datos de proceso</a></li>
+<li><a class="reference internal" href="#things-to-try" id="id5">Cosas que probar</a></li>
+<li><a class="reference internal" href="#what-next" id="id6">¿Qué sigue?</a></li>
 </ul>
 </li>
 </ul>
 </div>
 <div class="section" id="running">
-<h2><a class="toc-backref" href="#id2">Running</a><a class="headerlink" href="#running" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id2">Ejecución</a><a class="headerlink" href="#running" title="Enlazar permanentemente con este título">¶</a></h2>
 <ul>
-<li><p class="first">To run the 52°North WPS on the Live DVD, go to <span class="menuselection">Geospatial ‣ Web Services ‣ 52North ‣ Start 52North WPS</span> to start the 52°North WPS or use this <a class="reference external" href="http://localhost:8080/52nWPS/">direct link</a>. (If the service is not reachable, try to start the Tomcat servlet engine following the steps at the bottom of the <a class="reference internal" href="52nSOS_quickstart.html"><span class="doc">SOS quickstart page</span></a>.)</p>
+<li><p class="first">Para ejecutar 52°North WPS en el Live DVD, vaya a <span class="menuselection">Geospatial ‣ Web Services ‣ 52North ‣ Start 52North WPS</span> para iniciar el 52°North WPS o utilice este <a class="reference external" href="http://localhost:8080/52nWPS/">enlace directo</a>. (Si no puede conectarse con el servicio, intente inicar el motor Tomcat servlet siguiendo los pasos al pie de  <a class="reference internal" href="52nSOS_quickstart.html"><span class="doc">SOS quickstart page</span></a>.)</p>
 </li>
-<li><p class="first">The 52n WPS welcome page will appear.</p>
+<li><p class="first">Aparecerá la página de bienvenida de 52n WPS.</p>
 <a class="reference internal image-reference" href="../../_images/52nWPS_screenshot.png"><img alt="screenshot" src="../../_images/52nWPS_screenshot.png" style="width: 560.0px; height: 420.0px;" /></a>
 </li>
 </ul>
 </div>
 <div class="section" id="get-information-about-the-service">
-<h2><a class="toc-backref" href="#id3">Get information about the service</a><a class="headerlink" href="#get-information-about-the-service" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id3">Obtener información sobre el servicio</a><a class="headerlink" href="#get-information-about-the-service" title="Enlazar permanentemente con este título">¶</a></h2>
 <ul>
-<li><p class="first">Check out the capabilities of the 52°North WPS with this request:</p>
+<li><p class="first">Consulte las capacidades de 52 ° North WPS con esta solicitud:</p>
 <p><a class="reference external" href="http://localhost:8080/52nWPS/WebProcessingService?Request=GetCapabilities&amp;Service=WPS">http://localhost:8080/52nWPS/WebProcessingService?Request=GetCapabilities&amp;Service=WPS</a></p>
 </li>
 </ul>
 </div>
 <div class="section" id="process-data">
-<h2><a class="toc-backref" href="#id4">Process data</a><a class="headerlink" href="#process-data" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id4">Datos de proceso</a><a class="headerlink" href="#process-data" title="Enlazar permanentemente con este título">¶</a></h2>
 <ul>
-<li><p class="first">Click on the link to open the 52nWPS-TestClient.</p>
+<li><p class="first">Click en el enlace para abrir el 52nWPS-TestClient.</p>
 <a class="reference internal image-reference" href="../../_images/52nWPS_welcome_page_2.png"><img alt="screenshot" src="../../_images/52nWPS_welcome_page_2.png" style="width: 560.0px; height: 420.0px;" /></a>
 </li>
-<li><p class="first">Make sure that <a class="reference internal" href="../overview/geoserver_overview.html"><span class="doc">GeoServer</span></a> is running since the demonstration requires data from the local GeoServer installation.
-To do this, try to open the page <a class="reference external" href="http://localhost:8082/geoserver/web">http://localhost:8082/geoserver/web</a>. If the page could not be found, select <span class="menuselection">Geospatial ‣ Web Services ‣ GeoServer ‣ Start GeoServer</span> in the menu.
-The GeoServer should be running after a few moments.</p>
+<li><p class="first">Asegúrese de que  <a class="reference internal" href="../overview/geoserver_overview.html"><span class="doc">GeoServer</span></a>  se está ejecutando, ya que la demostración requiere datos de la instalación local de GeoServer. Para ello, intente abrir la página <a class="reference external" href="http://localhost:8082/geoserver/web">http://localhost:8082/geoserver/web</a>. Si no se pudo encontrar la página, seleccione <span class="menuselection">Geospatial ‣ Web Services ‣ GeoServer ‣ Start GeoServer</span> en el menú. El GeoServer debe ejecutarse después de unos momentos.</p>
 </li>
-<li><p class="first">Select the example request «SimpleBuffer_out_wfs.xml» from the dropdown list:</p>
+<li><p class="first">Seleccione la solicitud de ejemplo «SimpleBuffer_out_wfs.xml» de la lista desplegable:</p>
 <a class="reference internal image-reference" href="../../_images/52nWPS_test_client.png"><img alt="screenshot" src="../../_images/52nWPS_test_client.png" style="width: 560.0px; height: 420.0px;" /></a>
 </li>
-<li><p class="first">Push the Send-Button and the request will be transmitted to the 52°North WPS which will
-generate a buffer around the major roads of Tasmania with a width of 0.05 degrees and store
-the result in GeoServer.</p>
+<li><p class="first">Presione el Botón de Enviar y la solicitud será transmitida hacia el 52°North WPS, el cual generará buffer alrededor de las carreteras principales de Tasmania con un ancho de 0.05 grados y almacenará el resultado en GeoServer.</p>
 <a class="reference internal image-reference" href="../../_images/52nWPS_output_stored_in_wfs.png"><img alt="screenshot" src="../../_images/52nWPS_output_stored_in_wfs.png" style="width: 560.0px; height: 420.0px;" /></a>
 </li>
-<li><p class="first">Copy the ResourceID from the response. This is the name of the GeoServer layer. Add the ID to the
-following request: <a class="reference external" href="http://localhost:8082/geoserver/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;styles=&amp;bbox=145.14757902405984,-43.47330297262748,148.32274986232298,-40.80286290459129&amp;width=512&amp;height=430&amp;srs=EPSG:4326&amp;format=application/openlayers&amp;layers=Add-ResourceID-here">http://localhost:8082/geoserver/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;styles=&amp;bbox=145.14757902405984,-43.47330297262748,148.32274986232298,-40.80286290459129&amp;width=512&amp;height=430&amp;srs=EPSG:4326&amp;format=application/openlayers&amp;layers=Add-ResourceID-here</a>
-You should get the following result:</p>
+<li><p class="first">Copie el ResourceID de la respuesta. Ese es el nombre de la capa de GeoServer. Agregue el ID a la siguiente solicictud: <a class="reference external" href="http://localhost:8082/geoserver/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;styles=&amp;bbox=145.14757902405984,-43.47330297262748,148.32274986232298,-40.80286290459129&amp;width=512&amp;height=430&amp;srs=EPSG:4326&amp;format=application/openlayers&amp;layers=Add-ResourceID-here">http://localhost:8082/geoserver/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;styles=&amp;bbox=145.14757902405984,-43.47330297262748,148.32274986232298,-40.80286290459129&amp;width=512&amp;height=430&amp;srs=EPSG:4326&amp;format=application/openlayers&amp;layers=Add-ResourceID-here</a> Deberá obtener el siguiente resultado.</p>
 <a class="reference internal image-reference" href="../../_images/52nWPS_result_in_geoserver.png"><img alt="screenshot" src="../../_images/52nWPS_result_in_geoserver.png" style="width: 560.0px; height: 420.0px;" /></a>
 </li>
 </ul>
 </div>
 <div class="section" id="things-to-try">
-<h2><a class="toc-backref" href="#id5">Things to Try</a><a class="headerlink" href="#things-to-try" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id5">Cosas que probar</a><a class="headerlink" href="#things-to-try" title="Enlazar permanentemente con este título">¶</a></h2>
 <ul class="simple">
-<li>Try out other example requests from the dropdown list of the WPS test client.</li>
-<li>You could also install the WPS plugin for <a class="reference internal" href="../overview/qgis_overview.html"><span class="doc">QGIS</span></a> and try it out with the 52°North WPS.</li>
+<li>Pruebe otros  ejemplos de solicitudes de la lista desplegable del cliente de prueba WPS.</li>
+<li>Usted puede también instalar el complemento WPS para <a class="reference internal" href="../overview/qgis_overview.html"><span class="doc">QGIS</span></a> y pruébalo con el  WPS de 52°North.</li>
 </ul>
 </div>
 <div class="section" id="what-next">
-<h2><a class="toc-backref" href="#id6">What Next?</a><a class="headerlink" href="#what-next" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id6">¿Qué sigue?</a><a class="headerlink" href="#what-next" title="Enlazar permanentemente con este título">¶</a></h2>
 <ul class="simple">
-<li>Create your own processes and execute them using various clients.</li>
-<li>Set up the WPS to execute GRASS GIS 7 processes.</li>
-<li>Set up the WPS to execute <a class="reference internal" href="../overview/R_overview.html"><span class="doc">R</span></a> scripts as processes.</li>
+<li>Cree sus propios procesos y ejecútelos usando varios clientes.</li>
+<li>Configurar el WPS para ejecutar los procesos de GRASS GIS 7.</li>
+<li>Configurar el WPS para ejecutar los scripts de <a class="reference internal" href="../overview/R_overview.html"><span class="doc">R</span></a> como procesos.</li>
 </ul>
-<p>Available in the 52°North wiki: <a class="reference external" href="https://wiki.52north.org/bin/view/Geoprocessing/GeoprocessingTutorials">https://wiki.52north.org/bin/view/Geoprocessing/GeoprocessingTutorials</a></p>
-<p>For further questions you can contact the 52°North WPS mailing list:</p>
+<p>Disponible en el 52°North wiki: <a class="reference external" href="https://wiki.52north.org/bin/view/Geoprocessing/GeoprocessingTutorials">https://wiki.52north.org/bin/view/Geoprocessing/GeoprocessingTutorials</a></p>
+<p>Para más información, puede ponerse en contacto con la lista de correo de 52°North WPS:</p>
 <blockquote>
 <div><a class="reference external" href="mailto:geoprocessing&#37;&#52;&#48;52north&#46;org">geoprocessing<span>&#64;</span>52north<span>&#46;</span>org</a></div></blockquote>
 </div>

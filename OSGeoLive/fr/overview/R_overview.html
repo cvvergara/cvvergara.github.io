@@ -5,13 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>R pour les données spatiales &#8212; OSGeoLive 12.0.0.-dev Documentation</title>
+    <title>R pour les données spatiales &#8212; OSGeoLive 12.0.0 Documentation</title>
     <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '../',
-        VERSION:     '12.0.0.-dev',
+        VERSION:     '12.0.0',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
         HAS_SOURCE:  false,
@@ -74,21 +74,8 @@
 <h1>R pour les données spatiales<a class="headerlink" href="#r-for-spatial-data" title="Lien permanent vers ce titre">¶</a></h1>
 <div class="section" id="statistical-programming">
 <h2>Programmation statistique<a class="headerlink" href="#statistical-programming" title="Lien permanent vers ce titre">¶</a></h2>
-<p>R is a powerful, widely used software environment for statistical
-computing and graphics which excels at analyzing and processing
-geographic data sets. Geospatial analysis capabilities within R are
-available in R packages (modules that extend the capabilities of R)
-that provide access to a huge number of traditional and state of the
-art algorithms (). R and its packages are able to process point,
-line, polygon, networks, grid data (etc.).</p>
-<p>Users can accomplish a broad array of tasks such as: image classification,
-statistical analysis to infer spatial relationships and patterns of features,
-and others listed in the core features below. The functions available via R
-complement and advance capabilities found in GIS and image processing software.
-Using packages for parallelisation users can drastically reduce computational time
-and increase these capability. Several packages provide connection with other
-OSGeo tools and software. You can easily plug R with GRASS-GIS, Qgis, postgreSQL
-and postGIS.</p>
+<p>R est un environnement logiciel puissant et largement utilisé pour les traitements statistiques et les graphiques qui excelle à analyser et traiter les jeux de données géographiques. Les capacités d’analyses géospatiales dans R sont disponibles dans les paquets R (des modules qui étendent les capacités de R) qui fournissent un accès à de nombreux algorithmes traditionnels comme de pointe, souvent avant qu’ils ne soient disponibles dans d’autres logiciels open-source ou propriétaires. R et ses paquets sont capables de traiter des données ponctuelles, linéaires, surfaciques et matricielles.</p>
+<p>Les utilisateurs peuvent accomplir un large éventail de tâches comme: la classification d’images, l’analyse statistique pour inférer les relations spatiales et les motifs des objets, et d’autres fonctions encore, listées dans les fonctionnalités de base ci-dessous. Les fonctions disponibles via R complètent et font avancer celles qu’on trouve dans les SIG et les logiciels de traitement d’images. Utiliser les paquets permettant la parallélisation par agent peut réduire considérablement le temps de calcul et étendre les possibilités Plusieurs paquets fournissent des connections avec d’autres outils et logiciels OSGeo. Vous pouvez facilement connecté R avec  GRASS-GIS, Qgis, postgreSQL et postGIS.</p>
 <p>L’interface du cœur de R est une fenêtre de ligne de commande qui fournit une flexibilité et un contrôle  excellent mais tend à allonger le temps requis pour être un utilisateur compétent quand on compare avec un logiciel avec une interface graphique. Heureusement, R est bien documenté sur le site web ce qui facilite le processus d’apprentissage. Les scripts sont souvent utilisés pour automatiser des étapes de traitement mais il y a des interfaces graphiques, la principale étant RStudio (<a class="reference external" href="http://www.rstudio.com">http://www.rstudio.com</a>).</p>
 <p>R est une implémentation du langage de programmation S et il y a une compatibilité significative entre le code de R et celui hérité de S et S-Plus aussi bien qu’il y en a entre R et la version commerciale moderne de S, TIBCO Spotfire S+. Cela rend possible la conversion entre différentes versions de code S pour exécuter R sans modifications majeures du code.</p>
 <a class="reference internal image-reference" href="../../_images/R_screenshot.png"><img alt="R screenshot" class="align-right" src="../../_images/R_screenshot.png" style="width: 500px;" /></a>
@@ -96,7 +83,7 @@ and postGIS.</p>
 <h3>Caractéristiques principales<a class="headerlink" href="#core-features" title="Lien permanent vers ce titre">¶</a></h3>
 <ul class="simple">
 <li>Langage complètement orienté objet conçu pour les statistiques et applications similaires impliquant fortement des mathématiques</li>
-<li>Currently (2017/08/11), the CRAN package repository features 11239 available packages.</li>
+<li>Actuellement (2017/08/11), le dépôt de paquets CRAN proposes 11239 paquets disponibles</li>
 <li>Centaines de paquets supplémentaires pour les statistiques spatiales grâce aux contributions de la communauté</li>
 <li>Classes pour les données spatiales</li>
 <li>Lecture et écriture de données spatiales</li>
@@ -105,8 +92,8 @@ and postGIS.</p>
 <li>Régression spatiale</li>
 <li>Analyse écologique</li>
 <li>algorithmes de traitement raster puissants</li>
-<li>Remote sensing</li>
-<li>Bayesian spatial analysis</li>
+<li>Télédétection</li>
+<li>Analyse spatiale bayésienne</li>
 <li>…</li>
 </ul>
 </div>
@@ -117,7 +104,7 @@ and postGIS.</p>
 <p><strong>Version du logiciel:</strong> 3.4.4</p>
 <p><strong>Plates-formes supportées:</strong> Windows, Linux, Mac, Unix</p>
 <p><strong>Support Communautaire:</strong> <a class="reference external" href="http://cran.r-project.org/web/views/Spatial.html">http://cran.r-project.org/web/views/Spatial.html</a></p>
-<p><strong>CRAN packages available:</strong> <a class="reference external" href="https://cran.r-project.org/web/packages/available_packages_by_name.html">https://cran.r-project.org/web/packages/available_packages_by_name.html</a></p>
+<p><strong>Paquets disponibles sur CRAN:</strong> <a class="reference external" href="https://cran.r-project.org/web/packages/available_packages_by_name.html">https://cran.r-project.org/web/packages/available_packages_by_name.html</a></p>
 </div>
 <div class="section" id="quickstart">
 <h3>Guide de démarrage rapide<a class="headerlink" href="#quickstart" title="Lien permanent vers ce titre">¶</a></h3>

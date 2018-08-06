@@ -5,13 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>OpenStreetMap &#8212; OSGeoLive 12.0.0.-dev Documentation</title>
+    <title>OpenStreetMap &#8212; OSGeoLive 12.0.0 Documentation</title>
     <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '../',
-        VERSION:     '12.0.0.-dev',
+        VERSION:     '12.0.0',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
         HAS_SOURCE:  false,
@@ -95,7 +95,7 @@
 <li>feature_city.osm.bz2: Un gran extracto del área metropolitana de la ciudad como archivo de texto XML comprimido en BZip2.</li>
 <li>feature_city_CBD.osm.bz2: Un subconjunto más pequeño que cubre solo el Distrito Comercial Central (CBD).</li>
 <li>feature_city_poi.db: Sqlite DB de nodos de «posiciones de interés» extraídos de la anterior ciudad más grande, a su vez extraída de OSM. Contiene ubicaciones de bares, gasolineras, restaurantes, supermercados, etc.</li>
-<li>Los archivos que hacen referencia al nombre de la ciudad mostrada contienen los mismos datos que los archivos anteriores. Los inicios rápidos y las vistas generales utilizan los nombres genéricos de los archivos, para que la ciudad ejemplo pueda cambiar con cada nueva versión.</li>
+<li>Los archivos que hacen referencia al nombre de la ciudad mostrada contienen los mismos datos que los archivos anteriores. Las Guías de Inicio Rápidos y las Vistas Generales utilizan los nombres genéricos de los archivos, para que la ciudad ejemplo pueda cambiar con cada nueva versión.</li>
 </ul>
 <p>Los datos de ciudad de la característica OSM se han importado a una base de datos PostGIS llamada «osm_local» utilizando la herramienta osm2pgsql. El sistema de referencia espacial utilizado para esta base de datos es latitud-longitud con el datum WGS84 (EPSG código 4326) y puede reproyectarse a otros sistemas de referencia espacial (SRS), como Spherical-Mercator, según demanda. El extracto CBD más pequeño se carga en otra base de datos PostGIS llamada «pgrouting».</p>
 </div>

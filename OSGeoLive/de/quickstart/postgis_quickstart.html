@@ -5,13 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>PostGIS Quickstart &#8212; OSGeoLive 12.0.0.-dev Documentation</title>
+    <title>PostGIS Quickstart &#8212; OSGeoLive 12.0.0 Documentation</title>
     <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '../',
-        VERSION:     '12.0.0.-dev',
+        VERSION:     '12.0.0',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
         HAS_SOURCE:  false,
@@ -378,7 +378,7 @@ hit <code class="docutils literal"><span class="pre">Connect</span></code> to co
 <p>Choose the ne_10m_lakes table and hit <code class="docutils literal"><span class="pre">Add</span></code> at the bottom (not <code class="docutils literal"><span class="pre">Load</span></code> at the
 top - that loads database connection parameters), and it should be
 loaded into QGIS:</p>
-<a class="reference internal image-reference" href="../../_images/postgis_lakesmap.png"><img alt="My First PostGIS layer" class="align-center" src="../../_images/postgis_lakesmap.png" style="width: 768.0px; height: 557.25px;" /></a>
+<a class="reference internal image-reference" href="../../_images/postgis_lakesmap.png"><img alt="My First PostGIS layer" class="align-center" src="../../_images/postgis_lakesmap.png" style="width: 1146.0px; height: 952.5px;" /></a>
 <p>You should now see a map of the lakes. QGIS doesn’t know they are lakes, so might not colour
 them blue for you - use the QGIS documentation to work out how to change this. Zoom in to
 a famous group of lakes in Canada.</p>
@@ -398,16 +398,16 @@ the North Carolina sudden infant death syndrome (SIDS) data that is included wit
 of the R statistics package add-ons.</p>
 <p>From the <code class="docutils literal"><span class="pre">Table</span></code> menu choose the <code class="docutils literal"><span class="pre">Import</span> <span class="pre">layer/file</span></code> option.
 Hit the <code class="docutils literal"><span class="pre">...</span></code> button and browse to the <code class="docutils literal"><span class="pre">sids.shp</span></code> shapefile in the R <code class="docutils literal"><span class="pre">maptools</span></code> package
-(located in /usr/lib/R/site-library/spdep/etc/shapes/):</p>
-<a class="reference internal image-reference" href="../../_images/postgis_browsedata.png"><img alt="Find the shapefile" class="align-center" src="../../_images/postgis_browsedata.png" style="width: 591.0px; height: 459.75px;" /></a>
+(located in /usr/lib/R/site-library/spData/shapes):</p>
+<a class="reference internal image-reference" href="../../_images/postgis_browsedata.png"><img alt="Find the shapefile" class="align-center" src="../../_images/postgis_browsedata.png" style="width: 632.25px; height: 492.0px;" /></a>
 <p>Leave everything else as it is and hit <code class="docutils literal"><span class="pre">Load</span></code></p>
-<a class="reference internal image-reference" href="../../_images/postgis_importsids.png"><img alt="Import a shapefile" class="align-center" src="../../_images/postgis_importsids.png" style="width: 325.5px; height: 480.0px;" /></a>
+<a class="reference internal image-reference" href="../../_images/postgis_importsids.png"><img alt="Import a shapefile" class="align-center" src="../../_images/postgis_importsids.png" style="width: 346.5px; height: 400.5px;" /></a>
 <p>Let the Coordinate Reference System Selector default to (WGS 84 EPSG:4326) and hit <code class="docutils literal"><span class="pre">OK</span></code>. The shapefile should be imported into PostGIS with no errors. Close the PostGIS manager and
 get back to the main QGIS window.</p>
 <p>Now load the SIDS data into the map using the ‚Add PostGIS Layer‘
 option. With a bit of rearranging of the layers and some colouring, you should be able to produce
-a choropleth map of the sudden infant death syndrome counts in North Carolina:</p>
-<a class="reference internal image-reference" href="../../_images/postgis_sidsmap.png"><img alt="SIDS data mapped" class="align-center" src="../../_images/postgis_sidsmap.png" style="width: 768.0px; height: 557.25px;" /></a>
+a choropleth map of the sudden infant death syndrome counts (sid74 or sid79 fields) in North Carolina:</p>
+<a class="reference internal image-reference" href="../../_images/postgis_sidsmap.png"><img alt="SIDS data mapped" class="align-center" src="../../_images/postgis_sidsmap.png" style="width: 1143.75px; height: 948.0px;" /></a>
 </div>
 <div class="section" id="get-to-know-pgadmin-iii">
 <h2><a class="toc-backref" href="#id9">Get to know pgAdmin III</a><a class="headerlink" href="#get-to-know-pgadmin-iii" title="Link zu dieser Überschrift">¶</a></h2>
