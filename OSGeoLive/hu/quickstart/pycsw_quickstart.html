@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="hu">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>pycsw Quickstart &#8212; OSGeoLive 12.0 Documentation</title>
+    <title>pycsw gyorstalpaló &#8212; OSGeoLive 12.0 Documentation</title>
     <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <script type="text/javascript">
@@ -26,8 +26,8 @@
     <link rel="index" title="Tárgymutató" href="../genindex.html" />
     <link rel="search" title="Keresés" href="../search.html" />
     <link rel="copyright" title="Minden jog fenntartva" href="../copyright.html" />
-    <link rel="next" title="PyWPS Quickstart" href="pywps_quickstart.html" />
-    <link rel="prev" title="Proj.4 Quickstart" href="proj4_quickstart.html" />
+    <link rel="next" title="PyWPS gyorstalpaló" href="pywps_quickstart.html" />
+    <link rel="prev" title="Proj.4 gyorstalpaló" href="proj4_quickstart.html" />
 	<script type="text/javascript" src="../../_static/osgeolive.js"></script>
 
 
@@ -72,24 +72,24 @@
   <a class="reference external image-reference" href="http://pycsw.org/"><img alt="../../_images/logo_pycsw.png" class="align-right" src="../../_images/logo_pycsw.png" /></a>
 <a class="reference external image-reference" href="target:http://www.osgeo.org"><img alt="../../_images/OSGeo_project.png" class="align-right" src="../../_images/OSGeo_project.png" /></a>
 <div class="section" id="pycsw-quickstart">
-<h1><a class="toc-backref" href="#id2">pycsw Quickstart</a><a class="headerlink" href="#pycsw-quickstart" title="Hivatkozás erre a fejezetcímre">¶</a></h1>
+<h1><a class="toc-backref" href="#id2">pycsw gyorstalpaló</a><a class="headerlink" href="#pycsw-quickstart" title="Hivatkozás erre a fejezetcímre">¶</a></h1>
 <p>pycsw is an OGC CSW server implementation written in <a class="reference external" href="http://python.org">Python</a>. pycsw allows for the publishing and discovery of geospatial metadata.  Existing repositories of geospatial metadata can be exposed via OGC:CSW 2.0.2 or OGC:CSW 3.0.0.</p>
 <div class="contents topic" id="contents">
 <p class="topic-title first">Contents</p>
 <ul class="simple">
-<li><a class="reference internal" href="#pycsw-quickstart" id="id2">pycsw Quickstart</a><ul>
+<li><a class="reference internal" href="#pycsw-quickstart" id="id2">pycsw gyorstalpaló</a><ul>
 <li><a class="reference internal" href="#running-the-tester-application" id="id3">Running the tester application</a></li>
 <li><a class="reference internal" href="#capabilities-document-and-configuration" id="id4">Capabilities Document and Configuration</a></li>
 <li><a class="reference internal" href="#metadata-creation" id="id5">Metadata Creation</a></li>
 <li><a class="reference internal" href="#loading-metadata" id="id6">Loading Metadata</a><ul>
 <li><a class="reference internal" href="#metadata-repository-setup" id="id7">Metadata Repository Setup</a></li>
-<li><a class="reference internal" href="#create-new-database" id="id8">Create new database</a></li>
+<li><a class="reference internal" href="#create-new-database" id="id8">Új adatbázis létrehozása</a></li>
 <li><a class="reference internal" href="#importing-metadata" id="id9">Importing Metadata</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#data-discovery-through-qgis-metasearch-plugin" id="id10">Data Discovery through QGIS MetaSearch Plugin</a></li>
 <li><a class="reference internal" href="#things-to-try" id="id11">Things to try</a></li>
-<li><a class="reference internal" href="#what-next" id="id12">What Next?</a></li>
+<li><a class="reference internal" href="#what-next" id="id12">Mi a következő?</a></li>
 </ul>
 </li>
 </ul>
@@ -131,13 +131,13 @@
 <p>pycsw supports the following databases:</p>
 <ul class="simple">
 <li>SQLite3</li>
-<li>PostgreSQL (PostGIS optional)</li>
+<li>PostgreSQL (PostGIS opcionális)</li>
 <li>MySQL</li>
 </ul>
 <p>In OSGeoLive, a simple SQLite setup has been implemented. The database can be found in <code class="docutils literal"><span class="pre">/usr/share/pycsw/tests/suites/cite/data/records.db</span></code></p>
 </div>
 <div class="section" id="create-new-database">
-<h3><a class="toc-backref" href="#id8">Create new database</a><a class="headerlink" href="#create-new-database" title="Hivatkozás erre a fejezetcímre">¶</a></h3>
+<h3><a class="toc-backref" href="#id8">Új adatbázis létrehozása</a><a class="headerlink" href="#create-new-database" title="Hivatkozás erre a fejezetcímre">¶</a></h3>
 <p>In order to create a new SQLite database we need to:</p>
 <ol class="arabic">
 <li><p class="first">Edit <code class="docutils literal"><span class="pre">/etc/pycsw/default.cfg</span></code>:</p>
@@ -195,7 +195,7 @@ $ ogrinfo -al /path/to/records.db
 </ol>
 </div>
 <div class="section" id="what-next">
-<h2><a class="toc-backref" href="#id12">What Next?</a><a class="headerlink" href="#what-next" title="Hivatkozás erre a fejezetcímre">¶</a></h2>
+<h2><a class="toc-backref" href="#id12">Mi a következő?</a><a class="headerlink" href="#what-next" title="Hivatkozás erre a fejezetcímre">¶</a></h2>
 <p>For more information on pycsw, please consult the <a class="reference external" href="http://pycsw.org/docs/documentation.html">documentation</a> on the pycsw website.</p>
 </div>
 </div>
