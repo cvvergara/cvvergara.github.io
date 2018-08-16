@@ -78,21 +78,21 @@ visualize the results, you can use one of the Desktop GIS Software
 applications on OSGeoLive like <a class="reference internal" href="../overview/qgis_overview.html"><span class="doc">QGIS</span></a>.</p>
 <p>This Quick Start is divided into two parts: GDAL (raster data) and OGR
 (vector data). We will start with GDAL.</p>
-<p>Este  Quick Start  describe cómo:</p>
+<p>This Quick Start describes how to:</p>
 <dl class="docutils">
 <dt>GDAL</dt>
 <dd><ul class="first last simple">
-<li>Explore sus datos de imagen con gdalinfo</li>
-<li>Formatee las traducciones con gdal_translate</li>
-<li>Reproyecta tus datos con gdalwarp</li>
-<li>Mosaico de tus datos con gdal_warp or gdal_merge.py</li>
-<li>Construya un shapefile como un tileindex raster con gdaltindex</li>
+<li>Explore your image data with gdalinfo</li>
+<li>Format translations with gdal_translate</li>
+<li>Reproject your data with gdalwarp</li>
+<li>Mosaic your data with gdal_warp or gdal_merge.py</li>
+<li>Build a shapefile as a raster tileindex with gdaltindex</li>
 </ul>
 </dd>
 <dt>OGR</dt>
 <dd><ul class="first last simple">
-<li>obtener información sobre sus datos con ogrinfo</li>
-<li>use ogr2ogr para transformar sus datos a otros formatos</li>
+<li>get information about your data with ogrinfo</li>
+<li>use ogr2ogr to transform your data to other formats</li>
 </ul>
 </dd>
 </dl>
@@ -100,25 +100,25 @@ applications on OSGeoLive like <a class="reference internal" href="../overview/q
 <p class="topic-title first">Contents</p>
 <ul class="simple">
 <li><a class="reference internal" href="#gdal-ogr-quickstart" id="id1">GDAL/OGR Quickstart</a><ul>
-<li><a class="reference internal" href="#get-to-know-gdal" id="id2">Conozca GDAL</a></li>
+<li><a class="reference internal" href="#get-to-know-gdal" id="id2">Get to know GDAL</a></li>
 <li><a class="reference internal" href="#get-information-about-the-raster-data-with-gdalinfo" id="id3">Get information about the raster data with gdalinfo</a></li>
-<li><a class="reference internal" href="#simple-format-translation" id="id4">Traducción de formato simple</a></li>
-<li><a class="reference internal" href="#translation" id="id5">Traducción</a></li>
-<li><a class="reference internal" href="#rescaling" id="id6">Reescalando</a></li>
-<li><a class="reference internal" href="#raster-tileindex-with-gdaltindex" id="id7">Ráster tileindex con gdaltindex</a></li>
-<li><a class="reference internal" href="#reprojecting" id="id8">Reproyectando</a></li>
-<li><a class="reference internal" href="#mosaicking" id="id9">Mosaico</a></li>
-<li><a class="reference internal" href="#get-to-know-ogr" id="id10">Conozca OGR</a></li>
+<li><a class="reference internal" href="#simple-format-translation" id="id4">Simple Format Translation</a></li>
+<li><a class="reference internal" href="#translation" id="id5">Translation</a></li>
+<li><a class="reference internal" href="#rescaling" id="id6">Rescaling</a></li>
+<li><a class="reference internal" href="#raster-tileindex-with-gdaltindex" id="id7">Raster tileindex with gdaltindex</a></li>
+<li><a class="reference internal" href="#reprojecting" id="id8">Reprojecting</a></li>
+<li><a class="reference internal" href="#mosaicking" id="id9">Mosaicking</a></li>
+<li><a class="reference internal" href="#get-to-know-ogr" id="id10">Get to know OGR</a></li>
 <li><a class="reference internal" href="#get-information-about-the-vector-data-with-ogrinfo" id="id11">Get information about the vector data with ogrinfo</a></li>
 <li><a class="reference internal" href="#use-ogr2ogr-to-convert-data-between-file-formats" id="id12">Use ogr2ogr to convert data between file formats</a></li>
-<li><a class="reference internal" href="#things-to-try" id="id13">Cosas para probar</a></li>
+<li><a class="reference internal" href="#things-to-try" id="id13">Things to try</a></li>
 <li><a class="reference internal" href="#what-next" id="id14">What Next?</a></li>
 </ul>
 </li>
 </ul>
 </div>
 <div class="section" id="get-to-know-gdal">
-<h2><a class="toc-backref" href="#id2">Conozca GDAL</a><a class="headerlink" href="#get-to-know-gdal" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id2">Get to know GDAL</a><a class="headerlink" href="#get-to-know-gdal" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>You will find the demo data at <code class="file docutils literal"><span class="pre">/usr/local/share/data</span></code>. We want to have a
 look at the <a class="reference internal" href="../overview/naturalearth_overview.html"><span class="doc">Natural Earth data</span></a> in this quickstart. We want to work with a
 copy of the data. So the first step is to copy the data to your home
@@ -166,27 +166,27 @@ directory.</p>
 </pre></div>
 </div>
 <dl class="docutils">
-<dt>Nota:</dt>
+<dt>Note:</dt>
 <dd><ul class="first last simple">
-<li>El operador es «GTiff/GeoTIFF»</li>
-<li>El tamaño es  10800x5400</li>
-<li>3 Bandas de tipo Byte.</li>
-<li>Coordenadas</li>
-<li>sin sistema de coordenadas</li>
+<li>Driver is «GTiff/GeoTIFF»</li>
+<li>Size is 10800x5400</li>
+<li>3 Bands of type Byte.</li>
+<li>Coordinates</li>
+<li>no coordinate system</li>
 </ul>
 </dd>
 </dl>
 </div>
 <div class="section" id="simple-format-translation">
-<h2><a class="toc-backref" href="#id4">Traducción de formato simple</a><a class="headerlink" href="#simple-format-translation" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id4">Simple Format Translation</a><a class="headerlink" href="#simple-format-translation" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>First get to know your drivers. The <cite>–formats</cite> commandline switch of
 gdal_translate can be used to see a list of available format drivers.</p>
 <dl class="docutils">
 <dt>Each format reports if it is</dt>
 <dd><ul class="first last simple">
-<li>Sólo lectura (ro),</li>
-<li>Lectura/escritura (rw) o</li>
-<li>leer/escribir/actualizar(rw+).</li>
+<li>read only (ro),</li>
+<li>read/write (rw) or</li>
+<li>read/write/update (rw+).</li>
 </ul>
 </dd>
 </dl>
@@ -201,7 +201,7 @@ particular driver, including creation options, and permitted data types.</p>
 </div>
 </div>
 <div class="section" id="translation">
-<h2><a class="toc-backref" href="#id5">Traducción</a><a class="headerlink" href="#translation" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id5">Translation</a><a class="headerlink" href="#translation" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>Translations are accomplished with the gdal_translate command. The
 default output format is GeoTIFF.  The <cite>-of</cite> flag is used to select an
 output format and the -co flag is used to specify a creation option:</p>
@@ -215,12 +215,12 @@ output format and the -co flag is used to specify a creation option:</p>
 <p>Use gdalinfo to verify data type.</p>
 </div>
 <div class="section" id="rescaling">
-<h2><a class="toc-backref" href="#id6">Reescalando</a><a class="headerlink" href="#rescaling" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id6">Rescaling</a><a class="headerlink" href="#rescaling" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>The <cite>-outsize</cite> switch can be used to set the size of the output file.</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">gdal_translate</span> <span class="o">-</span><span class="n">outsize</span> <span class="mi">50</span><span class="o">%</span> <span class="mi">50</span><span class="o">%</span> <span class="n">HYP_50M_SR_W</span><span class="o">.</span><span class="n">tif</span>  <span class="n">HYP_50M_SR_W_small</span><span class="o">.</span><span class="n">tif</span>
 </pre></div>
 </div>
-<p>Usa gdalinfo para verificar el tamaño.</p>
+<p>Use gdalinfo to verify the size.</p>
 <p>The <cite>-scale</cite> switch can be used to rescale data. Explicit control of the
 input and output ranges is also available. The gdalinfo <cite>-mm</cite> switch can
 be used to see pixel min/max values.</p>
@@ -234,7 +234,7 @@ and define the corners in georeferenced coordinates (ulx uly lrx lry).</p>
 </div>
 </div>
 <div class="section" id="raster-tileindex-with-gdaltindex">
-<h2><a class="toc-backref" href="#id7">Ráster tileindex con gdaltindex</a><a class="headerlink" href="#raster-tileindex-with-gdaltindex" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id7">Raster tileindex with gdaltindex</a><a class="headerlink" href="#raster-tileindex-with-gdaltindex" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>You can build a shapefile as a raster tileindex. For every image a
 polygon is generated with the bounds of the extent of the polygon and
 the path to the file.</p>
@@ -267,7 +267,7 @@ OGRFeature(index_natural_earth):1
 </div>
 </div>
 <div class="section" id="reprojecting">
-<h2><a class="toc-backref" href="#id8">Reproyectando</a><a class="headerlink" href="#reprojecting" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id8">Reprojecting</a><a class="headerlink" href="#reprojecting" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>For this process we assume that HYP_50M_SR_W.tif has been properly
 created with bounds. As we saw before with gdainfo no coordinate system
 was set. So we assign WGS84 as coordinate system to the image in the
@@ -280,11 +280,11 @@ the WGS84 geographic image to the Mercator projection:</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">gdalwarp</span> <span class="o">-</span><span class="n">t_srs</span> <span class="s1">&#39;+proj=merc +datum=WGS84&#39;</span> <span class="n">HYP_50M_SR_W_4326</span><span class="o">.</span><span class="n">tif</span> <span class="n">mercator</span><span class="o">.</span><span class="n">tif</span>
 </pre></div>
 </div>
-<p>Usa gdalinfo para verificar el cambio y echarle un vistazo a la imagen.</p>
+<p>Use gdalinfo to verify the change and have a look at the image.</p>
 <blockquote>
 <div><a class="reference internal image-reference" href="../../_images/gdal_mercator.png"><img alt="../../_images/gdal_mercator.png" src="../../_images/gdal_mercator.png" style="width: 405.6px; height: 327.2px;" /></a>
 </div></blockquote>
-<p>Aquí reproyectamos a la proyección Ortho.</p>
+<p>Here we reproject to the Ortho projection.</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">gdalwarp</span> <span class="o">-</span><span class="n">t_srs</span> <span class="s1">&#39;+proj=ortho +datum=WGS84&#39;</span> <span class="n">HYP_50M_SR_W_4326</span><span class="o">.</span><span class="n">tif</span> <span class="n">ortho</span><span class="o">.</span><span class="n">tif</span>
 </pre></div>
 </div>
@@ -295,7 +295,7 @@ gdalwarp to read a bunch of surplus data around chunks as one way to
 resolve this. Read more about this in the RasterTutorial <a class="reference external" href="http://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial">http://trac.osgeo.org/gdal/wiki/UserDocs/RasterProcTutorial</a>.</p>
 </div>
 <div class="section" id="mosaicking">
-<h2><a class="toc-backref" href="#id9">Mosaico</a><a class="headerlink" href="#mosaicking" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id9">Mosaicking</a><a class="headerlink" href="#mosaicking" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>gdal_merge.py is a python script that can be used for simple mosaicking
 tasks. Mosaic the east.tif and west.tif into a single file:</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">gdal_merge</span><span class="o">.</span><span class="n">py</span>  <span class="n">east</span><span class="o">.</span><span class="n">tif</span> <span class="n">west</span><span class="o">.</span><span class="n">tif</span> <span class="o">-</span><span class="n">o</span> <span class="n">merged</span><span class="o">.</span><span class="n">tif</span>
@@ -308,7 +308,7 @@ of advantages over gdal_merge, but can be slow to merge many files:</p>
 </div>
 </div>
 <div class="section" id="get-to-know-ogr">
-<h2><a class="toc-backref" href="#id10">Conozca OGR</a><a class="headerlink" href="#get-to-know-ogr" title="Enlazar permanentemente con este título">¶</a></h2>
+<h2><a class="toc-backref" href="#id10">Get to know OGR</a><a class="headerlink" href="#get-to-know-ogr" title="Enlazar permanentemente con este título">¶</a></h2>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="n">user</span><span class="o">/</span><span class="n">gdal_natural_earth</span><span class="o">/</span>
 </pre></div>
 </div>
@@ -336,7 +336,7 @@ INFO: Open of `/home/user/gdal_natural_earth&#39;
   12: ne_10m_ocean (3D Polygon)
 </pre></div>
 </div>
-<p>Obtenga un resumen de sus datos con ogrinfo junto con <cite>-so</cite>.</p>
+<p>Get a summary about your data with ogrinfo together with <cite>-so</cite>.</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span>ogrinfo -ro -so ne_10m_admin_0_countries.shp ne_10m_admin_0_countries
 INFO: Open of `ne_10m_admin_0_countries.shp&#39;
       using driver `ESRI Shapefile&#39; successful.
@@ -448,8 +448,8 @@ with read/write information.</p>
 </div>
 </div>
 <div class="section" id="things-to-try">
-<h2><a class="toc-backref" href="#id13">Cosas para probar</a><a class="headerlink" href="#things-to-try" title="Enlazar permanentemente con este título">¶</a></h2>
-<p>Aquí hay algunos desafíos adicionales para que intentes:</p>
+<h2><a class="toc-backref" href="#id13">Things to try</a><a class="headerlink" href="#things-to-try" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Here are some additional challenges for you to try:</p>
 <ol class="arabic simple">
 <li>Try gdalwarp or gdal_merge.py to mosaic your data</li>
 <li>Try gdaladdo to build internal overviews</li>
@@ -462,7 +462,7 @@ with read/write information.</p>
 <h2><a class="toc-backref" href="#id14">What Next?</a><a class="headerlink" href="#what-next" title="Enlazar permanentemente con este título">¶</a></h2>
 <p>This is only the first step on the road to using GDAL and OGR. There is
 a lot more functionality you can try.</p>
-<p>Proyecto GDAL inicio</p>
+<p>GDAL Project home</p>
 <blockquote>
 <div><a class="reference external" href="http://www.gdal.org">http://www.gdal.org</a></div></blockquote>
 <p>GDAL Raster Tutorial</p>

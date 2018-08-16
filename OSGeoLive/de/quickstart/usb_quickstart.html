@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="de">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Einen bootfähigen OSGeoLive USB-Stick erstellen &#8212; OSGeoLive 12.0 Documentation</title>
+    <title>Creating an OSGeoLive Bootable USB flash drive &#8212; OSGeoLive 12.0 Documentation</title>
     <link rel="stylesheet" href="../../_static/overview.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <script type="text/javascript">
@@ -70,14 +70,14 @@
           <div class="body" role="main">
             
   <div class="section" id="creating-an-osgeolive-bootable-usb-flash-drive">
-<h1>Einen bootfähigen OSGeoLive USB-Stick erstellen<a class="headerlink" href="#creating-an-osgeolive-bootable-usb-flash-drive" title="Link zu dieser Überschrift">¶</a></h1>
-<p>Hier beschreiben wir, wie ein bootbarer OSGeo-Live USB-Stick erstellt werden kann. Von einem USB-Stick zu starten ist schneller als von einer DVD zu starten und das USB-Laufwerk kann zusätzlich zur Sicherung der Daten zwischen Sessions genutzt werden (dies wird persistent genannt).</p>
-<p>Zur USB Installation gibt es zahlreiche Tricks und Quirks. Es wurde alles Dokumentiert, was bisher zu Schwierigkeiten geführt hat, darüber hinaus können Sie auch aktuelle Hinweise hier ansehen : <a class="reference external" href="http://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB">http://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB</a></p>
+<h1>Creating an OSGeoLive Bootable USB flash drive<a class="headerlink" href="#creating-an-osgeolive-bootable-usb-flash-drive" title="Link zu dieser Überschrift">¶</a></h1>
+<p>This quickstart describes the preferred method for creating a Bootable OSGeoLive USB flash drive. Booting from a flash drive is faster than from a DVD, and the USB drive can be configured to store data between sessions (called persistence).</p>
+<p>We have have found that there are a number of quirks and tricks involved in successfully building a USB drive. We have documented what we know, but there are likely more tricks and issues. Look for latest tips here: <a class="reference external" href="http://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB">http://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB</a></p>
 <div class="section" id="requirements">
-<h2>Systemvoraussetzungen<a class="headerlink" href="#requirements" title="Link zu dieser Überschrift">¶</a></h2>
+<h2>Requirements<a class="headerlink" href="#requirements" title="Link zu dieser Überschrift">¶</a></h2>
 <ul class="simple">
-<li>Einen USB-Stick (mindestens 4GB, wir empfehlen 8GB oder mehr).</li>
-<li>Ein OSGeoLive ISO Image (Download von: <a class="reference external" href="http://live.osgeo.org/en/download.html">http://live.osgeo.org/en/download.html</a>).</li>
+<li>A USB flash drive (at least 4 Gig, 8+ Gig is recommended).</li>
+<li>An OSGeoLive ISO image (downloaded from: <a class="reference external" href="http://live.osgeo.org/en/download.html">http://live.osgeo.org/en/download.html</a>) or converted from a DVD.</li>
 </ul>
 <blockquote>
 <div><ul class="simple">
@@ -87,7 +87,7 @@
 </div></blockquote>
 </div>
 <div class="section" id="creating-bootable-usb-drive-with-dd-under-linux">
-<h2>Einen startbaren USB-Stick mit <code class="docutils literal"><span class="pre">dd</span></code> unter Linux erstellen<a class="headerlink" href="#creating-bootable-usb-drive-with-dd-under-linux" title="Link zu dieser Überschrift">¶</a></h2>
+<h2>Creating bootable USB drive with <code class="docutils literal"><span class="pre">dd</span></code> under Linux<a class="headerlink" href="#creating-bootable-usb-drive-with-dd-under-linux" title="Link zu dieser Überschrift">¶</a></h2>
 <p>ISO images for OSGeoLive 10.5 and later are <em>isohybrid</em> (and for amd64, also support UEFI boot). Under Linux, these images can be written directly to the block device for a USB drive with the <code class="docutils literal"><span class="pre">dd</span></code> command-line utility:</p>
 <div class="highlight-console"><div class="highlight"><pre><span></span><span class="go">sudo dd if=osgeolive-10.5-amd64.iso of=/dev/sdX bs=4M; sync</span>
 </pre></div>
@@ -95,7 +95,7 @@
 <ul class="simple">
 <li><code class="docutils literal"><span class="pre">/dev/sdX</span></code> is the block device for the USB drive, where <code class="docutils literal"><span class="pre">X</span></code> might be <code class="docutils literal"><span class="pre">b</span></code> or <code class="docutils literal"><span class="pre">c</span></code>.</li>
 <li>Use <code class="docutils literal"><span class="pre">lsblk</span></code> to list block devices and <code class="docutils literal"><span class="pre">dmesg</span></code> to see kernel messages identifying the USB drive when it is connected.</li>
-<li>Der USB-Stick darf nicht gemountet sein.</li>
+<li>The USB drive should not be mounted.</li>
 <li><code class="docutils literal"><span class="pre">sudo</span></code> is not required if the command is run as <code class="docutils literal"><span class="pre">root</span></code>.</li>
 </ul>
 <div class="admonition warning">
@@ -157,7 +157,7 @@
 <div><ul class="simple">
 <li><a class="reference internal" href="osgeolive_quickstart.html"><span class="doc">OSGeoLive Quickstart</span></a></li>
 <li><a class="reference internal" href="virtualization_quickstart.html"><span class="doc">OSGeoLive Quickstart for Running in a Virtual Machine</span></a></li>
-<li><a class="reference internal" href="osgeolive_install_quickstart.html"><span class="doc">OSGeoLive auf Festplatte installieren</span></a></li>
+<li><a class="reference internal" href="osgeolive_install_quickstart.html"><span class="doc">Install OSGeoLive to Hard Disk</span></a></li>
 <li>Alternative USB creation methods and latest tips are collected here: <a class="reference external" href="http://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB">wiki</a></li>
 <li>Questions can be directed to our email list: <a class="reference external" href="http://lists.osgeo.org/mailman/listinfo/live-demo">http://lists.osgeo.org/mailman/listinfo/live-demo</a></li>
 </ul>
