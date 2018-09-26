@@ -322,14 +322,14 @@ locate the nearest vertex to a lat/lon location.</p>
 <span class="c1">-- Number of vertices in the vehicles_net graph</span>
 <span class="k">SELECT</span> <span class="k">count</span><span class="p">(</span><span class="o">*</span><span class="p">)</span> <span class="k">FROM</span> <span class="n">ways_vertices_pgr</span>
 <span class="k">WHERE</span> <span class="n">id</span> <span class="k">IN</span> <span class="p">(</span>
-    <span class="k">SELECT</span> <span class="k">source</span> <span class="k">FROM</span> <span class="n">vehicle_net</span> 
+    <span class="k">SELECT</span> <span class="k">source</span> <span class="k">FROM</span> <span class="n">vehicle_net</span>
     <span class="k">UNION</span>
     <span class="k">SELECT</span> <span class="n">target</span> <span class="k">FROM</span> <span class="n">vehicle_net</span><span class="p">);</span>
 
 <span class="c1">-- Number of vertices in the little_net graph</span>
 <span class="k">SELECT</span> <span class="k">count</span><span class="p">(</span><span class="o">*</span><span class="p">)</span> <span class="k">FROM</span> <span class="n">ways_vertices_pgr</span>
 <span class="k">WHERE</span> <span class="n">id</span> <span class="k">IN</span> <span class="p">(</span>
-    <span class="k">SELECT</span> <span class="k">source</span> <span class="k">FROM</span> <span class="n">little_net</span> 
+    <span class="k">SELECT</span> <span class="k">source</span> <span class="k">FROM</span> <span class="n">little_net</span>
     <span class="k">UNION</span>
     <span class="k">SELECT</span> <span class="n">target</span> <span class="k">FROM</span> <span class="n">little_net</span><span class="p">);</span>
 </pre></div>
@@ -338,7 +338,7 @@ locate the nearest vertex to a lat/lon location.</p>
 </div>
 <div class="section" id="exercise-2-nearest-vertex">
 <h3><a class="toc-backref" href="#id5">8.2.2. Exercise 2: Nearest Vertex</a><a class="headerlink" href="#exercise-2-nearest-vertex" title="Permalink to this headline">¶</a></h3>
-<p class="rubric">Calculate the osm_id of the nearest vertex to <code class="docutils literal"><span class="pre">-71.04143,</span> <span class="pre">42.35126</span></code>.</p>
+<p class="rubric">Calculate the osm_id of the nearest vertex to <code class="docutils literal"><span class="pre">39.291852,</span> <span class="pre">-6.811437</span></code>.</p>
 <ul class="simple">
 <li>Get the set of vertices of:<ul>
 <li>ways</li>
@@ -346,7 +346,7 @@ locate the nearest vertex to a lat/lon location.</p>
 <li>little_net</li>
 </ul>
 </li>
-<li>Use them to calculate the nearest vertex to <code class="docutils literal"><span class="pre">-71.04143,</span> <span class="pre">42.35126</span></code>.</li>
+<li>Use them to calculate the nearest vertex to <code class="docutils literal"><span class="pre">39.291852,</span> <span class="pre">-6.811437</span></code>.</li>
 </ul>
 <div class="highlight-sql"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre> 1
  2
@@ -375,7 +375,7 @@ locate the nearest vertex to a lat/lon location.</p>
 25
 26</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="c1">-- Closest osm_id in the original graph</span>
 <span class="k">SELECT</span> <span class="n">osm_id</span> <span class="k">FROM</span> <span class="n">ways_vertices_pgr</span>
-    <span class="k">ORDER</span> <span class="k">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">04143</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">35126</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="k">LIMIT</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="k">ORDER</span> <span class="k">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="mi">39</span><span class="p">.</span><span class="mi">291852</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811437</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="k">LIMIT</span> <span class="mi">1</span><span class="p">;</span>
 
 <span class="c1">-- Closest osm_id in the vehicle_net graph</span>
 <span class="k">WITH</span>
@@ -387,7 +387,7 @@ locate the nearest vertex to a lat/lon location.</p>
         <span class="k">SELECT</span> <span class="n">target</span> <span class="k">FROM</span> <span class="n">vehicle_net</span><span class="p">)</span>
 <span class="p">)</span>
 <span class="k">SELECT</span> <span class="n">osm_id</span> <span class="k">FROM</span> <span class="n">vertices</span>
-    <span class="k">ORDER</span> <span class="k">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">04143</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">35126</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="k">LIMIT</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="k">ORDER</span> <span class="k">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="mi">39</span><span class="p">.</span><span class="mi">291852</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811437</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="k">LIMIT</span> <span class="mi">1</span><span class="p">;</span>
 
 <span class="c1">-- Closest osm_id in the little_net graph</span>
 <span class="k">WITH</span>
@@ -486,14 +486,14 @@ $BODY$
 DECLARE
     final_query TEXT;
 BEGIN
-        
+
     final_query :=
         FORMAT( $$
             WITH
             vertices AS (
                 SELECT * FROM ways_vertices_pgr
                 WHERE id IN (
-                    SELECT source FROM %1$I 
+                    SELECT source FROM %1$I
                     UNION
                     SELECT target FROM %1$I)
             ),
@@ -502,7 +502,7 @@ BEGIN
                 FROM wrk_dijkstra(
                     &#39;%1$I&#39;,
                     -- source
-                    (SELECT osm_id FROM vertices 
+                    (SELECT osm_id FROM vertices
                         ORDER BY the_geom &lt;-&gt; ST_SetSRID(ST_Point(%2$s, %3$s), 4326) LIMIT 1),
                     -- target
                     (SELECT osm_id FROM vertices
@@ -544,28 +544,31 @@ LANGUAGE &#39;plpgsql&#39;;
 11
 12
 13
-14</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="k">SELECT</span> <span class="o">*</span>  <span class="k">FROM</span> <span class="n">wrk_fromAtoB</span><span class="p">(</span>
+14
+15
+16</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="k">SELECT</span> <span class="o">*</span>  <span class="k">FROM</span> <span class="n">wrk_fromAtoB</span><span class="p">(</span>
     <span class="s1">&#39;vehicle_net&#39;</span><span class="p">,</span>
-    <span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">04136</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">35089</span><span class="p">,</span>
-    <span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">03483</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">34595</span><span class="p">);</span>
+    <span class="mi">39</span><span class="p">.</span><span class="mi">291852</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811437</span><span class="p">,</span>
+    <span class="mi">39</span><span class="p">.</span><span class="mi">287737</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811389</span><span class="p">);</span>
 
 <span class="k">SELECT</span> <span class="o">*</span>  <span class="k">FROM</span> <span class="n">wrk_fromAtoB</span><span class="p">(</span>
     <span class="s1">&#39;little_net&#39;</span><span class="p">,</span>
-    <span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">04136</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">35089</span><span class="p">,</span>
-    <span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">03483</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">34595</span><span class="p">);</span>
+    <span class="mi">39</span><span class="p">.</span><span class="mi">291852</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811437</span><span class="p">,</span>
+    <span class="mi">39</span><span class="p">.</span><span class="mi">287737</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811389</span><span class="p">);</span>
 
-<span class="k">SELECT</span> <span class="o">*</span>  <span class="k">FROM</span> <span class="n">wrk_fromAtoB</span><span class="p">(</span>
+<span class="c1">-- saving results in a table</span>
+<span class="k">SELECT</span> <span class="o">*</span> <span class="k">INTO</span> <span class="n">example</span>
+<span class="k">FROM</span> <span class="n">wrk_fromAtoB</span><span class="p">(</span>
     <span class="s1">&#39;ways&#39;</span><span class="p">,</span>
-    <span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">04136</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">35089</span><span class="p">,</span>
-    <span class="o">-</span><span class="mi">71</span><span class="p">.</span><span class="mi">03483</span><span class="p">,</span> <span class="mi">42</span><span class="p">.</span><span class="mi">34595</span><span class="p">);</span>
+    <span class="mi">39</span><span class="p">.</span><span class="mi">291852</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811437</span><span class="p">,</span>
+    <span class="mi">39</span><span class="p">.</span><span class="mi">287737</span><span class="p">,</span> <span class="o">-</span><span class="mi">6</span><span class="p">.</span><span class="mi">811389</span><span class="p">);</span>
 </pre></div>
 </td></tr></table></div>
 <p><a class="reference internal" href="the_solutions.html#solution-to-chapter-8-exercise-4"><span class="std std-ref">Solution to Chapter 8 Exercise 4</span></a></p>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
 <p>A Notice will show while executing the function, for example:</p>
-<div class="last highlight-default"><div class="highlight"><pre><span></span><span class="n">NOTICE</span><span class="p">:</span>
-<span class="n">WITH</span>
+<div class="last highlight-default"><div class="highlight"><pre><span></span><span class="n">WITH</span>
 <span class="n">vertices</span> <span class="n">AS</span> <span class="p">(</span>
     <span class="n">SELECT</span> <span class="o">*</span> <span class="n">FROM</span> <span class="n">ways_vertices_pgr</span>
     <span class="n">WHERE</span> <span class="nb">id</span> <span class="n">IN</span> <span class="p">(</span>
@@ -579,10 +582,10 @@ LANGUAGE &#39;plpgsql&#39;;
         <span class="s1">&#39;vehicle_net&#39;</span><span class="p">,</span>
         <span class="o">--</span> <span class="n">source</span>
         <span class="p">(</span><span class="n">SELECT</span> <span class="n">osm_id</span> <span class="n">FROM</span> <span class="n">vertices</span>
-            <span class="n">ORDER</span> <span class="n">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="o">-</span><span class="mf">71.04136</span><span class="p">,</span> <span class="mf">42.35089</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="n">LIMIT</span> <span class="mi">1</span><span class="p">),</span>
+            <span class="n">ORDER</span> <span class="n">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="mf">39.291852</span><span class="p">,</span> <span class="o">-</span><span class="mf">6.811437</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="n">LIMIT</span> <span class="mi">1</span><span class="p">),</span>
         <span class="o">--</span> <span class="n">target</span>
         <span class="p">(</span><span class="n">SELECT</span> <span class="n">osm_id</span> <span class="n">FROM</span> <span class="n">vertices</span>
-            <span class="n">ORDER</span> <span class="n">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="o">-</span><span class="mf">71.03483</span><span class="p">,</span> <span class="mf">42.34595</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="n">LIMIT</span> <span class="mi">1</span><span class="p">))</span>
+            <span class="n">ORDER</span> <span class="n">BY</span> <span class="n">the_geom</span> <span class="o">&lt;-&gt;</span> <span class="n">ST_SetSRID</span><span class="p">(</span><span class="n">ST_Point</span><span class="p">(</span><span class="mf">39.287737</span><span class="p">,</span> <span class="o">-</span><span class="mf">6.811389</span><span class="p">),</span> <span class="mi">4326</span><span class="p">)</span> <span class="n">LIMIT</span> <span class="mi">1</span><span class="p">))</span>
 <span class="p">)</span>
 <span class="n">SELECT</span>
     <span class="n">seq</span><span class="p">,</span>
@@ -592,7 +595,7 @@ LANGUAGE &#39;plpgsql&#39;;
     <span class="n">dijkstra</span><span class="o">.</span><span class="n">cost</span> <span class="n">AS</span> <span class="n">the_time</span><span class="p">,</span>
     <span class="n">azimuth</span><span class="p">,</span>
     <span class="n">route_geom</span> <span class="n">AS</span> <span class="n">geom</span>
-<span class="n">FROM</span> <span class="n">dijkstra</span> <span class="n">JOIN</span> <span class="n">ways</span> <span class="n">USING</span> <span class="p">(</span><span class="n">gid</span><span class="p">);</span>
+<span class="n">FROM</span> <span class="n">dijkstra</span> <span class="n">JOIN</span> <span class="n">ways</span> <span class="n">USING</span> <span class="p">(</span><span class="n">gid</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
@@ -613,7 +616,7 @@ LANGUAGE &#39;plpgsql&#39;;
     </p>
     <p>
         &copy; Copyright 2010-2017 Daniel Kastl, Vicky Vergara.<br/>
-      Last updated on Sep 25, 2018.<br/>
+      Last updated on Sep 26, 2018.<br/>
     </p>
   </div>
 </footer>
