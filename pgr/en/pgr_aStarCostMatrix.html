@@ -28,7 +28,7 @@
     <link rel="shortcut icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="pgr_bdDijkstra" href="pgr_bdDijkstra.html" />
+    <link rel="next" title="Bidirectional A* - Family of functions" href="bdAstar-family.html" />
     <link rel="prev" title="pgr_aStarCost" href="pgr_aStarCost.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
@@ -84,8 +84,8 @@
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="routingFunctions.html">Routing Functions</a></li>
 </ul>
-<ul class="current">
-<li class="toctree-l1 current"><a class="reference internal" href="proposed.html">Stable Proposed Functions</a></li>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="proposed.html">Stable Proposed Functions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="proposed.html#experimental-functions">Experimental Functions</a></li>
 </ul>
 <ul>
@@ -133,7 +133,7 @@
     </a>
   </li>
   <li>
-    <a href="pgr_bdDijkstra.html" title="Next Chapter: pgr_bdDijkstra"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">pgr_bdDijkstra &raquo;</span>
+    <a href="bdAstar-family.html" title="Next Chapter: Bidirectional A* - Family of functions"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Bidirectional... &raquo;</span>
     </a>
   </li>
               
@@ -204,7 +204,7 @@ RETURNS SET OF (start_vid, end_vid, agg_cost)
 </pre></div>
 </div>
 <div class="section" id="minimal-signature">
-<span id="index-0"></span><h3>Minimal Signature<a class="headerlink" href="#minimal-signature" title="Permalink to this headline">¶</a></h3>
+<h3>Minimal Signature<a class="headerlink" href="#minimal-signature" title="Permalink to this headline">¶</a></h3>
 <p>The minimal signature:</p>
 <ul class="simple">
 <li>Is for a <strong>directed</strong> graph.</li>
@@ -245,7 +245,7 @@ RETURNS SET OF (start_vid, end_vid, agg_cost)
 </div>
 </div>
 <div class="section" id="complete-signature">
-<span id="index-1"></span><h3>Complete Signature<a class="headerlink" href="#complete-signature" title="Permalink to this headline">¶</a></h3>
+<span id="index-0"></span><h3>Complete Signature<a class="headerlink" href="#complete-signature" title="Permalink to this headline">¶</a></h3>
 <div class="highlight-none"><div class="highlight"><pre><span></span>pgr_aStarCostMatrix(edges_sql, vids, directed, heuristic, factor, epsilon)
 RETURNS SET OF (start_vid, end_vid, agg_cost)
 </pre></div>
@@ -548,7 +548,7 @@ RETURNS SET OF (start_vid, end_vid, agg_cost)
     </p>
     <p>
         &copy; Copyright pgRouting Contributors - Version v3.0.0-dev.<br/>
-      Last updated on Jun 19, 2018.<br/>
+      Last updated on Oct 06, 2018.<br/>
       Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.6.5.<br/>
     </p>
   </div>
