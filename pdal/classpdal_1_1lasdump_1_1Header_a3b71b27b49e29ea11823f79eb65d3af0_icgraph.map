@@ -1,8 +1,0 @@
-<map id="pdal::lasdump::Header::pointCount" name="pdal::lasdump::Header::pointCount">
-<area shape="rect" id="node2" href="$classpdal_1_1lasdump_1_1Dumper.html#ad8394ae3963da052ca194ec27454a056" title="pdal::lasdump::Dumper\l::readCompressedPoints" alt="" coords="207,5,373,47"/>
-<area shape="rect" id="node6" href="$classpdal_1_1lasdump_1_1Dumper.html#a5b1454de583f74f7e1120f2b012722f5" title="pdal::lasdump::Dumper\l::readPoints" alt="" coords="211,71,369,112"/>
-<area shape="rect" id="node7" href="$classpdal_1_1lasdump_1_1Header.html#af7e9270dd151488d9c29cbd07f404a08" title="pdal::lasdump::Header\l::setPointCount" alt="" coords="213,136,367,177"/>
-<area shape="rect" id="node3" href="$classpdal_1_1lasdump_1_1Dumper.html#a20d28b8a8a6fec681b12f460d8f88190" title="pdal::lasdump::Dumper\l::dump" alt="" coords="421,39,579,80"/>
-<area shape="rect" id="node4" href="$classpdal_1_1lasdump_1_1Dumper.html#a621569d3916c9d0489d3bf6fa656ce5e" title="pdal::lasdump::Dumper\l::Dumper" alt="" coords="627,9,784,51"/>
-<area shape="rect" id="node5" href="$Dumper_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="680,75,731,102"/>
-</map>

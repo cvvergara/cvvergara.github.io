@@ -1,8 +1,0 @@
-<map id="pdal::LasHeader::maxReturnCount" name="pdal::LasHeader::maxReturnCount">
-<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#a1f2739e7ca9aec5d5cf06255fc5576e8" title="pdal::LasWriter::fillPointBuf" alt="" coords="243,71,424,98"/>
-<area shape="rect" id="node7" href="$classpdal_1_1LasWriter.html#a09e01af2b1d409b74bc7bf4797892061" title="pdal::LasWriter::writeLas\lZipBuf" alt="" coords="250,5,417,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#aeb809dd4bcae7c20e3d347fcc3309cb5" title="pdal::LasWriter::processOne" alt="" coords="472,21,660,47"/>
-<area shape="rect" id="node6" href="$classpdal_1_1LasWriter.html#a2ff257e05cf972506e292bd28649c838" title="pdal::LasWriter::fillWriteBuf" alt="" coords="475,71,657,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a91550327b74a35121c29d342c9659578" title="pdal::LasWriter::writeView" alt="" coords="708,46,883,73"/>
-<area shape="rect" id="node5" href="$classpdal_1_1NitfWriter.html#a09c8b43a263e077f6361e5eaf3f37063" title="pdal::NitfWriter::writeView" alt="" coords="931,46,1105,73"/>
-</map>

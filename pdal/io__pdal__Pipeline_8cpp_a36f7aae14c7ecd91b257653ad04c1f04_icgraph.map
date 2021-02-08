@@ -1,9 +1,0 @@
-<map id="Java_io_pdal_Pipeline_getLogLevel" name="Java_io_pdal_Pipeline_getLogLevel">
-<area shape="rect" id="node2" href="$io__pdal__Pipeline_8cpp.html#a082bb922d20e2a275aa41432e8e4b125" title="Java_io_pdal_Pipeline\l_setLogLevel" alt="" coords="204,5,355,47"/>
-<area shape="rect" id="node3" href="$io__pdal__Pipeline_8cpp.html#a8a69b7f4a488cb8f6e3daf06565454a9" title="Java_io_pdal_Pipeline\l_validate" alt="" coords="403,5,553,47"/>
-<area shape="rect" id="node4" href="$io__pdal__Pipeline_8cpp.html#ae6caeca72780b5e3ad792cd5c00df87c" title="Java_io_pdal_Pipeline\l_getSchema" alt="" coords="601,5,752,47"/>
-<area shape="rect" id="node5" href="$io__pdal__Pipeline_8cpp.html#a66a0073f40bd33fe176e2e8bacc57d7d" title="Java_io_pdal_Pipeline\l_getMetadata" alt="" coords="800,5,951,47"/>
-<area shape="rect" id="node6" href="$io__pdal__Pipeline_8cpp.html#a12a870b2859adaaa0556bf0a18f4d13c" title="Java_io_pdal_Pipeline\l_execute" alt="" coords="999,5,1149,47"/>
-<area shape="rect" id="node7" href="$io__pdal__Pipeline_8cpp.html#a8238e4e6616b338d76b4ed68e533305c" title="Java_io_pdal_Pipeline\l_dispose" alt="" coords="1197,5,1348,47"/>
-<area shape="rect" id="node8" href="$io__pdal__Pipeline_8cpp.html#ad7b0833a8c4a23a66bf49021695854ee" title="Java_io_pdal_Pipeline\l_initialise" alt="" coords="1396,5,1547,47"/>
-</map>

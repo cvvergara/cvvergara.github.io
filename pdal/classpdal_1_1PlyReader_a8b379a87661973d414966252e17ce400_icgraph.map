@@ -1,6 +1,0 @@
-<map id="pdal::PlyReader::pushLine" name="pdal::PlyReader::pushLine">
-<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#a86c91fd3c850c095dc537b627f92c426" title="pdal::PlyReader::extract\lElement" alt="" coords="439,5,601,47"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PlyReader.html#ae3efcc96eca62b8d710e725b3358e88c" title="pdal::PlyReader::extract\lProperties" alt="" coords="228,35,391,76"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PlyReader.html#a9b0179c012f82bcb1878e1197d2e4040" title="pdal::PlyReader::extract\lHeader" alt="" coords="649,5,812,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PlyReader.html#a1502df4ba555d39c66aebabc40b61342" title="pdal::PlyReader::initialize" alt="" coords="860,13,1031,39"/>
-</map>

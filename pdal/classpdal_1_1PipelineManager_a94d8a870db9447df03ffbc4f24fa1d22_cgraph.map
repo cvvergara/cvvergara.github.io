@@ -1,7 +1,0 @@
-<map id="pdal::PipelineManager::setOptions" name="pdal::PipelineManager::setOptions">
-<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#ace3043bc318e31d6d88a296c0a8cf62b" title="pdal::Stage::addOptions" alt="" coords="215,5,377,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ab1fa73224209557248ed896eae7a1f4d" title="pdal::Stage::removeOptions" alt="" coords="204,56,388,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#acb2434df20f371f1fec9577de3cf0046" title="pdal::Stage::setOptions" alt="" coords="217,107,375,133"/>
-<area shape="rect" id="node6" href="$classpdal_1_1PipelineManager.html#ace2121baba26bb17c43438584e7d2db2" title="pdal::PipelineManager\l::stageOptions" alt="" coords="221,158,371,199"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Options.html#a9db7862d4f1e54669fd88d8a0284c247" title="pdal::Options::getOptions" alt="" coords="436,31,607,57"/>
-</map>

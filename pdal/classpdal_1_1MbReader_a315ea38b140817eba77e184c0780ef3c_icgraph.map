@@ -1,5 +1,0 @@
-<map id="pdal::MbReader::getName" name="pdal::MbReader::getName">
-<area shape="rect" id="node2" href="$classpdal_1_1MbReader.html#a774e65a3ec93682d44a1170332a19790" title="pdal::MbReader::loadData" alt="" coords="228,5,403,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1MbReader.html#a75f63491dac023afbb20fbcda6c8d659" title="pdal::MbReader::processOne" alt="" coords="451,5,643,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1MbReader.html#aacabf834349474a12eca508bd19ac1e6" title="pdal::MbReader::read" alt="" coords="691,5,837,32"/>
-</map>

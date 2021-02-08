@@ -1,6 +1,0 @@
-<map id="Java_io_pdal_PointViewIterator_hasNext" name="Java_io_pdal_PointViewIterator_hasNext">
-<area shape="rect" id="node2" href="$io__pdal__PointViewIterator_8cpp.html#a26b6ccdea59cf075a0e3d8464cf57e47" title="Java_io_pdal_PointViewIterator_next" alt="" coords="259,35,496,61"/>
-<area shape="rect" id="node3" href="$Accessors_8hpp.html#a0096ef2a758f9041ca6424e09c2df937" title="setHandle" alt="" coords="606,5,687,32"/>
-<area shape="rect" id="node5" href="$io__pdal__PointViewIterator_8cpp.html#a0b7e762efe9ee7febeec53280b109de7" title="Java_io_pdal_PointViewIterator\l_dispose" alt="" coords="544,57,749,98"/>
-<area shape="rect" id="node4" href="$Accessors_8hpp.html#abf11be145f9b6e8546356546c1f46d88" title="getHandleField" alt="" coords="797,5,907,32"/>
-</map>

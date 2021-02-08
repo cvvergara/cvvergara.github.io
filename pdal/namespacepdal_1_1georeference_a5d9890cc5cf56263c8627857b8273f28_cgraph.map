@@ -1,6 +1,0 @@
-<map id="pdal::georeference::TEST" name="pdal::georeference::TEST">
-<area shape="rect" id="node2" href="$namespacepdal_1_1georeference.html#a84094e4564a50476a3e5cd1506d4c422" title="pdal::georeference\l::createIdentityMatrix" alt="" coords="183,64,328,105"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1georeference.html#a2b566c71200350d9b85725c40eb5f8fa" title="pdal::georeference\l::georeferenceWgs84" alt="" coords="376,64,523,105"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1georeference_1_1anonymous__namespace_02Georeference_8cpp_03.html#a3d97bde05ca277bf07b1e9fc5bb49a3f" title="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::cartesian\lToCurvilinear" alt="" coords="571,5,769,76"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1georeference_1_1anonymous__namespace_02Georeference_8cpp_03.html#ab65d68d7d44f5d44c6d533ec5d7fc06f" title="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::rotate" alt="" coords="581,101,759,157"/>
-</map>

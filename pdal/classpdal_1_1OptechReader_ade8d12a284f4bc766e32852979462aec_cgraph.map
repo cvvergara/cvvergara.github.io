@@ -1,8 +1,0 @@
-<map id="pdal::OptechReader::read" name="pdal::OptechReader::read">
-<area shape="rect" id="node2" href="$namespacepdal.html#afc093d132f46a6d4e212d6ea0096faa0" title="pdal::createOptechRotation\lMatrix" alt="" coords="192,5,373,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OptechReader.html#a636fbd24a56d87c23553274b72faaf62" title="pdal::OptechReader\l::fillBuffer" alt="" coords="213,71,352,112"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1georeference.html#a2b566c71200350d9b85725c40eb5f8fa" title="pdal::georeference\l::georeferenceWgs84" alt="" coords="209,136,356,177"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Extractor.html#ad2de9e929c57588a8b70188203a91543" title="pdal::Extractor::good" alt="" coords="211,202,354,229"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1georeference_1_1anonymous__namespace_02Georeference_8cpp_03.html#ab65d68d7d44f5d44c6d533ec5d7fc06f" title="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::rotate" alt="" coords="431,85,610,141"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1georeference_1_1anonymous__namespace_02Georeference_8cpp_03.html#a3d97bde05ca277bf07b1e9fc5bb49a3f" title="pdal::georeference\l::anonymous_namespace\l\{Georeference::cpp\}::cartesian\lToCurvilinear" alt="" coords="421,165,620,236"/>
-</map>

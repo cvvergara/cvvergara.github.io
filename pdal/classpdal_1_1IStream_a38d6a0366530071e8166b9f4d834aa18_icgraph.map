@@ -1,7 +1,0 @@
-<map id="pdal::IStream::position" name="pdal::IStream::position">
-<area shape="rect" id="node2" href="$classpdal_1_1QfitReader.html#a81d93152d11c5847fd6ad63dfb1558e4" title="pdal::QfitReader::initialize" alt="" coords="216,5,388,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BpfReader.html#ab7dd5387cb7f88c2c5bbbc1d4838be50" title="pdal::BpfReader::initialize" alt="" coords="445,85,616,112"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BpfReader.html#ad79ce277210a06587dda542c676c322c" title="pdal::BpfReader::readHeader\lExtraData" alt="" coords="207,107,397,149"/>
-<area shape="rect" id="node6" href="$classpdal_1_1BpfReader.html#a6d10eebd98f3e10faed9af5cbc4bc1a9" title="pdal::BpfReader::ready" alt="" coords="224,173,380,200"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BpfReader.html#accb0283f384ad927abc5f37881be748c" title="pdal::BpfReader::inspect" alt="" coords="664,85,831,112"/>
-</map>

@@ -1,9 +1,0 @@
-digraph "setup.get_pdal_config"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node1 [label="setup.get_pdal_config",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="pdal::lasdump::anonymous\l_namespace\{Header::cpp\}::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacepdal_1_1lasdump_1_1anonymous__namespace_02Header_8cpp_03.html#a489f639fe980d29cc6073f1d82a5e8cf"];
-}

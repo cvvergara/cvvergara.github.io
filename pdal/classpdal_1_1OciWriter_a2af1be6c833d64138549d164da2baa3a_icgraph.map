@@ -1,7 +1,0 @@
-<map id="pdal::OciWriter::createPCElemInfo" name="pdal::OciWriter::createPCElemInfo">
-<area shape="rect" id="node2" href="$classpdal_1_1OciWriter.html#a305cd40729c19754aec8fc7c9d104fdf" title="pdal::OciWriter::createPCEntry" alt="" coords="283,5,485,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1OciWriter.html#abcd6c1d21d30c97454f9e11225bb7644" title="pdal::OciWriter::updatePCExtent" alt="" coords="277,56,491,83"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OciWriter.html#a29c890b4de7d31ab917f5d4577f62345" title="pdal::OciWriter::writeInit" alt="" coords="539,5,701,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1OciWriter.html#a11f02a9af7350d831dff5f81859c76f2" title="pdal::OciWriter::write" alt="" coords="749,5,895,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1OciWriter.html#a899064a17b0d8ef871ab4d79dd2df62b" title="pdal::OciWriter::done" alt="" coords="547,56,693,83"/>
-</map>

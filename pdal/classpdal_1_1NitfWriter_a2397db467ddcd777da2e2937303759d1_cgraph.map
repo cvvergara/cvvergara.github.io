@@ -1,7 +1,0 @@
-<map id="pdal::NitfWriter::NitfWriter" name="pdal::NitfWriter::NitfWriter">
-<area shape="rect" id="node2" href="$classpdal_1_1NitfFileWriter.html#ae00c7f0e920f5bea1076e621c1e524de" title="pdal::NitfFileWriter\l::initialize" alt="" coords="241,5,371,47"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="228,71,384,98"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#a1c6c3e9cb18879d413da22948a3c7255" title="pdal::register_tre\l_plugins" alt="" coords="447,5,566,47"/>
-<area shape="rect" id="node4" href="$namespacepdal.html#a3e6add2fe3eb5cdef037667cee3059f4" title="pdal::register_tre\l_handler" alt="" coords="629,5,748,47"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="432,71,581,98"/>
-</map>

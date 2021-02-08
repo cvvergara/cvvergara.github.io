@@ -1,5 +1,0 @@
-<map id="pdal::CropFilter::crop" name="pdal::CropFilter::crop">
-<area shape="rect" id="node2" href="$classpdal_1_1CropFilter.html#ad3c621912b6cae25da4a1789733d4c65" title="pdal::CropFilter::crop" alt="" coords="220,5,364,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1CropFilter.html#a47c0486c115648ad025b90b86e4e24fb" title="pdal::CropFilter::processOne" alt="" coords="197,56,387,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1CropFilter.html#ae584881a1f5b7167ce40c74e6bee38f7" title="pdal::CropFilter::run" alt="" coords="223,107,361,133"/>
-</map>

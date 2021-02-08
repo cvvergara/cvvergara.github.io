@@ -1,5 +1,0 @@
-<map id="libpdaljava::Pipeline::getPointViews" name="libpdaljava::Pipeline::getPointViews">
-<area shape="rect" id="node2" href="$classpdal_1_1PipelineExecutor.html#a2b06756e02a52c7391de330de01520ce" title="pdal::PipelineExecutor\l::executed" alt="" coords="191,5,343,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PipelineExecutor.html#a2d40af9872e5f672dccec303e87c6ddd" title="pdal::PipelineExecutor\l::getManagerConst" alt="" coords="191,71,343,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#a50cae2392ec1b66ae023083879020fbc" title="pdal::PipelineManager\l::views" alt="" coords="191,136,342,177"/>
-</map>

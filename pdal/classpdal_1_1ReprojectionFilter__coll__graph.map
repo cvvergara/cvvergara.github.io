@@ -1,8 +1,0 @@
-<map id="pdal::ReprojectionFilter" name="pdal::ReprojectionFilter">
-<area shape="rect" id="node2" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="265,199,348,225"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="187,95,275,121"/>
-<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="333,5,488,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="168,5,267,32"/>
-<area shape="rect" id="node7" href="$classpdal_1_1gdal_1_1ErrorHandler.html" title="pdal::gdal::ErrorHandler" alt="" coords="493,199,651,225"/>
-</map>

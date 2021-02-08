@@ -1,9 +1,0 @@
-<map id="pdal::lasdump::Dumper::readCompressedPoints" name="pdal::lasdump::Dumper::readCompressedPoints">
-<area shape="rect" id="node2" href="$namespacepdal_1_1lasdump.html#a65aaa17f6d645ce914ff71a947f7198b" title="pdal::lasdump::cksum" alt="" coords="234,5,385,32"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1lasdump_1_1anonymous__namespace_02Dumper_8cpp_03.html#a70e6c08ede2926fa73bc7987791cae04" title="pdal::lasdump::anonymous\l_namespace\{Dumper::cpp\}\l::handleLaszip" alt="" coords="220,56,399,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1lasdump_1_1Dumper.html#a70a599ed7ec04c8fb6ef3c8f22a5dddd" title="pdal::lasdump::Dumper\l::loadPoint" alt="" coords="231,135,388,177"/>
-<area shape="rect" id="node6" href="$classpdal_1_1lasdump_1_1Header.html#a3b71b27b49e29ea11823f79eb65d3af0" title="Get total number of point records stored in the LAS file. " alt="" coords="233,201,386,242"/>
-<area shape="rect" id="node7" href="$classpdal_1_1lasdump_1_1Header.html#ad4c6deef304435a91c4936ec1b5b8b10" title="pdal::lasdump::Header\l::pointLen" alt="" coords="233,266,386,307"/>
-<area shape="rect" id="node8" href="$classpdal_1_1IStream.html#a985d32fbb5a6a01f04c0e2c3e337b3f6" title="pdal::IStream::stream" alt="" coords="235,332,383,359"/>
-<area shape="rect" id="node5" href="$classpdal_1_1lasdump_1_1Header.html#a98c47063e2e6cd9686415307b8f594cd" title="Get identifier of point data (record) format. " alt="" coords="447,135,600,177"/>
-</map>

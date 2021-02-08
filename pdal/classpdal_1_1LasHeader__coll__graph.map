@@ -1,7 +1,0 @@
-<map id="pdal::LasHeader" name="pdal::LasHeader">
-<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="5,95,160,121"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Uuid.html" title="pdal::Uuid" alt="" coords="185,95,266,121"/>
-<area shape="rect" id="node4" href="$namespacepdal.html#structpdal_1_1uuid" title="pdal::uuid" alt="" coords="186,5,265,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BOX3D.html" title="pdal::BOX3D" alt="" coords="293,95,392,121"/>
-<area shape="rect" id="node6" href="$classpdal_1_1BOX2D.html" title="pdal::BOX2D" alt="" coords="293,5,392,32"/>
-</map>

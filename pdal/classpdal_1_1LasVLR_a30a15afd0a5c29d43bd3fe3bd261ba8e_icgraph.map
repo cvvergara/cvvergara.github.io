@@ -1,8 +1,0 @@
-<map id="pdal::LasVLR::dataLen" name="pdal::LasVLR::dataLen">
-<area shape="rect" id="node2" href="$namespacepdal.html#ae96f115ecec36f1425a18ff3e8f48ce1" title="pdal::operator\&lt;\&lt;" alt="" coords="258,5,375,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasReader.html#adf3015dd8c967c2c7e77dbf7647be245" title="pdal::LasReader::readExtra\lBytesVlr" alt="" coords="226,57,407,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasHeader.html#a8b168184a6c0c2d223cc5ce4197bbebb" title="pdal::LasHeader::setSrsFrom\lGeotiff" alt="" coords="220,122,413,163"/>
-<area shape="rect" id="node7" href="$classpdal_1_1LasHeader.html#a61632ae01a0cbb279c3b15f4e6878c44" title="pdal::LasHeader::setSrsFromWkt" alt="" coords="208,188,425,215"/>
-<area shape="rect" id="node5" href="$classpdal_1_1LasHeader.html#a940d819d418dcd815466fe98f292dab5" title="pdal::LasHeader::setSrs" alt="" coords="473,159,636,185"/>
-<area shape="rect" id="node6" href="$namespacepdal.html#a96d3d7266c452f1ea279b43b78dd43d1" title="pdal::operator\&gt;\&gt;" alt="" coords="684,159,801,185"/>
-</map>

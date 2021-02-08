@@ -1,7 +1,0 @@
-<map id="pdal::anonymous_namespace{InfoKernel::cpp}::addRange" name="pdal::anonymous_namespace{InfoKernel::cpp}::addRange">
-<area shape="rect" id="node2" href="$namespacepdal_1_1anonymous__namespace_02InfoKernel_8cpp_03.html#af6d8bead92b952511925b36e6204bdd6" title="pdal::anonymous_namespace\l\{InfoKernel::cpp\}::getListOfPoints" alt="" coords="248,5,464,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1InfoKernel.html#ae3390441d7172ddfee191dddef7c2fce" title="pdal::InfoKernel::dumpPoints" alt="" coords="512,13,703,39"/>
-<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5" title="pdal::InfoKernel::dump" alt="" coords="751,13,904,39"/>
-<area shape="rect" id="node5" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="952,13,1091,39"/>
-<area shape="rect" id="node6" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="1139,13,1305,39"/>
-</map>

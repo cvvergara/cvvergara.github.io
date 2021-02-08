@@ -1,6 +1,0 @@
-<map id="pdal::OciWriter::isGeographic" name="pdal::OciWriter::isGeographic">
-<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="247,5,403,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a19dbb0a5ce84b6f60fea55cd54e674cf" title="pdal::Utils::toString" alt="" coords="257,56,392,83"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="259,107,391,133"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="451,5,600,32"/>
-</map>

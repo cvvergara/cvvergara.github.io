@@ -1,6 +1,0 @@
-<map id="pdal::PlyWriter::addArgs" name="pdal::PlyWriter::addArgs">
-<area shape="rect" id="node2" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="217,31,376,57"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="218,81,375,108"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="439,5,595,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="424,56,611,83"/>
-</map>

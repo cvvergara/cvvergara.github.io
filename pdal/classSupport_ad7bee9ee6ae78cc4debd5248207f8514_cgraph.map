@@ -1,9 +1,0 @@
-<map id="Support::check_pN" name="Support::check_pN">
-<area shape="rect" id="node2" href="$classpdal_1_1PointView.html#a4c594a6d2a469e594988194ccf125a15" title="pdal::PointView::getFieldAs" alt="" coords="188,97,371,123"/>
-<area shape="rect" id="node8" href="$classpdal_1_1PointView.html#aead96a4cd5514f632bca8993bc75e6ae" title="pdal::PointView::hasDim" alt="" coords="196,147,363,174"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="457,5,615,47"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="455,71,617,98"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="458,122,614,149"/>
-<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="419,173,653,199"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="701,71,829,98"/>
-</map>

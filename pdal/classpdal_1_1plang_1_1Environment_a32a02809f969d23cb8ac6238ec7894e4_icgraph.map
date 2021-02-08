@@ -1,9 +1,0 @@
-<map id="pdal::plang::Environment::getPythonDataType" name="pdal::plang::Environment::getPythonDataType">
-<area shape="rect" id="node2" href="$classpdal_1_1plang_1_1Invocation.html#a25f0613ab386d4c2f7a1709e6069a4c5" title="pdal::plang::Invocation\l::extractResult" alt="" coords="220,42,373,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1plang_1_1Invocation.html#a8b20c96b4515e7b3bef605f897c70fc4" title="pdal::plang::Invocation\l::insertArgument" alt="" coords="220,128,373,170"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="652,26,803,53"/>
-<area shape="rect" id="node4" href="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8" title="pdal::plang::Invocation::end" alt="" coords="421,26,604,53"/>
-<area shape="rect" id="node5" href="$PythonFilterTest_8cpp.html#a59243bc4d11743f512d3e5e761b69774" title="TEST" alt="" coords="485,77,541,104"/>
-<area shape="rect" id="node7" href="$classpdal_1_1plang_1_1Invocation.html#adfe14b064df9a0d4dcf2d1da8a7cb1d8" title="pdal::plang::Invocation\l::begin" alt="" coords="436,128,589,170"/>
-<area shape="rect" id="node8" href="$PythonFilterTest_8cpp.html#a2cc9a7ce67de85c230a66a88b22a0408" title="TEST" alt="" coords="485,194,541,221"/>
-</map>

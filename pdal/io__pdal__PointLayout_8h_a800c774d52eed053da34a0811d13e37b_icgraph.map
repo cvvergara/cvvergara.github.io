@@ -1,6 +1,0 @@
-<map id="Java_io_pdal_PointLayout_pointSize" name="Java_io_pdal_PointLayout_pointSize">
-<area shape="rect" id="node2" href="$io__pdal__PointLayout_8cpp.html#abeac6fc369e0c39e21c1412504045564" title="Java_io_pdal_PointLayout\l_dimPackedOffset" alt="" coords="228,5,403,47"/>
-<area shape="rect" id="node3" href="$io__pdal__PointLayout_8cpp.html#ac2fa046570fef5de5b77697956afd918" title="Java_io_pdal_PointLayout\l_dimSize" alt="" coords="451,5,625,47"/>
-<area shape="rect" id="node4" href="$io__pdal__PointLayout_8cpp.html#a22262f107c6949fdacc3af0a35f1e07c" title="Java_io_pdal_PointLayout\l_findDimType" alt="" coords="673,5,848,47"/>
-<area shape="rect" id="node5" href="$io__pdal__PointLayout_8cpp.html#af8f3a3de6a0ef392cba87a2b07e47432" title="Java_io_pdal_PointLayout\l_dimTypes" alt="" coords="896,5,1071,47"/>
-</map>

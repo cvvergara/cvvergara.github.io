@@ -1,5 +1,0 @@
-<map id="pdal::PgWriter::CreateTable" name="pdal::PgWriter::CreateTable">
-<area shape="rect" id="node2" href="$namespacepdal.html#a5eac2926f1224d534da8c435e6a645d1" title="pdal::pg_execute" alt="" coords="258,5,379,32"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#ad99ce17aa864ec243dd2c32460009634" title="pdal::pg_quote_identifier" alt="" coords="237,56,400,83"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="448,56,595,83"/>
-</map>

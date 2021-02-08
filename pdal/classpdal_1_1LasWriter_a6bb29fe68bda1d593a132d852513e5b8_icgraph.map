@@ -1,6 +1,0 @@
-<map id="pdal::LasWriter::fillHeader" name="pdal::LasWriter::fillHeader">
-<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#a12a07c613de24341d69fae93497a4cbc" title="pdal::LasWriter::prepared" alt="" coords="234,5,402,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#a76f6b960b128ccdb8e3e8db69eff445b" title="pdal::LasWriter::prepOutput" alt="" coords="227,56,409,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a4b0ad482eac655fb22cf29717c04c6b3" title="pdal::LasWriter::readyFile" alt="" coords="457,31,628,57"/>
-<area shape="rect" id="node5" href="$classpdal_1_1NitfWriter.html#a34d932e82c5d6842ca515cc59281021e" title="pdal::NitfWriter::readyFile" alt="" coords="457,81,628,108"/>
-</map>

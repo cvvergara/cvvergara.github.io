@@ -1,7 +1,0 @@
-<map id="pdal::PipelineExecutor::execute" name="pdal::PipelineExecutor::execute">
-<area shape="rect" id="node2" href="$classlibpdaljava_1_1Pipeline.html#ad495dfb2b84c8504a4eb4b1d81be9343" title="libpdaljava::Pipeline\l::execute" alt="" coords="213,5,350,47"/>
-<area shape="rect" id="node6" href="$classlibpdalpython_1_1Pipeline.html#aa230af5e287c94370b6dda4476ceba1e" title="libpdalpython::Pipeline\l::execute" alt="" coords="205,71,357,112"/>
-<area shape="rect" id="node3" href="$io__pdal__Pipeline_8cpp.html#a12a870b2859adaaa0556bf0a18f4d13c" title="Java_io_pdal_Pipeline\l_execute" alt="" coords="405,5,556,47"/>
-<area shape="rect" id="node4" href="$io__pdal__Pipeline_8cpp.html#a8238e4e6616b338d76b4ed68e533305c" title="Java_io_pdal_Pipeline\l_dispose" alt="" coords="604,5,755,47"/>
-<area shape="rect" id="node5" href="$io__pdal__Pipeline_8cpp.html#ad7b0833a8c4a23a66bf49021695854ee" title="Java_io_pdal_Pipeline\l_initialise" alt="" coords="803,5,953,47"/>
-</map>

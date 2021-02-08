@@ -1,7 +1,0 @@
-<map id="pdal::Scaling::setAutoXForm" name="pdal::Scaling::setAutoXForm">
-<area shape="rect" id="node2" href="$classpdal_1_1DbWriter.html#a5e190cd93b9459e3b739685726774780" title="Make sure that computed offsets are stored in the schema. " alt="" coords="243,5,441,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BpfWriter.html#a71c9a5ddf2ceb9ccbdeff31b01c366c2" title="pdal::BpfWriter::writeView" alt="" coords="255,56,429,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1LasWriter.html#a91550327b74a35121c29d342c9659578" title="pdal::LasWriter::writeView" alt="" coords="255,107,429,133"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OciWriter.html#a11f02a9af7350d831dff5f81859c76f2" title="pdal::OciWriter::write" alt="" coords="504,5,649,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1NitfWriter.html#a09c8b43a263e077f6361e5eaf3f37063" title="pdal::NitfWriter::writeView" alt="" coords="489,107,664,133"/>
-</map>

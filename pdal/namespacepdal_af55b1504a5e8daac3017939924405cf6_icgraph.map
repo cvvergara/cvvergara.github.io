@@ -1,5 +1,0 @@
-<map id="pdal::pg_connect" name="pdal::pg_connect">
-<area shape="rect" id="node2" href="$classpdal_1_1PgWriter.html#ab63a5594b8c8f995d3a9d35f49e9a2f0" title="pdal::PgWriter::initialize" alt="" coords="178,5,338,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PgReader.html#aa331a66a5721b67033658624135914d5" title="pdal::PgReader::initialize" alt="" coords="175,56,341,83"/>
-<area shape="rect" id="node4" href="$classPgpointcloudWriterTest.html#a90ce6b300088c548a738d2da7121153e" title="PgpointcloudWriterTest\l::SetUp" alt="" coords="179,107,337,149"/>
-</map>

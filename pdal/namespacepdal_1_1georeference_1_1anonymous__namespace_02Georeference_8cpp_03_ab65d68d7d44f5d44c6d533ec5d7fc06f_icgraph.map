@@ -1,7 +1,0 @@
-<map id="pdal::georeference::anonymous_namespace{Georeference::cpp}::rotate" name="pdal::georeference::anonymous_namespace{Georeference::cpp}::rotate">
-<area shape="rect" id="node2" href="$namespacepdal_1_1georeference.html#a2b566c71200350d9b85725c40eb5f8fa" title="pdal::georeference\l::georeferenceWgs84" alt="" coords="232,71,379,112"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1georeference.html#a84094e4564a50476a3e5cd1506d4c422" title="pdal::georeference\l::createIdentityMatrix" alt="" coords="427,5,572,47"/>
-<area shape="rect" id="node5" href="$classpdal_1_1OptechReader.html#ade8d12a284f4bc766e32852979462aec" title="pdal::OptechReader\l::read" alt="" coords="430,71,569,112"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1georeference.html#ac6fcaefc645591d09008a4982e904c84" title="pdal::georeference\l::TEST" alt="" coords="435,136,564,177"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1georeference.html#a5d9890cc5cf56263c8627857b8273f28" title="pdal::georeference\l::TEST" alt="" coords="620,5,749,47"/>
-</map>

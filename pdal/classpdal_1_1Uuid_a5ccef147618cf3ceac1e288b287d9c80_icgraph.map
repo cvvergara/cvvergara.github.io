@@ -1,7 +1,0 @@
-<map id="pdal::Uuid::isNull" name="pdal::Uuid::isNull">
-<area shape="rect" id="node2" href="$classpdal_1_1Metadata.html#a4e5f852d52d3a38ddd9706630e409bd8" title="pdal::Metadata::inferType" alt="" coords="176,5,347,32"/>
-<area shape="rect" id="node6" href="$LasReaderTest_8cpp.html#abb7afe92c00ae82352167ef5a47190e0" title="TEST" alt="" coords="233,56,289,83"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1plang.html#a347812e81fc1e69ef7780226acdc8a7a" title="pdal::plang::addMetadata" alt="" coords="395,5,563,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8" title="pdal::plang::Invocation::end" alt="" coords="611,5,793,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="841,5,992,32"/>
-</map>

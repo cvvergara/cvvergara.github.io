@@ -1,7 +1,0 @@
-<map id="Support::diff_text_files" name="Support::diff_text_files">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#aad48cdff8e3ff3d13c7a273583870185" title="pdal::Utils::closeFile" alt="" coords="177,5,318,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aa7cd618aca677bff881c1c14fbeebe72" title="pdal::Utils::fileExists" alt="" coords="176,56,319,83"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#ac3322e84f8c5a998a344a5a606c74793" title="pdal::Utils::openFile" alt="" coords="178,107,317,133"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a6ce7036b0912ba81b1f1a876b2772a34" title="pdal::Utils::closeFile" alt="" coords="367,5,508,32"/>
-<area shape="rect" id="node6" href="$SQLiteTest_8cpp.html#afdd1742979cee35fe1879794bd7ff3a4" title="tempFilename" alt="" coords="385,107,489,133"/>
-</map>

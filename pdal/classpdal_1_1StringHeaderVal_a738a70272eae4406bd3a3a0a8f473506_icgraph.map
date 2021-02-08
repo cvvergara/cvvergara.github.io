@@ -1,9 +1,0 @@
-<map id="pdal::StringHeaderVal::val" name="pdal::StringHeaderVal::val">
-<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#a6bb29fe68bda1d593a132d852513e5b8" title="pdal::LasWriter::fillHeader" alt="" coords="241,5,414,32"/>
-<area shape="rect" id="node7" href="$classpdal_1_1LasWriter.html#aa362380c11c834b5fe51d81b099ba7c5" title="pdal::LasWriter::handleHeader\lForwards" alt="" coords="228,57,427,98"/>
-<area shape="rect" id="node8" href="$namespacepdal.html#a5f260310dc594876233831df3815672b" title="pdal::operator\&lt;\&lt;" alt="" coords="269,123,386,149"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#a12a07c613de24341d69fae93497a4cbc" title="pdal::LasWriter::prepared" alt="" coords="482,5,650,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a76f6b960b128ccdb8e3e8db69eff445b" title="pdal::LasWriter::prepOutput" alt="" coords="475,60,657,87"/>
-<area shape="rect" id="node5" href="$classpdal_1_1NitfWriter.html#a34d932e82c5d6842ca515cc59281021e" title="pdal::NitfWriter::readyFile" alt="" coords="705,35,876,61"/>
-<area shape="rect" id="node6" href="$classpdal_1_1LasWriter.html#a4b0ad482eac655fb22cf29717c04c6b3" title="pdal::LasWriter::readyFile" alt="" coords="705,85,876,112"/>
-</map>

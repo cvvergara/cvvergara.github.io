@@ -1,5 +1,0 @@
-<map id="pdal::BOX3D::valid" name="pdal::BOX3D::valid">
-<area shape="rect" id="node2" href="$classpdal_1_1InfoKernel.html#a1565940c4cc3d85bc60bec4c25ba594e" title="pdal::InfoKernel::dumpSummary" alt="" coords="188,5,397,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="445,5,584,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="632,5,799,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="pdal::plang::Script::module" name="pdal::plang::Script::module">
-<area shape="rect" id="node2" href="$classpdal_1_1plang_1_1Invocation.html#abf9092699129055ef0007944801fe501" title="pdal::plang::Invocation\l::compile" alt="" coords="181,60,335,101"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1plang.html#a43ee0b50a363574b5c331213d7f57152" title="pdal::plang::operator\&lt;\&lt;" alt="" coords="180,126,336,153"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PythonFilter.html#a41e46c27dc25ccef5dacbf207c4602fc" title="pdal::PythonFilter\l::ready" alt="" coords="408,5,532,47"/>
-<area shape="rect" id="node4" href="$PythonFilterTest_8cpp.html#addeb133df82c77c23c5e7e71e0a69cb3" title="TEST" alt="" coords="442,71,498,98"/>
-<area shape="rect" id="node6" href="$classpdal_1_1PointView.html#a7b0ba6f2ed89d514a1128196efc6bb40" title="pdal::PointView::getTemp" alt="" coords="384,126,556,153"/>
-<area shape="rect" id="node7" href="$classpdal_1_1PointIdxRef.html#a5a58dbd4f1597ece0e6d455ffd393d2a" title="pdal::PointIdxRef::\loperator=" alt="" coords="604,85,735,127"/>
-<area shape="rect" id="node8" href="$classpdal_1_1PointIdxRef.html#a654ef3b910d069562623a8a4134d5e80" title="pdal::PointIdxRef::\lPointIdxRef" alt="" coords="604,151,735,192"/>
-</map>

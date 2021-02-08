@@ -1,6 +1,0 @@
-<map id="pdal::PointView::build3dIndex" name="pdal::PointView::build3dIndex">
-<area shape="rect" id="node2" href="$classpdal_1_1NormalFilter.html#a8bf36602629c8ff4ba8d7563b444aa2d" title="pdal::NormalFilter\l::filter" alt="" coords="216,5,341,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1GreedyProjection.html#aa0de48c450a56b726634e29d28fd5427" title="pdal::GreedyProjection\l::filter" alt="" coords="563,64,718,105"/>
-<area shape="rect" id="node3" href="$classpdal_1_1NormalFilter.html#a185fb796093e0397afbd0b7c6a1813a8" title="pdal::NormalFilter\l::doFilter" alt="" coords="389,5,515,47"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PoissonFilter.html#a5b238b48de8b895610512e2683cb5fe7" title="pdal::PoissonFilter::run" alt="" coords="563,13,719,39"/>
-</map>

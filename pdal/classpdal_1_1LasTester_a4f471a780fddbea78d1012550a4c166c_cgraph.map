@@ -1,6 +1,0 @@
-<map id="pdal::LasTester::addVlr" name="pdal::LasTester::addVlr">
-<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="211,42,365,69"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="413,5,580,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="419,71,575,98"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="628,71,777,98"/>
-</map>

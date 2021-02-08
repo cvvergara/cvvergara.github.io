@@ -1,9 +1,0 @@
-<map id="pdal::Kernel::makeFilter" name="pdal::Kernel::makeFilter">
-<area shape="rect" id="node2" href="$classpdal_1_1MyKernel.html#a2aa834686cb68aab88b9d40df48d6f13" title="pdal::MyKernel::execute" alt="" coords="217,5,380,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PCLKernel.html#aab22ad378b4c29bbe5dd69ad6eb0c6ef" title="pdal::PCLKernel::execute" alt="" coords="213,56,384,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1SplitKernel.html#aa93e386ee8d67c65d5c31d39ec7c9971" title="pdal::SplitKernel::\lexecute" alt="" coords="236,107,361,149"/>
-<area shape="rect" id="node5" href="$classpdal_1_1SortKernel.html#a35de433cd919ac9fc87a957395323820" title="pdal::SortKernel::execute" alt="" coords="214,173,383,200"/>
-<area shape="rect" id="node6" href="$classpdal_1_1GroundKernel.html#a652b5f932cd5e982b887917a82f692e2" title="pdal::GroundKernel\l::execute" alt="" coords="232,225,365,266"/>
-<area shape="rect" id="node7" href="$classpdal_1_1TIndexKernel.html#a260c46e9fc8a9e5dddd395c93422dfa6" title="pdal::TIndexKernel\l::mergeFile" alt="" coords="233,290,364,331"/>
-<area shape="rect" id="node8" href="$classpdal_1_1TIndexKernel.html#a607f1463d5518bbaa66662a905b48e51" title="pdal::TIndexKernel\l::execute" alt="" coords="432,290,563,331"/>
-</map>

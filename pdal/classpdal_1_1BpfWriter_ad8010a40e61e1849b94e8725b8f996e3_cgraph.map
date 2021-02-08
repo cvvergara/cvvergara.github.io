@@ -1,7 +1,0 @@
-<map id="pdal::BpfWriter::addArgs" name="pdal::BpfWriter::addArgs">
-<area shape="rect" id="node2" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="424,31,583,57"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Scaling.html#a68d279f7d924ccef73c065a1c144ae8c" title="pdal::Scaling::addArgs" alt="" coords="221,56,374,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="219,107,376,133"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="646,5,802,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="631,56,817,83"/>
-</map>

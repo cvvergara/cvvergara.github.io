@@ -1,6 +1,0 @@
-<map id="TEST" name="TEST">
-<area shape="rect" id="node2" href="$classpdal_1_1BOX3D.html#a2bc36ba06f8eb54acd95cf58fb968317" title="pdal::BOX3D::clear" alt="" coords="113,5,248,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BOX3D.html#ab1150f00df7ce85599138b2c0d45d4dc" title="pdal::BOX3D::empty" alt="" coords="109,56,252,83"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BOX2D.html#a299dd7a0eb6878ba584f6ae3608c22f1" title="pdal::BOX2D::clear" alt="" coords="304,5,439,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BOX2D.html#aec5fae5f73a34a1d4248d596cad77755" title="pdal::BOX2D::empty" alt="" coords="300,56,443,83"/>
-</map>

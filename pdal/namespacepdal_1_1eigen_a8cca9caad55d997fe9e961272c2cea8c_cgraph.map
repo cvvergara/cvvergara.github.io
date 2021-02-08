@@ -1,9 +1,0 @@
-<map id="pdal::eigen::pointViewToEigen" name="pdal::eigen::pointViewToEigen">
-<area shape="rect" id="node2" href="$classpdal_1_1PointView.html#a4c594a6d2a469e594988194ccf125a15" title="pdal::PointView::getFieldAs" alt="" coords="219,81,401,108"/>
-<area shape="rect" id="node8" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="237,132,383,159"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="449,5,684,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="489,56,645,83"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="485,107,648,133"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="487,158,646,199"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="732,107,860,133"/>
-</map>

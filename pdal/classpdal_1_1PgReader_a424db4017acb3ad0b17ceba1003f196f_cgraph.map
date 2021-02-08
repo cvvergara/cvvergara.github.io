@@ -1,9 +1,0 @@
-<map id="pdal::PgReader::ready" name="pdal::PgReader::ready">
-<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a3b72f380cedc08e711303327b035f2b4" title="pdal::PgReader::CursorSetup" alt="" coords="205,81,399,108"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PgReader.html#aef8bf617afc5251372f7c0986c87bbc0" title="pdal::PgReader::getDataQuery" alt="" coords="447,56,648,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="721,5,834,32"/>
-<area shape="rect" id="node7" href="$namespacepdal.html#afe1717f9645892064094713c3f4f3315" title="pdal::pg_begin" alt="" coords="494,107,601,133"/>
-<area shape="rect" id="node8" href="$namespacepdal.html#a5eac2926f1224d534da8c435e6a645d1" title="pdal::pg_execute" alt="" coords="717,132,838,159"/>
-<area shape="rect" id="node5" href="$namespacepdal.html#ad99ce17aa864ec243dd2c32460009634" title="pdal::pg_quote_identifier" alt="" coords="696,56,859,83"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="907,56,1053,83"/>
-</map>

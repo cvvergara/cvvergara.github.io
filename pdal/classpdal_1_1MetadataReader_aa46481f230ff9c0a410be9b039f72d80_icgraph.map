@@ -1,7 +1,0 @@
-<map id="pdal::MetadataReader::doSecurity" name="pdal::MetadataReader::doSecurity">
-<area shape="rect" id="node2" href="$classpdal_1_1MetadataReader.html#a09371cc1f564e82c16f6a77648c02a00" title="pdal::MetadataReader\l::doDESubheader" alt="" coords="204,5,355,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1MetadataReader.html#a4ba8aff3bffdb406ab88b9ea20b03084" title="pdal::MetadataReader\l::read" alt="" coords="403,64,553,105"/>
-<area shape="rect" id="node6" href="$classpdal_1_1MetadataReader.html#a0f0fd61c776d52aa63dbc6f96b0bd9cd" title="pdal::MetadataReader\l::doImageSubheader" alt="" coords="204,123,355,164"/>
-<area shape="rect" id="node4" href="$classpdal_1_1NitfFileReader.html#a340a9c74ed7446f67806a9072a3656aa" title="pdal::NitfFileReader\l::extractMetadata" alt="" coords="601,64,740,105"/>
-<area shape="rect" id="node5" href="$classpdal_1_1NitfReader.html#aff135fa0b6888020a5de9eb33e2d7fea" title="pdal::NitfReader::initialize" alt="" coords="788,71,960,98"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="pdal::plang::Invocation::cleanup" name="pdal::plang::Invocation::cleanup">
-<area shape="rect" id="node2" href="$classpdal_1_1plang_1_1Invocation.html#aa2ba7415d1b05011480af09469706f4b" title="pdal::plang::Invocation\l::resetArguments" alt="" coords="207,27,360,69"/>
-<area shape="rect" id="node5" href="$classpdal_1_1plang_1_1Invocation.html#a2ce3c889207d635b302cccf6070c090b" title="pdal::plang::Invocation\l::~Invocation" alt="" coords="207,93,360,134"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="409,5,560,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1plang_1_1Invocation.html#a3eb16c00839542a1c9076c10aa6ecd6d" title="pdal::plang::Invocation\l::Invocation" alt="" coords="408,57,561,98"/>
-</map>

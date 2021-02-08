@@ -1,9 +1,0 @@
-<map id="pdal::Utils::normalizeLongitude" name="pdal::Utils::normalizeLongitude">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#a6afb17d343ab75a055584b85bcf437bc" title="pdal::Utils::base64\l_encode" alt="" coords="267,5,397,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SpatialReference.html#af91f816b878451bbf8b6604bec6d0bbc" title="pdal::SpatialReference\l::calculateZone" alt="" coords="255,71,409,112"/>
-<area shape="rect" id="node5" href="$classpdal_1_1IcebridgeReader.html#a16f429bb0de2fef9cd0b48a90098d282" title="pdal::IcebridgeReader\l::read" alt="" coords="257,136,407,177"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Ilvis2Reader.html#a9a7d3810bb3b4d458435079c4bfd2890" title="pdal::Ilvis2Reader\l::readPoint" alt="" coords="269,201,395,243"/>
-<area shape="rect" id="node4" href="$SpatialReferenceTest_8cpp.html#a1ce8ed684e7f4722000d446ab4b261df" title="TEST" alt="" coords="493,78,549,105"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Ilvis2Reader.html#ac396bea41b06d5528521dc48f2bf3f1b" title="pdal::Ilvis2Reader\l::processOne" alt="" coords="457,201,584,243"/>
-<area shape="rect" id="node8" href="$classpdal_1_1Ilvis2Reader.html#a36ad873f8bdb773ccd87a9b8d3127cde" title="pdal::Ilvis2Reader\l::read" alt="" coords="632,201,759,243"/>
-</map>

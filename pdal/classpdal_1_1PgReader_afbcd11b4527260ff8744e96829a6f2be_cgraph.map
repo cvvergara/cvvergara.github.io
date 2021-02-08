@@ -1,8 +1,0 @@
-<map id="pdal::PgReader::getMaxPoints" name="pdal::PgReader::getMaxPoints">
-<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a59b7c2c5824978bf95143c00db142eca" title="pdal::PgReader::getNumPoints" alt="" coords="253,56,456,83"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#ad99ce17aa864ec243dd2c32460009634" title="pdal::pg_quote_identifier" alt="" coords="504,5,667,32"/>
-<area shape="rect" id="node5" href="$namespacepdal.html#aa40e03c638df615fa62327f57b5b8ec5" title="pdal::pg_query_result" alt="" coords="512,56,659,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="507,107,663,133"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="716,5,863,32"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="715,107,864,133"/>
-</map>

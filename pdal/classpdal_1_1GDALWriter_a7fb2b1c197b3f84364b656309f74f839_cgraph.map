@@ -1,5 +1,0 @@
-<map id="pdal::GDALWriter::expandGrid" name="pdal::GDALWriter::expandGrid">
-<area shape="rect" id="node2" href="$classpdal_1_1BOX2D.html#ad7673d05a1323a58e86eb721ae6a3b57" title="pdal::BOX2D::grow" alt="" coords="263,5,397,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="252,56,408,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="456,56,605,83"/>
-</map>

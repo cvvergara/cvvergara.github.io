@@ -1,6 +1,0 @@
-<map id="pdal::entwine::Bounds::overlaps" name="pdal::entwine::Bounds::overlaps">
-<area shape="rect" id="node2" href="$classpdal_1_1entwine_1_1Bounds.html#a9a335a9568afbc857695e3388b16d74c" title="pdal::entwine::Bounds\l::depth" alt="" coords="219,5,369,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1entwine_1_1Bounds.html#abebe5df2ef8c39ad730c7f261d424994" title="pdal::entwine::Bounds\l::height" alt="" coords="219,71,369,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1entwine_1_1Bounds.html#ad54fab449dc6a38ac9bed14f27b2b67b" title="pdal::entwine::Bounds::mid" alt="" coords="204,137,384,163"/>
-<area shape="rect" id="node5" href="$classpdal_1_1entwine_1_1Bounds.html#a2f7f1dfc2c23eb8419d6b050475929fc" title="pdal::entwine::Bounds\l::width" alt="" coords="219,188,369,229"/>
-</map>

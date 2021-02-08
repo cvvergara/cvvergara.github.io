@@ -1,6 +1,0 @@
-<map id="pdal::StageCreationOptions" name="pdal::StageCreationOptions">
-<area shape="rect" id="node2" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="231,95,319,121"/>
-<area shape="rect" id="node3" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="391,5,489,32"/>
-</map>

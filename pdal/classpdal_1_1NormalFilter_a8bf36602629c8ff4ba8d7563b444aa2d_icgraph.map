@@ -1,5 +1,0 @@
-<map id="pdal::NormalFilter::filter" name="pdal::NormalFilter::filter">
-<area shape="rect" id="node2" href="$classpdal_1_1NormalFilter.html#a185fb796093e0397afbd0b7c6a1813a8" title="pdal::NormalFilter\l::doFilter" alt="" coords="179,35,304,76"/>
-<area shape="rect" id="node3" href="$classpdal_1_1GreedyProjection.html#aa0de48c450a56b726634e29d28fd5427" title="pdal::GreedyProjection\l::filter" alt="" coords="353,5,507,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PoissonFilter.html#a5b238b48de8b895610512e2683cb5fe7" title="pdal::PoissonFilter::run" alt="" coords="352,71,508,98"/>
-</map>

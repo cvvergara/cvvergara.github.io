@@ -1,8 +1,0 @@
-<map id="pdal::PluginManager::names" name="pdal::PluginManager::names">
-<area shape="rect" id="node2" href="$classApp.html#a450eaeaf824577f3ad04668512a654c3" title="App::findKernel" alt="" coords="216,5,327,32"/>
-<area shape="rect" id="node3" href="$classApp.html#a36f5e534612ee7f2430f8665f9fa7217" title="App::outputCommands" alt="" coords="193,56,349,83"/>
-<area shape="rect" id="node4" href="$classApp.html#a1577860a48c9cef4fe5f669480cac388" title="App::outputDrivers" alt="" coords="206,107,337,133"/>
-<area shape="rect" id="node5" href="$classApp.html#ae35f75a8875242e84d8d17b22f32b392" title="App::outputHelp" alt="" coords="213,157,329,184"/>
-<area shape="rect" id="node6" href="$classApp.html#a938c36a4ebe65e6136a6ce234e1bf74c" title="App::outputOptions" alt="" coords="204,208,339,235"/>
-<area shape="rect" id="node7" href="$namespacepdal.html#a89c2fa786a6bc145f4a5c50f44da1226" title="pdal::TEST" alt="" coords="227,259,315,285"/>
-</map>

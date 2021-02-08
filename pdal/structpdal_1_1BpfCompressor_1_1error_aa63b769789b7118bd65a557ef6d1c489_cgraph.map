@@ -1,6 +1,0 @@
-<map id="pdal::BpfCompressor::error::error" name="pdal::BpfCompressor::error::error">
-<area shape="rect" id="node2" href="$classpdal_1_1BpfCompressor.html#a20efaa02ca6b8d792f8d9f7ff782d6a2" title="pdal::BpfCompressor\l::BpfCompressor" alt="" coords="199,71,344,112"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BpfCompressor.html#a37a5330b1e5d1e320f678eed19fe4309" title="pdal::BpfCompressor\l::compress" alt="" coords="392,5,537,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BpfCompressor.html#ae55ceb929a1f1edece3bf5161efca771" title="pdal::BpfCompressor\l::finish" alt="" coords="392,71,537,112"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BpfCompressor.html#a906a2f20c37d1ef06fde968a4e43945f" title="pdal::BpfCompressor\l::startBlock" alt="" coords="392,136,537,177"/>
-</map>

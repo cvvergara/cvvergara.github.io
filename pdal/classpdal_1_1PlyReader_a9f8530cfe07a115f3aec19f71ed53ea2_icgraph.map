@@ -1,5 +1,0 @@
-<map id="pdal::PlyReader::readElement" name="pdal::PlyReader::readElement">
-<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#a2ffd816ad722bc26a939e2205672fc22" title="pdal::PlyReader::processOne" alt="" coords="249,5,443,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PlyReader.html#a25b3be53b5c74d1caa6a6fd76325e89b" title="pdal::PlyReader::ready" alt="" coords="269,56,423,83"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PlyReader.html#a72e6d57481231baa610904384b5b4715" title="pdal::PlyReader::read" alt="" coords="491,5,639,32"/>
-</map>

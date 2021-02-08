@@ -1,5 +1,0 @@
-<map id="pdal::BpfPolarFrame::read" name="pdal::BpfPolarFrame::read">
-<area shape="rect" id="node2" href="$classpdal_1_1BpfReader.html#a4ebc9701eff7e011ba31be4205487951" title="pdal::BpfReader::readPolarData" alt="" coords="195,13,401,39"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BpfReader.html#ab7dd5387cb7f88c2c5bbbc1d4838be50" title="pdal::BpfReader::initialize" alt="" coords="449,13,620,39"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BpfReader.html#accb0283f384ad927abc5f37881be748c" title="pdal::BpfReader::inspect" alt="" coords="668,13,835,39"/>
-</map>

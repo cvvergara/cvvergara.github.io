@@ -1,8 +1,0 @@
-<map id="pdal::OCISchemaValidityError" name="pdal::OCISchemaValidityError">
-<area shape="rect" id="node2" href="$namespacepdal.html#a3a6d9c816f9e2635625847db677a9820" title="pdal::OCISchemaValidation\lStructuredErrorHandler" alt="" coords="251,5,433,47"/>
-<area shape="rect" id="node7" href="$classpdal_1_1XMLSchema.html#a8f9019373901274799f6c29ce08172ee" title="pdal::XMLSchema::validate" alt="" coords="755,71,938,98"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#abcd746b2e1cfb18891baa849c2dfac3d" title="pdal::OCISchemaParserStructured\lErrorHandler" alt="" coords="481,5,705,47"/>
-<area shape="rect" id="node4" href="$namespacepdal.html#a83afbebbb41fc5f559fd281d7fc9bb63" title="pdal::OCISchemaStructured\lErrorHandler" alt="" coords="753,5,940,47"/>
-<area shape="rect" id="node5" href="$classpdal_1_1XMLSchema.html#afc87913e1409da37e9a30ea0dfd930bc" title="pdal::XMLSchema::init" alt="" coords="988,42,1143,69"/>
-<area shape="rect" id="node6" href="$classpdal_1_1XMLSchema.html#a1aabcaa1a2ec462952a940e904d3ee11" title="pdal::XMLSchema::XMLSchema" alt="" coords="1191,42,1403,69"/>
-</map>

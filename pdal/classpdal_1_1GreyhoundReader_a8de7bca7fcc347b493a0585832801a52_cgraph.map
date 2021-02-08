@@ -1,7 +1,0 @@
-<map id="pdal::GreyhoundReader::initialize" name="pdal::GreyhoundReader::initialize">
-<area shape="rect" id="node2" href="$structpdal_1_1GreyhoundReader_1_1Args.html#a00a1395d0a6a1d3b628771ae3c5922c8" title="pdal::GreyhoundReader\l::Args::base" alt="" coords="240,13,399,54"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="263,79,376,105"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1anonymous__namespace_02GreyhoundReader_8cpp_03.html#a2e9b7591d51631d2f1b503021995e6d5" title="pdal::anonymous_namespace\l\{GreyhoundReader::cpp\}::parse" alt="" coords="217,130,421,171"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#af31ff3a4038bceeb17847b567d984ed7" title="pdal::Stage::setSpatialReference" alt="" coords="212,196,427,223"/>
-<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02GreyhoundReaderTest_8cpp_03.html#a92fd5f4c0ab6dbfa48b72655323e6a13" title="anonymous_namespace\l\{GreyhoundReaderTest\l::cpp\}::resource" alt="" coords="475,5,637,61"/>
-</map>

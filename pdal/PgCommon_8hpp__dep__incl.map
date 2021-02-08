@@ -1,7 +1,0 @@
-<map id="pdal/plugins/pgpointcloud/io/PgCommon.hpp" name="pdal/plugins/pgpointcloud/io/PgCommon.hpp">
-<area shape="rect" id="node2" href="$PgReader_8hpp.html" title="pdal/plugins/pgpointcloud\l/io/PgReader.hpp" alt="" coords="5,95,173,136"/>
-<area shape="rect" id="node4" href="$PgWriter_8hpp.html" title="pdal/plugins/pgpointcloud\l/io/PgWriter.hpp" alt="" coords="197,95,365,136"/>
-<area shape="rect" id="node6" href="$PgpointcloudWriterTest_8cpp.html" title="pdal/plugins/pgpointcloud\l/test/PgpointcloudWriterTest.cpp" alt="" coords="389,95,603,136"/>
-<area shape="rect" id="node3" href="$PgReader_8cpp.html" title="pdal/plugins/pgpointcloud\l/io/PgReader.cpp" alt="" coords="5,184,173,225"/>
-<area shape="rect" id="node5" href="$PgWriter_8cpp.html" title="pdal/plugins/pgpointcloud\l/io/PgWriter.cpp" alt="" coords="197,184,365,225"/>
-</map>

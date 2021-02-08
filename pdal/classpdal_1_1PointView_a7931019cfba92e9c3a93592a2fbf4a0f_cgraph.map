@@ -1,5 +1,0 @@
-<map id="pdal::PointView::setField" name="pdal::PointView::setField">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#acc41232ae1e707d6c928ffb9a56592d3" title="pdal::Dimension::interpretationName" alt="" coords="220,5,455,32"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="259,56,415,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Dimension_1_1Detail.html#adf5961976b7fce3d90a0dddd50519a7c" title="pdal::Dimension::Detail\l::type" alt="" coords="258,107,417,149"/>
-</map>

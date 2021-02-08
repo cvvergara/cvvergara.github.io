@@ -1,7 +1,0 @@
-<map id="pdal::SimplePointTable" name="pdal::SimplePointTable">
-<area shape="rect" id="node4" href="$classpdal_1_1PointTable.html" title="pdal::PointTable" alt="" coords="5,229,121,256"/>
-<area shape="rect" id="node5" href="$classpdal_1_1StreamPointTable.html" title="pdal::StreamPointTable" alt="" coords="145,229,304,256"/>
-<area shape="rect" id="node2" href="$classpdal_1_1BasePointTable.html" title="pdal::BasePointTable" alt="" coords="70,80,217,107"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PointContainer.html" title="pdal::PointContainer" alt="" coords="73,5,213,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1FixedPointTable.html" title="pdal::FixedPointTable" alt="" coords="151,304,299,331"/>
-</map>

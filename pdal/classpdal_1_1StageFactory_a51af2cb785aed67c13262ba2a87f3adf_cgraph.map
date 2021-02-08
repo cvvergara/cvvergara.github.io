@@ -1,6 +1,0 @@
-<map id="pdal::StageFactory::inferReaderDriver" name="pdal::StageFactory::inferReaderDriver">
-<area shape="rect" id="node2" href="$namespacepdal_1_1FileUtils.html#ae3c153961947c766ab18099f7ef71fc1" title="pdal::FileUtils::extension" alt="" coords="185,5,352,32"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="203,56,334,83"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="203,107,334,133"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="400,56,532,83"/>
-</map>

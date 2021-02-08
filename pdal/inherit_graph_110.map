@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classpdal_1_1IStream.html" title="pdal::IStream" alt="" coords="5,56,105,83"/>
-<area shape="rect" id="node2" href="$classpdal_1_1IBeStream.html" title="pdal::IBeStream" alt="" coords="177,5,293,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1ILeStream.html" title="pdal::ILeStream" alt="" coords="178,56,293,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1ISwitchableStream.html" title="pdal::ISwitchableStream" alt="" coords="153,107,317,133"/>
-</map>

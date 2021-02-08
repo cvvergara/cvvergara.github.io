@@ -1,7 +1,0 @@
-<map id="pdal::PcdWriter::writeView" name="pdal::PcdWriter::writeView">
-<area shape="rect" id="node2" href="$classpdal_1_1BOX3D.html#a3dd1b7cf2ec9bd58f73a0183f0b64702" title="pdal::BOX3D::grow" alt="" coords="262,5,397,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1pclsupport.html#ade7f04ae01cc02b8a30eb4beb48f9d75" title="Convert PDAL point cloud to PCD. " alt="" coords="231,56,428,83"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BOX2D.html#ad7673d05a1323a58e86eb721ae6a3b57" title="pdal::BOX2D::grow" alt="" coords="483,5,618,32"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="476,56,625,83"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="673,56,804,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="pdal::pg_query_result" name="pdal::pg_query_result">
-<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a59b7c2c5824978bf95143c00db142eca" title="pdal::PgReader::getNumPoints" alt="" coords="200,5,403,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PgReader.html#a99ed5ebb1c9554325b5902a8c2944fbf" title="pdal::PgReader::NextBuffer" alt="" coords="210,56,393,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1PgWriter.html#a53ebf855ce148dfff8b9d21e8015ee4f" title="pdal::PgWriter::SetupSchema" alt="" coords="204,107,399,133"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PgReader.html#afbcd11b4527260ff8744e96829a6f2be" title="pdal::PgReader::getMaxPoints" alt="" coords="451,5,651,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PgReader.html#ac444cf6f786cfe00bd98f6b399779333" title="pdal::PgReader::read" alt="" coords="478,56,623,83"/>
-<area shape="rect" id="node7" href="$classpdal_1_1PgWriter.html#a533424111db08989e4d3a670e9db884f" title="pdal::PgWriter::writeInit" alt="" coords="471,107,630,133"/>
-<area shape="rect" id="node8" href="$classpdal_1_1PgWriter.html#a75d2fa0130cb17470e69425c0b866635" title="pdal::PgWriter::write" alt="" coords="699,107,840,133"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="libpdalpython::Pipeline::setLogLevel" name="libpdalpython::Pipeline::setLogLevel">
-<area shape="rect" id="node2" href="$classpdal_1_1PipelineExecutor.html#a51010616986e1ae31d66a949be3d85a6" title="pdal::PipelineExecutor\l::setLogLevel" alt="" coords="205,5,357,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PipelineExecutor.html#a86ef5fea4e9325bdd7d4f11a76bb05ed" title="pdal::PipelineExecutor\l::setLogStream" alt="" coords="405,5,557,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#a2f000535752f8a20e2b7355515bbc0d5" title="pdal::PipelineManager\l::setLog" alt="" coords="605,5,756,47"/>
-</map>

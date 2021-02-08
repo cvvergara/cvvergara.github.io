@@ -1,5 +1,0 @@
-<map id="pdal::Metadata::inferType" name="pdal::Metadata::inferType">
-<area shape="rect" id="node2" href="$namespacepdal_1_1plang.html#a347812e81fc1e69ef7780226acdc8a7a" title="pdal::plang::addMetadata" alt="" coords="224,5,392,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1plang_1_1Invocation.html#af0a21ef9951d6a5eefcc59c9c2e847b8" title="pdal::plang::Invocation::end" alt="" coords="440,5,623,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PythonFilter.html#a237d32f937771c1f5792170606a440be" title="pdal::PythonFilter::run" alt="" coords="671,5,821,32"/>
-</map>

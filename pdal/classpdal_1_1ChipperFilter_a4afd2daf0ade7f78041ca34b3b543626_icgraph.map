@@ -1,5 +1,0 @@
-<map id="pdal::ChipperFilter::emit" name="pdal::ChipperFilter::emit">
-<area shape="rect" id="node2" href="$classpdal_1_1ChipperFilter.html#a4c34574dabcee8689ffe7453e733f37f" title="pdal::ChipperFilter\l::split" alt="" coords="181,5,309,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1ChipperFilter.html#abf09559144bec3797e0ef514834d2ef8" title="pdal::ChipperFilter\l::decideSplit" alt="" coords="357,5,485,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1ChipperFilter.html#a0113fc2682081f18265c2921a9e64d43" title="pdal::ChipperFilter::run" alt="" coords="533,13,688,39"/>
-</map>

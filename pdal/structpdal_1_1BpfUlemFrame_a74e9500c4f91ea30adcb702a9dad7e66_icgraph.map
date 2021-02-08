@@ -1,5 +1,0 @@
-<map id="pdal::BpfUlemFrame::read" name="pdal::BpfUlemFrame::read">
-<area shape="rect" id="node2" href="$classpdal_1_1BpfReader.html#a02a69bb09e1f62c3cf1a01ca761fa36a" title="pdal::BpfReader::readUlemData" alt="" coords="196,13,404,39"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BpfReader.html#ab7dd5387cb7f88c2c5bbbc1d4838be50" title="pdal::BpfReader::initialize" alt="" coords="452,13,623,39"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BpfReader.html#accb0283f384ad927abc5f37881be748c" title="pdal::BpfReader::inspect" alt="" coords="671,13,837,39"/>
-</map>

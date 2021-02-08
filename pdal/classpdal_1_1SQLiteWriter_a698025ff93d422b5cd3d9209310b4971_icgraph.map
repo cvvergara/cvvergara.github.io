@@ -1,5 +1,0 @@
-<map id="pdal::SQLiteWriter::loadGeometryWKT" name="pdal::SQLiteWriter::loadGeometryWKT">
-<area shape="rect" id="node2" href="$classpdal_1_1SQLiteWriter.html#abe82618f125304df98d7719e6078fc0a" title="pdal::SQLiteWriter\l::CreateCloud" alt="" coords="195,5,324,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SQLiteWriter.html#aeb1ac7f6fa795c2c0c47eff286aae3a0" title="pdal::SQLiteWriter\l::writeInit" alt="" coords="372,5,501,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1SQLiteWriter.html#a258990451ca91103f10913812e5ef623" title="pdal::SQLiteWriter\l::write" alt="" coords="549,5,679,47"/>
-</map>

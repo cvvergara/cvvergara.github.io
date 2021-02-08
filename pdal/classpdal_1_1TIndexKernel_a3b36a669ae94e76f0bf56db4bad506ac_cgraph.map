@@ -1,7 +1,0 @@
-<map id="pdal::TIndexKernel::validateSwitches" name="pdal::TIndexKernel::validateSwitches">
-<area shape="rect" id="node2" href="$classpdal_1_1BOX2D.html#aec5fae5f73a34a1d4248d596cad77755" title="pdal::BOX2D::empty" alt="" coords="191,5,333,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1ProgramArgs.html#adc989c079c63d1a5730d77e8429dfd7e" title="pdal::ProgramArgs::set" alt="" coords="184,56,340,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1BOX2D.html#a9ad349ac01cf2f71c532aeaef8389551" title="pdal::BOX2D::toWKT" alt="" coords="188,107,336,133"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="388,31,544,57"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Arg.html#a55c1fe32c818a69b4ea9ea95c77b7c64" title="pdal::Arg::set" alt="" coords="416,81,516,108"/>
-</map>

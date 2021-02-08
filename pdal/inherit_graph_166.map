@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classpdal_1_1PointContainer.html" title="pdal::PointContainer" alt="" coords="5,56,145,83"/>
-<area shape="rect" id="node2" href="$classpdal_1_1BasePointTable.html" title="pdal::BasePointTable" alt="" coords="193,31,340,57"/>
-<area shape="rect" id="node7" href="$classpdal_1_1PointView.html" title="pdal::PointView" alt="" coords="210,81,323,108"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SimplePointTable.html" title="pdal::SimplePointTable" alt="" coords="388,31,544,57"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PointTable.html" title="pdal::PointTable" alt="" coords="613,5,729,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1StreamPointTable.html" title="pdal::StreamPointTable" alt="" coords="592,56,751,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1FixedPointTable.html" title="pdal::FixedPointTable" alt="" coords="799,56,947,83"/>
-</map>

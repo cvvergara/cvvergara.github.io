@@ -1,7 +1,0 @@
-<map id="pdal::SortFilter::filter" name="pdal::SortFilter::filter">
-<area shape="rect" id="node2" href="$classpdal_1_1PointView.html#ac278f883f7dc899b427d13b459d823c3" title="pdal::PointView::begin" alt="" coords="193,5,345,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PointIdxRef.html#a1dadf18eb7468b839da1021f81013309" title="pdal::PointIdxRef::\lcompare" alt="" coords="204,57,335,98"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PointView.html#a8165df85024da0353a17eecf4caefc7c" title="pdal::PointView::end" alt="" coords="198,123,341,149"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PointView.html#a657bc229e515e78d5fdcc3171c63839e" title="pdal::PointView::compare" alt="" coords="393,64,564,91"/>
-<area shape="rect" id="node6" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="406,123,551,149"/>
-</map>

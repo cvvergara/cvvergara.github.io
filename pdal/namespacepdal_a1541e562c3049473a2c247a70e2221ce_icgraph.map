@@ -1,6 +1,0 @@
-<map id="pdal::pg_quote_literal" name="pdal::pg_quote_literal">
-<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#a4f1e3798a7eb13bf27795345940f021a" title="pdal::PgReader::fetchPcid" alt="" coords="199,35,373,61"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PgReader.html#a6fa8390ac8d95f40ca2779be4b613f43" title="pdal::PgReader::addDimensions" alt="" coords="421,5,632,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PgReader.html#a6d1ac1156668e0f5f795f959ab8cd41c" title="pdal::PgReader::fetchSpatial\lReference" alt="" coords="432,57,621,98"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PgReader.html#aa331a66a5721b67033658624135914d5" title="pdal::PgReader::initialize" alt="" coords="680,64,847,91"/>
-</map>

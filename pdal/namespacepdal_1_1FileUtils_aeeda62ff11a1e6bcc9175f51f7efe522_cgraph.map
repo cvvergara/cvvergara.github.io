@@ -1,6 +1,0 @@
-<map id="pdal::FileUtils::openFile" name="pdal::FileUtils::openFile">
-<area shape="rect" id="node2" href="$namespacepdal_1_1FileUtils.html#ae2b8f1ddc38b0033b685a0bde6106ba1" title="pdal::FileUtils::fileExists" alt="" coords="212,5,376,32"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a813a530ad72d50f747643f1bb996cacf" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdin" alt="" coords="424,23,619,65"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="216,107,372,133"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="667,31,799,57"/>
-</map>

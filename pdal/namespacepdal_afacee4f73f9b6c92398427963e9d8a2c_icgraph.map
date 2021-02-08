@@ -1,8 +1,0 @@
-<map id="pdal::fileDimensions" name="pdal::fileDimensions">
-<area shape="rect" id="node2" href="$classpdal_1_1PcdReader.html#a147f678612b1cfe42c405296b1b1a15e" title="pdal::PcdReader::addDimensions" alt="" coords="195,5,413,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SbetReader.html#ad8bad3e629402d0f9880703df65fa649" title="pdal::SbetReader::addDimensions" alt="" coords="193,56,415,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1SbetReader.html#ac6cbc0791c61b0255375204b6ab1208f" title="pdal::SbetReader::ready" alt="" coords="463,107,625,133"/>
-<area shape="rect" id="node5" href="$classpdal_1_1SbetReader.html#a37bf629b7659235947f3da97dddb5302" title="pdal::SbetReader::seek" alt="" coords="225,157,383,184"/>
-<area shape="rect" id="node7" href="$classpdal_1_1SbetWriter.html#a5f4bd8f62f551e92a71d58ee99cbcbf4" title="pdal::SbetWriter::write" alt="" coords="228,208,380,235"/>
-<area shape="rect" id="node6" href="$classpdal_1_1SbetReader.html#aad416010f3f0603a8325cb54e7fbff62" title="pdal::SbetReader::read" alt="" coords="466,157,622,184"/>
-</map>

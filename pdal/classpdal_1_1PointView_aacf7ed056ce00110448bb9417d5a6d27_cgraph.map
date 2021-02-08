@@ -1,5 +1,0 @@
-<map id="pdal::PointView::calculateBounds" name="pdal::PointView::calculateBounds">
-<area shape="rect" id="node2" href="$classpdal_1_1BOX3D.html#a3dd1b7cf2ec9bd58f73a0183f0b64702" title="pdal::BOX3D::grow" alt="" coords="232,5,367,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PointView.html#a4c2fba9b5d7a61f19a558bb08405555d" title="pdal::PointView::size" alt="" coords="227,56,372,83"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BOX2D.html#ad7673d05a1323a58e86eb721ae6a3b57" title="pdal::BOX2D::grow" alt="" coords="420,5,555,32"/>
-</map>

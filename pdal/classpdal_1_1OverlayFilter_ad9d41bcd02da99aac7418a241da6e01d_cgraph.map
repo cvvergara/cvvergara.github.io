@@ -1,6 +1,0 @@
-<map id="pdal::OverlayFilter::addArgs" name="pdal::OverlayFilter::addArgs">
-<area shape="rect" id="node2" href="$classpdal_1_1ProgramArgs.html#a9f773618ed928e9cef78aa1bf8278784" title="pdal::ProgramArgs::add" alt="" coords="181,31,340,57"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Arg.html#acd96700a01950da368119d2a06f441ae" title="pdal::Arg::setPositional" alt="" coords="182,81,339,108"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="403,5,559,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a4041a0eeee0ca503caad91db24affa0e" title="pdal::Dimension::description" alt="" coords="388,56,575,83"/>
-</map>

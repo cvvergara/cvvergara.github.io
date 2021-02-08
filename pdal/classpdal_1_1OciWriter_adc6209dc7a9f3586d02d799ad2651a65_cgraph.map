@@ -1,8 +1,0 @@
-<map id="pdal::OciWriter::createSDOEntry" name="pdal::OciWriter::createSDOEntry">
-<area shape="rect" id="node2" href="$classpdal_1_1OciWriter.html#af9e549b2166eceb8d4bcfbac70ce6275" title="pdal::OciWriter::isGeographic" alt="" coords="267,56,461,83"/>
-<area shape="rect" id="node7" href="$classpdal_1_1OciWriter.html#a80b62166cf73958e525123c285ad79a3" title="pdal::OciWriter::runCommand" alt="" coords="267,107,461,133"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="509,5,665,32"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a19dbb0a5ce84b6f60fea55cd54e674cf" title="pdal::Utils::toString" alt="" coords="520,56,655,83"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="521,107,653,133"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="713,5,863,32"/>
-</map>

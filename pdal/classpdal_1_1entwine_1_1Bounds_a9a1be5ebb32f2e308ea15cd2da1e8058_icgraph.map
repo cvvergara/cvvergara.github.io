@@ -1,7 +1,0 @@
-<map id="pdal::entwine::Bounds::is3d" name="pdal::entwine::Bounds::is3d">
-<area shape="rect" id="node2" href="$classpdal_1_1entwine_1_1Bounds.html#a1629e8bfa754c2797fa57aa364298169" title="pdal::entwine::Bounds\l::Bounds" alt="" coords="204,5,355,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1entwine_1_1Bounds.html#a437bef78871baf1ae00be72175d6fd9e" title="pdal::entwine::Bounds\l::toJson" alt="" coords="204,71,355,112"/>
-<area shape="rect" id="node4" href="$structpdal_1_1GreyhoundReader_1_1Args.html#ae8f77bab552f0376f71b261ad08ca3d9" title="pdal::GreyhoundReader\l::Args::query" alt="" coords="403,41,561,83"/>
-<area shape="rect" id="node6" href="$GreyhoundReaderTest_8cpp.html#ab2c870e6c3202035d112e862deb8eb18" title="TEST_F" alt="" coords="447,107,517,134"/>
-<area shape="rect" id="node5" href="$classpdal_1_1GreyhoundReader.html#a80825b775f133a7d4af529c4a36298e6" title="pdal::GreyhoundReader\l::read" alt="" coords="609,41,768,83"/>
-</map>

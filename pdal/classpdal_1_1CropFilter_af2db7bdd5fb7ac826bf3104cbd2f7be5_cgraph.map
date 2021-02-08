@@ -1,6 +1,0 @@
-<map id="pdal::CropFilter::ready" name="pdal::CropFilter::ready">
-<area shape="rect" id="node2" href="$classpdal_1_1BasePointTable.html#ac9e8a72e5ea52b6a280fb8b6ecf622ef" title="pdal::BasePointTable\l::anySpatialReference" alt="" coords="213,5,364,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="211,71,366,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="232,137,345,163"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BasePointTable.html#a072df57b23b46d01cdd1bfb818a3e8b7" title="pdal::BasePointTable\l::spatialReferenceUnique" alt="" coords="204,188,373,229"/>
-</map>

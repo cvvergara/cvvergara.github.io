@@ -1,6 +1,0 @@
-<map id="pdal::PipelineWriter::writePipeline" name="pdal::PipelineWriter::writePipeline">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#aad48cdff8e3ff3d13c7a273583870185" title="pdal::Utils::closeFile" alt="" coords="191,5,332,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#afc186e6df66a9d8e26b8d434d7eb9be5" title="pdal::Utils::createFile" alt="" coords="188,56,335,83"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a6ce7036b0912ba81b1f1a876b2772a34" title="pdal::Utils::closeFile" alt="" coords="383,5,524,32"/>
-<area shape="rect" id="node5" href="$SQLiteTest_8cpp.html#afdd1742979cee35fe1879794bd7ff3a4" title="tempFilename" alt="" coords="401,56,505,83"/>
-</map>

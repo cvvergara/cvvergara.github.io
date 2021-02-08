@@ -1,7 +1,0 @@
-<map id="pdal::MatlabWriter" name="pdal::MatlabWriter">
-<area shape="rect" id="node2" href="$classpdal_1_1Writer.html" title="pdal::Writer" alt="" coords="142,184,231,211"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="189,95,277,121"/>
-<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="347,5,445,32"/>
-</map>

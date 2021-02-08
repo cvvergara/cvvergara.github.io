@@ -1,5 +1,0 @@
-<map id="pcl::Pipeline::applyFilter" name="pcl::Pipeline::applyFilter">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="227,5,358,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="215,56,371,83"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="419,5,551,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="pdal::entwine::operator&lt;&lt;" name="pdal::entwine::operator&lt;&lt;">
-<area shape="rect" id="node2" href="$classpdal_1_1entwine_1_1Bounds.html#abba3dd337b171b5b24b309c184778e6f" title="pdal::entwine::Bounds\l::setMid" alt="" coords="224,71,375,112"/>
-<area shape="rect" id="node3" href="$classpdal_1_1entwine_1_1Bounds.html#a56e80a10564ab05d885123ee4ace66b7" title="pdal::entwine::Bounds\l::Bounds" alt="" coords="423,5,573,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1entwine_1_1Bounds.html#a3975245fc8e177de0fbe508fdadbe7f4" title="pdal::entwine::Bounds\l::grow" alt="" coords="423,71,573,112"/>
-<area shape="rect" id="node5" href="$classpdal_1_1entwine_1_1Bounds.html#a885aac2d965ca61c54c06386a86349e9" title="pdal::entwine::Bounds\l::shrink" alt="" coords="423,136,573,177"/>
-</map>

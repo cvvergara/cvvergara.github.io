@@ -1,8 +1,0 @@
-<map id="pdal::Stage::tag" name="pdal::Stage::tag">
-<area shape="rect" id="node2" href="$namespacepdal_1_1anonymous__namespace_02PipelineWriter_8cpp_03.html#a95a67bf93357994331e1aebb2b24ab53" title="pdal::anonymous_namespace\l\{PipelineWriter::cpp\}::\lgenerateTag" alt="" coords="168,5,363,61"/>
-<area shape="rect" id="node5" href="$classpdal_1_1TranslateKernel.html#acf9dfedffb270ff71f0f73792cd3e87e" title="pdal::TranslateKernel\l::makeJSONPipeline" alt="" coords="193,85,338,126"/>
-<area shape="rect" id="node7" href="$classpdal_1_1PipelineManager.html#a41a70a32ff1b6bc62f036f77dfc3c7bb" title="pdal::PipelineManager\l::stageOptions" alt="" coords="190,150,341,191"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1anonymous__namespace_02PipelineWriter_8cpp_03.html#a841add53ee4cc5ed985a244a4b601b75" title="pdal::anonymous_namespace\l\{PipelineWriter::cpp\}::\lgenerateTags" alt="" coords="411,5,605,61"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1PipelineWriter.html#a94e2eba7a6e9b21db48c0bbf0aacd4e2" title="pdal::PipelineWriter\l::writePipeline" alt="" coords="653,13,788,54"/>
-<area shape="rect" id="node6" href="$classpdal_1_1TranslateKernel.html#a29dcfe64f27066795c729465ffbef49c" title="pdal::TranslateKernel\l::execute" alt="" coords="435,85,581,126"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="run_pipeline" name="run_pipeline">
-<area shape="rect" id="node2" href="$namespacepdal.html#a836c69b6f14c14cb5125bba917b1e335" title="pdal::TEST" alt="" coords="152,5,240,32"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#aa4a69dd1b8bd22b76470e76fc997728f" title="pdal::TEST_P" alt="" coords="144,56,248,83"/>
-<area shape="rect" id="node4" href="$PythonFilterTest_8cpp.html#a3cdcc7f98bd91950226a7ae9bc056a7b" title="TEST_P" alt="" coords="160,107,232,133"/>
-</map>

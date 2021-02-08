@@ -1,8 +1,0 @@
-<map id="pdal::KD2Index::neighbors" name="pdal::KD2Index::neighbors">
-<area shape="rect" id="node2" href="$classpdal_1_1InfoKernel.html#a560094127dc8acaf76ab8a3ed9656ce9" title="pdal::InfoKernel::dumpQuery" alt="" coords="229,5,417,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1HAGFilter.html#af2b63a5eed2c9b3d27bc5b37851b5c71" title="pdal::HAGFilter::filter" alt="" coords="251,56,396,83"/>
-<area shape="rect" id="node7" href="$KDIndexTest_8cpp.html#a8edcc2bec01419914c332d1f77341b77" title="TEST" alt="" coords="295,107,351,133"/>
-<area shape="rect" id="node3" href="$classpdal_1_1InfoKernel.html#a402cba839f0a07e7d1b5982869ae71c5" title="pdal::InfoKernel::dump" alt="" coords="465,5,619,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#a507a4fa6aa98127ddc55bb730bcf6a2f" title="pdal::InfoKernel::run" alt="" coords="667,5,805,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1InfoKernel.html#ac8d3f256fa5d844710b25034f4e22eaa" title="pdal::InfoKernel::execute" alt="" coords="853,5,1020,32"/>
-</map>

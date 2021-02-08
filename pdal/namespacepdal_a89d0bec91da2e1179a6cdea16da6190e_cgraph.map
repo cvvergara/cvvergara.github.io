@@ -1,6 +1,0 @@
-<map id="pdal::TEST" name="pdal::TEST">
-<area shape="rect" id="node2" href="$classpdal_1_1Geometry.html#a10c102cddba36e51d1eeaa90022bb234" title="pdal::Geometry::bounds" alt="" coords="141,31,303,57"/>
-<area shape="rect" id="node3" href="$classpdal_1_1geos_1_1ErrorHandler.html#a54bdaa70ba8baee1c8ad8f9f47572c8d" title="pdal::geos::ErrorHandler::ctx" alt="" coords="351,5,540,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BOX3D.html#a3dd1b7cf2ec9bd58f73a0183f0b64702" title="pdal::BOX3D::grow" alt="" coords="378,56,513,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BOX2D.html#ad7673d05a1323a58e86eb721ae6a3b57" title="pdal::BOX2D::grow" alt="" coords="588,56,723,83"/>
-</map>

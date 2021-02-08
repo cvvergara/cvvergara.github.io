@@ -1,7 +1,0 @@
-<map id="pdal::StageFactory::inferReaderDriver" name="pdal::StageFactory::inferReaderDriver">
-<area shape="rect" id="node2" href="$classSupport.html#a0f6b5ed9b20a213a0607f3b989b81cec" title="Support::checkXYZ" alt="" coords="193,5,329,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1TIndexReader.html#a441e8f1f37ac3ac418c6d1a7144bf8cd" title="pdal::TIndexReader\l::initialize" alt="" coords="193,57,329,98"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PipelineManager.html#a9b5b93498ef9ce477c9be6125816b97f" title="pdal::PipelineManager\l::makeReader" alt="" coords="185,122,336,163"/>
-<area shape="rect" id="node6" href="$namespacepdal.html#af5c6914dfbf4e222bc924db55c2cd6eb" title="pdal::TEST" alt="" coords="217,188,305,215"/>
-<area shape="rect" id="node3" href="$SpatialReferenceTest_8cpp.html#acbe8bbc3b3d602e92c360d196a0431d0" title="TEST" alt="" coords="384,5,440,32"/>
-</map>

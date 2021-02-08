@@ -1,5 +1,0 @@
-<map id="pdal::ProgramArgs::validate" name="pdal::ProgramArgs::validate">
-<area shape="rect" id="node2" href="$classpdal_1_1arg__error.html#a9c69d74938ebdf04e76cad0724f87d51" title="pdal::arg_error::arg\l_error" alt="" coords="196,5,327,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Arg.html#a70d1a737ace051dea6625311aa7ef073" title="pdal::Arg::longname" alt="" coords="192,71,331,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Arg.html#a4b79c0275fed0c6292b765b1edc4ba24" title="pdal::Arg::positional" alt="" coords="193,122,330,149"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="pdal::GDALGrid::empty" name="pdal::GDALGrid::empty">
-<area shape="rect" id="node2" href="$classpdal_1_1GDALGrid.html#af8ac1a2709db5ac6501f2e670b60aff1" title="pdal::GDALGrid::finalize" alt="" coords="222,13,385,39"/>
-<area shape="rect" id="node4" href="$classpdal_1_1GDALGrid.html#a6d007895673773ba42badba875bb5410" title="pdal::GDALGrid::windowFill" alt="" coords="212,63,395,90"/>
-<area shape="rect" id="node3" href="$structpdal_1_1GDALGrid_1_1error.html#a5d434974154fa575501f14fe275256bf" title="pdal::GDALGrid::error\l::error" alt="" coords="443,5,591,47"/>
-</map>

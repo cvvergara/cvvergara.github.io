@@ -1,4 +1,0 @@
-<map id="pcl::Pipeline::applyVoxelGrid" name="pcl::Pipeline::applyVoxelGrid">
-<area shape="rect" id="node2" href="$classpcl_1_1Pipeline.html#ac551c7115843815ea93549c9d174a44e" title="Set the offsets to the data in the x, y, and z dimension. " alt="" coords="243,5,405,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PCLBlock.html#ac2a76cf2df667cfce88d3a819a40483d" title="pdal::PCLBlock::run" alt="" coords="453,5,592,32"/>
-</map>

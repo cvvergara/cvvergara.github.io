@@ -1,7 +1,0 @@
-<map id="pdal::Polygon::transform" name="pdal::Polygon::transform">
-<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="218,5,373,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="218,71,373,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Polygon.html#ad03ae95bf92243826f1d49c70118a06f" title="pdal::Polygon::Polygon" alt="" coords="217,137,373,163"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Geometry.html#ae5def73416a71131a5484c070f61a07f" title="pdal::Geometry::wkt" alt="" coords="225,187,365,214"/>
-<area shape="rect" id="node6" href="$classpdal_1_1geos_1_1ErrorHandler.html#a54bdaa70ba8baee1c8ad8f9f47572c8d" title="pdal::geos::ErrorHandler::ctx" alt="" coords="421,187,611,214"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="pdal::DbReader::loadSchema" name="pdal::DbReader::loadSchema">
-<area shape="rect" id="node2" href="$classpdal_1_1OciReader.html#a4b1be832c15f90d15eb707f5d280ebaf" title="pdal::OciReader::addDimensions" alt="" coords="247,5,461,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SQLiteReader.html#a5647aaa7d1f98521743dd1c52bc80c24" title="pdal::SQLiteReader\l::addDimensions" alt="" coords="286,57,422,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PgReader.html#a6fa8390ac8d95f40ca2779be4b613f43" title="pdal::PgReader::addDimensions" alt="" coords="249,123,459,149"/>
-</map>

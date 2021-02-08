@@ -1,7 +1,0 @@
-<map id="pdal::GDALGrid::distance" name="pdal::GDALGrid::distance">
-<area shape="rect" id="node2" href="$classpdal_1_1GDALGrid.html#a3db36b257c5b02984a70daba39fcf5ff" title="pdal::GDALGrid::fillNodata" alt="" coords="236,5,413,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1GDALGrid.html#ab8332fb6e1bba9e71ace877af67811b6" title="pdal::GDALGrid::horizontalPos" alt="" coords="224,56,425,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1GDALGrid.html#ac76afe2343939aefb49a0d4f82956519" title="pdal::GDALGrid::update" alt="" coords="244,107,405,133"/>
-<area shape="rect" id="node6" href="$classpdal_1_1GDALGrid.html#a74693723015c77582ea471d923133dbd" title="pdal::GDALGrid::verticalPos" alt="" coords="231,157,418,184"/>
-<area shape="rect" id="node5" href="$classpdal_1_1GDALGrid.html#aad61638561cd3049bba2717ab1ba23b1" title="pdal::GDALGrid::index" alt="" coords="473,107,627,133"/>
-</map>

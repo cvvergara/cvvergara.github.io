@@ -1,7 +1,0 @@
-<map id="pdal::DbWriter" name="pdal::DbWriter">
-<area shape="rect" id="node4" href="$classpdal_1_1OciWriter.html" title="pdal::OciWriter" alt="" coords="5,229,115,256"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PgWriter.html" title="pdal::PgWriter" alt="" coords="139,229,245,256"/>
-<area shape="rect" id="node6" href="$classpdal_1_1SQLiteWriter.html" title="pdal::SQLiteWriter" alt="" coords="269,229,398,256"/>
-<area shape="rect" id="node2" href="$classpdal_1_1Writer.html" title="pdal::Writer" alt="" coords="147,80,237,107"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="148,5,236,32"/>
-</map>

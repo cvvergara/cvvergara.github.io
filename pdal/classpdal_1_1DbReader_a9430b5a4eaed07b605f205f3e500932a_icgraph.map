@@ -1,7 +1,0 @@
-<map id="pdal::DbReader::dbDimTypes" name="pdal::DbReader::dbDimTypes">
-<area shape="rect" id="node2" href="$classpdal_1_1OciReader.html#a0eabcf13dadb1f8adea54c91c86eb2bc" title="pdal::OciReader::readDim\lMajor" alt="" coords="251,5,424,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1SQLiteReader.html#a751ed702c4435a20319840b0727d1a57" title="pdal::SQLiteReader\l::readPatch" alt="" coords="269,136,405,177"/>
-<area shape="rect" id="node6" href="$classpdal_1_1OciReader.html#af16b0d1a2cca3ce787f21b57fd9fd4de" title="pdal::OciReader::readPoint\lMajor" alt="" coords="248,71,427,112"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b" title="pdal::OciReader::read" alt="" coords="475,46,624,73"/>
-<area shape="rect" id="node5" href="$classpdal_1_1SQLiteReader.html#a860ce10057372d42f95445fef91f9931" title="pdal::SQLiteReader\l::read" alt="" coords="481,136,617,177"/>
-</map>

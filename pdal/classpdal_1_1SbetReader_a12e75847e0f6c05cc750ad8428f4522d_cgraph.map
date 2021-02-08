@@ -1,7 +1,0 @@
-<map id="pdal::SbetReader::processOne" name="pdal::SbetReader::processOne">
-<area shape="rect" id="node2" href="$classpdal_1_1PointRef.html#ad482c3195126757878cac8358dc9dccc" title="pdal::PointRef::setField" alt="" coords="255,31,413,57"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a33d614ac71aa03aaa5c10a242c4d14ac" title="pdal::Utils::numericCast" alt="" coords="461,5,624,32"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="468,56,617,83"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a06833597f1fc4287966cfa0867128e59" title="pdal::Utils::sround" alt="" coords="673,5,801,32"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="672,56,803,83"/>
-</map>

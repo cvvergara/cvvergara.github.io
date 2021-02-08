@@ -1,5 +1,0 @@
-<map id="pdal::OCISchemaValidationStructuredErrorHandler" name="pdal::OCISchemaValidationStructuredErrorHandler">
-<area shape="rect" id="node2" href="$namespacepdal.html#ad2f334a7af16b1eb1437212a6374dda5" title="pdal::OCISchemaValidityError" alt="" coords="236,13,433,39"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#a256b3d6540401a269a0dbb23190b7750" title="pdal::OCISchemaValidityDebug" alt="" coords="481,13,688,39"/>
-<area shape="rect" id="node4" href="$namespacepdal.html#a0bffbe8c0eb2abd2e466fa2ca3964026" title="pdal::OCISchemaGenericError\lHandler" alt="" coords="736,5,935,47"/>
-</map>

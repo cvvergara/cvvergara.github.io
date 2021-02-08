@@ -1,9 +1,0 @@
-<map id="pdal::plang::Environment::Environment" name="pdal::plang::Environment::Environment">
-<area shape="rect" id="node2" href="$classpdal_1_1plang_1_1Environment.html#a4c6a0cd6d8feb892ca57ea4618859b6d" title="pdal::plang::Environment::get" alt="" coords="220,173,412,199"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PythonFilter.html#a41e46c27dc25ccef5dacbf207c4602fc" title="pdal::PythonFilter\l::ready" alt="" coords="479,5,603,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PythonFilter.html#a082e405e6e6ee1d86ffa6d52c3ab6a7e" title="pdal::PythonFilter\l::done" alt="" coords="479,71,603,112"/>
-<area shape="rect" id="node5" href="$classpdal_1_1plang_1_1Invocation.html#a3eb16c00839542a1c9076c10aa6ecd6d" title="pdal::plang::Invocation\l::Invocation" alt="" coords="465,136,618,177"/>
-<area shape="rect" id="node6" href="$classPythonFilterTest.html#aeb9549078e6c42796d21e5a721a5b758" title="PythonFilterTest::SetUp" alt="" coords="460,202,623,229"/>
-<area shape="rect" id="node7" href="$classPredicateFilterTest.html#a3aa633bd7776da8805a3977ce1adab79" title="PredicateFilterTest\l::SetUp" alt="" coords="475,253,607,295"/>
-<area shape="rect" id="node8" href="$PythonFilterTest_8cpp.html#a3cdcc7f98bd91950226a7ae9bc056a7b" title="TEST_P" alt="" coords="505,319,577,346"/>
-</map>

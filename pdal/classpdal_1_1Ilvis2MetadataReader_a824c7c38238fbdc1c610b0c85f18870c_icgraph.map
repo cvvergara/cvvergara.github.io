@@ -1,9 +1,0 @@
-<map id="pdal::Ilvis2MetadataReader::parseSensor" name="pdal::Ilvis2MetadataReader::parseSensor">
-<area shape="rect" id="node2" href="$classpdal_1_1Ilvis2MetadataReader.html#a46d775f8e043f4f138e6335caecdf9fe" title="pdal::Ilvis2MetadataReader\l::parseInstrument" alt="" coords="235,35,416,76"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Ilvis2MetadataReader.html#a4b3ac63c5357f5c99753d6a5cb08d5d5" title="pdal::Ilvis2MetadataReader\l::parsePlatform" alt="" coords="464,35,645,76"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Ilvis2MetadataReader.html#a783b9f94a8bb9834184167fc2653056a" title="pdal::Ilvis2MetadataReader\l::parseGranuleURMetaData" alt="" coords="693,35,877,76"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Ilvis2MetadataReader.html#acb5e58e739a834c6c0b81e99cf09e6ca" title="pdal::Ilvis2MetadataReader\l::parseGranuleMetaDataFile" alt="" coords="925,35,1111,76"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Ilvis2MetadataReader.html#a108eda4cb0df5d7d9bedc27a8810ae49" title="pdal::Ilvis2MetadataReader\l::readMetadataFile" alt="" coords="1159,35,1340,76"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Ilvis2Reader.html#a3a51f2b6fbee7800a7fd7c2fe23b9c08" title="pdal::Ilvis2Reader\l::ready" alt="" coords="1388,5,1515,47"/>
-<area shape="rect" id="node8" href="$Ilvis2MetadataReaderTest_8cpp.html#a0311221c2defde947a60677ee8563890" title="TEST" alt="" coords="1423,71,1479,98"/>
-</map>

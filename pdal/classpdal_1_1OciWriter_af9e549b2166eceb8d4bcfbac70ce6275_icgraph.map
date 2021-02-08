@@ -1,7 +1,0 @@
-<map id="pdal::OciWriter::isGeographic" name="pdal::OciWriter::isGeographic">
-<area shape="rect" id="node2" href="$classpdal_1_1OciWriter.html#a305cd40729c19754aec8fc7c9d104fdf" title="pdal::OciWriter::createPCEntry" alt="" coords="252,5,455,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1OciWriter.html#adc6209dc7a9f3586d02d799ad2651a65" title="pdal::OciWriter::createSDOEntry" alt="" coords="247,56,460,83"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OciWriter.html#a29c890b4de7d31ab917f5d4577f62345" title="pdal::OciWriter::writeInit" alt="" coords="508,5,671,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1OciWriter.html#a11f02a9af7350d831dff5f81859c76f2" title="pdal::OciWriter::write" alt="" coords="719,5,864,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1OciWriter.html#a899064a17b0d8ef871ab4d79dd2df62b" title="pdal::OciWriter::done" alt="" coords="517,56,662,83"/>
-</map>

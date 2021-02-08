@@ -1,8 +1,0 @@
-<map id="pdal::operator&lt;&lt;" name="pdal::operator&lt;&lt;">
-<area shape="rect" id="node2" href="$classpdal_1_1LasVLR.html#acec2ef3fa17d4fc47abdec666bca8287" title="pdal::LasVLR::data" alt="" coords="189,5,324,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasVLR.html#a30a15afd0a5c29d43bd3fe3bd261ba8e" title="pdal::LasVLR::dataLen" alt="" coords="179,56,334,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasVLR.html#ab3eeec570ec3604bc19538cc550478e3" title="pdal::LasVLR::description" alt="" coords="171,107,343,133"/>
-<area shape="rect" id="node5" href="$classpdal_1_1OStream.html#ae1e8327478f6e16d6f0ec19d876106b5" title="pdal::OStream::put" alt="" coords="191,157,323,184"/>
-<area shape="rect" id="node6" href="$classpdal_1_1LasVLR.html#a0511840a97ec17756ca87bf6c5a5c4da" title="pdal::LasVLR::recordId" alt="" coords="179,208,335,235"/>
-<area shape="rect" id="node7" href="$classpdal_1_1LasVLR.html#a8c1fe9d6c7bb8831567724e5d5cfd9ad" title="pdal::LasVLR::userId" alt="" coords="184,259,329,285"/>
-</map>

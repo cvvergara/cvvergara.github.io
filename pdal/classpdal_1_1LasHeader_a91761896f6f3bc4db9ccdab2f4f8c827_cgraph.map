@@ -1,5 +1,0 @@
-<map id="pdal::LasHeader::usedDims" name="pdal::LasHeader::usedDims">
-<area shape="rect" id="node2" href="$classpdal_1_1LasHeader.html#a6d71059a21e0f08aed6088e92d695739" title="pdal::LasHeader::hasColor" alt="" coords="244,5,421,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasHeader.html#a2dd619414561b16f228517640975ed00" title="pdal::LasHeader::hasInfrared" alt="" coords="237,56,428,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasHeader.html#a3ad638058d53aca409dadb2b201c23d2" title="pdal::LasHeader::hasTime" alt="" coords="245,107,420,133"/>
-</map>

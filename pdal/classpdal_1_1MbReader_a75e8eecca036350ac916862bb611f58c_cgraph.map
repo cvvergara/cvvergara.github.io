@@ -1,6 +1,0 @@
-<map id="pdal::MbReader::inspect" name="pdal::MbReader::inspect">
-<area shape="rect" id="node2" href="$classpdal_1_1MbReader.html#a794279f21e0b166c7f8ee66c530132ee" title="pdal::MbReader::addDimensions" alt="" coords="217,13,429,39"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#af0404b823635c356a5bddce383ad239c" title="pdal::PointLayout::\lregisterDims" alt="" coords="477,5,608,47"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="656,5,787,47"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="835,13,1027,39"/>
-</map>

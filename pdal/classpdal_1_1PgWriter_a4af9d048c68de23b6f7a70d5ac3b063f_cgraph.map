@@ -1,6 +1,0 @@
-<map id="pdal::PgWriter::CheckTableExists" name="pdal::PgWriter::CheckTableExists">
-<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="257,5,371,32"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#ad69ac66aae29c213befad05eaa269bf1" title="pdal::pg_query_once" alt="" coords="243,56,385,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="236,107,392,133"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="440,107,589,133"/>
-</map>

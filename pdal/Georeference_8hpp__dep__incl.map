@@ -1,9 +1,0 @@
-<map id="pdal/pdal/util/Georeference.hpp" name="pdal/pdal/util/Georeference.hpp">
-<area shape="rect" id="node2" href="$OptechCommon_8hpp.html" title="pdal/io/OptechCommon.hpp" alt="" coords="137,87,321,114"/>
-<area shape="rect" id="node3" href="$OptechReader_8hpp.html" title="pdal/io/OptechReader.hpp" alt="" coords="207,169,380,196"/>
-<area shape="rect" id="node7" href="$Georeference_8cpp.html" title="pdal/pdal/util/Georeference.cpp" alt="" coords="396,87,599,114"/>
-<area shape="rect" id="node8" href="$GeoreferenceTest_8cpp.html" title="pdal/test/unit/Georeference\lTest.cpp" alt="" coords="623,80,801,121"/>
-<area shape="rect" id="node4" href="$OptechReader_8cpp.html" title="pdal/io/OptechReader.cpp" alt="" coords="5,251,179,278"/>
-<area shape="rect" id="node5" href="$StageFactory_8cpp.html" title="pdal/pdal/StageFactory.cpp" alt="" coords="203,251,384,278"/>
-<area shape="rect" id="node6" href="$OptechReaderTest_8cpp.html" title="pdal/test/unit/io/Optech\lReaderTest.cpp" alt="" coords="408,244,565,285"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="pdal::IcebridgeReader::addDimensions" name="pdal::IcebridgeReader::addDimensions">
-<area shape="rect" id="node2" href="$namespacepdal_1_1anonymous__namespace_02IcebridgeReader_8cpp_03.html#ac47a5acad16e06207fcff28525eedecb" title="pdal::anonymous_namespace\l\{IcebridgeReader::cpp\}\l::dimensions" alt="" coords="203,5,397,61"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#af0404b823635c356a5bddce383ad239c" title="pdal::PointLayout::\lregisterDims" alt="" coords="235,85,365,126"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="445,85,576,126"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="624,92,816,119"/>
-</map>

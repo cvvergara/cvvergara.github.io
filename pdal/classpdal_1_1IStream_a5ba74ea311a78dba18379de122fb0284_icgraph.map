@@ -1,6 +1,0 @@
-<map id="pdal::IStream::open" name="pdal::IStream::open">
-<area shape="rect" id="node2" href="$classpdal_1_1BpfReader.html#ab7dd5387cb7f88c2c5bbbc1d4838be50" title="pdal::BpfReader::initialize" alt="" coords="189,5,360,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1IStream.html#a2d01cd6a718d31b648b17d53c81d7132" title="pdal::IStream::IStream" alt="" coords="197,56,352,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1BpfReader.html#a6d10eebd98f3e10faed9af5cbc4bc1a9" title="pdal::BpfReader::ready" alt="" coords="197,107,353,133"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BpfReader.html#accb0283f384ad927abc5f37881be748c" title="pdal::BpfReader::inspect" alt="" coords="408,5,575,32"/>
-</map>

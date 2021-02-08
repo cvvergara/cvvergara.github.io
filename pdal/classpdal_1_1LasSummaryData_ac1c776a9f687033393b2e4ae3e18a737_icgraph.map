@@ -1,6 +1,0 @@
-<map id="pdal::LasSummaryData::getBounds" name="pdal::LasSummaryData::getBounds">
-<area shape="rect" id="node2" href="$classpdal_1_1LasHeader.html#ae256802ba1ef6d3244dd74e96302929b" title="pdal::LasHeader::setSummary" alt="" coords="212,31,411,57"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#ac63068fbfab5b221508950495d22db54" title="pdal::LasWriter::finishOutput" alt="" coords="459,31,647,57"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasWriter.html#a8e6cccdc4e5b6cf4ac9361697b4e6f4f" title="pdal::LasWriter::doneFile" alt="" coords="695,5,861,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1NitfWriter.html#a0320785ad5311c55705c6b41a13cfb75" title="pdal::NitfWriter::doneFile" alt="" coords="695,56,861,83"/>
-</map>

@@ -1,4 +1,0 @@
-var namespacepdal_1_1anonymous__namespace_02TerrasolidReaderTest_8cpp_03 =
-[
-    [ "TerrasolidReaderTest", "classpdal_1_1anonymous__namespace_02TerrasolidReaderTest_8cpp_03_1_1TerrasolidReaderTest.html", "classpdal_1_1anonymous__namespace_02TerrasolidReaderTest_8cpp_03_1_1TerrasolidReaderTest" ]
-];

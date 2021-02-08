@@ -1,7 +1,0 @@
-<map id="pdal::InfoKernel::dumpQuery" name="pdal::InfoKernel::dumpQuery">
-<area shape="rect" id="node2" href="$classpdal_1_1KDIndex.html#ad179eda54c39330a0e06ec2bebee9c26" title="pdal::KDIndex::build" alt="" coords="259,5,399,32"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="255,56,404,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1KD2Index.html#af729da8e063625db648ec1f986ac4d4c" title="pdal::KD2Index::neighbors" alt="" coords="241,107,417,133"/>
-<area shape="rect" id="node5" href="$classpdal_1_1KD3Index.html#a1c45255c22cb2e2f9341e5524c5410cc" title="pdal::KD3Index::neighbors" alt="" coords="241,157,417,184"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a6ae33c6d7b4eb4bcae6ec17fb8cc04fc" title="pdal::Utils::split2" alt="" coords="269,208,389,235"/>
-</map>

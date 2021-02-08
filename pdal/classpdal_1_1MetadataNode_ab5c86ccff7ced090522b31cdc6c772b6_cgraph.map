@@ -1,6 +1,0 @@
-<map id="pdal::MetadataNode::value" name="pdal::MetadataNode::value">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#aab74b31905c5d41eaca70a73675bf407" title="pdal::Utils::base64\l_decode" alt="" coords="205,5,335,47"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#ab93520363c4224f135097c2829b4420c" title="pdal::Utils::fromString" alt="" coords="195,71,345,98"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="192,122,348,149"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#a4d7dbf8f97121c52d3b891ad9e944094" title="pdal::is_base64" alt="" coords="396,13,509,39"/>
-</map>

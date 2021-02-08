@@ -1,6 +1,0 @@
-<map id="pdal::ProgramArgs::parseLongArg" name="pdal::ProgramArgs::parseLongArg">
-<area shape="rect" id="node2" href="$classpdal_1_1arg__error.html#a9c69d74938ebdf04e76cad0724f87d51" title="pdal::arg_error::arg\l_error" alt="" coords="205,5,335,47"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="192,71,348,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Arg.html#a888934f5166e11b64c0a7f7fe8ac2c7b" title="pdal::Arg::needsValue" alt="" coords="195,122,345,149"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Arg.html#ae932add32b7e1274f7ef8537a38fad4b" title="pdal::Arg::setValue" alt="" coords="203,173,337,199"/>
-</map>

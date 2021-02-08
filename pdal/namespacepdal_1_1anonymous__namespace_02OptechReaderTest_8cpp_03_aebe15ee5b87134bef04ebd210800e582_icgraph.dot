@@ -1,9 +1,0 @@
-digraph "pdal::anonymous_namespace{OptechReaderTest::cpp}::getTestfilePath"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node1 [label="pdal::anonymous_namespace\l\{OptechReaderTest::cpp\}\l::getTestfilePath",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="pdal::anonymous_namespace\l\{OptechReaderTest::cpp\}\l::OptechReaderTest::OptechReaderTest",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1anonymous__namespace_02OptechReaderTest_8cpp_03_1_1OptechReaderTest.html#a0dfb38bc7fc5f33908bfd8e7bfd22324"];
-}

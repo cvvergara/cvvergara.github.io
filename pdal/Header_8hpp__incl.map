@@ -1,9 +1,0 @@
-<map id="pdal/tools/lasdump/Header.hpp" name="pdal/tools/lasdump/Header.hpp">
-<area shape="rect" id="node4" href="$Bounds_8hpp.html" title="pdal/util/Bounds.hpp" alt="" coords="81,95,221,121"/>
-<area shape="rect" id="node8" href="$IStream_8hpp.html" title="pdal/util/IStream.hpp" alt="" coords="849,95,991,121"/>
-<area shape="rect" id="node17" href="$Uuid_8hpp.html" title="pdal/util/Uuid.hpp" alt="" coords="245,95,368,121"/>
-<area shape="rect" id="node7" href="$pdal__util__export_8hpp.html" title="pdal_util_export.hpp" alt="" coords="305,244,444,271"/>
-<area shape="rect" id="node16" href="$portable__endian_8hpp.html" title="portable_endian.hpp" alt="" coords="468,244,607,271"/>
-<area shape="rect" id="node19" href="$Inserter_8hpp.html" title="Inserter.hpp" alt="" coords="471,169,561,196"/>
-<area shape="rect" id="node20" href="$Extractor_8hpp.html" title="Extractor.hpp" alt="" coords="346,169,446,196"/>
-</map>

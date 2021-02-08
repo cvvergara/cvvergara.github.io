@@ -1,7 +1,0 @@
-<map id="App::outputVersion" name="App::outputVersion">
-<area shape="rect" id="node2" href="$namespacepdal.html#ad4bde4114c543217fa4cd7cd2adb3619" title="Tell the user a bit about PDAL&#39;s compilation. " alt="" coords="187,31,361,57"/>
-<area shape="rect" id="node6" href="$pdal_8cpp.html#a8ee720a5e05e8ff2be6a5ac3f0911ac3" title="headline" alt="" coords="239,81,309,108"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#acfb8a485cf093e54991b8ba7eef0e08a" title="pdal::GetSHA1" alt="" coords="419,5,530,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="409,56,540,83"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="588,56,720,83"/>
-</map>

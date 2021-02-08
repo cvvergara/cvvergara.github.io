@@ -1,6 +1,0 @@
-<map id="pdal::OStream::seek" name="pdal::OStream::seek">
-<area shape="rect" id="node2" href="$classpdal_1_1BpfWriter.html#ac6950b57a6cb2085636f9249b3b1f188" title="pdal::BpfWriter::doneFile" alt="" coords="207,5,373,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasWriter.html#ac63068fbfab5b221508950495d22db54" title="pdal::LasWriter::finishOutput" alt="" coords="196,56,384,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1NitfWriter.html#a0320785ad5311c55705c6b41a13cfb75" title="pdal::NitfWriter::doneFile" alt="" coords="432,31,599,57"/>
-<area shape="rect" id="node5" href="$classpdal_1_1LasWriter.html#a8e6cccdc4e5b6cf4ac9361697b4e6f4f" title="pdal::LasWriter::doneFile" alt="" coords="432,81,599,108"/>
-</map>

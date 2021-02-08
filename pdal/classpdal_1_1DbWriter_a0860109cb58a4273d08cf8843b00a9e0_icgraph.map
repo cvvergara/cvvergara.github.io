@@ -1,5 +1,0 @@
-<map id="pdal::DbWriter::readField" name="pdal::DbWriter::readField">
-<area shape="rect" id="node2" href="$classpdal_1_1OciWriter.html#a5250821bc6d746c06f61f99290af65b8" title="pdal::OciWriter::writeDim\lMajor" alt="" coords="220,5,389,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OciWriter.html#afa1630f5e91fc1cbc266f1839e4b62b9" title="pdal::OciWriter::writeTile" alt="" coords="437,13,604,39"/>
-<area shape="rect" id="node4" href="$classpdal_1_1OciWriter.html#a11f02a9af7350d831dff5f81859c76f2" title="pdal::OciWriter::write" alt="" coords="652,13,797,39"/>
-</map>

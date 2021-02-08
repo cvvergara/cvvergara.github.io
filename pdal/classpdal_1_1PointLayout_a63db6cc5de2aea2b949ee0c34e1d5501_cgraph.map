@@ -1,9 +1,0 @@
-<map id="pdal::PointLayout::update" name="pdal::PointLayout::update">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#a3e140e4c0c21d020c56c0b8d58b8cb5b" title="pdal::Utils::contains" alt="" coords="203,5,341,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Dimension_1_1Detail.html#a549ea013da1958d0b9120987cb33e291" title="pdal::Dimension::Detail::id" alt="" coords="184,56,360,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Dimension_1_1Detail.html#a320806a1cc878b5fdb10e178f27a4c61" title="pdal::Dimension::Detail\l::size" alt="" coords="193,107,351,149"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="604,147,743,173"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#acf81dae9d5946f3a941f9df154b2329b" title="pdal::Dimension::size" alt="" coords="408,119,556,145"/>
-<area shape="rect" id="node7" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="791,147,940,173"/>
-<area shape="rect" id="node8" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="988,147,1119,173"/>
-</map>

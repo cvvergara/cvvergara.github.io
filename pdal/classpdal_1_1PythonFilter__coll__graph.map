@@ -1,9 +1,0 @@
-<map id="pdal::PythonFilter" name="pdal::PythonFilter">
-<area shape="rect" id="node2" href="$classpdal_1_1Filter.html" title="pdal::Filter" alt="" coords="179,184,261,211"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html" title="pdal::Stage" alt="" coords="184,95,272,121"/>
-<area shape="rect" id="node4" href="$classpdal_1_1MetadataNode.html" title="pdal::MetadataNode" alt="" coords="5,5,144,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1SpatialReference.html" title="pdal::SpatialReference" alt="" coords="168,5,323,32"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Options.html" title="pdal::Options" alt="" coords="347,5,445,32"/>
-<area shape="rect" id="node7" href="$classpdal_1_1plang_1_1Invocation.html" title="pdal::plang::Invocation" alt="" coords="389,184,542,211"/>
-<area shape="rect" id="node8" href="$classpdal_1_1plang_1_1Script.html" title="pdal::plang::Script" alt="" coords="303,95,430,121"/>
-</map>

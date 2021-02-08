@@ -1,7 +1,0 @@
-<map id="TEST" name="TEST">
-<area shape="rect" id="node2" href="$FileUtilsTest_8cpp.html#af85c61937096107088ccbf22a2e09893" title="compare_paths" alt="" coords="145,8,255,35"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1FileUtils.html#a91f713b85c7b5a9d14174f5a4e313a9c" title="pdal::FileUtils::getDirectory" alt="" coords="109,60,291,87"/>
-<area shape="rect" id="node3" href="$FileUtilsTest_8cpp.html#a809e57f16a2ecba672d76c08f2c0d641" title="normalize" alt="" coords="405,5,483,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="597,5,744,32"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a0a1aac9074a6c100f36e9e39050d42d6" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::addTrailingSlash" alt="" coords="339,57,549,98"/>
-</map>

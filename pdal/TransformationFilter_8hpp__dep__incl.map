@@ -1,7 +1,0 @@
-<map id="pdal/filters/TransformationFilter.hpp" name="pdal/filters/TransformationFilter.hpp">
-<area shape="rect" id="node2" href="$TransformationFilter_8cpp.html" title="pdal/filters/Transformation\lFilter.cpp" alt="" coords="5,95,179,136"/>
-<area shape="rect" id="node3" href="$StageFactory_8cpp.html" title="pdal/pdal/StageFactory.cpp" alt="" coords="203,102,384,129"/>
-<area shape="rect" id="node4" href="$CpdFilterTest_8cpp.html" title="pdal/plugins/cpd/test\l/CpdFilterTest.cpp" alt="" coords="409,95,551,136"/>
-<area shape="rect" id="node5" href="$IcpFilterTest_8cpp.html" title="pdal/plugins/pcl/test\l/IcpFilterTest.cpp" alt="" coords="576,95,715,136"/>
-<area shape="rect" id="node6" href="$TransformationFilterTest_8cpp.html" title="pdal/test/unit/filters\l/TransformationFilterTest.cpp" alt="" coords="739,95,933,136"/>
-</map>

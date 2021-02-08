@@ -1,5 +1,0 @@
-<map id="pdal::GeoWaveWriter::ready" name="pdal::GeoWaveWriter::ready">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Utils.html#a3e140e4c0c21d020c56c0b8d58b8cb5b" title="pdal::Utils::contains" alt="" coords="210,5,349,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PointLayout.html#afd6b92bf6e8fc83993db132b1ed980e2" title="pdal::PointLayout::dims" alt="" coords="200,56,359,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BasePointTable.html#a7e3a12a1f29e6cd10d8669ed3d07eb94" title="pdal::BasePointTable\l::layout" alt="" coords="206,107,353,149"/>
-</map>

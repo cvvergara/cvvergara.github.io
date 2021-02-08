@@ -1,6 +1,0 @@
-<map id="pdal::convert" name="pdal::convert">
-<area shape="rect" id="node2" href="$classpdal_1_1Ilvis2Reader.html#a506273c16d7e431273181a9d2fd2b736" title="pdal::Ilvis2Reader\l::initialize" alt="" coords="153,5,279,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1mlang_1_1Script.html#afbb1ef33651f4742aad98f4acc51a572" title="pdal::mlang::Script\l::setMatlabStruct" alt="" coords="151,71,281,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1MatlabFilter.html#a8936067bb62fb503d654703fb4dbb45a" title="pdal::MatlabFilter::run" alt="" coords="329,49,477,75"/>
-<area shape="rect" id="node5" href="$classpdal_1_1MatlabWriter.html#a96ed356ff0f2ae0276cbdbb050be13b6" title="pdal::MatlabWriter\l::write" alt="" coords="339,100,467,141"/>
-</map>

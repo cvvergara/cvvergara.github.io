@@ -1,7 +1,0 @@
-<map id="pdal::anonymous_namespace{CpdFilter::cpp}::movePoints" name="pdal::anonymous_namespace{CpdFilter::cpp}::movePoints">
-<area shape="rect" id="node2" href="$classpdal_1_1CpdFilter.html#a55cac5b8ab1960cab5dbc87473996e5b" title="pdal::CpdFilter::cpd\l_affine" alt="" coords="248,5,384,47"/>
-<area shape="rect" id="node5" href="$classpdal_1_1CpdFilter.html#a0b9f052d4f21016b097a312e69fd2a1a" title="pdal::CpdFilter::cpd\l_nonrigid" alt="" coords="248,71,384,112"/>
-<area shape="rect" id="node6" href="$classpdal_1_1CpdFilter.html#ab3a169a0a2be28e68bcfc1b0a4df60d5" title="pdal::CpdFilter::cpd\l_rigid" alt="" coords="248,136,384,177"/>
-<area shape="rect" id="node3" href="$classpdal_1_1CpdFilter.html#a3b3811e4171a9df1642189da22fe080a" title="pdal::CpdFilter::change" alt="" coords="432,78,589,105"/>
-<area shape="rect" id="node4" href="$classpdal_1_1CpdFilter.html#a39eb1a06976e880be5c8afcbd6e9f769" title="pdal::CpdFilter::run" alt="" coords="637,78,771,105"/>
-</map>

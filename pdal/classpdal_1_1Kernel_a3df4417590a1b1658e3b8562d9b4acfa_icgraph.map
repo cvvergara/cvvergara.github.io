@@ -1,7 +1,0 @@
-<map id="pdal::Kernel::outputHelp" name="pdal::Kernel::outputHelp">
-<area shape="rect" id="node2" href="$classpdal_1_1Kernel.html#a75417dddc31172a99c7b7c90fdf7aa90" title="pdal::Kernel::innerRun" alt="" coords="216,5,367,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Kernel.html#a063a87bdb5459f336c905ab0d2ce3b05" title="pdal::Kernel::run" alt="" coords="633,31,751,57"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Kernel.html#a793c419df84b12c612ac12f1828e8754" title="pdal::Kernel::doExecution" alt="" coords="415,5,585,32"/>
-<area shape="rect" id="node5" href="$classApp.html#a2817579d633c3d379248cd45d035aba8" title="App::execute" alt="" coords="799,31,897,57"/>
-<area shape="rect" id="node6" href="$pdal_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="945,31,996,57"/>
-</map>

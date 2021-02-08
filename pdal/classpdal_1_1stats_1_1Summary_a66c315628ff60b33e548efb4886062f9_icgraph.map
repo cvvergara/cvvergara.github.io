@@ -1,9 +1,0 @@
-<map id="pdal::stats::Summary::minimum" name="pdal::stats::Summary::minimum">
-<area shape="rect" id="node2" href="$classpdal_1_1stats_1_1Summary.html#af796af3387dc44ffe6dea09f28a793dc" title="pdal::stats::Summary\l::extractMetadata" alt="" coords="208,27,355,69"/>
-<area shape="rect" id="node5" href="$classpdal_1_1ColorinterpFilter.html#afbedcf0821624baf83586d9290310948" title="pdal::ColorinterpFilter\l::filter" alt="" coords="208,93,355,134"/>
-<area shape="rect" id="node6" href="$namespaceanonymous__namespace_02BufferTest_8cpp_03.html#aa82a48c7e159e43f9c99511f10d16b3c" title="anonymous_namespace\l\{BufferTest::cpp\}::TEST" alt="" coords="200,158,363,199"/>
-<area shape="rect" id="node7" href="$CropFilterTest_8cpp.html#aee3efdf57f5f6cdc49fd431472fa8dbb" title="TEST" alt="" coords="253,224,309,251"/>
-<area shape="rect" id="node8" href="$PythonFilterTest_8cpp.html#a99e5e7044307c575ece7326844995d09" title="TEST_F" alt="" coords="246,275,317,301"/>
-<area shape="rect" id="node3" href="$classpdal_1_1StatsFilter.html#af31e8e0558e26c2b831bd8dc50579d4a" title="pdal::StatsFilter::done" alt="" coords="411,5,561,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1StatsFilter.html#a374631f225f1fba0918b159c1353142e" title="pdal::StatsFilter::\lextractMetadata" alt="" coords="425,57,547,98"/>
-</map>

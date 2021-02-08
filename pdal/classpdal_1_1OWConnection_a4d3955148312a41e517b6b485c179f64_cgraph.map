@@ -1,7 +1,0 @@
-<map id="pdal::OWConnection::OWConnection" name="pdal::OWConnection::OWConnection">
-<area shape="rect" id="node2" href="$namespacepdal.html#a6c7080f4fd6dc91b0cf4cfa8bc61a51c" title="pdal::CheckError" alt="" coords="449,38,569,65"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1MbError.html#a4d54b8e3f4518938995230a414498a54" title="pdal::MbError::text" alt="" coords="629,67,760,94"/>
-<area shape="rect" id="node4" href="$classpdal_1_1OWConnection.html#ae6506490ccafdd702a94aa8383bd1bb8" title="pdal::OWConnection\l::DescribeType" alt="" coords="221,31,364,72"/>
-<area shape="rect" id="node5" href="$namespacepdal.html#a1ffed8f76a9cd53183ef89b7d8629a63" title="pdal::OWParseServerVersion" alt="" coords="196,147,389,174"/>
-<area shape="rect" id="node6" href="$namespacepdal.html#a3f86bbbc4175d895f09565f3447fc3b9" title="pdal::OWParseValue" alt="" coords="437,147,581,174"/>
-</map>

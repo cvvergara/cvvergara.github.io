@@ -1,9 +1,0 @@
-<map id="pdal::Stage::getInputs" name="pdal::Stage::getInputs">
-<area shape="rect" id="node2" href="$namespacepdal_1_1anonymous__namespace_02PipelineWriter_8cpp_03.html#a841add53ee4cc5ed985a244a4b601b75" title="pdal::anonymous_namespace\l\{PipelineWriter::cpp\}::\lgenerateTags" alt="" coords="204,5,399,61"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PipelineManager.html#a8af7bfd85b708eb38691390180a44167" title="pdal::PipelineManager\l::leaves" alt="" coords="226,85,377,126"/>
-<area shape="rect" id="node7" href="$classpdal_1_1PipelineManager.html#a64ccbb0074b87efdbaa33a213cacbe92" title="pdal::PipelineManager\l::replace" alt="" coords="226,150,377,191"/>
-<area shape="rect" id="node8" href="$PipelineManagerTest_8cpp.html#a5f7d613b66c68b059a59deb1d6981faa" title="TEST" alt="" coords="491,187,547,213"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1PipelineWriter.html#a94e2eba7a6e9b21db48c0bbf0aacd4e2" title="pdal::PipelineWriter\l::writePipeline" alt="" coords="452,13,587,54"/>
-<area shape="rect" id="node5" href="$classpdal_1_1TranslateKernel.html#acf9dfedffb270ff71f0f73792cd3e87e" title="pdal::TranslateKernel\l::makeJSONPipeline" alt="" coords="447,103,592,145"/>
-<area shape="rect" id="node6" href="$classpdal_1_1TranslateKernel.html#a29dcfe64f27066795c729465ffbef49c" title="pdal::TranslateKernel\l::execute" alt="" coords="640,103,785,145"/>
-</map>

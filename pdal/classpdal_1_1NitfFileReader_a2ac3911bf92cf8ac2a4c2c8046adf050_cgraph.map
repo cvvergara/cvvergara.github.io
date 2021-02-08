@@ -1,4 +1,0 @@
-<map id="pdal::NitfFileReader::open" name="pdal::NitfFileReader::open">
-<area shape="rect" id="node2" href="$classpdal_1_1NitfFileReader.html#a9bd57f53e5edecda6f888f8a5f81ce44" title="pdal::NitfFileReader\l::locateLidarDataSegment" alt="" coords="196,5,369,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1NitfFileReader.html#ac6937cc0859db608975d8605f5d4b912" title="pdal::NitfFileReader\l::locateLidarImageSegment" alt="" coords="192,71,373,112"/>
-</map>

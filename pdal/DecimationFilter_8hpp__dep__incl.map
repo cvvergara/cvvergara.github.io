@@ -1,6 +1,0 @@
-<map id="pdal/filters/DecimationFilter.hpp" name="pdal/filters/DecimationFilter.hpp">
-<area shape="rect" id="node2" href="$DecimationFilter_8cpp.html" title="pdal/filters/DecimationFilter.cpp" alt="" coords="5,87,212,114"/>
-<area shape="rect" id="node3" href="$StageFactory_8cpp.html" title="pdal/pdal/StageFactory.cpp" alt="" coords="237,87,418,114"/>
-<area shape="rect" id="node4" href="$AdditionalMergeTest_8cpp.html" title="pdal/test/unit/filters\l/AdditionalMergeTest.cpp" alt="" coords="442,80,613,121"/>
-<area shape="rect" id="node5" href="$DecimationFilterTest_8cpp.html" title="pdal/test/unit/filters\l/DecimationFilterTest.cpp" alt="" coords="637,80,809,121"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="NITFImage" name="NITFImage">
-<area shape="rect" id="node2" href="$nitflib_8h.html#structNITFBandInfo" title="NITFBandInfo" alt="" coords="5,95,109,121"/>
-<area shape="rect" id="node3" href="$nitflib_8h.html#structNITFFile" title="NITFFile" alt="" coords="134,95,207,121"/>
-<area shape="rect" id="node4" href="$nitflib_8h.html#structNITFSegmentInfo" title="NITFSegmentInfo" alt="" coords="107,5,234,32"/>
-<area shape="rect" id="node5" href="$nitflib_8h.html#structNITFLocation" title="NITFLocation" alt="" coords="232,95,333,121"/>
-</map>

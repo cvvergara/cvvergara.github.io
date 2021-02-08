@@ -1,6 +1,0 @@
-<map id="pdal::entwine::Bounds::intersection" name="pdal::entwine::Bounds::intersection">
-<area shape="rect" id="node2" href="$classpdal_1_1entwine_1_1Bounds.html#ada24966b1e21a6118dae010ed1e24803" title="pdal::entwine::Bounds::max" alt="" coords="204,5,388,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1entwine_1_1Point.html#a8c19e8439d9c8b310f743e694d72748f" title="pdal::entwine::Point::max" alt="" coords="211,56,381,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1entwine_1_1Bounds.html#a84002d285e0f6bfeef4ace7f79b783c8" title="pdal::entwine::Bounds::min" alt="" coords="206,107,386,133"/>
-<area shape="rect" id="node5" href="$classpdal_1_1entwine_1_1Point.html#aae561b2912250fcb6657376500651753" title="pdal::entwine::Point::min" alt="" coords="213,157,379,184"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="pdal::MyWriter::initialize" name="pdal::MyWriter::initialize">
-<area shape="rect" id="node2" href="$namespacepdal_1_1FileUtils.html#a5d7b6d46e6a7e128e47d6afcae341f0e" title="pdal::FileUtils::createFile" alt="" coords="216,13,383,39"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1anonymous__namespace_02FileUtils_8cpp_03.html#a6a4f8cec1324aa27b45a6e8c1ac44dd6" title="pdal::anonymous_namespace\l\{FileUtils::cpp\}::isStdout" alt="" coords="431,5,625,47"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="673,13,805,39"/>
-</map>

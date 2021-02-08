@@ -1,8 +1,0 @@
-<map id="pdal::MatlabReader::initialize" name="pdal::MatlabReader::initialize">
-<area shape="rect" id="node2" href="$classpdal_1_1mlang_1_1Script.html#aa78ab2e616ff1d63d9120b44e1632eac" title="pdal::mlang::Script\l::getSRSWKT" alt="" coords="230,5,361,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="239,71,352,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BasePointTable.html#a03429472e71e5dd323bc92319f4a9df6" title="pdal::BasePointTable\l::metadata" alt="" coords="222,123,369,164"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#af31ff3a4038bceeb17847b567d984ed7" title="pdal::Stage::setSpatialReference" alt="" coords="188,189,403,215"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="217,239,373,266"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="451,239,600,266"/>
-</map>

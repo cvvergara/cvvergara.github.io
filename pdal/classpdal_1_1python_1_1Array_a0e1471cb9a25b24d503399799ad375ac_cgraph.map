@@ -1,7 +1,0 @@
-<map id="pdal::python::Array::buildNumpyDescription" name="pdal::python::Array::buildNumpyDescription">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#ab9491687b8700d1db27e0aba1fcd7143" title="pdal::Dimension::base" alt="" coords="221,5,373,32"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="219,56,375,83"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="423,5,561,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="609,5,759,32"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="807,5,937,32"/>
-</map>

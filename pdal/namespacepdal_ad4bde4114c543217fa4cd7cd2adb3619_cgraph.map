@@ -1,5 +1,0 @@
-<map id="pdal::GetFullVersionString" name="pdal::GetFullVersionString">
-<area shape="rect" id="node2" href="$namespacepdal.html#acfb8a485cf093e54991b8ba7eef0e08a" title="pdal::GetSHA1" alt="" coords="238,5,349,32"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#acb34cb790a22dbce1a05582ba4917566" title="pdal::Utils::iequals" alt="" coords="228,56,359,83"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="407,56,539,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="pdal::DensityKernel::outputDensity" name="pdal::DensityKernel::outputDensity">
-<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="191,5,345,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1HexBin.html#a334345a9d484c227b869b40d745d429c" title="pdal::HexBin::grid" alt="" coords="205,71,331,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1hexdensity_1_1writer_1_1OGR.html#ad0b14976fa26ae679cbf061aae861231" title="pdal::hexdensity::writer\l::OGR::writeDensity" alt="" coords="189,123,347,164"/>
-<area shape="rect" id="node5" href="$classpdal_1_1hexdensity_1_1writer_1_1OGR.html#ab43ea59f87e5f4f94a0124872be5677e" title="pdal::hexdensity::writer\l::OGR::collectHexagon" alt="" coords="395,123,553,164"/>
-</map>

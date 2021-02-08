@@ -1,8 +1,0 @@
-<map id="pdal::PgReader::fetchPcid" name="pdal::PgReader::fetchPcid">
-<area shape="rect" id="node2" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="249,5,363,32"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#ad69ac66aae29c213befad05eaa269bf1" title="pdal::pg_query_once" alt="" coords="235,56,377,83"/>
-<area shape="rect" id="node4" href="$namespacepdal.html#a1541e562c3049473a2c247a70e2221ce" title="pdal::pg_quote_literal" alt="" coords="233,107,379,133"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="228,157,384,184"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="433,107,580,133"/>
-<area shape="rect" id="node7" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="432,157,581,184"/>
-</map>

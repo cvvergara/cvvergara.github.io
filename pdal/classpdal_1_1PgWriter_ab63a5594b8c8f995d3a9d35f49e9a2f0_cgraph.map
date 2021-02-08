@@ -1,5 +1,0 @@
-<map id="pdal::PgWriter::initialize" name="pdal::PgWriter::initialize">
-<area shape="rect" id="node2" href="$namespacepdal.html#a8ebfe9f1d5b906510e8bf78a8594de27" title="pdal::getCompressionType" alt="" coords="213,5,392,32"/>
-<area shape="rect" id="node4" href="$namespacepdal.html#af55b1504a5e8daac3017939924405cf6" title="pdal::pg_connect" alt="" coords="242,56,363,83"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="440,5,571,32"/>
-</map>

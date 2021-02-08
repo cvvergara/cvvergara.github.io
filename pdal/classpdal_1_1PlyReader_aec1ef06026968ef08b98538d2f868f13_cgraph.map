@@ -1,7 +1,0 @@
-<map id="pdal::PlyReader::extractEnd" name="pdal::PlyReader::extractEnd">
-<area shape="rect" id="node2" href="$classpdal_1_1PlyReader.html#a2a95bd0d7e52c96b191a76e18cb4f488" title="pdal::PlyReader::readLine" alt="" coords="240,56,412,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="248,107,404,133"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#afed0ad4146baafd1973c85e1508ade73" title="pdal::Utils::trimTrailing" alt="" coords="460,5,613,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#acae5a19cd66121b77e2599daec48413d" title="pdal::Utils::extract" alt="" coords="472,56,601,83"/>
-<area shape="rect" id="node6" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="462,107,611,133"/>
-</map>

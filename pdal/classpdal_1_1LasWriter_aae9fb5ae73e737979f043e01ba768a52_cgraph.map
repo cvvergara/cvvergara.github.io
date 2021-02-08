@@ -1,7 +1,0 @@
-<map id="pdal::LasWriter::addWktVlr" name="pdal::LasWriter::addWktVlr">
-<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="232,35,387,61"/>
-<area shape="rect" id="node6" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="232,86,387,127"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="440,5,596,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="435,57,601,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="649,5,799,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="pdal::Log::get" name="pdal::Log::get">
-<area shape="rect" id="node2" href="$classpdal_1_1Log.html#aff64bf3e91a1fc230ec2d4eed98b3dbf" title="pdal::Log::getLevelString" alt="" coords="155,5,321,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Log.html#ac029547787ab61435de09575dbb9dc05" title="pdal::Log::leader" alt="" coords="179,56,297,83"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#a59253304d0f929e3a3ea00f09636002f" title="pdal::Utils::toNative" alt="" coords="169,107,307,133"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Dimension.html#a880d689fed54aa3ded6f88c9e058c5d2" title="pdal::Dimension::type" alt="" coords="369,107,519,133"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Utils.html#a5268937cf695835e55392f752dc02cb2" title="pdal::Utils::tolower" alt="" coords="567,107,697,133"/>
-</map>

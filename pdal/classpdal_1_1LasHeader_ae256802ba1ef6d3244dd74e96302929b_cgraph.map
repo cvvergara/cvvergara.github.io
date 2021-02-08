@@ -1,5 +1,0 @@
-<map id="pdal::LasHeader::setSummary" name="pdal::LasHeader::setSummary">
-<area shape="rect" id="node2" href="$classpdal_1_1LasSummaryData.html#ac1c776a9f687033393b2e4ae3e18a737" title="pdal::LasSummaryData\l::getBounds" alt="" coords="252,5,411,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LasSummaryData.html#a3760498d9bb37dbaee9fcffa73f67b69" title="pdal::LasSummaryData\l::getReturnCount" alt="" coords="252,71,411,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1LasSummaryData.html#ada3538911e23a23505004636e3e4cafe" title="pdal::LasSummaryData\l::getTotalNumPoints" alt="" coords="252,136,411,177"/>
-</map>

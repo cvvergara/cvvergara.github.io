@@ -1,5 +1,0 @@
-<map id="pdal::Arg::setHidden" name="pdal::Arg::setHidden">
-<area shape="rect" id="node2" href="$classApp.html#a22b388ef20398d87e238367a2d5fa2fc" title="App::addArgs" alt="" coords="242,5,343,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PipelineKernel.html#a155cc56428725641fa476db77b3ca1fb" title="pdal::PipelineKernel\l::addSwitches" alt="" coords="224,57,361,98"/>
-<area shape="rect" id="node4" href="$classpdal_1_1InfoKernel.html#a7e54dd349c99c13e4f1ed9fc92e6c51a" title="pdal::InfoKernel::addSwitches" alt="" coords="195,123,391,149"/>
-</map>

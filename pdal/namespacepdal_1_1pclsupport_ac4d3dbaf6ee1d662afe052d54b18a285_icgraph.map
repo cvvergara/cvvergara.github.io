@@ -1,9 +1,0 @@
-<map id="pdal::pclsupport::setValues" name="pdal::pclsupport::setValues">
-<area shape="rect" id="node2" href="$namespacepdal_1_1pclsupport.html#a6b2c6f96f8219e030d2ec6c9c1ec2697" title="Convert PCD point cloud to PDAL. " alt="" coords="233,144,431,171"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1pclsupport.html#a0d4a7fc56c19424605bad7cd3497e075" title="pdal::pclsupport::PCDtoPDAL" alt="" coords="479,5,676,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PcdReader.html#a010f5eef0bc6a4f700aa4d7d80689a9d" title="pdal::PcdReader::read" alt="" coords="501,56,653,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1MovingLeastSquaresFilter.html#a9b5c54a5431d48169846106241b9c57c" title="pdal::MovingLeastSquares\lFilter::run" alt="" coords="489,107,665,149"/>
-<area shape="rect" id="node6" href="$classpdal_1_1GridProjectionFilter.html#a2a65c4b43428888da1d5555e871abb05" title="pdal::GridProjectionFilter::run" alt="" coords="482,173,673,200"/>
-<area shape="rect" id="node7" href="$classpdal_1_1VoxelGridFilter.html#a1ca25528d334e8477c8889592f99415f" title="pdal::VoxelGridFilter::run" alt="" coords="494,224,661,251"/>
-<area shape="rect" id="node8" href="$classpdal_1_1PCLBlock.html#ac2a76cf2df667cfce88d3a819a40483d" title="pdal::PCLBlock::run" alt="" coords="508,275,647,301"/>
-</map>

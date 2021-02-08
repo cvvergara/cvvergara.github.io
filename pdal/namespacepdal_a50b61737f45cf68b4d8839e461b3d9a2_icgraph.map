@@ -1,6 +1,0 @@
-<map id="pdal::fetchSchema" name="pdal::fetchSchema">
-<area shape="rect" id="node2" href="$classpdal_1_1OciReader.html#a4b1be832c15f90d15eb707f5d280ebaf" title="pdal::OciReader::addDimensions" alt="" coords="184,5,399,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1OciReader.html#a2a7cadfed2ecfedefb48cf4897e7e429" title="pdal::OciReader::findSchema" alt="" coords="195,56,388,83"/>
-<area shape="rect" id="node4" href="$classpdal_1_1OciReader.html#a037e27a09676d06f791f4b39945d7d8e" title="pdal::OciReader::readOci" alt="" coords="447,56,616,83"/>
-<area shape="rect" id="node5" href="$classpdal_1_1OciReader.html#ae697d44314c547c0e8458505c060448b" title="pdal::OciReader::read" alt="" coords="664,56,813,83"/>
-</map>

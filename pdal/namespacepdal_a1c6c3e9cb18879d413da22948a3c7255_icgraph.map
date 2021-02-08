@@ -1,6 +1,0 @@
-<map id="pdal::register_tre_plugins" name="pdal::register_tre_plugins">
-<area shape="rect" id="node2" href="$classpdal_1_1NitfFileWriter.html#ae00c7f0e920f5bea1076e621c1e524de" title="pdal::NitfFileWriter\l::initialize" alt="" coords="176,27,307,69"/>
-<area shape="rect" id="node5" href="$classpdal_1_1NitfFileReader.html#a934a8b5d5641526cea705851937b8981" title="pdal::NitfFileReader\l::NitfFileReader" alt="" coords="172,93,311,134"/>
-<area shape="rect" id="node3" href="$classpdal_1_1NitfWriter.html#a2397db467ddcd777da2e2937303759d1" title="pdal::NitfWriter::NitfWriter" alt="" coords="359,5,533,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1nitfwrap_1_1NitfWrap.html#a507defc6c08af645c161ee875c58374a" title="pdal::nitfwrap::NitfWrap\l::NitfWrap" alt="" coords="366,57,526,98"/>
-</map>

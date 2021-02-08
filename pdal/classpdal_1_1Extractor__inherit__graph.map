@@ -1,5 +1,0 @@
-<map id="pdal::Extractor" name="pdal::Extractor">
-<area shape="rect" id="node2" href="$classpdal_1_1BeExtractor.html" title="pdal::BeExtractor" alt="" coords="5,80,128,107"/>
-<area shape="rect" id="node3" href="$classpdal_1_1LeExtractor.html" title="pdal::LeExtractor" alt="" coords="153,80,274,107"/>
-<area shape="rect" id="node4" href="$classpdal_1_1SwitchableExtractor.html" title="pdal::SwitchableExtractor" alt="" coords="299,80,469,107"/>
-</map>

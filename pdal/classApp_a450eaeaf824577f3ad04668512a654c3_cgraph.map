@@ -1,6 +1,0 @@
-<map id="App::findKernel" name="App::findKernel">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#af3176b0b7e6b4be000317846cf7c2718" title="pdal::Dimension::name" alt="" coords="164,5,320,32"/>
-<area shape="rect" id="node3" href="$classpdal_1_1PluginManager.html#a494f92a49079015190f9f8d9e5267779" title="pdal::PluginManager\l::names" alt="" coords="172,57,312,98"/>
-<area shape="rect" id="node5" href="$namespacepdal_1_1Utils.html#a6ae33c6d7b4eb4bcae6ec17fb8cc04fc" title="pdal::Utils::split2" alt="" coords="182,123,302,149"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PluginManager.html#ab1040369e315ab5d6f15033e098e0652" title="pdal::PluginManager\l::l_names" alt="" coords="368,57,508,98"/>
-</map>

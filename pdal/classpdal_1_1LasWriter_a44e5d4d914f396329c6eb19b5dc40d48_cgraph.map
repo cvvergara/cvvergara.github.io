@@ -1,8 +1,0 @@
-<map id="pdal::LasWriter::readyLazPerfCompression" name="pdal::LasWriter::readyLazPerfCompression">
-<area shape="rect" id="node2" href="$classpdal_1_1LasWriter.html#aee3405138c851c3ffc662e591a2bfece" title="pdal::LasWriter::addVlr" alt="" coords="235,45,390,72"/>
-<area shape="rect" id="node3" href="$classpdal_1_1Stage.html#abdbd1176da12dfd882d931a43290797f" title="pdal::Stage::throwError" alt="" coords="455,5,611,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1LasHeader.html#ace5a26c0b9358ad59ab8b5ae629ffb3f" title="pdal::LasHeader::version\lAtLeast" alt="" coords="449,67,616,109"/>
-<area shape="rect" id="node6" href="$classpdal_1_1LasHeader.html#a6d71059a21e0f08aed6088e92d695739" title="pdal::LasHeader::hasColor" alt="" coords="224,147,401,173"/>
-<area shape="rect" id="node7" href="$classpdal_1_1LasHeader.html#a3ad638058d53aca409dadb2b201c23d2" title="pdal::LasHeader::hasTime" alt="" coords="225,197,400,224"/>
-<area shape="rect" id="node4" href="$classpdal_1_1Stage.html#a6c81d6fbbac17ebe4cd63806916cc750" title="pdal::Stage::getName" alt="" coords="664,5,813,32"/>
-</map>

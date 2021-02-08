@@ -1,7 +1,0 @@
-<map id="pdal/java/native/src/include/Accessors.hpp" name="pdal/java/native/src/include/Accessors.hpp">
-<area shape="rect" id="node2" href="$Accessors_8cpp.html" title="pdal/java/native/src\l/Accessors.cpp" alt="" coords="5,95,140,136"/>
-<area shape="rect" id="node3" href="$io__pdal__Pipeline_8cpp.html" title="pdal/java/native/src\l/io_pdal_Pipeline.cpp" alt="" coords="164,95,309,136"/>
-<area shape="rect" id="node4" href="$io__pdal__PointLayout_8cpp.html" title="pdal/java/native/src\l/io_pdal_PointLayout.cpp" alt="" coords="334,95,502,136"/>
-<area shape="rect" id="node5" href="$io__pdal__PointView_8cpp.html" title="pdal/java/native/src\l/io_pdal_PointView.cpp" alt="" coords="527,95,685,136"/>
-<area shape="rect" id="node6" href="$io__pdal__PointViewIterator_8cpp.html" title="pdal/java/native/src\l/io_pdal_PointViewIterator.cpp" alt="" coords="709,95,908,136"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="pdal::PointView::getTemp" name="pdal::PointView::getTemp">
-<area shape="rect" id="node2" href="$namespacepdal_1_1Dimension.html#a10b4c693e3bdbdf1a0eec8f4b008a291" title="pdal::Dimension::id" alt="" coords="236,24,371,51"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1plang.html#a43ee0b50a363574b5c331213d7f57152" title="pdal::plang::operator\&lt;\&lt;" alt="" coords="225,111,381,137"/>
-<area shape="rect" id="node3" href="$namespacepdal_1_1Utils.html#a28e3e2faff94b20f9908e77bc54ed983" title="pdal::Utils::toupper" alt="" coords="429,5,561,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1plang_1_1Script.html#a69609ef74093625b4a6721c7249857f9" title="pdal::plang::Script\l::source" alt="" coords="432,57,559,98"/>
-<area shape="rect" id="node6" href="$classpdal_1_1plang_1_1Script.html#a900cb0cc7322c019ad4b469942d81d4e" title="pdal::plang::Script\l::module" alt="" coords="432,122,559,163"/>
-<area shape="rect" id="node7" href="$classpdal_1_1plang_1_1Script.html#a82256718a3b0540097d2835cbb560f49" title="pdal::plang::Script\l::function" alt="" coords="432,187,559,229"/>
-</map>

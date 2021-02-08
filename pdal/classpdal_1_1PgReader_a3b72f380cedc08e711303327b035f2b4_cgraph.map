@@ -1,8 +1,0 @@
-<map id="pdal::PgReader::CursorSetup" name="pdal::PgReader::CursorSetup">
-<area shape="rect" id="node2" href="$classpdal_1_1PgReader.html#aef8bf617afc5251372f7c0986c87bbc0" title="pdal::PgReader::getDataQuery" alt="" coords="247,5,448,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1Stage.html#ae8c29817e14d7cda53fdcbb23102d872" title="pdal::Stage::log" alt="" coords="521,56,634,83"/>
-<area shape="rect" id="node6" href="$namespacepdal.html#afe1717f9645892064094713c3f4f3315" title="pdal::pg_begin" alt="" coords="294,107,401,133"/>
-<area shape="rect" id="node7" href="$namespacepdal.html#a5eac2926f1224d534da8c435e6a645d1" title="pdal::pg_execute" alt="" coords="517,132,638,159"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#ad99ce17aa864ec243dd2c32460009634" title="pdal::pg_quote_identifier" alt="" coords="496,5,659,32"/>
-<area shape="rect" id="node4" href="$namespacepdal_1_1Utils.html#aee933a3f2afb351283582a3a50319fca" title="pdal::Utils::replaceAll" alt="" coords="707,5,853,32"/>
-</map>

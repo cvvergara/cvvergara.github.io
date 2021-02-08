@@ -1,9 +1,0 @@
-digraph "pdal::Dimension::fromName"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node1 [label="pdal::Dimension::fromName",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node2 [label="pdal::GreyhoundReader\l::addDimensions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classpdal_1_1GreyhoundReader.html#a8e91ad9eaf4bcaefa3b47f43f7121ec5"];
-}

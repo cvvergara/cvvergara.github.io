@@ -1,7 +1,0 @@
-<map id="pdal::RxpReader::addDimensions" name="pdal::RxpReader::addDimensions">
-<area shape="rect" id="node2" href="$namespacepdal.html#a01b239a3b6bbc504ec488dad92f01d03" title="pdal::getRxpDimensions" alt="" coords="272,5,437,32"/>
-<area shape="rect" id="node4" href="$classpdal_1_1PointLayout.html#af0404b823635c356a5bddce383ad239c" title="pdal::PointLayout::\lregisterDims" alt="" coords="289,57,420,98"/>
-<area shape="rect" id="node3" href="$namespacepdal.html#ad387c869e85189a7ac3e5083b167c22c" title="pdal::getTimeDimensionId" alt="" coords="485,5,660,32"/>
-<area shape="rect" id="node5" href="$classpdal_1_1PointLayout.html#ac18a9b8b3dd23c601df823e84d90f61e" title="pdal::PointLayout::\lregisterDim" alt="" coords="507,57,638,98"/>
-<area shape="rect" id="node6" href="$namespacepdal_1_1Dimension.html#a9562a0d1c8e24bf903f1ccdd37b62d2f" title="pdal::Dimension::defaultType" alt="" coords="708,64,900,91"/>
-</map>

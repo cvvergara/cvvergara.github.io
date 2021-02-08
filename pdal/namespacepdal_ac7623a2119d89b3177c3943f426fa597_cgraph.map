@@ -1,5 +1,0 @@
-<map id="pdal::TEST" name="pdal::TEST">
-<area shape="rect" id="node2" href="$classpdal_1_1BasePointTable.html#a670592aca912391f1a90073a2031e5e0" title="pdal::BasePointTable\l::addSpatialReference" alt="" coords="151,5,301,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1BasePointTable.html#ac9e8a72e5ea52b6a280fb8b6ecf622ef" title="pdal::BasePointTable\l::anySpatialReference" alt="" coords="151,71,301,112"/>
-<area shape="rect" id="node4" href="$classpdal_1_1BasePointTable.html#a072df57b23b46d01cdd1bfb818a3e8b7" title="pdal::BasePointTable\l::spatialReferenceUnique" alt="" coords="141,136,311,177"/>
-</map>

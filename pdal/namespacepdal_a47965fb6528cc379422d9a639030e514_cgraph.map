@@ -1,4 +1,0 @@
-<map id="pdal::transformWkt" name="pdal::transformWkt">
-<area shape="rect" id="node2" href="$classpdal_1_1SpatialReference.html#a48fa2f7e79ea172b62ad2e874ff01610" title="pdal::SpatialReference\l::empty" alt="" coords="187,5,341,47"/>
-<area shape="rect" id="node3" href="$classpdal_1_1SpatialReference.html#ad6242348b0fecc9662bec718d056ef39" title="pdal::SpatialReference\l::getWKT" alt="" coords="187,71,341,112"/>
-</map>
